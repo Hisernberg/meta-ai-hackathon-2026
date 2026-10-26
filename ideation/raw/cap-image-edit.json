@@ -1,0 +1,418 @@
+[
+ {
+  "lens": "cap-image-edit",
+  "title": "Visual Moodboard Composer",
+  "pitch": "Generate & refine custom moodboards for interior designers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Character Evolution Sketches",
+  "pitch": "Create & iteratively develop character designs for writers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Fashion Trend Visualizer",
+  "pitch": "Generate & adapt clothing concepts for boutique owners",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Architectural Style Mixer",
+  "pitch": "Blend architectural elements for custom home designs",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Product Prototype Visualizer",
+  "pitch": "Generate & iterate product mockups for indie makers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Fantasy Map Generator",
+  "pitch": "Create & evolve custom world maps for RPG creators",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Brand Identity Toolkit",
+  "pitch": "Generate & refine visual brand assets for startups",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Culinary Presentation Designer",
+  "pitch": "Create & adapt food presentation concepts for chefs",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Tattoo Concept Evolver",
+  "pitch": "Generate & refine custom tattoo designs for artists",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Automotive Concept Sketcher",
+  "pitch": "Design & iterate vehicle concepts for designers",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Garden Layout Visualizer",
+  "pitch": "Generate & adapt garden designs for homeowners",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Book Cover Generator",
+  "pitch": "Create & iterate cover designs for indie authors",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Jewelry Design Studio",
+  "pitch": "Generate & adapt jewelry concepts for artisans",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Board Game Art Creator",
+  "pitch": "Design & evolve game assets for indie developers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Wedding Theme Visualizer",
+  "pitch": "Generate & adapt wedding concepts for planners",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Sustainable Fashion Designer",
+  "pitch": "Create & iterate eco-friendly clothing concepts",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Movie Poster Generator",
+  "pitch": "Design & evolve film posters for indie filmmakers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Virtual Stage Designer",
+  "pitch": "Create & adapt stage sets for event planners",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Furniture Concept Visualizer",
+  "pitch": "Generate & iterate furniture designs for makers",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Album Art Evolver",
+  "pitch": "Create & adapt music album covers for artists",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Custom Sneaker Designer",
+  "pitch": "Generate & iterate sneaker concepts for brands",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "VR Environment Builder",
+  "pitch": "Create & adapt virtual spaces for metaverse designers",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Cake Decoration Designer",
+  "pitch": "Generate & iterate cake concepts for bakers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Comic Panel Generator",
+  "pitch": "Create & evolve comic layouts for indie artists",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Luxury Packaging Designer",
+  "pitch": "Generate & adapt product packaging for brands",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Yoga Pose Visualizer",
+  "pitch": "Create & adapt yoga instruction visuals for teachers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 6
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Custom Sneaker Designer",
+  "pitch": "Generate & iterate sneaker concepts for brands",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "NFT Art Evolver",
+  "pitch": "Create & iterate digital collectibles for artists",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Custom Tattoo Designer",
+  "pitch": "Generate & refine tattoo concepts for artists",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Fashion Design Assistant",
+  "pitch": "Create & adapt clothing concepts for designers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Custom Car Designer",
+  "pitch": "Generate & iterate vehicle concepts for enthusiasts",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "cap-image-edit",
+  "title": "Custom Home Decor Visualizer",
+  "pitch": "Generate & adapt interior concepts for homeowners",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ }
+]

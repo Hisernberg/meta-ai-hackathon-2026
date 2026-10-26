@@ -1,0 +1,386 @@
+[
+ {
+  "lens": "cap-selfhost",
+  "title": "Local LLM Desktop Companion",
+  "pitch": "Personal AI assistant running offline on your device with full privacy control",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Edge-Powered Code Reviewer",
+  "pitch": "Local LLM analyzing code commits without sending proprietary code to cloud",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Offline Document Summarizer",
+  "pitch": "Local tool summarizing research papers without internet connection",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Private Journal AI",
+  "pitch": "Self-hosted AI helping organize personal thoughts with zero data leakage",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 10,
+  "feas": 5
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Local Content Filter",
+  "pitch": "Edge-based tool screening content for appropriateness without cloud dependency",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Offline Writing Assistant",
+  "pitch": "Local grammar and style checker working without internet connection",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Self-Hosted Creative Engine",
+  "pitch": "Local AI generating ideas for content creators keeping their process private",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Edge-Based Learning Tutor",
+  "pitch": "Offline educational AI adapting to student needs without data transmission",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Local Meeting Notes AI",
+  "pitch": "Self-hosted tool summarizing meetings without sending sensitive data online",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Offline Recipe Creator",
+  "pitch": "Local AI generating personalized recipes based on available ingredients",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-glimmer"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Edge-Powered Story Generator",
+  "pitch": "Local AI creating interactive stories for game developers offline",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Self-Hosted Code Generator",
+  "pitch": "Local AI writing boilerplate code without exposing project structure",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Offline Knowledge Graph",
+  "pitch": "Local AI building personal knowledge networks without cloud dependency",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Edge-Based Design Assistant",
+  "pitch": "Local AI generating design concepts without sending proprietary sketches",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Self-Hosted Dialogue System",
+  "pitch": "Local conversational AI for characters in offline applications",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Offline Music Composer",
+  "pitch": "Local AI generating original music without internet connection",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-glimmer"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Edge-Powered Language Tutor",
+  "pitch": "Local AI teaching languages with personalized feedback offline",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Self-Hosted Image Captioner",
+  "pitch": "Local AI describing images without sending visual data to cloud",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Offline Document Classifier",
+  "pitch": "Local AI organizing files by content without internet connection",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Edge-Based Sentiment Analyzer",
+  "pitch": "Local tool analyzing emotional tone of text without data transmission",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 6,
+  "feas": 6
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Self-Hosted Text Expander",
+  "pitch": "Local AI predicting and completing text based on user patterns offline",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Offline Code Translator",
+  "pitch": "Local AI converting code between languages without exposing source",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Edge-Powered Bug Predictor",
+  "pitch": "Local AI identifying potential code issues without sending proprietary code",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Self-Hosted Style Transfer",
+  "pitch": "Local AI applying artistic styles to images without cloud processing",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Offline Text Generator",
+  "pitch": "Local AI creating human-like text for authors without internet connection",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Edge-Based Content Personalizer",
+  "pitch": "Local AI tailoring content to user preferences without data collection",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Self-Hosted Dialogue Refiner",
+  "pitch": "Local AI improving conversation flow in scripts without exposing content",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Offline Technical Writer",
+  "pitch": "Local AI generating documentation from code without sending source",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Edge-Based Content Validator",
+  "pitch": "Local AI checking factual accuracy of text without internet dependency",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Self-Hosted Text Analyzer",
+  "pitch": "Local tool extracting insights from documents without data transmission",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Offline Creative Prompter",
+  "pitch": "Local AI generating creative prompts for artists without internet connection",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "cap-selfhost",
+  "title": "Edge-Based Code Optimizer",
+  "pitch": "Local AI improving code efficiency without exposing proprietary algorithms",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open"
+  ],
+  "wow": 8,
+  "feas": 9
+ }
+]

@@ -1,0 +1,431 @@
+[
+ {
+  "lens": "dom-5",
+  "title": "Kitchen Workflow Analyzer",
+  "pitch": "Automatically analyzes kitchen video to optimize staff movement and reduce bottlenecks",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-5",
+  "title": "Menu Photo Optimizer",
+  "pitch": "Transforms food photos into marketing assets with AI styling and composition",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-5",
+  "title": "Customer Voice Insights",
+  "pitch": "Transcribes and analyzes customer audio reviews to identify menu improvement opportunities",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-5",
+  "title": "Food Waste Predictor",
+  "pitch": "Analyzes kitchen prep logs to predict and reduce food waste with ML",
+  "theme": "frontier",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-5",
+  "title": "Plating Style Classifier",
+  "pitch": "Identifies and categorizes plating styles from photos to standardize presentation",
+  "theme": "frontier",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-5",
+  "title": "Kitchen Noise Monitor",
+  "pitch": "Analyzes ambient kitchen audio to detect stress points and improve workflow",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-5",
+  "title": "Food Texture Analyzer",
+  "pitch": "Uses computer vision to analyze food texture consistency from customer photos",
+  "theme": "frontier",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-5",
+  "title": "Staff Movement Mapper",
+  "pitch": "Tracks kitchen staff movement patterns via overhead video to optimize layout",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-5",
+  "title": "Portion Size Auditor",
+  "pitch": "Analyzes food photos to ensure consistent portion sizes across servings",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-5",
+  "title": "Customer Mood Tracker",
+  "pitch": "Analyzes customer facial expressions from security footage to gauge satisfaction",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 6
+ },
+ {
+  "lens": "dom-5",
+  "title": "Food Freshness Scanner",
+  "pitch": "Uses AI to analyze food images and estimate freshness for inventory management",
+  "theme": "frontier",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-5",
+  "title": "Kitchen Heat Map",
+  "pitch": "Generates visual heat maps of kitchen activity from video analysis",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-5",
+  "title": "Menu Item Relationship Mapper",
+  "pitch": "Analyzes customer order data to discover unexpected food pairings",
+  "theme": "frontier",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-5",
+  "title": "Staff Training Simulator",
+  "pitch": "Creates AI-generated scenarios based on actual kitchen video for staff training",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-5",
+  "title": "Food Presentation Auditor",
+  "pitch": "Analyzes food photos against brand standards for consistent plating",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-5",
+  "title": "Customer Wait Time Predictor",
+  "pitch": "Analyzes kitchen video to predict and optimize customer wait times",
+  "theme": "frontier",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-5",
+  "title": "Kitchen Safety Monitor",
+  "pitch": "Uses computer vision to detect unsafe practices from kitchen video footage",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-5",
+  "title": "Food Color Analyzer",
+  "pitch": "Analyzes food photos to ensure consistent color presentation across dishes",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-5",
+  "title": "Customer Feedback Summarizer",
+  "pitch": "Transcribes and analyzes audio reviews to generate actionable insights",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-5",
+  "title": "Kitchen Efficiency Dashboard",
+  "pitch": "Real-time analysis of kitchen operations from video and sensor data",
+  "theme": "frontier",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-5",
+  "title": "Food Consistency Checker",
+  "pitch": "Compares food photos across servings to ensure visual consistency",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-5",
+  "title": "Staff Communication Analyzer",
+  "pitch": "Analyzes kitchen audio to optimize communication patterns",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-5",
+  "title": "Menu Photo Enhancer",
+  "pitch": "Automatically improves food photos for marketing with AI styling",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-5",
+  "title": "Kitchen Traffic Optimizer",
+  "pitch": "Analyzes video to identify and reduce traffic jams in the kitchen",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-5",
+  "title": "Food Mood Classifier",
+  "pitch": "Analyzes food photos to categorize dishes by emotional appeal",
+  "theme": "frontier",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 5,
+  "feas": 7
+ },
+ {
+  "lens": "dom-5",
+  "title": "Customer Pattern Detector",
+  "pitch": "Identifies dining patterns from video to optimize seating arrangements",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-5",
+  "title": "Kitchen Sound Analyzer",
+  "pitch": "Analyzes kitchen audio to identify stress points and improve workflow",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-5",
+  "title": "Food Waste Visualizer",
+  "pitch": "Creates visual reports of food waste from prep and customer photos",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-5",
+  "title": "Staff Performance Tracker",
+  "pitch": "Analyzes kitchen video to identify top performers and best practices",
+  "theme": "frontier",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-5",
+  "title": "Food Temperature Monitor",
+  "pitch": "Uses AI to estimate food temperature from visual analysis",
+  "theme": "frontier",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 7
+ },
+ {
+  "lens": "dom-5",
+  "title": "Customer Satisfaction Scanner",
+  "pitch": "Analyzes customer photos and videos to gauge satisfaction levels",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-5",
+  "title": "Kitchen Layout Optimizer",
+  "pitch": "Analyzes staff movement from video to suggest kitchen layout improvements",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-5",
+  "title": "Food Authenticity Verifier",
+  "pitch": "Analyzes food photos against authentic recipes for consistency",
+  "theme": "frontier",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ }
+]

@@ -1,0 +1,392 @@
+[
+ {
+  "lens": "dom-36",
+  "title": "Lab Protocol Generator",
+  "pitch": "Creates step-by-step protocols for lab experiments from research papers",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-36",
+  "title": "Field Data Logger",
+  "pitch": "Auto-transcribes field notes with timestamps and location tags",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-36",
+  "title": "Sample Image Classifier",
+  "pitch": "Identifies and catalogs biological samples from microscope images",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-36",
+  "title": "Research Paper Summarizer",
+  "pitch": "Extracts key methods/findings from dense scientific literature",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-36",
+  "title": "Lab Equipment Scheduler",
+  "pitch": "Optimizes shared equipment usage across research teams",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-36",
+  "title": "Field Observation Assistant",
+  "pitch": "Records wildlife behavior with auto-generated observation notes",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-36",
+  "title": "Chemical Reaction Predictor",
+  "pitch": "Forecasts outcomes of chemical reactions based on reactant properties",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-36",
+  "title": "Data Visualization Generator",
+  "pitch": "Creates publication-ready charts from raw research data",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-36",
+  "title": "Field Equipment Checklist",
+  "pitch": "Generates customized packing lists for field research expeditions",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-36",
+  "title": "Lab Safety Auditor",
+  "pitch": "Analyzes lab procedures for safety compliance issues",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-36",
+  "title": "Species Identifier",
+  "pitch": "Identifies plants/animals from field photos with location data",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-36",
+  "title": "Research Grant Writer",
+  "pitch": "Drafts grant proposals based on past successful applications",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 6
+ },
+ {
+  "lens": "dom-36",
+  "title": "Lab Inventory Manager",
+  "pitch": "Tracks chemical supplies with expiration alerts and reorder suggestions",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-36",
+  "title": "Field Data Validator",
+  "pitch": "Checks field data collection for errors and inconsistencies",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-36",
+  "title": "Experimental Design Advisor",
+  "pitch": "Suggests optimal experimental designs based on research questions",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 4,
+  "feas": 9
+ },
+ {
+  "lens": "dom-36",
+  "title": "Lab Report Generator",
+  "pitch": "Writes structured lab reports from experimental data and notes",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-36",
+  "title": "Climate Data Analyzer",
+  "pitch": "Processes field climate data into meaningful patterns and trends",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-36",
+  "title": "Specimen Label Maker",
+  "pitch": "Creates standardized labels for biological samples with barcodes",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-36",
+  "title": "Research Hypothesis Tester",
+  "pitch": "Evaluates statistical validity of research hypotheses",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-36",
+  "title": "Lab Protocol Optimizer",
+  "pitch": "Suggests efficiency improvements for lab procedures",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-36",
+  "title": "Field Site Mapper",
+  "pitch": "Creates detailed maps of research sites with sample locations",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-36",
+  "title": "Literature Review Synthesizer",
+  "pitch": "Identifies research gaps from existing literature reviews",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 4,
+  "feas": 9
+ },
+ {
+  "lens": "dom-36",
+  "title": "Lab Equipment Troubleshooter",
+  "pitch": "Diagnoses common equipment issues with repair suggestions",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-36",
+  "title": "Field Data Correlator",
+  "pitch": "Finds correlations between different field measurements",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-36",
+  "title": "Research Ethics Checker",
+  "pitch": "Reviews research protocols for ethical compliance issues",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 7
+ },
+ {
+  "lens": "dom-36",
+  "title": "Microbe Growth Tracker",
+  "pitch": "Monitors bacterial growth in petri dishes with image analysis",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-36",
+  "title": "Research Impact Predictor",
+  "pitch": "Estimates potential impact of research based on methodology",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 3,
+  "feas": 9
+ },
+ {
+  "lens": "dom-36",
+  "title": "Lab Waste Logger",
+  "pitch": "Tracks and categorizes lab waste for proper disposal",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-36",
+  "title": "Field Observation Template",
+  "pitch": "Generates customized observation sheets for different research types",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-36",
+  "title": "Research Methodology Validator",
+  "pitch": "Checks if methods align with research objectives",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 4,
+  "feas": 8
+ },
+ {
+  "lens": "dom-36",
+  "title": "Lab Safety Training Generator",
+  "pitch": "Creates custom safety training based on lab procedures",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-36",
+  "title": "Field Equipment Diagnostic",
+  "pitch": "Analyzes field equipment issues remotely with submitted photos",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ }
+]

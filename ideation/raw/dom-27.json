@@ -1,0 +1,389 @@
+[
+ {
+  "lens": "dom-27",
+  "title": "Contract Clause Extractor",
+  "pitch": "Extracts key clauses from contracts for paralegals",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-27",
+  "title": "Compliance Report Summarizer",
+  "pitch": "Automatically summarizes compliance reports for legal assistants",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-27",
+  "title": "Regulation Change Tracker",
+  "pitch": "Tracks regulatory changes affecting specific industries for lawyers",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-27",
+  "title": "Discovery Document Organizer",
+  "pitch": "Organizes discovery documents by relevance for litigators",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-27",
+  "title": "Contract Renewal Date Finder",
+  "pitch": "Identifies upcoming contract renewals for legal ops managers",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-27",
+  "title": "Compliance Checklist Generator",
+  "pitch": "Creates custom compliance checklists for in-house counsel",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-27",
+  "title": "Legal Research Summarizer",
+  "pitch": "Summarizes case law for junior associates",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-27",
+  "title": "Contract Risk Analyzer",
+  "pitch": "Flags risky clauses in contracts for senior counsel",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-27",
+  "title": "Regulation Impact Predictor",
+  "pitch": "Predicts regulatory impacts on business operations for legal teams",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-27",
+  "title": "Document Comparison Tool",
+  "pitch": "Highlights differences between contract versions for paralegals",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-27",
+  "title": "Compliance Audit Assistant",
+  "pitch": "Prepares compliance audit documentation for compliance officers",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-27",
+  "title": "Contract Clause Recommender",
+  "pitch": "Suggests standard clauses for contracts for junior lawyers",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-27",
+  "title": "Legal Citation Checker",
+  "pitch": "Verifies legal citations in briefs for legal writers",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-27",
+  "title": "Regulation Compliance Mapper",
+  "pitch": "Maps regulations to internal policies for compliance managers",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-27",
+  "title": "Discovery Request Organizer",
+  "pitch": "Organizes discovery responses by topic for litigators",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-27",
+  "title": "Contract Expiration Tracker",
+  "pitch": "Tracks contract expiration dates for legal ops teams",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-27",
+  "title": "Compliance Training Generator",
+  "pitch": "Creates custom compliance training materials for HR teams",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-27",
+  "title": "Legal Brief Summarizer",
+  "pitch": "Summarizes key arguments in legal briefs for senior partners",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-27",
+  "title": "Contract Negotiation Assistant",
+  "pitch": "Analyzes negotiation positions for transactional lawyers",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-27",
+  "title": "Regulation Change Notifier",
+  "pitch": "Alerts lawyers to regulatory changes in their practice areas",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-27",
+  "title": "Document Tagging System",
+  "pitch": "Automatically tags legal documents for document management",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-27",
+  "title": "Compliance Deadline Tracker",
+  "pitch": "Tracks compliance deadlines for regulatory teams",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-27",
+  "title": "Contract Clause Explainer",
+  "pitch": "Explains complex legal clauses in plain language for clients",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-27",
+  "title": "Legal Research Assistant",
+  "pitch": "Identifies relevant case law for legal researchers",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-27",
+  "title": "Regulation Impact Analyzer",
+  "pitch": "Analyzes potential regulatory impacts for business strategy teams",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-27",
+  "title": "Document Redaction Tool",
+  "pitch": "Automatically redacts sensitive information in legal documents",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-27",
+  "title": "Compliance Report Generator",
+  "pitch": "Automates monthly compliance reporting for compliance officers",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-27",
+  "title": "Contract Clause Auditor",
+  "pitch": "Audits contract clauses for consistency and compliance for lawyers",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-27",
+  "title": "Regulation Change Analyzer",
+  "pitch": "Analyzes changes in regulations affecting specific clients",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-27",
+  "title": "Discovery Document Summarizer",
+  "pitch": "Summarizes discovery documents for trial preparation",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-27",
+  "title": "Contract Clause Optimizer",
+  "pitch": "Optimizes contract language for clarity and enforceability",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 9
+ }
+]

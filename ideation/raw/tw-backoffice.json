@@ -1,0 +1,399 @@
+[
+ {
+  "lens": "tw-backoffice",
+  "title": "Invoice Haiku Generator",
+  "pitch": "Transform boring invoices into 5-5-5 poems for freelancers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Reconciliation Rapper",
+  "pitch": "Turn financial mismatches into rap battles for accountants",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Tax Tango Tutor",
+  "pitch": "Guide small businesses through tax forms with dance metaphors",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Expense Report RPG",
+  "pitch": "Turn receipts into RPG quests for office workers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Billing Bard",
+  "pitch": "Create Shakespearean sonnets for invoices to delight clients",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Paycheck Poetry",
+  "pitch": "Convert salary stubs into personalized poems for employees",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Audit Adventure",
+  "pitch": "Transform tax audits into choose-your-own-adventure stories",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Receipt Riddler",
+  "pitch": "Turn expense receipts into riddles for expense report reviewers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Budget Ballad",
+  "pitch": "Create musical summaries of budget meetings for finance teams",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Invoice Illustrator",
+  "pitch": "Generate whimsical illustrations for each line item on invoices",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Contract Comic",
+  "pitch": "Turn legal contracts into comic strips for small business owners",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Payroll Parody",
+  "pitch": "Create musical parodies of payroll processes for HR departments",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Budget Breaker",
+  "pitch": "Transform budget spreadsheets into escape room puzzles",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Invoice Improv",
+  "pitch": "Generate improv comedy prompts for invoice review meetings",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Tax Theater",
+  "pitch": "Turn tax preparation into interactive theater for accountants",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Receipt Remix",
+  "pitch": "Transform boring receipts into song lyrics for expense reports",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Budget Beatbox",
+  "pitch": "Create beatbox rhythms from financial data for CFOs",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Invoice Illustrator Pro",
+  "pitch": "Generate custom illustrations for B2B invoices based on client industry",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Reconciliation RPG",
+  "pitch": "Turn bank reconciliation into role-playing game for bookkeepers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Tax Time Theater",
+  "pitch": "Create personalized plays for tax season preparation",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Expense Explorer",
+  "pitch": "Transform expense reports into choose-your-own-adventure stories",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Invoice Improv Bot",
+  "pitch": "Generate real-time improv prompts during invoice review calls",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Budget Beatboxer",
+  "pitch": "Convert budget variance reports into beatbox rhythms",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Contract Cartoonist",
+  "pitch": "Analyze legal documents and generate contextual cartoons",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Payroll Puppet",
+  "pitch": "Create puppet show scripts for payroll announcements",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Tax Time Tales",
+  "pitch": "Generate personalized tax preparation stories for small businesses",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Receipt Rapper Pro",
+  "pitch": "Turn expense receipts into personalized rap songs for finance teams",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Budget Breaker AI",
+  "pitch": "Transform complex budget spreadsheets into interactive escape rooms",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Invoice Illustrator Ultra",
+  "pitch": "Generate animated illustrations for recurring invoices",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Reconciliation Rockstar",
+  "pitch": "Turn bank reconciliation into rock opera for accountants",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Tax Time Traveler",
+  "pitch": "Create time-travel stories for tax preparation journey",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "tw-backoffice",
+  "title": "Expense Explorer Pro",
+  "pitch": "Transform expense reports into interactive treasure hunts",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ }
+]

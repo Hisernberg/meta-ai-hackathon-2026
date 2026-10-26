@@ -1,0 +1,393 @@
+[
+ {
+  "lens": "dom-34",
+  "title": "BenefitSync",
+  "pitch": "Automatically syncs disability benefit status across agencies for caregivers",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-34",
+  "title": "CarePlanAI",
+  "pitch": "Generates personalized care plans from medical notes for disability coordinators",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-34",
+  "title": "FundingFlow",
+  "pitch": "Tracks grant applications and funding deadlines for disability service nonprofits",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-34",
+  "title": "ComplyCraft",
+  "pitch": "Turns accessibility regulations into actionable checklists for business owners",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-34",
+  "title": "InvoiceInsight",
+  "pitch": "Extracts and categorizes disability service expenses for tax purposes",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-34",
+  "title": "NaviCare",
+  "pitch": "Maps accessible routes in real-time for wheelchair users with transport options",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-open"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-34",
+  "title": "SkillBridge",
+  "pitch": "Matches qualified candidates with disability-friendly job openings instantly",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-34",
+  "title": "AdaptAble",
+  "pitch": "Generates custom accommodation letters from employee medical documentation",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-34",
+  "title": "BenefitBuddy",
+  "pitch": "Tracks benefit eligibility changes and documents impact for appeals",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-34",
+  "title": "CareCoin",
+  "pitch": "Tokenizes respite care hours for disability support workers to trade",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-34",
+  "title": "AccessAudit",
+  "pitch": "Automated compliance reports for physical business accessibility",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-34",
+  "title": "VoiceVault",
+  "pitch": "Securely stores and shares voice prints for disability access authentication",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-34",
+  "title": "PlanPulse",
+  "pitch": "Monitors care plan execution and flags deviations in real-time",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-34",
+  "title": "FundFlow",
+  "pitch": "Predicts funding gaps for disability service organizations based on trends",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-34",
+  "title": "DocuAble",
+  "pitch": "Converts complex benefit applications into simplified questionnaires",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-34",
+  "title": "AccessMap",
+  "pitch": "Creates 3D navigation models of accessible buildings for visually impaired",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-open"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-34",
+  "title": "CareCalc",
+  "pitch": "Automates care cost calculations and insurance reimbursement tracking",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-34",
+  "title": "BenefitBot",
+  "pitch": "Answers benefit eligibility questions with personalized documentation guidance",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-34",
+  "title": "AdaptAI",
+  "pitch": "Generates workplace accommodation implementation plans from employee needs",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-34",
+  "title": "CareChain",
+  "pitch": "Tracks care transitions between providers with automated handoff summaries",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-34",
+  "title": "AccessAI",
+  "pitch": "Analyzes website accessibility and provides specific remediation steps",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-34",
+  "title": "VoiceVerify",
+  "pitch": "Speaker authentication for disability service access without passwords",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-34",
+  "title": "PlanGen",
+  "pitch": "Creates individualized education plans from teacher notes and assessments",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-34",
+  "title": "FundFinder",
+  "pitch": "Matches disability service organizations with relevant grant opportunities",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-34",
+  "title": "AccessAI",
+  "pitch": "Generates plain-language summaries of legal documents for self-advocates",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-34",
+  "title": "CareTrack",
+  "pitch": "Monitors care quality metrics and flags areas for improvement",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-34",
+  "title": "BenefitBurst",
+  "pitch": "Alerts to benefit changes that impact financial planning for caregivers",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-34",
+  "title": "AdaptGen",
+  "pitch": "Creates custom assistive technology recommendations from assessment data",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-34",
+  "title": "AccessFlow",
+  "pitch": "Maps service provider networks and coverage gaps in disability support",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-open"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-34",
+  "title": "CareSync",
+  "pitch": "Coordinates multiple care providers with shared scheduling and notes",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-34",
+  "title": "FundFlow",
+  "pitch": "Predicts funding opportunities for disability innovation projects",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 7
+ },
+ {
+  "lens": "dom-34",
+  "title": "AccessAI",
+  "pitch": "Analyzes policy changes and impacts on disability services providers",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ }
+]

@@ -1,0 +1,427 @@
+[
+ {
+  "lens": "dom-7",
+  "title": "Patient Progress Tracker",
+  "pitch": "Automated rehab progress reports from session videos for physios",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-7",
+  "title": "Insurance Claim Generator",
+  "pitch": "Auto-populates insurance forms from treatment notes & patient data",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-7",
+  "title": "Appointment Slot Optimizer",
+  "pitch": "AI that finds optimal schedule based on therapist availability & patient needs",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-7",
+  "title": "Equipment Maintenance Scheduler",
+  "pitch": "Tracks clinic equipment usage & predicts maintenance needs",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-7",
+  "title": "Patient Compliance Monitor",
+  "pitch": "Analyzes home exercise videos to ensure correct form & progress",
+  "theme": "frontier",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-7",
+  "title": "Billing Error Detector",
+  "pitch": "Flags discrepancies in insurance claims before submission",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-7",
+  "title": "Staff Shift Planner",
+  "pitch": "Optimizes therapist schedules based on patient demand & availability",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-7",
+  "title": "Patient Feedback Analyzer",
+  "pitch": "Summarizes patient reviews to identify clinic improvement areas",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 6
+ },
+ {
+  "lens": "dom-7",
+  "title": "Treatment Plan Generator",
+  "pitch": "Creates personalized rehab plans from initial assessments",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-7",
+  "title": "Supply Order Assistant",
+  "pitch": "Tracks inventory & auto-orders supplies before they run out",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 5,
+  "feas": 4
+ },
+ {
+  "lens": "dom-7",
+  "title": "Patient Pain Tracker",
+  "pitch": "Visualizes pain reduction progress over time from session notes",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-7",
+  "title": "Insurance Pre-approval Checker",
+  "pitch": "Verifies treatment eligibility before sessions to avoid claim denials",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-7",
+  "title": "Exercise Demonstration Creator",
+  "pitch": "Generates custom exercise videos with correct form for home use",
+  "theme": "frontier",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-7",
+  "title": "Patient Reminder System",
+  "pitch": "Sends personalized pre-appointment reminders & exercise reminders",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 4,
+  "feas": 3
+ },
+ {
+  "lens": "dom-7",
+  "title": "Clinic Performance Dashboard",
+  "pitch": "Tracks key metrics & suggests improvements based on data",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-7",
+  "title": "Patient Intake Automator",
+  "pitch": "Extracts key info from new patient forms & populates records",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-7",
+  "title": "Treatment Documentation Assistant",
+  "pitch": "Automatically writes session notes from observation & video analysis",
+  "theme": "frontier",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-7",
+  "title": "Staff Performance Tracker",
+  "pitch": "Analyzes therapist efficiency & patient outcomes for coaching",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-7",
+  "title": "Patient Progress Visualizer",
+  "pitch": "Creates charts showing mobility improvement over treatment course",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 4
+ },
+ {
+  "lens": "dom-7",
+  "title": "Insurance Follow-up Automator",
+  "pitch": "Tracks claim status & follows up on pending payments",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-7",
+  "title": "Exercise Modification Engine",
+  "pitch": "Adapts exercises based on patient progress & limitations",
+  "theme": "frontier",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-7",
+  "title": "Patient Communication Hub",
+  "pitch": "Centralizes all patient communications & tracks responses",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 5,
+  "feas": 4
+ },
+ {
+  "lens": "dom-7",
+  "title": "Treatment Cost Analyzer",
+  "pitch": "Breaks down treatment costs by patient & insurance for better pricing",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-7",
+  "title": "Patient Motivation Tracker",
+  "pitch": "Monitors engagement levels & suggests motivation strategies",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-7",
+  "title": "Clinic Compliance Checker",
+  "pitch": "Ensures documentation meets regulatory standards before submission",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-7",
+  "title": "Exercise Form Corrector",
+  "pitch": "Analyzes home exercise videos to flag incorrect form",
+  "theme": "frontier",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-7",
+  "title": "Patient Outcome Predictor",
+  "pitch": "Forecasts treatment success based on similar patient histories",
+  "theme": "frontier",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-7",
+  "title": "Staff Training Recommender",
+  "pitch": "Suggests skill development based on clinic needs & staff gaps",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-7",
+  "title": "Patient Appointment Scheduler",
+  "pitch": "Optimizes booking based on therapist specialties & patient conditions",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-7",
+  "title": "Treatment Plan Optimizer",
+  "pitch": "Adjusts plans based on progress data & insurance constraints",
+  "theme": "frontier",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-7",
+  "title": "Patient Feedback Responder",
+  "pitch": "Drafts personalized responses to patient reviews",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 5,
+  "feas": 4
+ },
+ {
+  "lens": "dom-7",
+  "title": "Exercise Library Builder",
+  "pitch": "Creates visual exercise database with correct form demonstrations",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-7",
+  "title": "Patient Progress Reporter",
+  "pitch": "Generates shareable progress reports for referring physicians",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 5
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "lens": "dom-31",
+  "title": "Expense Autopilot",
+  "pitch": "Automatically categorizes and approves recurring bills for busy business owners",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-31",
+  "title": "Cash Flow Prophet",
+  "pitch": "AI predicts weekly cash flow gaps before they happen for family businesses",
+  "theme": "frontier",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-31",
+  "title": "Receipt Radar",
+  "pitch": "Instantly extracts and categorizes expenses from crumpled receipts on your desk",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-31",
+  "title": "Budget Brainstorm",
+  "pitch": "Generates personalized budget scenarios based on your unique business patterns",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-31",
+  "title": "Invoice Insight",
+  "pitch": "Automatically analyzes invoice terms to spot favorable payment opportunities",
+  "theme": "frontier",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-31",
+  "title": "Expense Detective",
+  "pitch": "Flags unusual spending patterns before they impact your bottom line",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-31",
+  "title": "Tax Time Tracker",
+  "pitch": "Continuously organizes expenses throughout the year for stress-free tax prep",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-31",
+  "title": "Family CFO",
+  "pitch": "AI negotiates better rates with vendors based on your spending history",
+  "theme": "frontier",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-31",
+  "title": "Bill Buddy",
+  "pitch": "Prioritizes which bills to pay first when money's tight for families",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-31",
+  "title": "Profit Pulse",
+  "pitch": "Real-time dashboard showing exactly how each decision impacts weekly profit",
+  "theme": "frontier",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-31",
+  "title": "Savings Strategist",
+  "pitch": "Creates micro-savings plans from overlooked expense categories",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-31",
+  "title": "Expense Echo",
+  "pitch": "Remembers why past purchases were made to inform future budget decisions",
+  "theme": "frontier",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-31",
+  "title": "Cash Coach",
+  "pitch": "Provides personalized spending advice based on your business cash flow cycles",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-31",
+  "title": "Budget Bridge",
+  "pitch": "Translates complex financial terms into actionable family budget steps",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-31",
+  "title": "Money Mapper",
+  "pitch": "Visualizes exactly where your time is being spent on financial tasks",
+  "theme": "frontier",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-31",
+  "title": "Invoice Illuminator",
+  "pitch": "Highlights hidden fees and better payment terms in vendor contracts",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-31",
+  "title": "Family Fund Finder",
+  "pitch": "Identifies unclaimed tax credits and deductions specific to your situation",
+  "theme": "frontier",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-31",
+  "title": "Expense Eliminator",
+  "pitch": "AI finds recurring charges you can live without each month",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-31",
+  "title": "Cash Flow Calendar",
+  "pitch": "Predicts best times for major purchases based on revenue cycles",
+  "theme": "frontier",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-31",
+  "title": "Budget Builder Bot",
+  "pitch": "Generates custom budget templates from your past spending patterns",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-31",
+  "title": "Financial Flashlight",
+  "pitch": "Illuminates the true cost of hiring vs. outsourcing decisions",
+  "theme": "frontier",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-31",
+  "title": "Receipt Reader",
+  "pitch": "Extracts data from handwritten expense notes with phone camera",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-31",
+  "title": "Profit Predictor",
+  "pitch": "Forecasts how different pricing strategies will impact weekly cash flow",
+  "theme": "frontier",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-31",
+  "title": "Expense Enforcer",
+  "pitch": "Automatically blocks overspending in budget categories you set",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-31",
+  "title": "Money Mindset Mentor",
+  "pitch": "Transforms financial anxiety into actionable steps for business owners",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-31",
+  "title": "Cash Flow Compass",
+  "pitch": "Guides decisions on when to save vs. reinvest profits",
+  "theme": "frontier",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-31",
+  "title": "Invoice Inspector",
+  "pitch": "Automatically flags invoices that don't match quoted prices",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-31",
+  "title": "Family Fortune Forecaster",
+  "pitch": "Projects financial outcomes of different family spending scenarios",
+  "theme": "frontier",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-31",
+  "title": "Expense Echo Chamber",
+  "pitch": "Remembers why past financial decisions succeeded or failed",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-31",
+  "title": "Budget Breakthrough",
+  "pitch": "Identifies one expense category to optimize for maximum savings impact",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-31",
+  "title": "Cash Flow Catalyst",
+  "pitch": "Suggests timing for business expenses to maximize tax advantages",
+  "theme": "frontier",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-31",
+  "title": "Financial Focus Filter",
+  "pitch": "Highlights only the financial metrics that matter most to your business",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-31",
+  "title": "Expense Explorer",
+  "pitch": "Discovers hidden savings in your regular business expenses",
+  "theme": "world",
+  "domain": "personal finance & family budgeting",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ }
+]

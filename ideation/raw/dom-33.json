@@ -1,0 +1,390 @@
+[
+ {
+  "lens": "dom-33",
+  "title": "Braille Code Translator",
+  "pitch": "Converts text to Braille for visually impaired readers, wow real-time translation",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-33",
+  "title": "Sign Language Avatar",
+  "pitch": "Creates animated sign language from text for deaf communication, wow natural motion",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-33",
+  "title": "Mobility Route Mapper",
+  "pitch": "Maps wheelchair accessible routes in real-time, wow avoids barriers",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-33",
+  "title": "Speech-to-Symbol Communicator",
+  "pitch": "Converts speech to AAC symbols for non-verbal users, wow instant communication",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-33",
+  "title": "Visual Aid Enhancer",
+  "pitch": "Enhances low-vision images with AI description, wow clarifies surroundings",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-33",
+  "title": "Cognitive Load Balancer",
+  "pitch": "Simplifies complex tasks for cognitive disabilities, wow step-by-step guidance",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-33",
+  "title": "Tactile Map Generator",
+  "pitch": "Creates 3D printable tactile maps from satellite imagery, wow touchable navigation",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-33",
+  "title": "Haptic Feedback Gloves",
+  "pitch": "Translates visual data to touch for blind users, wow environmental awareness",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-33",
+  "title": "Dyslexia Text Reframer",
+  "pitch": "Reformats text for dyslexic readers, wow personalized reading experience",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-33",
+  "title": "Emotion Recognition Assistant",
+  "pitch": "Helps non-verbal users express emotions through AI, wow social connection",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-33",
+  "title": "Motor Skill Trainer",
+  "pitch": "AI-guided exercises for physical rehabilitation, wow personalized therapy",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-33",
+  "title": "Environmental Sound Identifier",
+  "pitch": "Describes ambient sounds for hearing impaired, wow situational awareness",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-33",
+  "title": "Customizable Communication Board",
+  "pitch": "Creates personalized AAC boards with voice output, wow instant communication",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-33",
+  "title": "Color Contrast Analyzer",
+  "pitch": "Ensures color accessibility for visually impaired, wow inclusive design",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-33",
+  "title": "Sign Language Learning Coach",
+  "pitch": "AI tutor for learning sign language, wow personalized practice",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-33",
+  "title": "Mobility Aid Navigator",
+  "pitch": "Smart cane with AI obstacle detection, wow safer navigation",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-33",
+  "title": "Cognitive Task Scheduler",
+  "pitch": "Breaks down complex tasks for neurodivergent users, wow reduced overwhelm",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-33",
+  "title": "Tactile Feedback Controller",
+  "pitch": "Converts digital interfaces to tactile controls, wow accessible gaming",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-33",
+  "title": "Visual Processing Aid",
+  "pitch": "Simplifies visual scenes for processing disorders, wow clearer perception",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-33",
+  "title": "Emotional Regulation Companion",
+  "pitch": "AI assistant for emotional self-regulation, wow mental wellness support",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-33",
+  "title": "Custom Orthosis Designer",
+  "pitch": "Generates personalized assistive devices, wow perfect fit",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-33",
+  "title": "Speech Pattern Analyzer",
+  "pitch": "Identifies speech patterns for communication disorders, wow progress tracking",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-33",
+  "title": "Environmental Predictor",
+  "pitch": "Forecasts sensory overload environments for autism, wow proactive preparation",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-33",
+  "title": "Motor Skill Gameifier",
+  "pitch": "Gamifies physical therapy exercises, wow engaging rehabilitation",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-33",
+  "title": "Tactile Story Creator",
+  "pitch": "Generates tactile storybooks for blind children, wow inclusive reading",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-33",
+  "title": "Visual Schedule Builder",
+  "pitch": "Creates visual schedules for cognitive disabilities, wow reduced anxiety",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-33",
+  "title": "Gesture Control Interface",
+  "pitch": "Enables computer control with hand gestures, wow mouse-free interaction",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-33",
+  "title": "Social Story Generator",
+  "pitch": "Creates personalized social stories for autism, wow improved social skills",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-33",
+  "title": "Mobility Path Optimizer",
+  "pitch": "Finds most efficient routes for mobility aids, wow energy conservation",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-33",
+  "title": "Sensory Balance Assistant",
+  "pitch": "Helps regulate sensory input for processing disorders, wow comfort control",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-33",
+  "title": "Custom Prosthetic Simulator",
+  "pitch": "Visualizes prosthetic options before fitting, wow informed decisions",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ }
+]

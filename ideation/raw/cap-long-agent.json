@@ -1,0 +1,410 @@
+[
+ {
+  "lens": "cap-long-agent",
+  "title": "AI Research Paper Synthesizer",
+  "pitch": "Turn fragmented notes into publishable papers for academics",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Novel Chapter Architect",
+  "pitch": "Transform scattered ideas into cohesive novel chapters for writers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Investment Thesis Compiler",
+  "pitch": "Synthesize market research into investment memos for analysts",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Documentary Script Weaver",
+  "pitch": "Transform interview transcripts into compelling documentary scripts",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Legal Brief Constructor",
+  "pitch": "Organize case law into persuasive legal arguments for lawyers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Scientific Grant Writer",
+  "pitch": "Compile research data into persuasive grant proposals for scientists",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Game Design Bible",
+  "pitch": "Transform concept art into comprehensive game design docs",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Architectural Vision Document",
+  "pitch": "Synthesize client requirements into architectural proposals",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Marketing Campaign Blueprint",
+  "pitch": "Transform market research into integrated campaign strategies",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Curriculum Integrator",
+  "pitch": "Compile teaching materials into cohesive course modules",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Medical Research Reviewer",
+  "pitch": "Synthesize clinical trials into comprehensive review papers",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Climate Impact Simulator",
+  "pitch": "Model environmental policies through 2050 for policymakers",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Quantum Algorithm Designer",
+  "pitch": "Transform research papers into executable quantum algorithms",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Space Mission Planner",
+  "pitch": "Synthesize astronomical data into mission proposals",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Neuroscience Protocol Builder",
+  "pitch": "Compile brain scan data into experimental frameworks",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Materials Discovery Engine",
+  "pitch": "Transform research into novel material synthesis pathways",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Protein Folding Predictor",
+  "pitch": "Synthesize genomic data into protein structure predictions",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Urban Planning Simulator",
+  "pitch": "Model city development scenarios for 2040",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Economic Policy Designer",
+  "pitch": "Transform economic indicators into policy recommendations",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Renewable Energy Optimizer",
+  "pitch": "Synthesize weather data into grid management strategies",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "AI Ethics Framework Builder",
+  "pitch": "Compile research into comprehensive ethical guidelines",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Multimodal Research Assistant",
+  "pitch": "Transform diverse data sources into cohesive analysis reports",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Video Documentary Producer",
+  "pitch": "Compile interviews, footage, and research into documentaries",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Interactive Learning Designer",
+  "pitch": "Transform educational content into immersive learning modules",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Scientific Visualization Creator",
+  "pitch": "Convert complex data into interactive visual explanations",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Financial Market Simulator",
+  "pitch": "Transform economic indicators into market prediction models",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Climate Change Simulator",
+  "pitch": "Model environmental impacts through interactive visualizations",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Medical Diagnosis Assistant",
+  "pitch": "Synthesize patient data into diagnostic insights (assistive only)",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Urban Development Planner",
+  "pitch": "Transform city data into growth visualization scenarios",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Scientific Discovery Engine",
+  "pitch": "Connect disparate research papers into novel hypotheses",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Policy Impact Simulator",
+  "pitch": "Model societal effects of policy changes through 2040",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Personalized Learning Path",
+  "pitch": "Transform educational goals into custom learning journeys",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "cap-long-agent",
+  "title": "Multimodal Research Summarizer",
+  "pitch": "Synthesize papers, videos, and audio into comprehensive reviews",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-voice-transcribe-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ }
+]

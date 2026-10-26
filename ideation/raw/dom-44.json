@@ -1,0 +1,406 @@
+[
+ {
+  "lens": "dom-44",
+  "title": "Street Scan Analyzer",
+  "pitch": "Transform street scan images into repair priority lists for urban planners",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-44",
+  "title": "Park Event Mapper",
+  "pitch": "Automatically catalog park activities from aerial photos to optimize maintenance",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-44",
+  "title": "Noise Complaint Classifier",
+  "pitch": "Categorize audio recordings of neighborhood noise complaints for faster resolution",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-44",
+  "title": "Graffiti Time-lapse",
+  "pitch": "Track graffiti evolution in neighborhoods using monthly photo comparisons",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-44",
+  "title": "Bus Stop Usage Analyzer",
+  "pitch": "Count people at bus stops from surveillance footage to optimize routes",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-44",
+  "title": "Public Park Bench Audit",
+  "pitch": "Identify damaged benches in city parks from community photo submissions",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-44",
+  "title": "Flood Risk Mapper",
+  "pitch": "Analyze storm drain photos to predict flooding risks in low-lying areas",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-44",
+  "title": "Sidewalk Condition Reporter",
+  "pitch": "Generate sidewalk repair maps from resident-submitted photos",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-44",
+  "title": "Park Litter Tracker",
+  "pitch": "Quantify litter accumulation in parks from weekly photo comparisons",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 6
+ },
+ {
+  "lens": "dom-44",
+  "title": "Traffic Calming Auditor",
+  "pitch": "Analyze traffic calming measures effectiveness from street view images",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-44",
+  "title": "Historic Building Monitor",
+  "pitch": "Track deterioration of historic buildings from annual photo comparisons",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-44",
+  "title": "Park Usage Heatmap",
+  "pitch": "Transform park visitor photos into usage patterns for facility planning",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-44",
+  "title": "Tree Canopy Analyzer",
+  "pitch": "Measure urban tree coverage from satellite images to plan greening initiatives",
+  "theme": "frontier",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-44",
+  "title": "Event Crowd Monitor",
+  "pitch": "Estimate crowd sizes at community events from aerial photos",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-44",
+  "title": "Bike Lane Usage Tracker",
+  "pitch": "Analyze bike lane utilization from street-level photography",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-44",
+  "title": "Public Art Condition Checker",
+  "pitch": "Assess public art deterioration from community photo submissions",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-44",
+  "title": "Playground Safety Auditor",
+  "pitch": "Identify safety hazards in playgrounds from parent-submitted photos",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-44",
+  "title": "Urban Farm Yield Predictor",
+  "pitch": "Estimate community garden harvests from periodic photo analysis",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-44",
+  "title": "Beach Water Quality Reporter",
+  "pitch": "Analyze water color changes in beach photos to detect pollution",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-44",
+  "title": "Street Light Auditor",
+  "pitch": "Identify malfunctioning street lights from resident-submitted photos",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-44",
+  "title": "Park Bench Occupancy",
+  "pitch": "Track park bench usage patterns to optimize public seating placement",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 5,
+  "feas": 7
+ },
+ {
+  "lens": "dom-44",
+  "title": "Construction Progress Tracker",
+  "pitch": "Monitor urban development timelines from periodic photo comparisons",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-44",
+  "title": "Fence Condition Analyzer",
+  "pitch": "Assess fence deterioration in community spaces from resident photos",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-44",
+  "title": "Community Garden Health",
+  "pitch": "Diagnose plant diseases in community gardens from photo analysis",
+  "theme": "frontier",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-44",
+  "title": "Sidewalk Cafe Compliance",
+  "pitch": "Verify sidewalk cafe permits and compliance from street view images",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1"
+  ],
+  "wow": 5,
+  "feas": 6
+ },
+ {
+  "lens": "dom-44",
+  "title": "Park Path Condition",
+  "pitch": "Generate park maintenance reports from trail photo analysis",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-44",
+  "title": "Public Bathroom Sanitation",
+  "pitch": "Assess public restroom cleanliness from user-submitted photos",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-44",
+  "title": "Crosswalk Visibility",
+  "pitch": "Evaluate crosswalk paint visibility from street-level photography",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 6
+ },
+ {
+  "lens": "dom-44",
+  "title": "Park Shade Analysis",
+  "pitch": "Map shade coverage in parks from aerial photos to optimize seating",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-44",
+  "title": "Graffiti Removal Tracker",
+  "pitch": "Monitor city graffiti removal effectiveness from before/after photos",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-44",
+  "title": "Public Pool Safety",
+  "pitch": "Detect safety hazards in public pools from lifeguard surveillance footage",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-44",
+  "title": "Community Garden Planner",
+  "pitch": "Optimize garden layout from soil analysis photos and plant health data",
+  "theme": "frontier",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ }
+]

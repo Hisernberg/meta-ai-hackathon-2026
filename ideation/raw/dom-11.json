@@ -1,0 +1,444 @@
+[
+ {
+  "lens": "dom-11",
+  "title": "Crop Disease Scanner",
+  "pitch": "Automatically identify plant diseases from farm photos, alerting farmers before spread",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-11",
+  "title": "Soil Health Analyzer",
+  "pitch": "Transform soil scan images into actionable nutrient deficiency maps",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-11",
+  "title": "Pest Pattern Predictor",
+  "pitch": "Analyze pest trap photos to forecast infestation risks and optimal treatment timing",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-11",
+  "title": "Crop Yield Estimator",
+  "pitch": "Aerial drone footage processed to predict harvest quantities with 95% accuracy",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-11",
+  "title": "Irrigation Auditor",
+  "pitch": "Detect over/under-watered zones from satellite imagery, saving 30% water",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-11",
+  "title": "Livestock Vocal Analyzer",
+  "pitch": "Identify sick animals through unique cough patterns in barn audio recordings",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-11",
+  "title": "Weed Spotter",
+  "pitch": "Autonomous drone identifies weed species in real-time, enabling precision herbicide use",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-11",
+  "title": "Equipment Whisperer",
+  "pitch": "Convert tractor engine sounds into maintenance predictions before breakdowns",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-11",
+  "title": "Pollinator Pathway Mapper",
+  "pitch": "Identify bee-friendly zones and pollination gaps from flower distribution images",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-11",
+  "title": "Frost Risk Calculator",
+  "pitch": "Nighttime thermal imaging processed to predict frost pockets and activate protection",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-11",
+  "title": "Crop Stress Detector",
+  "pitch": "NDVI imagery analysis identifies water/nutrient stress before visible to human eye",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-11",
+  "title": "Harvest Readiness AI",
+  "pitch": "Analyze fruit photos to determine optimal picking time by color/size indicators",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-11",
+  "title": "Soil Microbiome Decoder",
+  "pitch": "Microscope slide images transformed into actionable soil health recommendations",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-11",
+  "title": "Windbreak Evaluator",
+  "pitch": "Drone footage processed to measure windbreak effectiveness and identify gaps",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-11",
+  "title": "Livestock Weight Estimator",
+  "pitch": "Aerial photos of livestock converted to weight estimates without physical handling",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-11",
+  "title": "Erosion Alert System",
+  "pitch": "Compare field photos over time to identify soil movement and prevent loss",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-11",
+  "title": "Crop Rotation Advisor",
+  "pitch": "Historical yield maps analyzed to suggest optimal crop rotation sequences",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-11",
+  "title": "Pheromone Trap Decoder",
+  "pitch": "Automated counting of captured insects in trap images to monitor pest populations",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-11",
+  "title": "Water Quality Scanner",
+  "pitch": "Drone-captured water samples analyzed for turbidity and contamination indicators",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-11",
+  "title": "Fence Line Inspector",
+  "pitch": "Drone footage processed to identify fence damage and wildlife intrusion points",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-11",
+  "title": "Germination Accelerator",
+  "pitch": "Seed tray time-lapse videos analyzed to identify optimal germination conditions",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-11",
+  "title": "Drought Rescaler",
+  "pitch": "Satellite imagery processed to create soil moisture maps for precision irrigation",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-11",
+  "title": "Bird Strike Predictor",
+  "pitch": "Analyze flight patterns and bird activity near airports to prevent collisions",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-11",
+  "title": "Crop Canopy Analyzer",
+  "pitch": "Drone LiDAR data transformed into 3D canopy models for light penetration analysis",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-11",
+  "title": "Equipment Sound Library",
+  "pitch": "Catalog abnormal equipment sounds for predictive maintenance across fleet",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-11",
+  "title": "Wildlife Correlator",
+  "pitch": "Identify animal tracks and patterns from trail camera images to prevent crop damage",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-11",
+  "title": "Post-Harvest Inspector",
+  "pitch": "Automated detection of defects in harvested produce through high-res scanning",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-11",
+  "title": "Precision Planter",
+  "pitch": "Analyze seed spacing images to identify planting errors and optimize future layouts",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-11",
+  "title": "Vine Health Tracker",
+  "pitch": "Drone-captured vineyard images processed to identify disease before leaf symptoms",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-11",
+  "title": "Feed Efficiency Analyzer",
+  "pitch": "Livestock feeding audio analyzed to identify optimal feeding patterns and reduce waste",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-11",
+  "title": "Field History Mapper",
+  "pitch": "Overlay historical field images to track changes and inform future decisions",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-11",
+  "title": "Pollination Success Predictor",
+  "pitch": "Bee activity and flower coverage images analyzed to predict pollination outcomes",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-11",
+  "title": "Grain Moisture Monitor",
+  "pitch": "Thermal imaging of grain storage to detect moisture pockets before spoilage",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-11",
+  "title": "Equipment Telematics Decoder",
+  "pitch": "Convert equipment GPS/sensor data into actionable maintenance and usage insights",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-spark-1.3",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ }
+]

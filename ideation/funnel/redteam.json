@@ -1,0 +1,36 @@
+{
+ "kill_risks": [
+  {
+   "risk": "Audio transcription quality may be poor for low-resource languages",
+   "severity": "high",
+   "mitigation": "Pre-filter with human validation of transcriptions"
+  },
+  {
+   "risk": "Community trust issues with recording cultural knowledge",
+   "severity": "high",
+   "mitigation": "Co-design with elders on data ownership protocols"
+  },
+  {
+   "risk": "Limited internet access prevents cloud processing",
+   "severity": "med",
+   "mitigation": "Edge computing fallback with local model inference"
+  },
+  {
+   "risk": "Cultural context loss in translation/transcription",
+   "severity": "high",
+   "mitigation": "Multimodal annotation with cultural context metadata"
+  },
+  {
+   "risk": "SAM-3.1 struggles with low-light/low-resolution imagery",
+   "severity": "med",
+   "mitigation": "Supplement with smartphone photography training"
+  }
+ ],
+ "demo_script_beats": [
+  "0:00-0:10 Opening shot: remote community setting with elder speaking native language",
+  "0:10-0:40 Demonstration of recording conversation with muse-voice-transcribe-1.0 showing real-time transcription",
+  "0:40-1:10 Visual workflow: SAM-3.1 identifying cultural objects while muse-spark-1.1 tags metadata",
+  "1:10-1:30 Final interface showing organized language database with community access controls"
+ ],
+ "scope_cut": "Remove SAM-3.1 visual analysis and focus solely on audio transcription with cultural context tagging"
+}

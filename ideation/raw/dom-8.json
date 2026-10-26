@@ -1,0 +1,439 @@
+[
+ {
+  "lens": "dom-8",
+  "title": "Posture Pro AI",
+  "pitch": "Analyze patient posture photos to identify alignment issues for physiotherapists",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-8",
+  "title": "Movement Tracker",
+  "pitch": "Quantify patient exercise form from clinic videos with pose detection feedback",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-8",
+  "title": "Voice Pain Logger",
+  "pitch": "Convert patient voice descriptions of pain into structured severity metrics",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-8",
+  "title": "Gait Analysis AI",
+  "pitch": "Extract walking pattern data from patient videos to track recovery progress",
+  "theme": "frontier",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-8",
+  "title": "Exercise Compliance Checker",
+  "pitch": "Verify home exercise completion by analyzing patient-submitted videos",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-8",
+  "title": "Range of Motion Scanner",
+  "pitch": "Calculate joint mobility from smartphone videos during physio assessments",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-8",
+  "title": "Patient Symptom Mapper",
+  "pitch": "Visualize pain locations and severity patterns from patient voice descriptions",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-8",
+  "title": "Rehab Progress Visualizer",
+  "pitch": "Transform exercise session videos into progress comparison charts",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-8",
+  "title": "Exercise Form Coach",
+  "pitch": "Real-time feedback on patient exercise technique using smartphone camera",
+  "theme": "frontier",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-8",
+  "title": "Clinical Session Summarizer",
+  "pitch": "Convert audio recordings of physio sessions into structured progress notes",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-8",
+  "title": "Injury Risk Predictor",
+  "pitch": "Analyze movement patterns to identify potential reinjury risks in patients",
+  "theme": "frontier",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-8",
+  "title": "Patient Motivation Tracker",
+  "pitch": "Analyze voice tone during sessions to gauge patient engagement and morale",
+  "theme": "frontier",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-8",
+  "title": "Exercise Library Builder",
+  "pitch": "Create custom exercise demonstrations from patient movement videos",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-8",
+  "title": "Clinical Workflow Optimizer",
+  "pitch": "Analyze clinic video logs to identify bottlenecks in patient care flow",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 6
+ },
+ {
+  "lens": "dom-8",
+  "title": "Patient Communication Analyzer",
+  "pitch": "Extract key concerns from patient voice recordings for better treatment planning",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-8",
+  "title": "Balance Assessment AI",
+  "pitch": "Quantify stability improvements from before/after balance exercise videos",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-8",
+  "title": "Exercise Intensity Logger",
+  "pitch": "Track movement speed and force from patient exercise videos",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-8",
+  "title": "Clinical Decision Helper",
+  "pitch": "Analyze patient history scans to suggest personalized treatment approaches",
+  "theme": "frontier",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-8",
+  "title": "Patient Progress Narrator",
+  "pitch": "Transform exercise session data into recovery story videos",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-8",
+  "title": "Movement Pattern Finder",
+  "pitch": "Identify common movement errors across patient videos for targeted interventions",
+  "theme": "frontier",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-8",
+  "title": "Exercise Reminder Generator",
+  "pitch": "Create personalized voice exercise reminders from session recordings",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-8",
+  "title": "Clinical Resource Optimizer",
+  "pitch": "Analyze clinic video logs to identify equipment usage patterns",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 5,
+  "feas": 4
+ },
+ {
+  "lens": "dom-8",
+  "title": "Pain Pattern Mapper",
+  "pitch": "Visualize how pain locations change throughout treatment from patient descriptions",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-8",
+  "title": "Exercise Technique Analyzer",
+  "pitch": "Compare patient movement videos against ideal form demonstrations",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-8",
+  "title": "Patient Engagement Meter",
+  "pitch": "Measure verbal and non-verbal engagement during physio sessions",
+  "theme": "frontier",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-8",
+  "title": "Rehab Compliance Tracker",
+  "pitch": "Verify home exercise adherence through submitted form videos",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-8",
+  "title": "Clinical Session Highlighter",
+  "pitch": "Extract key moments from physio session videos for documentation",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-8",
+  "title": "Exercise Difficulty Scorer",
+  "pitch": "Rate exercise complexity based on patient movement analysis",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-8",
+  "title": "Patient Progress Predictor",
+  "pitch": "Analyze early session data to forecast recovery timeline",
+  "theme": "frontier",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-8",
+  "title": "Exercise Library Curator",
+  "pitch": "Build personalized exercise collections from patient movement videos",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-8",
+  "title": "Clinical Time Analyzer",
+  "pitch": "Track how time is spent during physio sessions from video logs",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 5,
+  "feas": 4
+ },
+ {
+  "lens": "dom-8",
+  "title": "Movement Symmetry Assessor",
+  "pitch": "Compare left/right body movements in exercise videos for imbalance detection",
+  "theme": "world",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-8",
+  "title": "Patient Experience Mapper",
+  "pitch": "Transform session recordings into emotional journey visualizations",
+  "theme": "frontier",
+  "domain": "small clinics & physiotherapy (assistive only)",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ }
+]

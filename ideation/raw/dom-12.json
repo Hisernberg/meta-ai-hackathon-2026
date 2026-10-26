@@ -1,0 +1,400 @@
+[
+ {
+  "lens": "dom-12",
+  "title": "Hand Tool CAD Generator",
+  "pitch": "Creates 3D models from hand sketches for machinists",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-12",
+  "title": "Welding Defect Detector",
+  "pitch": "AI analyzes welds in real-time to flag imperfections",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-12",
+  "title": "CNC Path Optimizer",
+  "pitch": "Reduces material waste by optimizing tool paths",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "dom-12",
+  "title": "Metal Fatigue Predictor",
+  "pitch": "Forecasts when custom parts will fail based on stress patterns",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-12",
+  "title": "Tool Wear Visualizer",
+  "pitch": "Shows exactly which cutting edges are dulling during use",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-12",
+  "title": "Assembly AR Guide",
+  "pitch": "Overlays instructions directly onto workpieces",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-12",
+  "title": "Surface Finish Analyzer",
+  "pitch": "Quantifies texture of machined surfaces from photos",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-12",
+  "title": "Material Selector AI",
+  "pitch": "Recommends best alloys for custom jobs based on specs",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-12",
+  "title": "Precision Inspector",
+  "pitch": "Measures tolerances of hand-finished parts with phone camera",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-12",
+  "title": "Jig Design Assistant",
+  "pitch": "Generates custom jigs from verbal descriptions of needs",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-12",
+  "title": "Welding Parameter Suggester",
+  "pitch": "Recommends optimal settings based on material thickness",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-12",
+  "title": "Tool Inventory Tracker",
+  "pitch": "Visually logs tool condition and location with photos",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-12",
+  "title": "Metal Composition Identifier",
+  "pitch": "Analyzes alloy samples to determine exact composition",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-12",
+  "title": "Custom Quote Generator",
+  "pitch": "Creates instant quotes from verbal descriptions of projects",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-12",
+  "title": "Vibration Diagnostic",
+  "pitch": "Identifies machine problems from phone-recorded vibrations",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-12",
+  "title": "Heat Treatment Advisor",
+  "pitch": "Guides through custom heat processes with visual feedback",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-12",
+  "title": "Surface Defect Mapper",
+  "pitch": "Creates heat maps of imperfections on large surfaces",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-12",
+  "title": "Custom Fastener Finder",
+  "pitch": "Locates or designs perfect fasteners for unique repairs",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-12",
+  "title": "Machining Time Estimator",
+  "pitch": "Calculates exact production time from CAD files",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-12",
+  "title": "Metal Recovery Calculator",
+  "pitch": "Estimates value of scrap metal from photos",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 7
+ },
+ {
+  "lens": "dom-12",
+  "title": "Custom Spring Designer",
+  "pitch": "Generates spring specs from verbal requirements",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-12",
+  "title": "Welding Technique Coach",
+  "pitch": "Analyzes posture and technique from workshop videos",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-12",
+  "title": "Tool Sharpening Guide",
+  "pitch": "Shows exact angles for sharpening custom tools",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-12",
+  "title": "Material Cost Predictor",
+  "pitch": "Forecasts metal prices for custom fabrication projects",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-12",
+  "title": "Custom G-Code Generator",
+  "pitch": "Creates machine code from verbal machining instructions",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-12",
+  "title": "Welding Position Assistant",
+  "pitch": "Overlays optimal angles directly on workpieces",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-12",
+  "title": "Surface Prep Analyzer",
+  "pitch": "Evaluates cleanliness of surfaces before coating",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-12",
+  "title": "Custom Seal Designer",
+  "pitch": "Creates gasket specs from verbal descriptions of gaps",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-12",
+  "title": "Metal Joining Visualizer",
+  "pitch": "Simulates how different welding techniques will perform",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-12",
+  "title": "Tool Life Extender",
+  "pitch": "Advises on optimal usage to maximize tool longevity",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-12",
+  "title": "Custom Bearing Finder",
+  "pitch": "Locates or designs perfect bearings for unique applications",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-12",
+  "title": "Metal Finishing Selector",
+  "pitch": "Recommends best finishing techniques for specific alloys",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 7
+ }
+]

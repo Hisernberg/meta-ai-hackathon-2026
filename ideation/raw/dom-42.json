@@ -1,0 +1,418 @@
+[
+ {
+  "lens": "dom-42",
+  "title": "Neighborhood Watch AI",
+  "pitch": "Automated patrol reports for block captains from resident submissions",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-42",
+  "title": "Park Event Planner",
+  "pitch": "AI-generated event permits and volunteer coordination for park committees",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-42",
+  "title": "Street Repair Mapper",
+  "pitch": "Document potholes and sidewalk damage with photo reports to city council",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-42",
+  "title": "Community Garden Coordinator",
+  "pitch": "Plant care schedules and harvest distribution tracker for garden leads",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-42",
+  "title": "Neighborhood Newsletter Generator",
+  "pitch": "AI-curated local news and events for HOA communications",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 4
+ },
+ {
+  "lens": "dom-42",
+  "title": "Youth Sports Scheduler",
+  "pitch": "Automated team rotation and field assignment for youth sports volunteers",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-42",
+  "title": "Library Shelf Scanner",
+  "pitch": "Book inventory and condition checker for library friends groups",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-42",
+  "title": "Neighborhood History Archivist",
+  "pitch": "Digitize and organize community photos and documents with AI tagging",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 6
+ },
+ {
+  "lens": "dom-42",
+  "title": "Food Rescue Coordinator",
+  "pitch": "Match excess food with community needs in real-time for volunteers",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-42",
+  "title": "Block Party Planner",
+  "pitch": "Permit assistance and guest list management for neighborhood events",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-42",
+  "title": "Senior Ride Coordinator",
+  "pitch": "Schedule transportation for seniors using volunteer drivers with AI matching",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-42",
+  "title": "Neighborhood Safety Map",
+  "pitch": "Track and visualize crime reports for community watch groups",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-42",
+  "title": "Community Resource Finder",
+  "pitch": "Map local services for vulnerable populations with volunteer updates",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-42",
+  "title": "Neighborhood Pet Registry",
+  "pitch": "Lost pet alerts and found pet matching for community volunteers",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-42",
+  "title": "Beach Cleanup Organizer",
+  "pitch": "Volunteer sign-up and waste categorization tracker for coast guards",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-42",
+  "title": "Historic District Advocate",
+  "pitch": "Document architectural changes with AI comparison to historic records",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-42",
+  "title": "Community Garden Pest ID",
+  "pitch": "Identify plant diseases and pests from photos for garden volunteers",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-42",
+  "title": "Neighborhood Zoning Watch",
+  "pitch": "Track development proposals with visual impact analysis for residents",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-42",
+  "title": "Community Center Scheduler",
+  "pitch": "Room booking and equipment management for volunteer coordinators",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 5,
+  "feas": 4
+ },
+ {
+  "lens": "dom-42",
+  "title": "Neighborhood Beautifier",
+  "pitch": "Track garden bed maintenance and graffiti removal for volunteers",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-42",
+  "title": "Community Meals Planner",
+  "pitch": "Dietary restriction tracking and meal distribution for food banks",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-42",
+  "title": "Neighborhood Survey Tool",
+  "pitch": "Analyze resident feedback with sentiment analysis for HOA boards",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-42",
+  "title": "Park Maintenance Reporter",
+  "pitch": "Document equipment damage and needed repairs with photo analysis",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-42",
+  "title": "Community Emergency Responder",
+  "pitch": "Coordinate volunteer teams during disasters with AI resource allocation",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "dom-42",
+  "title": "Neighborhood Newsletter Designer",
+  "pitch": "AI-layout and image selection for community publications",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 4
+ },
+ {
+  "lens": "dom-42",
+  "title": "Community Garden Harvest Tracker",
+  "pitch": "Record yields and distribute surplus to local food banks",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-42",
+  "title": "Neighborhood Traffic Calmer",
+  "pitch": "Document speeding and dangerous driving patterns for traffic committees",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-42",
+  "title": "Community Event Photographer",
+  "pitch": "Automate photo selection and captioning for event volunteers",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 4
+ },
+ {
+  "lens": "dom-42",
+  "title": "Neighborhood History Curator",
+  "pitch": "Create digital exhibits from community photo collections with AI tagging",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 6
+ },
+ {
+  "lens": "dom-42",
+  "title": "Community Garden Plot Assigner",
+  "pitch": "Manage garden waitlist and plot rotation for volunteer coordinators",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-42",
+  "title": "Neighborhood Pet Waste Mapper",
+  "pitch": "Track and report problem areas for community clean-up volunteers",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 5,
+  "feas": 6
+ },
+ {
+  "lens": "dom-42",
+  "title": "Community Center Volunteer Hub",
+  "pitch": "Match skills with opportunities for volunteer management",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7
+ }
+]

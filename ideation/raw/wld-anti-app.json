@@ -1,0 +1,388 @@
+[
+ {
+  "lens": "wld-anti-app",
+  "title": "Email Therapist",
+  "pitch": "AI analyzes emotional tone in emails, suggests kinder phrasing",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "SMS Grammar Ghost",
+  "pitch": "Corrects grammar in text messages before you send",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 3
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "WhatsApp Summarizer",
+  "pitch": "Condenses long WhatsApp chats into bullet points",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 4
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "Email Subject Line Wizard",
+  "pitch": "Generates compelling email subjects based on content",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "SMS Translation Bot",
+  "pitch": "Translates text messages in real-time while preserving slang",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "Email Action Extractor",
+  "pitch": "Pulls tasks/deadlines from emails into calendar invites",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "WhatsApp Reply Suggester",
+  "pitch": "Offers context-aware replies to group chats",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "Email Triage Agent",
+  "pitch": "Auto-categorizes incoming emails by priority/action needed",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "SMS Tone Adjuster",
+  "pitch": "Rephrases texts to match your chosen emotional tone",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 4
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "Email Insight Finder",
+  "pitch": "Highlights key insights and questions in long email threads",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "WhatsApp Status Generator",
+  "pitch": "Creates engaging WhatsApp statuses from your photos",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "Email Response Predictor",
+  "pitch": "Foresee how recipients might react to your draft emails",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "SMS Emotion Detector",
+  "pitch": "Alerts you if your text might be misinterpreted emotionally",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "Email Meeting Scheduler",
+  "pitch": "Analyzes email threads to find optimal meeting times",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "WhatsApp Memory Miner",
+  "pitch": "Finds old photos/videos in chats based on text descriptions",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "Email Conflict Resolver",
+  "pitch": "Rephrases contentious emails to reduce friction",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "SMS Context Keeper",
+  "pitch": "Remembers conversation context across multiple texts",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "Email Privacy Scanner",
+  "pitch": "Detects sensitive info in outgoing emails before sending",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "WhatsApp Group Summarizer",
+  "pitch": "Condenses busy group chats into action items",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "Email Follow-Up Nagger",
+  "pitch": "Sends polite follow-ups based on your email history",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 4
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "SMS Style Chameleon",
+  "pitch": "Adapts your writing style to match recipients",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "Email Relationship Builder",
+  "pitch": "Suggests personalized conversation starters based on history",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "WhatsApp Mood Tracker",
+  "pitch": "Analyzes group chat sentiment over time",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "Email Auto-Responder",
+  "pitch": "Generates context-aware vacation/away messages",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "SMS Proofreader",
+  "pitch": "Catches typos and autocorrect fails before sending",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 3
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "Email Thread Organizer",
+  "pitch": "Structures chaotic email threads into coherent conversations",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "WhatsApp Story Weaver",
+  "pitch": "Turns your text messages into narrative stories",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "Email Insight Generator",
+  "pitch": "Creates executive summaries of long email chains",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "SMS Intent Recognizer",
+  "pitch": "Identifies user goals in text conversations",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "Email Attachment Finder",
+  "pitch": "Locates specific files in email threads based on descriptions",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "WhatsApp Memory Trigger",
+  "pitch": "Suggests photos to share based on conversation topics",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 4
+ },
+ {
+  "lens": "wld-anti-app",
+  "title": "Email Crisis Manager",
+  "pitch": "Recommends crisis communication strategies for sensitive emails",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 10,
+  "feas": 9
+ }
+]

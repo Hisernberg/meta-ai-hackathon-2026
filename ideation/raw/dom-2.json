@@ -1,0 +1,467 @@
+[
+ {
+  "lens": "dom-2",
+  "title": "Photo Flashcard Extractor",
+  "pitch": "Extracts diagrams/text from textbook photos into interactive flashcards for visual learners",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-2",
+  "title": "Lecture Audio Index",
+  "pitch": "Creates searchable timestamps from lecture audio with topic tags for quick review",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-2",
+  "title": "Scan-to-Formula",
+  "pitch": "Converts handwritten math problem scans into step-by-step solutions with explanations",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-2",
+  "title": "Study Session Logger",
+  "pitch": "Analyzes webcam footage to identify optimal study patterns and suggest improvements",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 6
+ },
+ {
+  "lens": "dom-2",
+  "title": "Textbook Page Summarizer",
+  "pitch": "Turns textbook photo pages into concise summaries highlighting key concepts",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-2",
+  "title": "Video Lecture Navigator",
+  "pitch": "Creates chapter markers from educational videos based on content analysis",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-2",
+  "title": "Handwriting Style Analyzer",
+  "pitch": "Evaluates note-taking style and suggests improvements for better retention",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 7
+ },
+ {
+  "lens": "dom-2",
+  "title": "Focus Pattern Mapper",
+  "pitch": "Uses screen time data to map concentration patterns during study sessions",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 4,
+  "feas": 8
+ },
+ {
+  "lens": "dom-2",
+  "title": "Lab Photo Journal",
+  "pitch": "Automatically documents experiments with photo analysis and procedure adherence check",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-2",
+  "title": "Audio Study Coach",
+  "pitch": "Analyzes voice patterns during study sessions to detect fatigue and suggest breaks",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 6
+ },
+ {
+  "lens": "dom-2",
+  "title": "Scan-to-Mindmap",
+  "pitch": "Converts textbook page scans into interactive visual mindmaps",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-2",
+  "title": "Video Problem Solver",
+  "pitch": "Records problem-solving sessions to identify efficient vs inefficient approaches",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 6
+ },
+ {
+  "lens": "dom-2",
+  "title": "Reading Speed Optimizer",
+  "pitch": "Analyzes reading patterns from video to suggest optimal pace for comprehension",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 7
+ },
+ {
+  "lens": "dom-2",
+  "title": "Note-to-Quiz",
+  "pitch": "Converts handwritten notes into personalized quizzes with spaced repetition",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-2",
+  "title": "Study Environment Scanner",
+  "pitch": "Uses phone camera to analyze optimal study setup for focus and retention",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 4,
+  "feas": 8
+ },
+ {
+  "lens": "dom-2",
+  "title": "Lecture Emotion Tracker",
+  "pitch": "Analyzes audio from lectures to identify confusing sections through vocal patterns",
+  "theme": "frontier",
+  "domain": "education",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-2",
+  "title": "Textbook Comparison Engine",
+  "pitch": "Compares multiple textbook photos to identify unique perspectives on same topics",
+  "theme": "frontier",
+  "domain": "education",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-2",
+  "title": "Study Session Predictor",
+  "pitch": "Analyzes past study data to predict optimal schedule for upcoming exams",
+  "theme": "frontier",
+  "domain": "education",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 6
+ },
+ {
+  "lens": "dom-2",
+  "title": "Video Attention Mapper",
+  "pitch": "Tracks eye movement via webcam to identify most engaging parts of study materials",
+  "theme": "frontier",
+  "domain": "education",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-2",
+  "title": "Concept Visualizer",
+  "pitch": "Transforms abstract textbook concepts into visual metaphors from photo analysis",
+  "theme": "frontier",
+  "domain": "education",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-2",
+  "title": "Study Group Analyzer",
+  "pitch": "Records group study sessions to identify most effective collaboration patterns",
+  "theme": "frontier",
+  "domain": "education",
+  "models": [
+   "sam-3.1",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-2",
+  "title": "Learning Style Detector",
+  "pitch": "Analyzes study materials and methods to recommend personalized approach",
+  "theme": "frontier",
+  "domain": "education",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-2",
+  "title": "Scan-to-Flashcard",
+  "pitch": "Automatically creates flashcards from textbook page scans with key concepts",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-2",
+  "title": "Study Session Archivist",
+  "pitch": "Records and tags study sessions with audio and video for comprehensive review",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "sam-3.1",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 5,
+  "feas": 7
+ },
+ {
+  "lens": "dom-2",
+  "title": "Textbook Error Spotter",
+  "pitch": "Compares textbook photos with online sources to identify potential errors",
+  "theme": "frontier",
+  "domain": "education",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-2",
+  "title": "Focus Time Optimizer",
+  "pitch": "Analyzes study session videos to identify peak focus periods and schedule accordingly",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 7
+ },
+ {
+  "lens": "dom-2",
+  "title": "Audio Study Companion",
+  "pitch": "Creates personalized audio summaries from textbook photos for on-the-go learning",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "muse-image-1.0",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-2",
+  "title": "Video Lecture Transcriber",
+  "pitch": "Converts educational videos into searchable transcripts with key concepts highlighted",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-2",
+  "title": "Handwriting Translator",
+  "pitch": "Converts handwritten notes into typed text with searchable formatting",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-2",
+  "title": "Study Pattern Analyzer",
+  "pitch": "Visualizes study habits from screen time and note-taking data",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 4,
+  "feas": 8
+ },
+ {
+  "lens": "dom-2",
+  "title": "Lab Experiment Analyzer",
+  "pitch": "Records and analyzes experiment videos to identify procedural improvements",
+  "theme": "frontier",
+  "domain": "education",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-2",
+  "title": "Concept Connector",
+  "pitch": "Links related concepts across different textbook pages and sources",
+  "theme": "frontier",
+  "domain": "education",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-2",
+  "title": "Study Session Coach",
+  "pitch": "Provides real-time feedback on study techniques via webcam analysis",
+  "theme": "frontier",
+  "domain": "education",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-2",
+  "title": "Textbook Visualizer",
+  "pitch": "Creates 3D models from textbook diagrams for interactive learning",
+  "theme": "frontier",
+  "domain": "education",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 4
+ },
+ {
+  "lens": "dom-2",
+  "title": "Learning Path Mapper",
+  "pitch": "Analyzes past study data to visualize optimal learning trajectories",
+  "theme": "frontier",
+  "domain": "education",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-2",
+  "title": "Study Session Scheduler",
+  "pitch": "Uses historical study data to predict optimal times for different subjects",
+  "theme": "world",
+  "domain": "education",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ }
+]

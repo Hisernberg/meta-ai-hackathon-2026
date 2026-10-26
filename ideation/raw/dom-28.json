@@ -1,0 +1,396 @@
+[
+ {
+  "lens": "dom-28",
+  "title": "Compliance Clause Decoder",
+  "pitch": "Turns dense legal clauses into plain English for busy paralegals",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-28",
+  "title": "Contract Deadline Tracker",
+  "pitch": "Automatically flags approaching contract deadlines with risk scoring",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-28",
+  "title": "Regulation Radar",
+  "pitch": "Scans new regulations and flags relevant changes for specific practice areas",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-28",
+  "title": "Evidence Organizer",
+  "pitch": "Automatically tags and organizes case evidence from documents and images",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-28",
+  "title": "Billing Time Wizard",
+  "pitch": "Tracks lawyer time across cases and suggests optimal billing codes",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 4
+ },
+ {
+  "lens": "dom-28",
+  "title": "Discovery Document Analyzer",
+  "pitch": "Instantly summarizes and extracts key points from thousands of discovery docs",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-28",
+  "title": "Client Risk Profiler",
+  "pitch": "Analyzes client history to predict compliance risks before they happen",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-28",
+  "title": "Court Calendar Optimizer",
+  "pitch": "Schedules court appearances considering judges' preferences and case priorities",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 5,
+  "feas": 6
+ },
+ {
+  "lens": "dom-28",
+  "title": "Compliance Report Generator",
+  "pitch": "Creates tailored compliance reports from regulatory documents with one click",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-28",
+  "title": "Legal Research Assistant",
+  "pitch": "Answers complex legal questions with citations from firm's past cases",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-28",
+  "title": "Document Redaction Tool",
+  "pitch": "Automatically redacts sensitive info from legal documents with 100% accuracy",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-28",
+  "title": "Fee Estimator",
+  "pitch": "Predicts case costs based on similar historical cases with 90% accuracy",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-28",
+  "title": "Witness Prep Coach",
+  "pitch": "Generates witness prep materials tailored to specific case questions",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-28",
+  "title": "Regulation Impact Analyzer",
+  "pitch": "Shows how new regulations will affect specific client contracts",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-28",
+  "title": "File Room Digital Twin",
+  "pitch": "Creates searchable 3D model of physical file room with instant document retrieval",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-28",
+  "title": "Ethics Check Scanner",
+  "pitch": "Reviews outgoing communications for potential ethical violations",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-28",
+  "title": "Case Outcome Predictor",
+  "pitch": "Forecasts case outcomes based on judge history and similar cases",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-28",
+  "title": "Document Version Tracker",
+  "pitch": "Automatically tracks and summarizes changes in contract drafts",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 5,
+  "feas": 4
+ },
+ {
+  "lens": "dom-28",
+  "title": "Compliance Gap Finder",
+  "pitch": "Compares company practices against regulations and highlights gaps",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-28",
+  "title": "Jury Selection Assistant",
+  "pitch": "Analyzes juror questionnaires to predict trial outcomes",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-28",
+  "title": "Legal Intake Processor",
+  "pitch": "Automatically categorizes and prioritizes new client requests",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-28",
+  "title": "Regulation Change Notifier",
+  "pitch": "Sends instant alerts when regulations affecting clients change",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 4
+ },
+ {
+  "lens": "dom-28",
+  "title": "Contract Negotiation Coach",
+  "pitch": "Suggests negotiation strategies based on opponent's history",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-28",
+  "title": "Document Authenticity Verifier",
+  "pitch": "Detects forged or altered documents with 99% accuracy",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-28",
+  "title": "Billing Dispute Resolver",
+  "pitch": "Automatically resolves client billing disputes with documentation",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-28",
+  "title": "Compliance Training Generator",
+  "pitch": "Creates custom compliance training videos from regulations",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-image-1.0",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-28",
+  "title": "Case Strategy Optimizer",
+  "pitch": "Analyzes past cases to suggest optimal litigation strategies",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-28",
+  "title": "File Migration Assistant",
+  "pitch": "Automatically migrates physical files to digital with searchable metadata",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-28",
+  "title": "Ethics Decision Tree",
+  "pitch": "Guides lawyers through complex ethical dilemmas with precedents",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-28",
+  "title": "Regulation Summarizer",
+  "pitch": "Condenses 100-page regulations into one-page actionable summaries",
+  "theme": "frontier",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-28",
+  "title": "Court Document Formatter",
+  "pitch": "Automatically formats documents to meet specific court requirements",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 5,
+  "feas": 4
+ },
+ {
+  "lens": "dom-28",
+  "title": "Compliance Audit Scheduler",
+  "pitch": "Automatically schedules and prepares for compliance audits",
+  "theme": "world",
+  "domain": "law & compliance back offices",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ }
+]

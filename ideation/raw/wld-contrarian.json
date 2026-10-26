@@ -1,0 +1,387 @@
+[
+ {
+  "lens": "wld-contrarian",
+  "title": "AI Proofreader for Human Voice",
+  "pitch": "Edits written text to match your unique speaking voice",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Emotion Guard",
+  "pitch": "Filters AI suggestions that trigger emotional responses",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Bias Detective",
+  "pitch": "Flags hidden assumptions in AI-generated content",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Creative Constraint Generator",
+  "pitch": "Forces AI to work within specific human limitations",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Human Decision Preserver",
+  "pitch": "Prevents AI from making decisions that should remain human",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Artisanal AI",
+  "pitch": "AI that intentionally makes imperfect, human-like outputs",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Interruption Enforcer",
+  "pitch": "Forces AI to pause and let humans take control",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Mistake Amplifier",
+  "pitch": "Highlights errors in AI reasoning to improve human judgment",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Human Touch Detector",
+  "pitch": "Identifies when AI lacks necessary human nuance",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Anti-Artificial Creativity",
+  "pitch": "Generates ideas that feel distinctly human",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Ethical Boundary Setter",
+  "pitch": "Forces AI to operate within predefined ethical limits",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Imperfection Preserver",
+  "pitch": "Adds deliberate flaws to AI outputs to maintain human agency",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Human Experience Validator",
+  "pitch": "Ensures AI solutions align with human experiences",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Contrarian AI",
+  "pitch": "Generates arguments against popular AI solutions",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Human Judgment Coach",
+  "pitch": "Teaches when to trust vs distrust AI suggestions",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Un-AI-ifier",
+  "pitch": "Removes AI-like patterns from generated content",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Human-Centric AI",
+  "pitch": "Forces AI to consider human needs before optimization",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Authenticity Checker",
+  "pitch": "Detects AI-generated content that lacks human authenticity",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Intentional Inefficiency",
+  "pitch": "AI that intentionally slows down to match human pace",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Human Value Guardian",
+  "pitch": "Protects human values from AI optimization",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Human-AI Symbiosis",
+  "pitch": "Tools that enhance human capabilities without replacing them",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "AI Skeptic Simulator",
+  "pitch": "Generates counterarguments to AI suggestions",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Human Error Simulator",
+  "pitch": "Adds realistic human errors to AI outputs",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Human Connection Preserver",
+  "pitch": "Ensures AI doesn't eliminate necessary human interactions",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Anti-Perfectionist AI",
+  "pitch": "Generates deliberately imperfect solutions",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Human Agency Protector",
+  "pitch": "Prevents AI from overstepping human decision boundaries",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Human Touch Amplifier",
+  "pitch": "Enhances AI outputs with human-like imperfections",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Human-Centric AI",
+  "pitch": "Forces AI to consider human values before efficiency",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Human Experience Enhancer",
+  "pitch": "AI that improves without replacing human judgment",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Human-AI Balance",
+  "pitch": "Tools that maintain optimal human-AI interaction",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Human-Centric AI",
+  "pitch": "AI that prioritizes human needs over technical perfection",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "wld-contrarian",
+  "title": "Human Judgment Preserver",
+  "pitch": "Ensures AI doesn't replace human decision-making",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ }
+]

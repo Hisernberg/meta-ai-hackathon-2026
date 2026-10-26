@@ -1,0 +1,249 @@
+[
+ {
+  "lens": "tw-physical",
+  "title": "Plant Doctor Scanner",
+  "pitch": "Diagnose plant diseases from photos, care instructions generated",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-physical",
+  "title": "Food Freshness Check",
+  "pitch": "Analyze food items for spoilage via camera, get usage alerts",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "tw-physical",
+  "title": "Clothing Fit Analyzer",
+  "pitch": "Upload outfit photo, get precise fit measurements and style tips",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-physical",
+  "title": "Workout Form Coach",
+  "pitch": "Film exercises, get real-time form corrections and improvement tips",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "tw-physical",
+  "title": "Medication Identifier",
+  "pitch": "Snap pill photos, verify medications and track usage schedules",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-physical",
+  "title": "Home Safety Inspector",
+  "pitch": "Scan rooms, generate personalized safety checklists and fixes",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-physical",
+  "title": "Car Damage Assessor",
+  "pitch": "Upload accident photos, get repair estimates and documentation help",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-physical",
+  "title": "Recipe Ingredient Scanner",
+  "pitch": "Snap fridge contents, get recipe suggestions based on available items",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "tw-physical",
+  "title": "Garden Layout Planner",
+  "pitch": "Upload yard photo, get optimal planting suggestions and layouts",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-physical",
+  "title": "Pet Health Monitor",
+  "pitch": "Film pet behavior, get health assessments and care recommendations",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-physical",
+  "title": "Surface Defect Detector",
+  "pitch": "Scan surfaces, identify issues and generate repair instructions",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "tw-physical",
+  "title": "Traffic Sign Recognizer",
+  "pitch": "Film road signs, get real-time navigation and safety alerts",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "tw-physical",
+  "title": "Soil Composition Scanner",
+  "pitch": "Upload soil photos, get nutrient analysis and amendment suggestions",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-physical",
+  "title": "Appliance Status Check",
+  "pitch": "Film home appliances, get usage tips and maintenance schedules",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-physical",
+  "title": "Package Condition Verifier",
+  "pitch": "Scan delivered packages, document damage for returns claims",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-physical",
+  "title": "Furniture Arranger",
+  "pitch": "Upload room photo, get optimized furniture layout suggestions",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "tw-physical",
+  "title": "Paint Color Matcher",
+  "pitch": "Snap inspiration colors, find closest paint matches and brands",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "tw-physical",
+  "title": "Energy Usage Auditor",
+  "pitch": "Scan home appliances, get energy efficiency recommendations",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "tw-physical",
+  "title": "Child Safety Checker",
+  "pitch": "Scan rooms, identify potential hazards and get safety fixes",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 7
+ }
+]

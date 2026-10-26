@@ -1,0 +1,417 @@
+[
+ {
+  "lens": "dom-47",
+  "title": "SwingForm AI",
+  "pitch": "Analyzes golf swing videos to detect form issues",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-47",
+  "title": "Running Gait Analyzer",
+  "pitch": "Transforms phone-captured running videos into gait improvement tips",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-47",
+  "title": "Shot Arc Coach",
+  "pitch": "Basketball shooting form analysis from court-side videos",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-47",
+  "title": "ServeVision",
+  "pitch": "Tennis serve mechanics breakdown from match recordings",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-47",
+  "title": "ClimbRoute AI",
+  "pitch": "Analyzes climbing wall videos to suggest beta improvements",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-47",
+  "title": "StrokeSync",
+  "pitch": "Swimming stroke efficiency analysis from underwater videos",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-47",
+  "title": "BatPath Optimizer",
+  "pitch": "Baseball swing trajectory analysis from game footage",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-47",
+  "title": "PosturePerfect",
+  "pitch": "Weightlifting form analysis from gym session videos",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-47",
+  "title": "SkiLine AI",
+  "pitch": "Skiing turn analysis from helmet camera footage",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-47",
+  "title": "YogaPose AI",
+  "pitch": "Yoga form correction from home practice videos",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-47",
+  "title": "ThrowPath Analyzer",
+  "pitch": "Quarterback throwing motion analysis from game tapes",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-47",
+  "title": "CatchFrame",
+  "pitch": "Baseball catching technique analysis from practice videos",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-47",
+  "title": "HikePace AI",
+  "pitch": "Analyzes hiking GPS data to suggest pace improvements",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-47",
+  "title": "RaceLine Coach",
+  "pitch": "Motocross racing line analysis from helmet footage",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-47",
+  "title": "SurfSync",
+  "pitch": "Surfing wave positioning analysis from session videos",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-47",
+  "title": "JumpForm AI",
+  "pitch": "Vertical jump technique analysis from workout videos",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-47",
+  "title": "PoleVault AI",
+  "pitch": "Pole vault form analysis from competition footage",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-47",
+  "title": "SprintFrame",
+  "pitch": "Track sprint start analysis from race videos",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-47",
+  "title": "DivePath",
+  "pitch": "Diving form analysis from competition videos",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-47",
+  "title": "GripAI",
+  "pitch": "Tennis grip analysis from match recordings",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-47",
+  "title": "ShotPut AI",
+  "pitch": "Shot put technique analysis from practice videos",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-47",
+  "title": "FlexForm AI",
+  "pitch": "Gymnastics flexibility analysis from routine videos",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-47",
+  "title": "SkateLine",
+  "pitch": "Skateboarding trick landing analysis from session footage",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-47",
+  "title": "KayakPath",
+  "pitch": "Kayaking stroke efficiency from helmet camera footage",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-47",
+  "title": "VolleyBlock AI",
+  "pitch": "Volleyball blocking technique from match videos",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-47",
+  "title": "HockeyStick AI",
+  "pitch": "Hockey stick handling analysis from game footage",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-47",
+  "title": "TumbleTrack",
+  "pitch": "Gymnastics tumbling pass analysis from competition videos",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 6
+ },
+ {
+  "lens": "dom-47",
+  "title": "BoxingPunch AI",
+  "pitch": "Boxing punch technique analysis from sparring videos",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-47",
+  "title": "SoccerKick AI",
+  "pitch": "Soccer kicking form analysis from practice videos",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-47",
+  "title": "RowSync",
+  "pitch": "Rowing stroke efficiency from boat camera footage",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-47",
+  "title": "LiftVision",
+  "pitch": "Weightlifting bar path analysis from gym videos",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-47",
+  "title": "DiscFlight AI",
+  "pitch": "Frisbee throw technique analysis from game footage",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ }
+]

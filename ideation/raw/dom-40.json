@@ -1,0 +1,431 @@
+[
+ {
+  "lens": "dom-40",
+  "title": "Contract Clause Extractor",
+  "pitch": "Parse vendor contracts for hidden fees and auto-flag red flags for dev leads",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-40",
+  "title": "Compliance Copilot",
+  "pitch": "Scan code repos for GDPR/HIPAA violations before deployment with actionable fixes",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-40",
+  "title": "Budget Burn Dashboard",
+  "pitch": "Real-time API cost monitor that auto-pauses runaway spending before invoices hit",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-40",
+  "title": "Client Scope Guard",
+  "pitch": "Auto-detect scope creep in Slack/Jira and generate change order docs instantly",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-40",
+  "title": "Invoice Auditor",
+  "pitch": "Cross-reference dev hours with deliverables to flag overbilling before client disputes",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-40",
+  "title": "License Linter",
+  "pitch": "Scan dependencies for commercial use restrictions before merging to main",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-40",
+  "title": "SLA Sentinel",
+  "pitch": "Monitor uptime SLAs across services and auto-generate credit requests when breached",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-40",
+  "title": "Resource Prophet",
+  "pitch": "Predict team bandwidth bottlenecks 3 weeks out using historical sprint data",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-40",
+  "title": "Code Custodian",
+  "pitch": "Auto-architect legacy code retirement plans with migration cost estimates",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-40",
+  "title": "Vendor Veto",
+  "pitch": "Compare cloud provider pricing for your workload and auto-switch to cheapest option",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-40",
+  "title": "Security Sentinel",
+  "pitch": "Scan PRs for hardcoded secrets and auto-revoke access if detected",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-40",
+  "title": "Compliance Copilot",
+  "pitch": "Generate SOC2 audit trails from deployment logs with one-click report generation",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-40",
+  "title": "Contract Clause Extractor",
+  "pitch": "Parse vendor contracts for hidden fees and auto-flag red flags for dev leads",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-40",
+  "title": "Budget Burn Dashboard",
+  "pitch": "Real-time API cost monitor that auto-pauses runaway spending before invoices hit",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-40",
+  "title": "Client Scope Guard",
+  "pitch": "Auto-detect scope creep in Slack/Jira and generate change order docs instantly",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-40",
+  "title": "Invoice Auditor",
+  "pitch": "Cross-reference dev hours with deliverables to flag overbilling before client disputes",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-40",
+  "title": "License Linter",
+  "pitch": "Scan dependencies for commercial use restrictions before merging to main",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-40",
+  "title": "SLA Sentinel",
+  "pitch": "Monitor uptime SLAs across services and auto-generate credit requests when breached",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-40",
+  "title": "Resource Prophet",
+  "pitch": "Predict team bandwidth bottlenecks 3 weeks out using historical sprint data",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-40",
+  "title": "Code Custodian",
+  "pitch": "Auto-architect legacy code retirement plans with migration cost estimates",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-40",
+  "title": "Vendor Veto",
+  "pitch": "Compare cloud provider pricing for your workload and auto-switch to cheapest option",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-40",
+  "title": "Security Sentinel",
+  "pitch": "Scan PRs for hardcoded secrets and auto-revoke access if detected",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-40",
+  "title": "Compliance Copilot",
+  "pitch": "Generate SOC2 audit trails from deployment logs with one-click report generation",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-40",
+  "title": "Contract Clause Extractor",
+  "pitch": "Parse vendor contracts for hidden fees and auto-flag red flags for dev leads",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-40",
+  "title": "Budget Burn Dashboard",
+  "pitch": "Real-time API cost monitor that auto-pauses runaway spending before invoices hit",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-40",
+  "title": "Client Scope Guard",
+  "pitch": "Auto-detect scope creep in Slack/Jira and generate change order docs instantly",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-40",
+  "title": "Invoice Auditor",
+  "pitch": "Cross-reference dev hours with deliverables to flag overbilling before client disputes",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-40",
+  "title": "License Linter",
+  "pitch": "Scan dependencies for commercial use restrictions before merging to main",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-40",
+  "title": "SLA Sentinel",
+  "pitch": "Monitor uptime SLAs across services and auto-generate credit requests when breached",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-40",
+  "title": "Resource Prophet",
+  "pitch": "Predict team bandwidth bottlenecks 3 weeks out using historical sprint data",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-40",
+  "title": "Code Custodian",
+  "pitch": "Auto-architect legacy code retirement plans with migration cost estimates",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-40",
+  "title": "Vendor Veto",
+  "pitch": "Compare cloud provider pricing for your workload and auto-switch to cheapest option",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-40",
+  "title": "Security Sentinel",
+  "pitch": "Scan PRs for hardcoded secrets and auto-revoke access if detected",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ }
+]

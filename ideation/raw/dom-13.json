@@ -1,0 +1,403 @@
+[
+ {
+  "lens": "dom-13",
+  "title": "QuoteCraft Pro",
+  "pitch": "Generate custom quotes from CAD files in seconds for metal fabricators",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-13",
+  "title": "MaterialMatch AI",
+  "pitch": "Identify exact material specs from customer photos for machine shops",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-13",
+  "title": "JobFlow Coach",
+  "pitch": "Optimize production scheduling for small woodworking shops with AI",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-13",
+  "title": "CostWise",
+  "pitch": "Real-time material waste tracking for custom furniture makers",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-13",
+  "title": "Visual QC Assistant",
+  "pitch": "Automated quality control checks for 3D printed parts using SAM",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-13",
+  "title": "InvoiceGenius",
+  "pitch": "Create detailed invoices from production logs for custom welders",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-13",
+  "title": "Precision Planner",
+  "pitch": "Generate optimized cutting layouts for sheet metal workers",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-13",
+  "title": "ShopTalk",
+  "pitch": "Voice-activated equipment maintenance logs for busy machine shops",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-13",
+  "title": "StockSnap",
+  "pitch": "Visual inventory management using smartphone photos for small foundries",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-13",
+  "title": "TechSpec Translator",
+  "pitch": "Convert technical drawings to plain English for non-tech clients",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-13",
+  "title": "WeldWatch",
+  "pitch": "Monitor welding quality through video analysis with SAM detection",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-13",
+  "title": "BidBuilder",
+  "pitch": "Create competitive manufacturing bids based on historical data",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-13",
+  "title": "MoldMatch",
+  "pitch": "Identify compatible replacement parts from damaged component photos",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-13",
+  "title": "TimeTracker",
+  "pitch": "Automated employee time tracking from production floor video",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-13",
+  "title": "QuoteQuick",
+  "pitch": "Instant pricing for custom machining from verbal descriptions",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-13",
+  "title": "SurfaceScan",
+  "pitch": "Detect surface defects on cast parts using smartphone imagery",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-13",
+  "title": "OrderFlow",
+  "pitch": "Streamlined custom order management for small fabrication shops",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-13",
+  "title": "SpecScribe",
+  "pitch": "Convert handwritten technical notes to digital work orders",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-13",
+  "title": "CutOptimizer",
+  "pitch": "Minimize material waste for custom metal cutting operations",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-13",
+  "title": "ClientSketch",
+  "pitch": "Turn customer napkin sketches into professional CAD drafts",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-13",
+  "title": "ToolTracker",
+  "pitch": "Monitor tool usage patterns to predict maintenance needs",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-13",
+  "title": "VisualQuote",
+  "pitch": "Generate quotes from customer-provided part images",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-13",
+  "title": "ProductionPulse",
+  "pitch": "Real-time production status updates via text message",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-13",
+  "title": "MeasureMate",
+  "pitch": "Extract precise dimensions from photos of existing parts",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-13",
+  "title": "JobJournal",
+  "pitch": "Voice-to-text production logging for hands-free operation",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-13",
+  "title": "MaterialMind",
+  "pitch": "Identify alternative materials when stock is depleted",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-13",
+  "title": "InvoiceAI",
+  "pitch": "Generate accurate invoices from production completion photos",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-13",
+  "title": "ScheduleSavvy",
+  "pitch": "Optimize shift scheduling around equipment availability",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-13",
+  "title": "PartProfiler",
+  "pitch": "Create technical specifications from part images alone",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-13",
+  "title": "ShopScribe",
+  "pitch": "Convert equipment manuals into searchable knowledge base",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-13",
+  "title": "CostCrafter",
+  "pitch": "Break down project costs by operation for transparent billing",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-13",
+  "title": "VisualQC",
+  "pitch": "Compare finished parts against CAD models using phone camera",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ }
+]

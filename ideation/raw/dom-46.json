@@ -1,0 +1,427 @@
+[
+ {
+  "lens": "dom-46",
+  "title": "Automated Client Contract Generator",
+  "pitch": "Generate personalized coaching contracts with liability waivers in seconds",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-46",
+  "title": "Dynamic Pricing Coach",
+  "pitch": "AI that adjusts coaching rates based on demand, athlete performance, and market trends",
+  "theme": "frontier",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-46",
+  "title": "Athlete Progress Visualizer",
+  "pitch": "Transform raw performance data into compelling visual reports for athletes and parents",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-46",
+  "title": "Session Scheduler Pro",
+  "pitch": "Automatically find optimal coaching times considering athlete availability, field bookings, and travel",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-46",
+  "title": "Equipment Inventory Manager",
+  "pitch": "Track gear usage, predict maintenance needs, and automate reordering for coaches",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-46",
+  "title": "Payment Reminder Bot",
+  "pitch": "Personalized payment nudges with athlete-specific achievement highlights to encourage timely payments",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-46",
+  "title": "Tournament Application Assistant",
+  "pitch": "Fill out complex tournament registration forms with athlete data and performance metrics",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-46",
+  "title": "Insurance Claim Processor",
+  "pitch": "Automatically complete sports injury insurance claims with medical report analysis",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-46",
+  "title": "Facility Booking Negotiator",
+  "pitch": "AI that negotiates optimal field/court times and rates with multiple venues",
+  "theme": "frontier",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-46",
+  "title": "Athlete Development Roadmap",
+  "pitch": "Generate personalized 6-month development plans with progress milestones",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-46",
+  "title": "Sponsorship Proposal Generator",
+  "pitch": "Create compelling sponsorship packages with athlete performance highlights and social proof",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-46",
+  "title": "Nutrition Plan Creator",
+  "pitch": "Generate personalized meal plans based on training schedules and performance goals",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-46",
+  "title": "Travel Itinerary Planner",
+  "pitch": "Automate team travel arrangements for tournaments with optimal routes and accommodations",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-46",
+  "title": "Parent Communication Hub",
+  "pitch": "Automate personalized progress updates to parents with video highlights and metrics",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "muse-voice-transcribe-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-46",
+  "title": "Equipment Usage Analytics",
+  "pitch": "Track and analyze equipment usage patterns to optimize purchasing and maintenance schedules",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-46",
+  "title": "Athlete Skill Assessment",
+  "pitch": "Automatically evaluate technique videos against professional benchmarks with specific feedback",
+  "theme": "frontier",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-46",
+  "title": "Tax Deduction Tracker",
+  "pitch": "Automatically categorize and track business expenses for tax season with receipt scanning",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-46",
+  "title": "Opponent Analysis Tool",
+  "pitch": "Generate detailed scouting reports on upcoming competitors from video footage",
+  "theme": "frontier",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-46",
+  "title": "Client Onboarding System",
+  "pitch": "Automate new athlete paperwork with digital signatures and document management",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-46",
+  "title": "Injury Recovery Planner",
+  "pitch": "Create personalized rehabilitation programs with progress tracking milestones",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-46",
+  "title": "Social Media Content Creator",
+  "pitch": "Generate engaging posts with athlete achievements, training tips, and team highlights",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-46",
+  "title": "Referee Scheduling Assistant",
+  "pitch": "Automate referee assignments with conflict detection and availability management",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-46",
+  "title": "Athlete Mental Health Tracker",
+  "pitch": "Monitor athlete well-being through sentiment analysis of communications and training logs",
+  "theme": "frontier",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-46",
+  "title": "Grant Application Writer",
+  "pitch": "Automatically complete sports funding applications with performance metrics and community impact data",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-46",
+  "title": "Equipment Sharing Platform",
+  "pitch": "Connect athletes with underutilized equipment through automated matchmaking",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-46",
+  "title": "Training Session Optimizer",
+  "pitch": "Adjust daily training plans based on athlete fatigue metrics and weather conditions",
+  "theme": "frontier",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-46",
+  "title": "Athlete Compliance Monitor",
+  "pitch": "Track attendance, payment status, and requirement completion with automated reminders",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-46",
+  "title": "Video Analysis Assistant",
+  "pitch": "Automatically tag technique issues in athlete footage with corrective suggestions",
+  "theme": "frontier",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-46",
+  "title": "Sponsorship Fulfillment Tracker",
+  "pitch": "Monitor and report on athlete sponsorship deliverables with automated reminders",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-46",
+  "title": "League Registration Manager",
+  "pitch": "Automatically complete league registration forms with team rosters and schedules",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-46",
+  "title": "Athlete Potential Predictor",
+  "pitch": "Analyze performance data to identify athletes with high potential for advancement",
+  "theme": "frontier",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-46",
+  "title": "Equipment Maintenance Scheduler",
+  "pitch": "Predict equipment failures and schedule maintenance before breakdowns occur",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-46",
+  "title": "Athlete Development Journal",
+  "pitch": "Create personalized digital journals with performance tracking and goal setting",
+  "theme": "world",
+  "domain": "sports coaching & amateur athletes",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ }
+]

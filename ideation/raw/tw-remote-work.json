@@ -1,0 +1,385 @@
+[
+ {
+  "lens": "tw-remote-work",
+  "title": "Handoff Sync",
+  "pitch": "Automated async video meeting summaries with action items for global teams",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Timezone Translator",
+  "pitch": "Convert voice messages to text in recipient's timezone with context",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Async Video Digest",
+  "pitch": "AI-generated video highlight reels from cross-continental handoff meetings",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Handoff Oracle",
+  "pitch": "Predict optimal async communication times across global timezones",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Voice Bridge",
+  "pitch": "Translate async voice messages with speaker diarization for handoffs",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "FrameSync",
+  "pitch": "Automated video frame extraction for async design handoffs",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Global Whisper",
+  "pitch": "Async voice message prioritization based on timezone urgency",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Timezone Tailor",
+  "pitch": "Custom async communication templates for global team handoffs",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Handoff Navigator",
+  "pitch": "Visual timeline generator for async cross-timezone project handoffs",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Async Insight",
+  "pitch": "AI-generated meeting summaries with timezone-aware action items",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Global Handoff",
+  "pitch": "Automated async video message summarization with timezone context",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Timezone Translator",
+  "pitch": "Convert async video messages to text with cultural context",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Handoff Oracle",
+  "pitch": "Predict optimal async communication windows across global teams",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "FrameSync",
+  "pitch": "AI-powered video frame extraction for async design handoffs",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Global Whisper",
+  "pitch": "Async voice message prioritization based on recipient timezone",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Timezone Tailor",
+  "pitch": "Custom async communication templates for global project handoffs",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Handoff Navigator",
+  "pitch": "Visual timeline generator for async cross-timezone workflows",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Async Insight",
+  "pitch": "AI-generated meeting summaries with timezone-aware action items",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Global Handoff",
+  "pitch": "Automated async video message summarization with timezone context",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Timezone Translator",
+  "pitch": "Convert async video messages to text with cultural context",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Handoff Oracle",
+  "pitch": "Predict optimal async communication windows across global teams",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "FrameSync",
+  "pitch": "AI-powered video frame extraction for async design handoffs",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Global Whisper",
+  "pitch": "Async voice message prioritization based on recipient timezone",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Timezone Tailor",
+  "pitch": "Custom async communication templates for global project handoffs",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Handoff Navigator",
+  "pitch": "Visual timeline generator for async cross-timezone workflows",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Async Insight",
+  "pitch": "AI-generated meeting summaries with timezone-aware action items",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Global Handoff",
+  "pitch": "Automated async video message summarization with timezone context",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Timezone Translator",
+  "pitch": "Convert async video messages to text with cultural context",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "Handoff Oracle",
+  "pitch": "Predict optimal async communication windows across global teams",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "tw-remote-work",
+  "title": "FrameSync",
+  "pitch": "AI-powered video frame extraction for async design handoffs",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ }
+]

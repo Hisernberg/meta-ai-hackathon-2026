@@ -1,0 +1,412 @@
+[
+ {
+  "lens": "dom-4",
+  "title": "Menu Profit Analyzer",
+  "pitch": "Automatically calculates dish profitability based on ingredient costs and sales data",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-4",
+  "title": "Staff Shift Optimizer",
+  "pitch": "AI that creates optimal staff schedules considering labor costs and peak hours",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-4",
+  "title": "Supplier Negotiation Assistant",
+  "pitch": "Analyzes past orders to suggest optimal negotiation points with suppliers",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-4",
+  "title": "Food Waste Predictor",
+  "pitch": "Forecasts daily waste to help adjust purchasing and prep quantities",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 10,
+  "feas": 9
+ },
+ {
+  "lens": "dom-4",
+  "title": "Customer Review Responder",
+  "pitch": "Drafts personalized responses to reviews based on sentiment and restaurant style",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 7
+ },
+ {
+  "lens": "dom-4",
+  "title": "Menu Engineering Visualizer",
+  "pitch": "Creates visual menu layout recommendations based on profit and popularity data",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-4",
+  "title": "Compliance Document Generator",
+  "pitch": "Auto-generates health and safety documentation for inspections",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-4",
+  "title": "Inventory Snapshot Taker",
+  "pitch": "AI that analyzes photos of inventory to track stock levels automatically",
+  "theme": "frontier",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-4",
+  "title": "Recipe Cost Calculator",
+  "pitch": "Breaks down recipe costs by ingredient and suggests cost-saving substitutions",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-4",
+  "title": "Kitchen Workflow Mapper",
+  "pitch": "Analyzes video of kitchen operations to suggest workflow improvements",
+  "theme": "frontier",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-4",
+  "title": "Local Market Trend Tracker",
+  "pitch": "Monitors food trends in your area to suggest menu opportunities",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-4",
+  "title": "Staff Training Simulator",
+  "pitch": "Creates role-play scenarios for training staff on difficult customer interactions",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-4",
+  "title": "Price Optimization Engine",
+  "pitch": "Suggests optimal pricing based on competitor analysis and customer segments",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-4",
+  "title": "Food Safety Auditor",
+  "pitch": "Analyzes daily operations for potential food safety risks",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-4",
+  "title": "Customer Journey Mapper",
+  "pitch": "Visualizes the complete customer experience from reservation to feedback",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-4",
+  "title": "Energy Usage Optimizer",
+  "pitch": "Analyzes utility bills to suggest energy-saving improvements",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 6
+ },
+ {
+  "lens": "dom-4",
+  "title": "Menu Seasonal Adjuster",
+  "pitch": "Automatically suggests menu changes based on seasonal ingredient availability",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-4",
+  "title": "Kitchen Layout Optimizer",
+  "pitch": "Analyzes kitchen workflow to suggest physical layout improvements",
+  "theme": "frontier",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-4",
+  "title": "Customer Retention Predictor",
+  "pitch": "Identifies at-risk customers based on visit patterns and suggests win-back strategies",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-4",
+  "title": "Recipe Scaling Calculator",
+  "pitch": "Automatically adjusts ingredient quantities for different batch sizes",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 5
+ },
+ {
+  "lens": "dom-4",
+  "title": "Local Food Sourcing Finder",
+  "pitch": "Maps local suppliers and suggests sustainable sourcing options",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-4",
+  "title": "Kitchen Speech-to-Process",
+  "pitch": "Transcribes chef instructions into standardized recipes and procedures",
+  "theme": "frontier",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-4",
+  "title": "Menu Translation Engine",
+  "pitch": "Creates multilingual versions of menus and signage automatically",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-4",
+  "title": "Staff Performance Dashboard",
+  "pitch": "Tracks key metrics and provides feedback on staff performance",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-4",
+  "title": "Food Allergy Checker",
+  "pitch": "Analyzes ingredients against common allergens for menu items",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-4",
+  "title": "Reservation Pattern Analyzer",
+  "pitch": "Forecasts reservation trends to optimize staffing and inventory",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-4",
+  "title": "Visual Food Quality Inspector",
+  "pitch": "Analyzes food photos to ensure quality standards are met",
+  "theme": "frontier",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-4",
+  "title": "Local Event Impact Predictor",
+  "pitch": "Forecasts how local events will impact business and suggests preparations",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-4",
+  "title": "Recipe Complexity Scorer",
+  "pitch": "Analyzes recipes to suggest which are most efficient for high-volume service",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-4",
+  "title": "Customer Feedback Theme Analyzer",
+  "pitch": "Identifies common themes in reviews to address systemic issues",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-4",
+  "title": "Kitchen Noise Level Monitor",
+  "pitch": "Tracks noise levels in kitchen to identify workflow bottlenecks",
+  "theme": "frontier",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-4",
+  "title": "Menu Photo Generator",
+  "pitch": "Creates professional food photos from descriptions for menus and social media",
+  "theme": "frontier",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-4",
+  "title": "Staff Availability Optimizer",
+  "pitch": "Matches staff preferences with business needs to create optimal schedules",
+  "theme": "world",
+  "domain": "independent restaurants & food business",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ }
+]

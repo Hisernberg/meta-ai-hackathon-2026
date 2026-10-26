@@ -1,0 +1,418 @@
+[
+ {
+  "lens": "cap-sam-video",
+  "title": "Kitchen Counter Inspector",
+  "pitch": "Track food prep progress via counter clutter for home cooks",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Garden Growth Tracker",
+  "pitch": "Measure plant growth across seasons with object detection",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Workout Form Coach",
+  "pitch": "Track body position during exercises for home fitness",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "DIY Project Timer",
+  "pitch": "Measure material usage across time for crafters",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Puzzle Progress Logger",
+  "pitch": "Track puzzle piece placement for complex jigsaws",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 4
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Garage Organization System",
+  "pitch": "Track tool movement and storage for DIY enthusiasts",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Art Studio Time-lapse",
+  "pitch": "Track paint layering and material usage for artists",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Laundry Load Analyzer",
+  "pitch": "Track clothing items sorted by type for families",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 4
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Toy Chest Organizer",
+  "pitch": "Track toy usage patterns for parents",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Recipe Ingredient Tracker",
+  "pitch": "Measure ingredient depletion during cooking for chefs",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Garage Sale Helper",
+  "pitch": "Track item movement and pricing for sellers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Pet Activity Monitor",
+  "pitch": "Track toy usage and movement patterns for pet owners",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Model Building Assistant",
+  "pitch": "Track component placement for hobbyists",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 4
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Closet Space Optimizer",
+  "pitch": "Track garment rotation and usage for fashion-conscious",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Aquarium Life Tracker",
+  "pitch": "Monitor fish movement and plant growth for hobbyists",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 4
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Workbench Inventory",
+  "pitch": "Track tool placement and usage for makers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Sports Practice Analyzer",
+  "pitch": "Track ball movement and player positioning for coaches",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Construction Site Monitor",
+  "pitch": "Track material usage and worker positioning for foremen",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Wildlife Migration Tracker",
+  "pitch": "Monitor animal movement across habitats for researchers",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Dance Movement Analyzer",
+  "pitch": "Track choreography precision for performers",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Assembly Line Optimizer",
+  "pitch": "Track component flow for manufacturing engineers",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Traffic Flow Mapper",
+  "pitch": "Track vehicle movement for urban planners",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Crowd Density Monitor",
+  "pitch": "Track people movement for event organizers",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Agriculture Yield Predictor",
+  "pitch": "Track crop growth across fields for farmers",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Manufacturing Defect Hunter",
+  "pitch": "Track anomaly progression on assembly lines",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Retail Shelf Analyzer",
+  "pitch": "Track product placement and movement for merchandisers",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Construction Progress Logger",
+  "pitch": "Track building material usage across phases",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Energy Consumption Mapper",
+  "pitch": "Track equipment movement in smart factories",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Warehouse Robot Tracker",
+  "pitch": "Monitor autonomous vehicle paths in logistics",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Ocean Debris Counter",
+  "pitch": "Track pollution movement for environmentalists",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Solar Farm Monitor",
+  "pitch": "Track panel alignment and debris for maintenance",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "cap-sam-video",
+  "title": "Mining Operations Analyzer",
+  "pitch": "Track equipment movement in hazardous areas",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ }
+]

@@ -1,0 +1,392 @@
+[
+ {
+  "lens": "dom-39",
+  "title": "PRD Auto-Writer",
+  "pitch": "Generate product requirement docs from user stories and acceptance criteria",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-39",
+  "title": "Code Review Summarizer",
+  "pitch": "Automatically summarize key points and suggestions from PR reviews",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-39",
+  "title": "Bug Report Classifier",
+  "pitch": "Categorize and prioritize incoming bug reports using ML",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-39",
+  "title": "API Contract Validator",
+  "pitch": "Automatically validate API implementations against OpenAPI specs",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-39",
+  "title": "Test Case Generator",
+  "pitch": "Create unit tests from code comments and documentation",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-39",
+  "title": "Deployment Planner",
+  "pitch": "Generate deployment scripts and rollback plans based on change complexity",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-39",
+  "title": "Documentation Writer",
+  "pitch": "Auto-generate technical docs from code structure and comments",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-39",
+  "title": "Dependency Mapper",
+  "pitch": "Visualize and analyze project dependencies with security alerts",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-39",
+  "title": "Code Refactor Assistant",
+  "pitch": "Suggest specific refactoring opportunities with before/after code",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-39",
+  "title": "Sprint Planner",
+  "pitch": "Generate sprint plans based on velocity and team capacity",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-39",
+  "title": "Performance Profiler",
+  "pitch": "Automatically identify and suggest fixes for performance bottlenecks",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-39",
+  "title": "Onboarding Guide Generator",
+  "pitch": "Create personalized onboarding docs for new team members",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-39",
+  "title": "Legacy Code Analyzer",
+  "pitch": "Document and suggest modernization paths for legacy systems",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-39",
+  "title": "Meeting Summarizer",
+  "pitch": "Extract action items and decisions from dev team meetings",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-39",
+  "title": "Code Style Enforcer",
+  "pitch": "Auto-format code and enforce team coding standards",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-39",
+  "title": "Architecture Diagram Generator",
+  "pitch": "Create system architecture diagrams from codebase analysis",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-39",
+  "title": "Release Notes Writer",
+  "pitch": "Generate user-friendly release notes from technical changelogs",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-39",
+  "title": "Knowledge Base Builder",
+  "pitch": "Extract and organize technical knowledge from team communications",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-39",
+  "title": "CI/CD Pipeline Optimizer",
+  "pitch": "Analyze and suggest improvements to build and deployment pipelines",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-39",
+  "title": "Code Complexity Analyzer",
+  "pitch": "Identify overly complex code that needs refactoring",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-39",
+  "title": "Team Skill Mapper",
+  "pitch": "Visualize team skills and identify knowledge gaps",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-39",
+  "title": "Security Vulnerability Scanner",
+  "pitch": "Automatically detect and suggest fixes for security issues",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-39",
+  "title": "Project Timeline Predictor",
+  "pitch": "Forecast project completion dates based on historical data",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-39",
+  "title": "Tech Debt Tracker",
+  "pitch": "Identify and quantify technical debt with remediation suggestions",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-39",
+  "title": "Code Explanation Generator",
+  "pitch": "Create plain English explanations for complex code segments",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-39",
+  "title": "API Usage Analyzer",
+  "pitch": "Identify unused and deprecated API endpoints",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-39",
+  "title": "Team Communication Analyzer",
+  "pitch": "Identify communication bottlenecks in distributed teams",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-39",
+  "title": "Code Duplication Finder",
+  "pitch": "Identify and suggest deduplication opportunities",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-39",
+  "title": "On-Call Rotation Optimizer",
+  "pitch": "Generate fair on-call schedules based on expertise and availability",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-39",
+  "title": "Code Review Assistant",
+  "pitch": "Suggest review points and potential improvements for PRs",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-39",
+  "title": "Technical Debt Prioritizer",
+  "pitch": "Rank technical debt items by impact and effort",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-39",
+  "title": "Team Collaboration Dashboard",
+  "pitch": "Visualize team productivity and collaboration patterns",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 5,
+  "feas": 8
+ }
+]

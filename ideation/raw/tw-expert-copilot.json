@@ -1,0 +1,418 @@
+[
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Quantum Circuit Optimizer",
+  "pitch": "Generates optimized quantum circuits for researchers",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Protein Folding Accelerator",
+  "pitch": "Predicts protein structures with lab-grade accuracy",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Legal Contract Analyzer",
+  "pitch": "Extracts clauses and risks from complex contracts",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Architectural Design Validator",
+  "pitch": "Checks building plans for code violations instantly",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Financial Risk Modeler",
+  "pitch": "Simulates market scenarios with institutional accuracy",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Medical Image Annotator",
+  "pitch": "Highlights anomalies in scans with radiologist precision",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Patent Prior Art Finder",
+  "pitch": "Locates relevant patents with 95% recall rate",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Clinical Trial Designer",
+  "pitch": "Generates trial protocols with regulatory compliance",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Supply Chain Optimizer",
+  "pitch": "Identifies bottlenecks in global logistics networks",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Aerospace Simulation Runner",
+  "pitch": "Runs CFD simulations with 10x speedup",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Compliance Document Generator",
+  "pitch": "Creates regulatory docs with zero errors",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Drug Interaction Checker",
+  "pitch": "Flags dangerous drug combos with pharmacist accuracy",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Economic Policy Simulator",
+  "pitch": "Models policy impacts with IMF-level precision",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Forensic Report Writer",
+  "pitch": "Generates court-ready evidence analysis",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Climate Model Visualizer",
+  "pitch": "Renders climate projections with NASA detail",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "M&A Due Diligence Tool",
+  "pitch": "Analyzes financial statements for acquisition risks",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Spacecraft Trajectory Planner",
+  "pitch": "Calculates optimal paths with JPL precision",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Cybersecurity Threat Predictor",
+  "pitch": "Forecasts attacks with NSA-level accuracy",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Clinical Decision Support",
+  "pitch": "Flags treatment options with oncologist precision",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Financial Fraud Detector",
+  "pitch": "Identifies patterns with FBI-level accuracy",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Geological Survey Analyzer",
+  "pitch": "Interprets seismic data with USGS precision",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Patent Infringement Checker",
+  "pitch": "Validates IP claims with 99% accuracy",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Agricultural Yield Predictor",
+  "pitch": "Forecasts harvests with FAO-level precision",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Insurance Risk Assessor",
+  "pitch": "Evaluates claims with actuarial precision",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Neural Network Architect",
+  "pitch": "Designs optimal network structures for tasks",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Clinical Trial Matchmaker",
+  "pitch": "Finds ideal participants with 95% precision",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Financial Derivative Pricer",
+  "pitch": "Values complex instruments with bank precision",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Disaster Response Planner",
+  "pitch": "Generates evacuation routes with FEMA precision",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Pharmacovigilance System",
+  "pitch": "Detects adverse drug reactions with FDA accuracy",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Quantum Algorithm Designer",
+  "pitch": "Creates optimized quantum algorithms",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Energy Grid Optimizer",
+  "pitch": "Balances load with ISO-level precision",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-expert-copilot",
+  "title": "Astronomical Data Analyzer",
+  "pitch": "Filters telescope data with observatory precision",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 9
+ }
+]

@@ -1,0 +1,395 @@
+[
+ {
+  "lens": "wld-micro-saas",
+  "title": "SaaS Pitch Deck Optimizer",
+  "pitch": "Generates tailored pitch decks for investors based on their portfolio history",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Contract Clause Extractor",
+  "pitch": "Pulls and summarizes critical clauses from vendor contracts for legal review",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Blog Title Generator",
+  "pitch": "Creates SEO-optimized titles based on competitor content analysis",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Meeting Minute Summarizer",
+  "pitch": "Extracts action items and decisions from recorded meetings with timestamps",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Code Comment Generator",
+  "pitch": "Auto-generates meaningful comments for undocumented legacy code",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Recipe Ingredient Substituter",
+  "pitch": "Finds ingredient alternatives based on dietary restrictions and pantry inventory",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Email Response Drafter",
+  "pitch": "Crafts professional replies to complex business emails with tone analysis",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Technical Documentation Summarizer",
+  "pitch": "Condenses API docs into actionable implementation guides for developers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Social Media Content Calendar",
+  "pitch": "Generates platform-specific content ideas based on trending topics and brand voice",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Bug Report Classifier",
+  "pitch": "Categorizes and prioritizes bug reports based on severity and impact metrics",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Customer Feedback Analyzer",
+  "pitch": "Extracts actionable insights from customer reviews with sentiment tagging",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Job Description Optimizer",
+  "pitch": "Rewrites job postings to attract diverse candidates using inclusive language analysis",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Code Review Assistant",
+  "pitch": "Suggests improvements for pull requests with security and performance checks",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Legal Document Summarizer",
+  "pitch": "Extracts key obligations and liabilities from contracts for non-lawyers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Content Style Consistency Checker",
+  "pitch": "Ensures brand voice consistency across all marketing materials",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Meeting Agenda Optimizer",
+  "pitch": "Structures agendas based on participant roles and meeting objectives",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 6
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Technical Debt Prioritizer",
+  "pitch": "Identifies and ranks code refactoring opportunities based on impact metrics",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Compliance Checklist Generator",
+  "pitch": "Creates custom compliance checklists based on industry regulations and company size",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "User Interview Question Designer",
+  "pitch": "Generates targeted questions for user research based on research objectives",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Code Documentation Generator",
+  "pitch": "Auto-generates technical documentation from code comments and structure",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Brand Voice Analyzer",
+  "pitch": "Extracts consistent tone and style guidelines from existing content",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Technical Specification Writer",
+  "pitch": "Converts user stories into detailed technical specifications for development teams",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Competitive Analysis Tool",
+  "pitch": "Generates comparative feature matrices based on competitor product documentation",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "API Documentation Improver",
+  "pitch": "Rewrites technical docs based on user engagement and search patterns",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Customer Support Response Generator",
+  "pitch": "Creates personalized responses to support tickets based on ticket history",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Code Snippet Library",
+  "pitch": "Organizes and tags reusable code snippets with usage examples and best practices",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Technical Interview Question Generator",
+  "pitch": "Creates role-specific coding challenges with difficulty levels and evaluation criteria",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Product Requirement Document Writer",
+  "pitch": "Transforms brainstorming notes into structured PRDs with acceptance criteria",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Code Quality Metrics Dashboard",
+  "pitch": "Visualizes code complexity, duplication, and test coverage metrics over time",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Technical Communication Analyzer",
+  "pitch": "Evaluates clarity of technical documentation based on readability metrics",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "API Usage Pattern Analyzer",
+  "pitch": "Identifies common usage patterns and optimization opportunities from API logs",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "wld-micro-saas",
+  "title": "Knowledge Base Content Optimizer",
+  "pitch": "Improves search relevance of help articles based on user query patterns",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ }
+]

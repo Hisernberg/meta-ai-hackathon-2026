@@ -1,0 +1,420 @@
+[
+ {
+  "lens": "dom-14",
+  "title": "Defect Detective",
+  "pitch": "Automatically finds product flaws in workshop photos with AI vision",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-14",
+  "title": "Tool Talk Logger",
+  "pitch": "Transcribes and analyzes maintenance conversations to identify recurring issues",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-14",
+  "title": "Machine Whisperer",
+  "pitch": "Converts machine sounds into maintenance alerts before breakdowns occur",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-14",
+  "title": "ScanScribe",
+  "pitch": "Turns paper schematics into interactive digital work instructions",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-14",
+  "title": "Weld Vision Coach",
+  "pitch": "Analyzes welding technique videos to suggest improvements for stronger joins",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-14",
+  "title": "Assembly Auditor",
+  "pitch": "Flags missing steps in assembly sequences from workshop footage",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-14",
+  "title": "Safety Spotter",
+  "pitch": "Identifies unsafe practices in real-time from workshop camera feeds",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-14",
+  "title": "Inventory Oracle",
+  "pitch": "Counts parts from shelf photos to trigger automatic reordering",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-14",
+  "title": "Surface Scanner",
+  "pitch": "Detects microscopic defects on metal surfaces using smartphone scans",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 4,
+  "feas": 9
+ },
+ {
+  "lens": "dom-14",
+  "title": "Process Pulse",
+  "pitch": "Turns machine vibration data into maintenance predictions",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-14",
+  "title": "Quality Quill",
+  "pitch": "Generates inspection reports from product photos with defect annotations",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-14",
+  "title": "Tool Tracker",
+  "pitch": "Identifies misplaced tools from workshop floor scans",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-14",
+  "title": "Waste Watcher",
+  "pitch": "Analyzes scrap material images to identify production inefficiencies",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-14",
+  "title": "Blueprint Decoder",
+  "pitch": "Extracts measurements from hand-drawn technical sketches",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-14",
+  "title": "Sound Signature",
+  "pitch": "Creates unique audio fingerprints for machine health monitoring",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-14",
+  "title": "Assembly Analyst",
+  "pitch": "Compares assembly videos against standards to flag deviations",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-14",
+  "title": "Metal Map",
+  "pitch": "Generates 3D models from 2D cross-section scans of machined parts",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 4,
+  "feas": 9
+ },
+ {
+  "lens": "dom-14",
+  "title": "Paint Inspector",
+  "pitch": "Detects coating inconsistencies from spray booth images",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-14",
+  "title": "Noise Navigator",
+  "pitch": "Locates excessive machine noise sources from workshop audio",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-14",
+  "title": "Dimension Detective",
+  "pitch": "Verifies part measurements from photos against CAD specifications",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-14",
+  "title": "Flow Finder",
+  "pitch": "Analyzes workflow videos to optimize factory floor layouts",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-14",
+  "title": "Rust Radar",
+  "pitch": "Identifies early corrosion signs on metal components from smartphone images",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-14",
+  "title": "Thread Inspector",
+  "pitch": "Checks screw thread quality from microscopic phone camera images",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 4,
+  "feas": 9
+ },
+ {
+  "lens": "dom-14",
+  "title": "Weld Watcher",
+  "pitch": "Monitors welding parameters from video to ensure consistent quality",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-14",
+  "title": "Chip Checker",
+  "pitch": "Automatically sorts metal chips by type from conveyor belt images",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 6
+ },
+ {
+  "lens": "dom-14",
+  "title": "Crack Catcher",
+  "pitch": "Detects microscopic fractures in materials using polarized light scans",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 4,
+  "feas": 9
+ },
+ {
+  "lens": "dom-14",
+  "title": "Bolt Brain",
+  "pitch": "Identifies correct bolt sizes from workshop inventory photos",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-14",
+  "title": "Heat Map",
+  "pitch": "Visualizes temperature variations from thermal camera scans of machinery",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-14",
+  "title": "Lubrication Logger",
+  "pitch": "Analyzes machine sounds to detect lubrication needs",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-14",
+  "title": "Surface Scanner",
+  "pitch": "Creates texture maps from sanding process videos for quality control",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-14",
+  "title": "Vibration Vision",
+  "pitch": "Converts machine vibrations into visual maintenance alerts",
+  "theme": "frontier",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-14",
+  "title": "Tension Tracker",
+  "pitch": "Measures belt tension from smartphone images of machinery",
+  "theme": "world",
+  "domain": "small manufacturers & workshops",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ }
+]

@@ -1,0 +1,463 @@
+[
+ {
+  "lens": "dom-0",
+  "title": "Formula Flashcards",
+  "pitch": "Generates visual formula flashcards from textbooks with mnemonics, for STEM students cramming exams",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-0",
+  "title": "Paper Brain",
+  "pitch": "Converts handwritten lecture notes into searchable digital mind maps with AI-generated connections",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-0",
+  "title": "Study Session Scheduler",
+  "pitch": "Creates personalized study schedules based on syllabus, deadlines, and user's energy patterns",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-0",
+  "title": "Textbook Tagger",
+  "pitch": "Automatically highlights key concepts in PDF textbooks with color-coded importance levels",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-0",
+  "title": "Lecture Summarizer",
+  "pitch": "Condenses 1-hour lectures into 5-minute executive summaries with key takeaways",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-0",
+  "title": "Concept Visualizer",
+  "pitch": "Turns abstract textbook concepts into custom illustrations for visual learners",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-0",
+  "title": "Flashcard Factory",
+  "pitch": "Creates spaced-repetition flashcards from textbook chapters with images and mnemonics",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-0",
+  "title": "Essay Outline Generator",
+  "pitch": "Structures research papers with thesis statements, supporting points, and counterarguments",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-0",
+  "title": "Study Group Coordinator",
+  "pitch": "Matches students with complementary learning styles for optimal study groups",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-0",
+  "title": "Memory Palace Builder",
+  "pitch": "Creates personalized memory palaces for complex information using familiar locations",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-0",
+  "title": "Citation Automator",
+  "pitch": "Instantly generates properly formatted citations from PDF sources in any citation style",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-0",
+  "title": "Vocabulary Visualizer",
+  "pitch": "Creates contextual images for foreign language words with example sentences",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-0",
+  "title": "Problem Solver",
+  "pitch": "Step-by-step math problem solver with explanations for each solution stage",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-0",
+  "title": "Notebook Navigator",
+  "pitch": "Searches handwritten notes by content and converts to digital text with timestamps",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-0",
+  "title": "Study Break Planner",
+  "pitch": "Generates science-backed micro-break activities to maximize study retention",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-0",
+  "title": "Textbook Condenser",
+  "pitch": "Reduces textbook chapters to essential concepts while preserving meaning",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-0",
+  "title": "Presentation Coach",
+  "pitch": "Analyzes practice presentations with feedback on pacing, clarity, and engagement",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-0",
+  "title": "Study Environment Optimizer",
+  "pitch": "Creates ideal study space setup based on learning style and available resources",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-0",
+  "title": "Research Paper Analyzer",
+  "pitch": "Extracts methodology, results, and limitations from academic papers in seconds",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-0",
+  "title": "Concept Mapper",
+  "pitch": "Generates interactive concept maps showing relationships between course topics",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-0",
+  "title": "Learning Style Detector",
+  "pitch": "Analyzes study habits to recommend personalized learning techniques",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-0",
+  "title": "Quiz Generator",
+  "pitch": "Creates custom quizzes from textbook chapters with varying difficulty levels",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-0",
+  "title": "Study Session Logger",
+  "pitch": "Tracks study time, topics, and effectiveness to optimize future sessions",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-0",
+  "title": "Textbook Translator",
+  "pitch": "Translates complex textbook passages into simplified language for better understanding",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-0",
+  "title": "Knowledge Graph Builder",
+  "pitch": "Automatically creates interconnected knowledge graphs from course materials",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-0",
+  "title": "Study Music Generator",
+  "pitch": "Creates customized background music optimized for concentration and retention",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-0",
+  "title": "Textbook Indexer",
+  "pitch": "Automatically generates searchable indexes for PDF textbooks with page references",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-0",
+  "title": "Concept Reinforcement Engine",
+  "pitch": "Identifies weak concepts and creates targeted practice problems",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-0",
+  "title": "Study Plan Adjuster",
+  "pitch": "Dynamically adjusts study plans based on performance data and upcoming deadlines",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-0",
+  "title": "Textbook Diagrammer",
+  "pitch": "Converts textbook descriptions into annotated diagrams for visual learners",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-0",
+  "title": "Study Session Timer",
+  "pitch": "Pomodoro timer with AI-powered break suggestions based on study fatigue",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-0",
+  "title": "Textbook Question Generator",
+  "pitch": "Creates higher-order thinking questions from textbook content",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-0",
+  "title": "Study Material Organizer",
+  "pitch": "Categorizes and tags digital study materials for quick retrieval",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-0",
+  "title": "Learning Path Optimizer",
+  "pitch": "Maps out most efficient learning sequence for complex subjects",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-0",
+  "title": "Study Session Analyzer",
+  "pitch": "Records and analyzes study sessions to identify optimal learning patterns",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-0",
+  "title": "Textbook Summarizer",
+  "pitch": "Condenses entire textbooks into chapter summaries with key concepts",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-0",
+  "title": "Concept Connection Finder",
+  "pitch": "Discovers unexpected connections between different course topics",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ }
+]

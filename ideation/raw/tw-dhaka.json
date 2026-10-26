@@ -1,0 +1,433 @@
+[
+ {
+  "lens": "tw-dhaka",
+  "title": "Traffic Whisper",
+  "pitch": "Real-time traffic alerts for Dhaka commuters via WhatsApp",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Load Shedding Hero",
+  "pitch": "SMS alerts before power cuts with backup device tips",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Bengali Menu Translator",
+  "pitch": "Point phone at street food, get English/Bengali translation",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Vendor's Voice",
+  "pitch": "Convert Bengali speech to bKash payment QR codes",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Monsoon Mapper",
+  "pitch": "Predict flood-prone areas using satellite imagery",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Rickshaw Route Optimizer",
+  "pitch": "AI suggests fastest routes avoiding Dhaka's traffic jams",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Bangla Sign Scanner",
+  "pitch": "Translate Bengali signs to English for expats/tourists",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "bKash Assistant",
+  "pitch": "Voice-controlled bKash transactions with Bengali commands",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Street Vendor Catalog",
+  "pitch": "AI catalogs street food vendors with reviews & location",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Monsoon Shelter Finder",
+  "pitch": "Locate nearest flood shelters during heavy rains",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Dhaka Traffic Visualizer",
+  "pitch": "Real-time traffic heatmap from live camera feeds",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Bengali Recipe Generator",
+  "pitch": "Creates recipes from street food photos",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Rickshaw Fare Calculator",
+  "pitch": "Auto-calculates fair fares based on distance & traffic",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Market Price Predictor",
+  "pitch": "Forecasts vegetable prices before market visits",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Flood Rescue Bot",
+  "pitch": "Identifies people in distress from aerial footage",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 4,
+  "feas": 9
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Bangla Grammar Coach",
+  "pitch": "Corrects Bengali text for street vendors' signs",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Traffic Violation Detector",
+  "pitch": "Identifies illegal parking in narrow Dhaka streets",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "bKash Receipt Reader",
+  "pitch": "Extracts transaction details from paper receipts",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Monsoon Drain Watcher",
+  "pitch": "Monitors clogged drains before flooding",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Rickshaw Art Identifier",
+  "pitch": "Recognizes & catalogs Dhaka's rickshaw art",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 6
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Market Stall Optimizer",
+  "pitch": "Suggests best product placement for vendors",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Bangla Sign Generator",
+  "pitch": "Creates Bengali signs for small businesses",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Traffic Jam Composer",
+  "pitch": "Turns traffic sounds into ambient music",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 4,
+  "feas": 7
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "bKash Spending Analyzer",
+  "pitch": "Visualizes spending patterns from transaction history",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Street Vendor Translator",
+  "pitch": "Real-time translation for vendor-customer conversations",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Monsoon Impact Mapper",
+  "pitch": "Tracks damage from floods via social media",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Dhaka Landmark Identifier",
+  "pitch": "Recognizes historical buildings for tourists",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 6
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Rickshaw Route Game",
+  "pitch": "Gamifies finding fastest routes through Dhaka",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Bangla Handwriting Fixer",
+  "pitch": "Transcribes messy Bengali writing for vendors",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Traffic Light Predictor",
+  "pitch": "Estimates wait times at Dhaka's traffic signals",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "bKash Bill Splitter",
+  "pitch": "Automatically divides shared expenses via SMS",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Street Food Safety Scanner",
+  "pitch": "Analyzes hygiene of street food vendors",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 4,
+  "feas": 8
+ },
+ {
+  "lens": "tw-dhaka",
+  "title": "Bangla Children's Story Creator",
+  "pitch": "Makes personalized stories from market photos",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 5
+ }
+]

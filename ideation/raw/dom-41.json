@@ -1,0 +1,431 @@
+[
+ {
+  "lens": "dom-41",
+  "title": "CodeLens Visualizer",
+  "pitch": "Transform code commit history into interactive visual narratives for dev leads",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-41",
+  "title": "BugSight",
+  "pitch": "Automatically identify UI bugs from recorded user testing sessions",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-41",
+  "title": "DevFlow Insights",
+  "pitch": "Analyze team communication patterns from meeting recordings to improve collaboration",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-41",
+  "title": "CodeRhythm",
+  "pitch": "Generate musical compositions from code commit patterns and project health metrics",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-41",
+  "title": "LogScape",
+  "pitch": "Create immersive 3D landscapes from application logs for debugging complex systems",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-41",
+  "title": "DevMood Tracker",
+  "pitch": "Analyze facial expressions in standup videos to gauge team morale and engagement",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-41",
+  "title": "ArchaeoCode",
+  "pitch": "Reconstruct evolution of legacy codebases from git history visualizations",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-41",
+  "title": "BuildBloom",
+  "pitch": "Generate time-lapse flower gardens from CI build success/failure patterns",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-41",
+  "title": "ErrorEcho",
+  "pitch": "Create audio compositions from application error logs for rapid issue identification",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-41",
+  "title": "DevSketch",
+  "pitch": "Turn architectural diagrams into animated explainer videos from team discussions",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-41",
+  "title": "CodeTopography",
+  "pitch": "Generate 3D terrain maps from code complexity metrics and dependency graphs",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-41",
+  "title": "StandupSonic",
+  "pitch": "Create podcast-style summaries from daily standup recordings with action items",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-41",
+  "title": "DebugDiorama",
+  "pitch": "Build miniature dioramas representing system architecture from code scans",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-41",
+  "title": "CommitCanvas",
+  "pitch": "Transform git commit messages into abstract art pieces for team retrospectives",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-41",
+  "title": "CodePulse",
+  "pitch": "Visualize real-time code quality metrics as biometric-style health monitors",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-41",
+  "title": "RetrospectiveRorschach",
+  "pitch": "Generate inkblot test-like images from team retrospective discussions",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 4,
+  "feas": 8
+ },
+ {
+  "lens": "dom-41",
+  "title": "CodeSonar",
+  "pitch": "Create sonar-style maps from code coverage and test execution data",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-41",
+  "title": "DevTapestry",
+  "pitch": "Weave code contributions into collaborative textile patterns for team recognition",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-41",
+  "title": "BugConstellations",
+  "pitch": "Map application bugs as constellations in night sky visualizations",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-41",
+  "title": "CodeBloom",
+  "pitch": "Generate time-lapse flower growth animations from code quality improvements",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-41",
+  "title": "DevAura",
+  "pitch": "Visualize team energy levels and collaboration from meeting recordings",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-41",
+  "title": "LogLabyrinth",
+  "pitch": "Create maze-like visualizations from application logs for debugging complex flows",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-41",
+  "title": "CodeNebula",
+  "pitch": "Transform code complexity metrics into cosmic cloud formations",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-41",
+  "title": "SprintSymphony",
+  "pitch": "Compose orchestral pieces from sprint planning sessions and progress tracking",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-41",
+  "title": "DevFingerprint",
+  "pitch": "Generate unique visual fingerprints from team coding patterns and styles",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-41",
+  "title": "CodeCoral",
+  "pitch": "Create coral reef ecosystems from dependency graph visualizations",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-41",
+  "title": "RetrospectiveRivers",
+  "pitch": "Map team feedback flows as river systems with tributaries of suggestions",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-41",
+  "title": "CodeQuake",
+  "pitch": "Visualize code refactoring as seismic activity in time-lapse city models",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-41",
+  "title": "DevMetabolism",
+  "pitch": "Analyze team productivity patterns as biological metabolic systems",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-41",
+  "title": "BugFossils",
+  "pitch": "Create fossil-like visualizations from resolved bugs in code repositories",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-41",
+  "title": "CodeMandala",
+  "pitch": "Generate intricate mandala patterns from code structure and relationships",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-41",
+  "title": "DevHorizon",
+  "pitch": "Create panoramic landscapes showing team skill development over time",
+  "theme": "world",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-41",
+  "title": "CodeTide",
+  "pitch": "Visualize code changes as ocean tides affecting digital shorelines",
+  "theme": "frontier",
+  "domain": "software developer teams",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ }
+]

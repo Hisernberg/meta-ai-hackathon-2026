@@ -1,0 +1,431 @@
+[
+ {
+  "lens": "dom-17",
+  "title": "PipeVision AI",
+  "pitch": "Automated pipe corrosion detection from maintenance photos",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-17",
+  "title": "EnergyScan AI",
+  "pitch": "HVAC inefficiency detection from thermal imaging scans",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-17",
+  "title": "DuctBot",
+  "pitch": "Automated air duct contamination analysis from smartphone videos",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 4
+ },
+ {
+  "lens": "dom-17",
+  "title": "RoofSentry",
+  "pitch": "Roof damage assessment from drone footage with AI analysis",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-17",
+  "title": "WallWhisperer",
+  "pitch": "Structural crack detection from building inspection photos",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-17",
+  "title": "WindowWatch",
+  "pitch": "Window seal failure detection from thermal imaging scans",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-17",
+  "title": "PipeGuardian",
+  "pitch": "Pipe leak prediction from audio analysis of water flow",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-17",
+  "title": "EnergyEcho",
+  "pitch": "Equipment failure prediction from maintenance audio logs",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-17",
+  "title": "ThermoMap",
+  "pitch": "Building heat loss visualization from thermal imaging data",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-17",
+  "title": "StructuralSight",
+  "pitch": "Concrete degradation analysis from building scan images",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-17",
+  "title": "HVAC Whisper",
+  "pitch": "HVAC efficiency optimization from maintenance audio patterns",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-17",
+  "title": "PipePulse",
+  "pitch": "Pipe stress analysis from vibration sensor audio data",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-17",
+  "title": "EnergyLens",
+  "pitch": "Energy consumption anomaly detection from utility log analysis",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-17",
+  "title": "RoofRadar",
+  "pitch": "Roof lifespan prediction from damage pattern recognition",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-17",
+  "title": "DuctDoctor",
+  "pitch": "HVAC duct contamination severity scoring from video analysis",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-17",
+  "title": "WallScan",
+  "pitch": "Wall insulation effectiveness mapping from thermal imaging",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-17",
+  "title": "PipeEcho",
+  "pitch": "Pipe integrity assessment from acoustic leak detection",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-17",
+  "title": "EnergyFingerprint",
+  "pitch": "Building energy signature analysis from utility data",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-17",
+  "title": "StructuralSentry",
+  "pitch": "Building movement tracking from time-lapse photography",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-17",
+  "title": "HVAC Vision",
+  "pitch": "HVAC system optimization from maintenance image analysis",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-17",
+  "title": "PipeVision 3D",
+  "pitch": "3D pipe corrosion mapping from multiple scan angles",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-17",
+  "title": "EnergyTime",
+  "pitch": "Energy usage pattern recognition from smart meter data",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-17",
+  "title": "RoofReport",
+  "pitch": "Automated roof inspection report generation from drone footage",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-17",
+  "title": "DuctDetect",
+  "pitch": "HVAC duct blockage detection from airflow audio analysis",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-17",
+  "title": "WallWatch",
+  "pitch": "Wall moisture detection from thermal imaging and humidity logs",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-17",
+  "title": "PipePredict",
+  "pitch": "Pipe failure probability modeling from maintenance history",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-17",
+  "title": "EnergyFlow",
+  "pitch": "Building energy flow visualization from utility data",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-17",
+  "title": "StructuralSnap",
+  "pitch": "Structural issue detection from building photography with AI",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-17",
+  "title": "HVAC Audit",
+  "pitch": "HVAC efficiency scoring from maintenance image analysis",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-17",
+  "title": "PipeScope",
+  "pitch": "Pipe interior analysis from endoscopic video footage",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-17",
+  "title": "EnergyEcho AI",
+  "pitch": "Energy waste detection from utility pattern recognition",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-17",
+  "title": "RoofRadar 3D",
+  "pitch": "3D roof damage mapping from drone photogrammetry",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-17",
+  "title": "DuctDoctor AI",
+  "pitch": "HVAC duct efficiency optimization from airflow audio analysis",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ }
+]

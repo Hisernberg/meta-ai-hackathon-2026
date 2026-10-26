@@ -1,0 +1,396 @@
+[
+ {
+  "lens": "dom-26",
+  "title": "Video Asset Heatmapper",
+  "pitch": "Analyze raw footage logs to highlight most valuable segments for editors",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-26",
+  "title": "Audio Noise Pattern Finder",
+  "pitch": "Identify consistent background noise in recordings across projects",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-26",
+  "title": "Client Request Pattern Analyzer",
+  "pitch": "Extract recurring themes from client briefs to predict project needs",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-26",
+  "title": "Lighting Consistency Checker",
+  "pitch": "Detect lighting inconsistencies across photo shoots automatically",
+  "theme": "frontier",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-26",
+  "title": "Equipment Usage Optimizer",
+  "pitch": "Analyze EXIF data to recommend optimal gear for specific shoots",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-26",
+  "title": "Color Grading Pattern Library",
+  "pitch": "Extract successful color palettes from past projects for quick reuse",
+  "theme": "frontier",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 7
+ },
+ {
+  "lens": "dom-26",
+  "title": "Audio Quality Auditor",
+  "pitch": "Scan raw audio files for compression artifacts and noise issues",
+  "theme": "frontier",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-26",
+  "title": "Workflow Bottleneck Finder",
+  "pitch": "Analyze edit timelines to identify time-consuming tasks",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-26",
+  "title": "Shot Composition Analyzer",
+  "pitch": "Evaluate framing patterns across projects to improve visual storytelling",
+  "theme": "frontier",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-26",
+  "title": "Client Satisfaction Predictor",
+  "pitch": "Analyze deliverable metadata against feedback to predict success",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-26",
+  "title": "Time-of-Day Efficiency Mapper",
+  "pitch": "Identify optimal shooting times based on lighting data from past projects",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-26",
+  "title": "Location Performance Tracker",
+  "pitch": "Analyze shoot outcomes by location to recommend best spots",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-26",
+  "title": "Focus Error Detector",
+  "pitch": "Identify focus inconsistencies across photo series automatically",
+  "theme": "frontier",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-26",
+  "title": "Audio Diarization Insights",
+  "pitch": "Extract speaker patterns from interview recordings to improve editing",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-26",
+  "title": "Project Profitability Analyzer",
+  "pitch": "Correlate edit time metadata with project earnings",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-26",
+  "title": "Camera Settings Optimizer",
+  "pitch": "Analyze EXIF data to recommend optimal settings for specific conditions",
+  "theme": "frontier",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-26",
+  "title": "B-Roll Effectiveness Scorer",
+  "pitch": "Evaluate which supplementary footage gets most usage in final edits",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-26",
+  "title": "Color Consistency Validator",
+  "pitch": "Check color matching across different lighting conditions in photo sets",
+  "theme": "frontier",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-26",
+  "title": "Audio Level Normalizer",
+  "pitch": "Analyze loudness patterns across projects to standardize audio",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-26",
+  "title": "Creative Block Predictor",
+  "pitch": "Analyze project patterns to predict when burnout might occur",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-26",
+  "title": "Subject Movement Tracker",
+  "pitch": "Analyze subject motion in videos to recommend optimal camera settings",
+  "theme": "frontier",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-26",
+  "title": "Client Communication Optimizer",
+  "pitch": "Analyze email patterns to improve client relationship management",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-26",
+  "title": "Weather Impact Analyzer",
+  "pitch": "Correlate weather data with shoot outcomes to plan better",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-26",
+  "title": "Depth of Field Explorer",
+  "pitch": "Identify optimal aperture settings based on subject distance data",
+  "theme": "frontier",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-26",
+  "title": "Audio Room Tone Library",
+  "pitch": "Extract and categorize ambient sounds from recordings",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-26",
+  "title": "Edit Efficiency Dashboard",
+  "pitch": "Visualize time spent on different editing tasks across projects",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-26",
+  "title": "Lens Performance Analyzer",
+  "pitch": "Evaluate which lenses produce best results for specific subjects",
+  "theme": "frontier",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-26",
+  "title": "Shot List Optimizer",
+  "pitch": "Analyze completed shot lists to improve planning for future shoots",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-26",
+  "title": "HDR Effectiveness Checker",
+  "pitch": "Evaluate HDR performance across different lighting conditions",
+  "theme": "frontier",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-26",
+  "title": "Audio Sync Pattern Finder",
+  "pitch": "Identify common audio sync issues in multicam setups",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-26",
+  "title": "Creative Workflow Mapper",
+  "pitch": "Visualize complete creative process from shoot to delivery",
+  "theme": "world",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-26",
+  "title": "Background Clutter Detector",
+  "pitch": "Identify distracting elements in photos that reduce client approval rates",
+  "theme": "frontier",
+  "domain": "creative freelancers (video/photo)",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ }
+]

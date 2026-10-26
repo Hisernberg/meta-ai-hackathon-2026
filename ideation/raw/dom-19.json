@@ -1,0 +1,408 @@
+[
+ {
+  "lens": "dom-19",
+  "title": "Route Surge Scheduler",
+  "pitch": "AI predicts delivery surges for small ops to optimize driver allocation",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-19",
+  "title": "Paperwork Terminator",
+  "pitch": "Automates invoicing, BOLs, and compliance docs for delivery businesses",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-19",
+  "title": "Fuel Prophet",
+  "pitch": "Predicts fuel costs and suggests route adjustments to save 15% monthly",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-19",
+  "title": "Customer Rage Translator",
+  "pitch": "Analyzes angry customer emails to suggest personalized response templates",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-19",
+  "title": "Delivery DNA",
+  "pitch": "Creates custom SOPs for new delivery businesses from industry best practices",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-19",
+  "title": "Driver Whisperer",
+  "pitch": "Analyzes driver performance data to create personalized coaching reports",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-19",
+  "title": "Insurance Oracle",
+  "pitch": "Automates insurance claim documentation with photo evidence analysis",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-19",
+  "title": "Maintenance Prophet",
+  "pitch": "Predicts vehicle maintenance needs before breakdowns using sensor data",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "dom-19",
+  "title": "Freight Rate Forecaster",
+  "pitch": "Predicts shipping rate fluctuations to optimize pricing strategy",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-19",
+  "title": "Warehouse Wizard",
+  "pitch": "Optimizes warehouse layout using AI analysis of movement patterns",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-19",
+  "title": "Compliance Copilot",
+  "pitch": "Automates regulatory compliance checks for cross-border deliveries",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-19",
+  "title": "Driver Matchmaker",
+  "pitch": "AI optimizes driver assignments based on personality and route compatibility",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-19",
+  "title": "Proof of Presence",
+  "pitch": "Generates tamper-proof delivery verification using blockchain+AI",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-19",
+  "title": "Route Resilience",
+  "pitch": "Rebuilds delivery routes in real-time during weather disruptions",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-19",
+  "title": "Freight Fraud Finder",
+  "pitch": "Detects billing irregularities in carrier invoices using pattern recognition",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-19",
+  "title": "Driver Wellness Watcher",
+  "pitch": "Monitors driver fatigue patterns to prevent accidents",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-19",
+  "title": "Cargo Classifier",
+  "pitch": "Automatically identifies and categorizes freight from warehouse photos",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-19",
+  "title": "Delivery Debt Decoder",
+  "pitch": "Analyzes payment history to predict which customers will delay payments",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-19",
+  "title": "Route Risk Radar",
+  "pitch": "Predicts high-risk delivery areas based on crime and accident data",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-19",
+  "title": "Freight Form Filler",
+  "pitch": "Automatically fills customs forms from shipping documents",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-19",
+  "title": "Driver Coach",
+  "pitch": "Generates personalized driving improvement reports from telematics data",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-19",
+  "title": "Proof of Delivery",
+  "pitch": "Creates legally-binding delivery verification from customer photos",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-19",
+  "title": "Warehouse Worker Watcher",
+  "pitch": "Optimizes warehouse staff allocation using AI analysis of workflow",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-19",
+  "title": "Freight Rate Optimizer",
+  "pitch": "Suggests optimal shipping lanes based on real-time market rates",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-19",
+  "title": "Driver Diaries",
+  "pitch": "Automatically generates daily driver performance reports",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-19",
+  "title": "Route Responder",
+  "pitch": "Automatically reroutes drivers based on traffic and delivery priority",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-19",
+  "title": "Cargo Condition Checker",
+  "pitch": "Analyzes damage reports to identify recurring equipment issues",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-19",
+  "title": "Delivery Demand Predictor",
+  "pitch": "Forecasts delivery volume by neighborhood for staffing optimization",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "dom-19",
+  "title": "Driver Voice Analyzer",
+  "pitch": "Analyzes driver-customer calls to identify training opportunities",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-19",
+  "title": "Freight Fraud Detector",
+  "pitch": "Flags suspicious billing patterns in carrier invoices",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-19",
+  "title": "Route Rainmaker",
+  "pitch": "Optimizes delivery routes based on weather forecasts",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-19",
+  "title": "Driver Retention Radar",
+  "pitch": "Predicts which drivers might quit based on behavioral patterns",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-19",
+  "title": "Proof of Condition",
+  "pitch": "Creates time-stamped cargo condition reports from photos",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ }
+]

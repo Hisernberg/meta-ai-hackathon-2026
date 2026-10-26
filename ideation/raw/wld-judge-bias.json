@@ -1,0 +1,418 @@
+[
+ {
+  "lens": "wld-judge-bias",
+  "title": "AI Chef's Flavor Matrix",
+  "pitch": "Personalizes recipes from fridge ingredients in real-time",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Dream Director",
+  "pitch": "Generates film scenes from sleep journal entries",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Code Sculptor",
+  "pitch": "Turns bug reports into working code fixes instantly",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Memory Weaver",
+  "pitch": "Creates personalized storybooks from childhood photos",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Quantum Composer",
+  "pitch": "Generates music from particle physics data visualizations",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Garden Oracle",
+  "pitch": "Identifies plant diseases from leaf photos with treatment plans",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Style Synthesizer",
+  "pitch": "Transforms sketches into fashion designs instantly",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Recipe Revamp",
+  "pitch": "Converts family recipes into healthy modern versions",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Urban Echo",
+  "pitch": "Generates city soundscapes from architectural blueprints",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Pet Translator",
+  "pitch": "Creates pet behavior reports from video analysis",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Mood Canvas",
+  "pitch": "Turns emotional journal entries into abstract paintings",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Sport Strategist",
+  "pitch": "Analyzes game footage to suggest winning plays",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Wardrobe Wizard",
+  "pitch": "Generates outfit combinations from clothing inventory photos",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Space Sonnet",
+  "pitch": "Creates poetry from telescope observation data",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Plant Parent",
+  "pitch": "Diagnoses plant issues from photos with care instructions",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Beat Blender",
+  "pitch": "Mixes music genres from voice descriptions",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Habit Hero",
+  "pitch": "Transforms daily routines into productivity games",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Data Dancer",
+  "pitch": "Generates dance moves from spreadsheet patterns",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Sketch to Story",
+  "pitch": "Turns children's drawings into illustrated tales",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Weather Weaver",
+  "pitch": "Creates art from climate change data visualizations",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Workout Wizard",
+  "pitch": "Generates personalized exercise routines from body scans",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Color Composer",
+  "pitch": "Creates harmonious palettes from emotion words",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Recipe Remix",
+  "pitch": "Converts dietary restrictions into ingredient substitutions",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Sound Sculptor",
+  "pitch": "Generates 3D objects from audio waveforms",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Garden Guru",
+  "pitch": "Identifies weeds from garden photos with removal tips",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Style Shift",
+  "pitch": "Transforms clothing photos into different cultural styles",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Journal Jukebox",
+  "pitch": "Creates personalized soundtracks from diary entries",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Quantum Quill",
+  "pitch": "Generates scientific papers from experiment hypotheses",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Pet Portrait",
+  "pitch": "Creates artistic renderings from pet photos with personality",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Mood Mapper",
+  "pitch": "Generates color charts from emotional voice recordings",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Workspace Wizard",
+  "pitch": "Rearranges room layouts from photos with optimization tips",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "wld-judge-bias",
+  "title": "Data Doodle",
+  "pitch": "Turns complex datasets into simplified visual metaphors",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 9
+ }
+]

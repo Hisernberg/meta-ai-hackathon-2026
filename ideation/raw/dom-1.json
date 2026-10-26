@@ -1,0 +1,394 @@
+[
+ {
+  "lens": "dom-1",
+  "title": "Automated Student Progress Dashboard",
+  "pitch": "Visualize learning gaps in real-time for tutors to adjust lesson plans",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-1",
+  "title": "Course Compliance Checker",
+  "pitch": "Automatically verify if course materials meet accreditation standards",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-1",
+  "title": "Tutor Scheduling AI",
+  "pitch": "Optimize tutor availability with student demand and maximize revenue",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-1",
+  "title": "Grant Proposal Generator",
+  "pitch": "Transform research ideas into fundable grant applications in hours",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 10,
+  "feas": 9
+ },
+ {
+  "lens": "dom-1",
+  "title": "Virtual Teaching Assistant",
+  "pitch": "Answer student queries 24/7 while freeing tutors for complex problems",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-1",
+  "title": "Learning Analytics Dashboard",
+  "pitch": "Identify at-risk students before they fail using predictive analytics",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-1",
+  "title": "Automated Attendance Tracker",
+  "pitch": "Verify student presence through voice recognition during online classes",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 5,
+  "feas": 6
+ },
+ {
+  "lens": "dom-1",
+  "title": "Curriculum Alignment Tool",
+  "pitch": "Map lessons to standards with automated compliance reporting",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-1",
+  "title": "Parent-Teacher Conference Scheduler",
+  "pitch": "Coordinate complex schedules with automated conflict resolution",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 4,
+  "feas": 5
+ },
+ {
+  "lens": "dom-1",
+  "title": "Research Paper Summarizer",
+  "pitch": "Extract key insights from academic papers for literature reviews",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-1",
+  "title": "Student Engagement Analyzer",
+  "pitch": "Track attention patterns during lessons to improve content delivery",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-1",
+  "title": "Automated Feedback Generator",
+  "pitch": "Create personalized learning feedback from assignment submissions",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-1",
+  "title": "Financial Aid Assistant",
+  "pitch": "Guide students through complex application processes with AI help",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-1",
+  "title": "Virtual Lab Designer",
+  "pitch": "Create interactive experiments tailored to curriculum requirements",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-1",
+  "title": "Enrollment Prediction System",
+  "pitch": "Forecast course demand to optimize resource allocation",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-1",
+  "title": "Automated Grading Assistant",
+  "pitch": "Evaluate complex assignments while maintaining consistent standards",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-1",
+  "title": "Learning Path Optimizer",
+  "pitch": "Customize student journeys based on performance and goals",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "dom-1",
+  "title": "Compliance Documentation Generator",
+  "pitch": "Automate state reporting requirements for educational institutions",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 10,
+  "feas": 8
+ },
+ {
+  "lens": "dom-1",
+  "title": "Student Mental Health Tracker",
+  "pitch": "Identify at-risk students through behavioral pattern analysis",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-1",
+  "title": "Automated IEP Generator",
+  "pitch": "Create individualized education plans from assessment data",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-1",
+  "title": "Virtual Teaching Coach",
+  "pitch": "Analyze recorded lessons to improve instructional techniques",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-1",
+  "title": "Research Collaboration Matcher",
+  "pitch": "Connect researchers with complementary expertise for projects",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-1",
+  "title": "Automated Accreditation Prep",
+  "pitch": "Streamline documentation for institutional reviews",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 10,
+  "feas": 9
+ },
+ {
+  "lens": "dom-1",
+  "title": "Student Retention Predictor",
+  "pitch": "Identify students at risk of dropping out with early intervention",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "dom-1",
+  "title": ":Automated Content Licensing",
+  "pitch": "Track and manage digital rights for educational materials",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-1",
+  "title": "Virtual Field Trip Designer",
+  "pitch": "Create immersive experiences aligned with curriculum standards",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-1",
+  "title": "Automated Assessment Bank",
+  "pitch": "Generate diverse question pools from learning objectives",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-1",
+  "title": "Student Skill Gap Analyzer",
+  "pitch": "Map current abilities to future career requirements",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-1",
+  "title": ":Automated Tuition Calculator",
+  "pitch": "Simplify complex billing for diverse student populations",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-1",
+  "title": "Virtual Teaching Simulator",
+  "pitch": "Train educators with realistic classroom scenarios",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-1",
+  "title": ":Automated Policy Compliance Checker",
+  "pitch": "Ensure institutional policies are followed in all communications",
+  "theme": "world",
+  "domain": "education & studying",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-1",
+  "title": ":Automated Research Ethics Review",
+  "pitch": "Streamline approval processes for academic studies",
+  "theme": "frontier",
+  "domain": "education & studying",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 10,
+  "feas": 9
+ }
+]

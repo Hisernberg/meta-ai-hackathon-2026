@@ -1,0 +1,418 @@
+[
+ {
+  "lens": "dom-38",
+  "title": "LabScan AI",
+  "pitch": "Automatically analyzes microscope slides for cell counts and anomalies",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-38",
+  "title": "FieldNote AI",
+  "pitch": "Transcribes and indexes field research audio with species timestamps",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-38",
+  "title": "ExperimentLog AI",
+  "pitch": "Extracts parameters and results from lab notebook photos",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 4
+ },
+ {
+  "lens": "dom-38",
+  "title": "WildlifeTracer",
+  "pitch": "Automatically identifies and timestamps species in field video footage",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "dom-38",
+  "title": "ChemicalSniffer",
+  "pitch": "Detects and labels chemical containers in lab photos with safety warnings",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-38",
+  "title": "SoilScan AI",
+  "pitch": "Analyzes soil sample images for texture and composition markers",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 4
+ },
+ {
+  "lens": "dom-38",
+  "title": "ReefWatcher",
+  "pitch": "Tracks coral reef health changes from underwater photo sequences",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-38",
+  "title": "DataDiver",
+  "pitch": "Extracts measurements from scientific instrument screenshots",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-38",
+  "title": "FieldEcho",
+  "pitch": "Identifies and tags bird calls in hours of forest audio recordings",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-38",
+  "title": "LabLayout AI",
+  "pitch": "Maps equipment positions in lab photos for safety audits",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 4
+ },
+ {
+  "lens": "dom-38",
+  "title": "WeatherPattern",
+  "pitch": "Analyzes field research video for weather phenomena timestamps",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-38",
+  "title": "SpecimenSorter",
+  "pitch": "Categorizes and catalogs plant specimens from field photos",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-38",
+  "title": "MicrobeMapper",
+  "pitch": "Tracks bacterial growth patterns in petri dish time-lapses",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-38",
+  "title": "DataHarvest",
+  "pitch": "Extracts numerical data from scientific graph images",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-38",
+  "title": "NightSight",
+  "pitch": "Identifies nocturnal animals in thermal camera field footage",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-38",
+  "title": "LabSafetyScan",
+  "pitch": "Detects missing safety equipment in lab photos with warnings",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-38",
+  "title": "OceanSound",
+  "pitch": "Maps whale migration patterns from underwater audio recordings",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-38",
+  "title": "ParticleTracker",
+  "pitch": "Identifies and counts particles in fluid microscopy videos",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-38",
+  "title": "FieldSketch",
+  "pitch": "Converts hand-drawn field notes into structured digital data",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 4
+ },
+ {
+  "lens": "dom-38",
+  "title": "GeneSpotter",
+  "pitch": "Detects labeled genetic markers in lab experiment photos",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-38",
+  "title": "ClimateChronicle",
+  "pitch": "Analyzes years of field research photos for environmental changes",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-38",
+  "title": "CrystalVision",
+  "pitch": "Identifies crystal formations in mineral sample photos",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-38",
+  "title": "BioBlitz",
+  "pitch": "Automatically catalogs all visible species in field survey photos",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-38",
+  "title": "LabInventory",
+  "pitch": "Tracks equipment and supplies in lab photos with depletion alerts",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-38",
+  "title": "AquaScope",
+  "pitch": "Identifies aquatic microorganisms in water sample videos",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-38",
+  "title": "DataDigester",
+  "pitch": "Extracts key findings from research paper PDFs with citations",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-38",
+  "title": "TerraTrace",
+  "pitch": "Maps soil erosion patterns from years of field site photos",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-38",
+  "title": "CellCounter",
+  "pitch": "Automatically counts and classifies cells in microscope images",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-38",
+  "title": "FloraFinder",
+  "pitch": "Identifies plant diseases in agricultural research photos",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-38",
+  "title": "WildlifeID",
+  "pitch": "Matches animal markings across years of field research photos",
+  "theme": "frontier",
+  "domain": "science labs & field research",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-38",
+  "title": "LabAudit",
+  "pitch": "Documents equipment condition and placement for compliance photos",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 4
+ },
+ {
+  "lens": "dom-38",
+  "title": "DataDiver",
+  "pitch": "Extracts measurements from scientific instrument screenshots",
+  "theme": "world",
+  "domain": "science labs & field research",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ }
+]

@@ -1,0 +1,416 @@
+[
+ {
+  "lens": "tw-hobby",
+  "title": "Bonsai Growth Tracker",
+  "pitch": "Track bonsai tree health with AI photo analysis",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Board Game AI Coach",
+  "pitch": "Get strategy tips for your board game collection",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Homebrew Recipe Optimizer",
+  "pitch": "AI refines your beer brewing recipes instantly",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Miniature Painting Guide",
+  "pitch": "Step-by-step AI for miniature war painting",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Rockhound Identifier",
+  "pitch": "Identify rocks/minerals with smartphone photos",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Calligraphy Coach",
+  "pitch": "AI analyzes handwriting to improve calligraphy",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Knitting Pattern Helper",
+  "pitch": "Generate custom knitting patterns from images",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Origami Designer",
+  "pitch": "Create custom origami instructions from sketches",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Bird Call Identifier",
+  "pitch": "Identify birds by their calls with AI",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Fermentation Tracker",
+  "pitch": "Monitor food fermentation with AI image analysis",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Stamp Collector AI",
+  "pitch": "Identify and value rare postage stamps",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Coin Authenticator",
+  "pitch": "Verify coin authenticity with AI image analysis",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Pottery Glaze Predictor",
+  "pitch": "AI predicts final glaze colors from raw materials",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Tea Leaf Reader",
+  "pitch": "AI interprets tea leaf patterns for fun readings",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Herbal Remedy Finder",
+  "pitch": "Match plants to medicinal properties with AI",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Fishing Spot Predictor",
+  "pitch": "AI suggests fishing spots based on conditions",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Star Chart Generator",
+  "pitch": "Create custom star charts for stargazing",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Mushroom Identifier",
+  "pitch": "Identify mushrooms with AI photo analysis",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Wine Label Analyzer",
+  "pitch": "Extract info from wine labels instantly",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Soap Recipe Creator",
+  "pitch": "Generate custom soap recipes with AI",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Leather Pattern Designer",
+  "pitch": "Create custom leatherworking patterns",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Gemstone Cutter Guide",
+  "pitch": "AI optimizes gemstone cutting angles",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Weaving Pattern Generator",
+  "pitch": "Create complex weaving patterns with AI",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Beehive Health Monitor",
+  "pitch": "Analyze beehive photos for health issues",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Hot Sauce Recipe Creator",
+  "pitch": "Design custom hot sauce recipes with AI",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Floral Arrangement Designer",
+  "pitch": "Create unique floral arrangements with AI",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Cheese Aging Predictor",
+  "pitch": "AI predicts cheese aging outcomes",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Taxidermy Reference Guide",
+  "pitch": "AI provides taxidermy pose references",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Incense Blend Creator",
+  "pitch": "Design custom incense blends with AI",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Seedling Disease Detector",
+  "pitch": "Identify plant diseases in seedlings",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Dye Recipe Generator",
+  "pitch": "Create natural dye recipes with AI",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-hobby",
+  "title": "Kite Design Assistant",
+  "pitch": "Optimize kite designs with AI aerodynamics",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 6,
+  "feas": 9
+ }
+]

@@ -1,0 +1,418 @@
+[
+ {
+  "lens": "dom-23",
+  "title": "Flea Market Treasure Hunter",
+  "pitch": "AI analyzes vendor photos to find undervalued collectibles for buyers",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-23",
+  "title": "Booth Layout Optimizer",
+  "pitch": "Analyzes customer flow videos to suggest optimal stall arrangements",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-23",
+  "title": "Vendor Voice Coach",
+  "pitch": "Analyzes pitch recordings to suggest pricing improvements",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-23",
+  "title": "Antique Authenticity Scanner",
+  "pitch": "Compares item photos to databases to verify age and origin",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-23",
+  "title": "Customer Sentiment Tracker",
+  "pitch": "Analyzes facial expressions in crowd videos to gauge product interest",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-23",
+  "title": "Price History Predictor",
+  "pitch": "Analyzes past transaction photos to forecast item values",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-23",
+  "title": "Vendor Stall Designer",
+  "pitch": "Creates optimal booth layouts from floor plan sketches",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-23",
+  "title": "Bargaining Pattern Analyzer",
+  "pitch": "Records negotiations to suggest optimal counteroffers",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-23",
+  "title": "Crowd Density Mapper",
+  "pitch": "Analyzes aerial footage to predict busy times and staffing needs",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-23",
+  "title": "Vintage Fashion Identifier",
+  "pitch": "Scans clothing photos to identify era and style for pricing",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-23",
+  "title": "Vendor Performance Dashboard",
+  "pitch": "Compares sales data across vendors to identify best practices",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-23",
+  "title": "Item Condition Rater",
+  "pitch": "Analyzes close-up photos to grade item wear and damage",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-23",
+  "title": "Customer Footprint Tracker",
+  "pitch": "Maps customer movement patterns through stall layouts",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-23",
+  "title": "Rare Book Scanner",
+  "pitch": "Analyzes book photos to identify first editions and value",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-23",
+  "title": "Vendor Pitch Optimizer",
+  "pitch": "Analyzes audio recordings to suggest more persuasive sales pitches",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-23",
+  "title": "Market Trend Spotter",
+  "pitch": "Analyzes vendor photos to identify emerging style trends",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-23",
+  "title": "Pricing Strategy Advisor",
+  "pitch": "Analyzes competitor photos to suggest optimal pricing points",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-23",
+  "title": "Customer Satisfaction Predictor",
+  "pitch": "Analyzes facial expressions in checkout videos to forecast reviews",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-23",
+  "title": "Vintage Electronics Tester",
+  "pitch": "Scans device photos to identify models and test functionality",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-23",
+  "title": "Vendor Collaboration Matcher",
+  "pitch": "Analyzes vendor specialties to suggest complementary partnerships",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-23",
+  "title": "Item Authenticity Verifier",
+  "pitch": "Compares photos to databases to spot counterfeit goods",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-23",
+  "title": "Customer Engagement Analyzer",
+  "pitch": "Tracks vendor-customer interactions in video to improve service",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-23",
+  "title": "Antique Furniture Identifier",
+  "pitch": "Analyzes photos to identify period, maker, and value",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-23",
+  "title": "Market Pulse Dashboard",
+  "pitch": "Real-time analysis of social media and vendor photos for trends",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-open"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-23",
+  "title": "Vendor Energy Saver",
+  "pitch": "Analyzes foot traffic to optimize staffing and reduce costs",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-23",
+  "title": "Vintage Jewelry Authenticator",
+  "pitch": "Scans photos to identify gemstones, metals, and periods",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-23",
+  "title": "Customer Retention Predictor",
+  "pitch": "Analyzes purchase history to identify at-risk customers",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-23",
+  "title": "Vendor Showcase Optimizer",
+  "pitch": "Suggests display arrangements based on item photos and buyer psychology",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-23",
+  "title": "Market Mood Tracker",
+  "pitch": "Analyzes audio from crowds to gauge overall customer satisfaction",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-23",
+  "title": "Rare Coin Identifier",
+  "pitch": "Scans coin photos to identify mint year, condition, and value",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-23",
+  "title": "Vendor Competitor Analyzer",
+  "pitch": "Compares vendor offerings and pricing across market photos",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-23",
+  "title": "Customer Journey Mapper",
+  "pitch": "Tracks customer paths through market using video analysis",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 9
+ }
+]

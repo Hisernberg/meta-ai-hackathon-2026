@@ -1,0 +1,431 @@
+[
+ {
+  "lens": "wld-compiler",
+  "title": "Quantum Circuit Visualizer",
+  "pitch": "Translate quantum code into visual circuits for physics students",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Lab Protocol Translator",
+  "pitch": "Convert academic lab protocols into executable code for bench scientists",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Legal Clause Decoder",
+  "pitch": "Translate legalese into plain English for contract review",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Musical Theory Transformer",
+  "pitch": "Convert chord progressions into sheet music for amateur composers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Medical Imaging Translator",
+  "pitch": "Convert scan reports into 3D visual models for patient education",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Architectural Blueprint Parser",
+  "pitch": "Translate blueprints into VR walkthroughs for real estate clients",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Financial Report Summarizer",
+  "pitch": "Convert earnings calls into investment insights for retail investors",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Gene Sequence Visualizer",
+  "pitch": "Translate DNA sequences into protein structure animations for biologists",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Industrial Process Mapper",
+  "pitch": "Convert factory floor data into optimization visualizations for engineers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Historical Document Translator",
+  "pitch": "Convert handwritten manuscripts into searchable digital archives",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Climate Model Visualizer",
+  "pitch": "Translate climate data into interactive heatmaps for policymakers",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Chemical Reaction Animator",
+  "pitch": "Convert reaction equations into 3D molecular animations for students",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Aircraft Maintenance Decoder",
+  "pitch": "Translate technical manuals into step-by-step visual guides for mechanics",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Neural Network Architect",
+  "pitch": "Convert business rules into neural network architectures for developers",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Agricultural Data Translator",
+  "pitch": "Convert soil sensor readings into crop yield predictions for farmers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Marine Navigation Mapper",
+  "pitch": "Translate nautical charts into AR overlays for sailors",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Astronomical Data Visualizer",
+  "pitch": "Convert telescope data into star maps for amateur astronomers",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Construction Blueprint Translator",
+  "pitch": "Convert CAD files into augmented reality overlays for construction workers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Epidemiological Data Mapper",
+  "pitch": "Translate disease spread models into public health visualizations",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Recipe Transformer",
+  "pitch": "Convert ingredient lists into cooking videos for visually impaired cooks",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Electrical Circuit Translator",
+  "pitch": "Convert code logic into circuit schematics for electronics students",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Geological Data Visualizer",
+  "pitch": "Translate seismic data into 3D earth models for geologists",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Fashion Pattern Generator",
+  "pitch": "Convert design sketches into sewing patterns for hobbyists",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Automotive Diagnostic Translator",
+  "pitch": "Convert error codes into repair animations for mechanics",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Pharmaceutical Research Mapper",
+  "pitch": "Convert molecular structures into drug interaction visualizations",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Welding Blueprint Translator",
+  "pitch": "Convert technical drawings into AR welding guides for apprentices",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Renewable Energy Optimizer",
+  "pitch": "Translate weather data into solar panel placement recommendations",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Music Theory Translator",
+  "pitch": "Convert classical scores into guitar tablature for beginners",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Archaeological Site Mapper",
+  "pitch": "Convert excavation data into 3D site reconstructions for researchers",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Agricultural Disease Identifier",
+  "pitch": "Convert plant images into treatment recommendations for farmers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Urban Planning Visualizer",
+  "pitch": "Translate zoning laws into 3D city models for developers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Neurofeedback Translator",
+  "pitch": "Convert brainwave data into meditation guidance for users",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "wld-compiler",
+  "title": "Textile Pattern Translator",
+  "pitch": "Convert cultural motifs into digital fabric designs for designers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ }
+]

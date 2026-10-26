@@ -1,0 +1,418 @@
+[
+ {
+  "lens": "dom-35",
+  "title": "Visual Accessibility Scanner",
+  "pitch": "Scan home photos to identify mobility hazards for wheelchair users",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-35",
+  "title": "Sign Language Translator",
+  "pitch": "Convert video calls to real-time text for deaf communication",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "sam-3.1",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-35",
+  "title": "Medication Reminder System",
+  "pitch": "Analyze pill bottles to schedule reminders via voice assistant",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-35",
+  "title": "Visual Path Navigator",
+  "pitch": "Real-time obstacle detection from phone camera for blind users",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "dom-35",
+  "title": "Cognitive Load Monitor",
+  "pitch": "Analyze facial expressions during tasks to detect fatigue in neurodivergent users",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-35",
+  "title": "Tactile Map Generator",
+  "pitch": "Convert street photos to raised relief maps for visually impaired",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-35",
+  "title": "Dyslexia Helper",
+  "pitch": "Analyze reading patterns to suggest personalized text formatting",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-35",
+  "title": "Emotion Recognition Aid",
+  "pitch": "Identify subtle emotional cues from facial expressions for autism support",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-35",
+  "title": "Environmental Sound Classifier",
+  "pitch": "Label ambient sounds to help deaf-blind users navigate spaces",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-35",
+  "title": "Physical Therapy Tracker",
+  "pitch": "Analyze exercise videos to form correction for mobility-impaired users",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-35",
+  "title": "Menu Reader",
+  "pitch": "Scan restaurant photos to identify menu items suitable for dietary restrictions",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-35",
+  "title": "Gesture Controller",
+  "pitch": "Track hand movements from webcam to control devices for motor-impaired users",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-35",
+  "title": "Speech Pattern Analyzer",
+  "pitch": "Detect subtle speech changes early for ALS progression monitoring",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-35",
+  "title": "Color Contrast Checker",
+  "pitch": "Analyze photos to ensure color accessibility for visually impaired users",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-35",
+  "title": "Balance Coach",
+  "pitch": "Analyze gait videos to provide real-time stability feedback for elderly users",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-35",
+  "title": "Sign Language Dictionary",
+  "pitch": "Convert video of signs to text definitions with examples",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "sam-3.1",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-35",
+  "title": "Mobility Map",
+  "pitch": "Analyze street photos to identify wheelchair accessible routes",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-35",
+  "title": "Focus Tracker",
+  "pitch": "Analyze eye movement patterns to detect attention spans for ADHD support",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-35",
+  "title": "Sound Sensitivity Meter",
+  "pitch": "Measure ambient noise levels to prepare sensory-sensitive individuals",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-35",
+  "title": "Face Recognition Aid",
+  "pitch": "Train on family photos to help prosopagnosics recognize loved ones",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-35",
+  "title": "Braille Tutor",
+  "pitch": "Convert text images to Braille with finger position guidance",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-35",
+  "title": "Fatigue Detector",
+  "pitch": "Analyze blink patterns to detect drowsiness in MS patients",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-35",
+  "title": "Food Identifier",
+  "pitch": "Scan lunch photos to identify items for visually impaired users",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-35",
+  "title": "Social Cue Decoder",
+  "pitch": "Analyze group photos to identify conversation flow for autism support",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-35",
+  "title": "Hand Tremor Tracker",
+  "pitch": "Analyze video of handwriting to quantify tremor severity for Parkinson's",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-35",
+  "title": "Emotion Voice Analyzer",
+  "pitch": "Detect vocal tone changes to identify mood shifts for depression support",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-35",
+  "title": "Visual Search Helper",
+  "pitch": "Describe objects in photos for blind users navigating unfamiliar spaces",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-35",
+  "title": "Step Counter",
+  "pitch": "Analyze walking videos to count steps for mobility-impaired users",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-35",
+  "title": "Face Expression Coach",
+  "pitch": "Analyze facial muscles to help with facial paralysis therapy",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-35",
+  "title": "Sound Localization",
+  "pitch": "Convert audio recordings to directional cues for blind users",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-35",
+  "title": "Reading Pace Analyzer",
+  "pitch": "Track eye movement during reading to detect dyslexia patterns",
+  "theme": "world",
+  "domain": "accessibility & disability support",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-35",
+  "title": "Sign Language Feedback",
+  "pitch": "Analyze video of signing to provide real-time form correction",
+  "theme": "frontier",
+  "domain": "accessibility & disability support",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ }
+]

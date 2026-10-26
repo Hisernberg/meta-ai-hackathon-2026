@@ -1,0 +1,424 @@
+[
+ {
+  "lens": "dom-9",
+  "title": "Crop Health Scanner",
+  "pitch": "Scan plants for diseases in real-time, saving hours of manual inspection",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-9",
+  "title": "Soil Composition Analyzer",
+  "pitch": "Instantly analyze soil texture and nutrient content with phone camera",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-9",
+  "title": "Pest Identification AI",
+  "pitch": "Identify crop pests instantly with photo, reducing crop loss guesswork",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-9",
+  "title": "Harvest Timing Predictor",
+  "pitch": "AI determines optimal harvest time based on crop maturity scans",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-9",
+  "title": "Irrigation Optimizer",
+  "pitch": "Automate irrigation scheduling based on soil moisture and weather",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-9",
+  "title": "Weed Mapping System",
+  "pitch": "Create precise weed distribution maps for targeted spraying",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-9",
+  "title": "Livestock Health Monitor",
+  "pitch": "Track animal health through behavior analysis using farm cameras",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-9",
+  "title": "Crop Yield Predictor",
+  "pitch": "Estimate harvest yields early in season using field scans",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-9",
+  "title": "Farm Equipment Mechanic",
+  "pitch": "Diagnose equipment issues with sound analysis and visual inspection",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-9",
+  "title": "Crop Rotation Planner",
+  "pitch": "AI suggests optimal crop rotations based on soil history and market data",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-9",
+  "title": "Pesticide Calculator",
+  "pitch": "Precise pesticide mixing calculator for different crop conditions",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-9",
+  "title": "Field Photo Journal",
+  "pitch": "Automatically document field conditions with timestamped photos and notes",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-9",
+  "title": "Weather Impact Analyzer",
+  "pitch": "Predict local weather effects on specific crops and fields",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-9",
+  "title": "Post-Harvest Quality Checker",
+  "pitch": "Grade produce quality after harvest using visual analysis",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-9",
+  "title": "Farm Expense Tracker",
+  "pitch": "Automatically categorize farm expenses from receipts and invoices",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-9",
+  "title": "Plant Growth Tracker",
+  "pitch": "Monitor plant development stages with time-lapse photo analysis",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-9",
+  "title": "Soil Moisture Mapper",
+  "pitch": "Create detailed moisture maps from drone or phone imagery",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-9",
+  "title": "Crop Stress Detector",
+  "pitch": "Identify plant stress factors from subtle visual changes",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-9",
+  "title": "Farm Equipment Scheduler",
+  "pitch": "Optimize equipment usage across multiple fields and tasks",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-9",
+  "title": "Livestock Feed Calculator",
+  "pitch": "Precise feed rationing based on animal weight and condition",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-9",
+  "title": "Crop Disease Database",
+  "pitch": "Visual database of local crop diseases with treatment recommendations",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-9",
+  "title": "Farm Labor Tracker",
+  "pitch": "Monitor and document daily labor activities across fields",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-9",
+  "title": "Field Boundary Mapper",
+  "pitch": "Automatically map field boundaries from satellite/drone imagery",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-9",
+  "title": "Market Price Predictor",
+  "pitch": "Forecast crop prices based on historical data and current conditions",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-9",
+  "title": "Crop Quality Grader",
+  "pitch": "Automatically grade produce quality for market standards",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-9",
+  "title": "Farm Equipment Log",
+  "pitch": "Track equipment maintenance hours and usage automatically",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-9",
+  "title": "Pest Lifecycle Tracker",
+  "pitch": "Monitor and predict pest cycles for targeted control",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-9",
+  "title": "Seed Selection Assistant",
+  "pitch": "Recommend best seed varieties based on field conditions and history",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-9",
+  "title": "Farm Safety Monitor",
+  "pitch": "Identify potential safety hazards in farm operations",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-9",
+  "title": "Crop Damage Assessor",
+  "pitch": "Document and quantify storm damage to crops quickly",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-9",
+  "title": "Livestock Behavior Analyzer",
+  "pitch": "Identify abnormal behaviors indicating health issues",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-9",
+  "title": "Farm Document Organizer",
+  "pitch": "Automatically categorize and organize farm paperwork",
+  "theme": "world",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-9",
+  "title": "Crop Maturity Scanner",
+  "pitch": "Quickly assess crop maturity levels across entire fields",
+  "theme": "frontier",
+  "domain": "farms & agriculture",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ }
+]

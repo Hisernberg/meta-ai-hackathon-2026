@@ -1,0 +1,431 @@
+[
+ {
+  "lens": "tw-team-agents",
+  "title": "AI Architectural Swarm",
+  "pitch": "Generate building designs with specialized agents for structure, aesthetics, and sustainability",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Legal Clause Swarm",
+  "pitch": "Draft contracts with specialized agents for liability, compliance, and negotiation terms",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Scientific Paper Swarm",
+  "pitch": "Write research papers with agents for methodology, data analysis, and literature review",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Recipe Development Swarm",
+  "pitch": "Create recipes with agents for flavor profiles, nutritional balance, and cooking techniques",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Movie Script Swarm",
+  "pitch": "Write screenplays with agents for dialogue, scene construction, and character development",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Investment Portfolio Swarm",
+  "pitch": "Build financial plans with agents for risk assessment, asset allocation, and market timing",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Game Design Swarm",
+  "pitch": "Create games with agents for mechanics, narrative, and art direction",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Medical Research Swarm",
+  "pitch": "Analyze medical literature with agents for drug interactions, diagnostic patterns, and treatment efficacy",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Fashion Design Swarm",
+  "pitch": "Create clothing collections with agents for trends, materials, and cultural appropriateness",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Urban Planning Swarm",
+  "pitch": "Design city layouts with agents for traffic flow, green spaces, and economic zones",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Marketing Campaign Swarm",
+  "pitch": "Create marketing strategies with agents for audience targeting, messaging, and channel selection",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Music Production Swarm",
+  "pitch": "Compose songs with agents for melody, lyrics, and instrumentation",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Software Architecture Swarm",
+  "pitch": "Design applications with agents for frontend, backend, and database optimization",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Environmental Policy Swarm",
+  "pitch": "Draft regulations with agents for impact assessment, economic feasibility, and enforcement mechanisms",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Educational Curriculum Swarm",
+  "pitch": "Create lesson plans with agents for content delivery, assessment, and engagement strategies",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Product Launch Swarm",
+  "pitch": "Develop product strategies with agents for features, pricing, and go-to-market",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Clinical Trial Design Swarm",
+  "pitch": "Create trial protocols with agents for patient selection, endpoints, and statistical analysis",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Brand Identity Swarm",
+  "pitch": "Develop brands with agents for logo, voice, and positioning",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Supply Chain Optimization Swarm",
+  "pitch": "Design logistics networks with agents for routing, inventory, and risk management",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "VR Experience Swarm",
+  "pitch": "Create virtual worlds with agents for environment, interaction, and narrative",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Political Campaign Swarm",
+  "pitch": "Develop campaign strategies with agents for messaging, targeting, and fundraising",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Food Product Development Swarm",
+  "pitch": "Create packaged foods with agents for taste, nutrition, and shelf life",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Disaster Response Swarm",
+  "pitch": "Plan emergency protocols with agents for evacuation, resource allocation, and communication",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "AI Ethics Framework Swarm",
+  "pitch": "Develop guidelines with agents for bias assessment, transparency, and accountability",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Travel Itinerary Swarm",
+  "pitch": "Create vacations with agents for activities, budget, and cultural immersion",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Renewable Energy Swarm",
+  "pitch": "Design power systems with agents for generation, storage, and distribution",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Content Creation Swarm",
+  "pitch": "Produce articles with agents for research, structure, and engagement",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Cybersecurity Strategy Swarm",
+  "pitch": "Develop defense systems with agents for threat assessment, prevention, and response",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Fitness Plan Swarm",
+  "pitch": "Create workout routines with agents for strength, cardio, and recovery",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Space Mission Planning Swarm",
+  "pitch": "Design expeditions with agents for trajectory, payload, and scientific objectives",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Language Learning Swarm",
+  "pitch": "Create courses with agents for vocabulary, grammar, and cultural context",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Automated Trading Swarm",
+  "pitch": "Develop trading algorithms with agents for market analysis, risk management, and execution",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-team-agents",
+  "title": "Event Planning Swarm",
+  "pitch": "Organize gatherings with agents for logistics, marketing, and experience design",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ }
+]

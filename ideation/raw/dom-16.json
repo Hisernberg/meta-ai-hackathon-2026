@@ -1,0 +1,431 @@
+[
+ {
+  "lens": "dom-16",
+  "title": "AI Building Audit Assistant",
+  "pitch": "Automate compliance reports for facility managers saving 5 hours/week",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-16",
+  "title": "HVAC Anomaly Detector",
+  "pitch": "Pinpoint energy waste patterns in buildings before utility bills arrive",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-16",
+  "title": "LeakVision Pro",
+  "pitch": "Instantly detect water leaks in commercial buildings via smartphone camera",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-16",
+  "title": "Energy SuggestBot",
+  "pitch": "Personalized energy-saving tips for small business owners with ROI calculations",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-16",
+  "title": "Compliance Copilot",
+  "pitch": "Auto-generate safety inspection reports for facility maintenance teams",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-glimmer",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-16",
+  "title": "Thermal Mapper",
+  "pitch": "Create precise heat loss maps of buildings using smartphone imagery",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-16",
+  "title": "Maintenance Memo",
+  "pitch": "Convert voice notes into work orders for building maintenance staff",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-16",
+  "title": "Energy Audit AI",
+  "pitch": "Automate energy consumption analysis for multi-unit properties",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-16",
+  "title": "RoofVision",
+  "pitch": "AI-powered roof damage assessment from ground-level photos",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-16",
+  "title": "Paperwork Pilot",
+  "pitch": "Extract and organize maintenance requests from tenant emails automatically",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-16",
+  "title": "PipePathfinder",
+  "pitch": "Locate hidden plumbing systems in buildings via thermal imaging analysis",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-16",
+  "title": "Bill Breakdown Bot",
+  "pitch": "Explain utility bill charges and identify billing errors for property owners",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-16",
+  "title": "HVAC Scheduler",
+  "pitch": "Optimize maintenance schedules based on equipment usage patterns",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-16",
+  "title": "Energy Echo",
+  "pitch": "Compare building energy usage against similar structures to identify inefficiencies",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-16",
+  "title": "Facility Fix Finder",
+  "pitch": "Identify maintenance issues from tenant complaints with image analysis",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-16",
+  "title": "Code Compliance Checker",
+  "pitch": "Instantly verify building features against local regulations using photos",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-16",
+  "title": "Maintenance Memo",
+  "pitch": "Convert voice notes into work orders for building maintenance staff",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-16",
+  "title": "Energy Audit AI",
+  "pitch": "Automate energy consumption analysis for multi-unit properties",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-16",
+  "title": "RoofVision",
+  "pitch": "AI-powered roof damage assessment from ground-level photos",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-16",
+  "title": "Paperwork Pilot",
+  "pitch": "Extract and organize maintenance requests from tenant emails automatically",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-16",
+  "title": "PipePathfinder",
+  "pitch": "Locate hidden plumbing systems in buildings via thermal imaging analysis",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-16",
+  "title": "Bill Breakdown Bot",
+  "pitch": "Explain utility bill charges and identify billing errors for property owners",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-16",
+  "title": "HVAC Scheduler",
+  "pitch": "Optimize maintenance schedules based on equipment usage patterns",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-spark-1.1",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-16",
+  "title": "Energy Echo",
+  "pitch": "Compare building energy usage against similar structures to identify inefficiencies",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-16",
+  "title": "Facility Fix Finder",
+  "pitch": "Identify maintenance issues from tenant complaints with image analysis",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-16",
+  "title": "Code Compliance Checker",
+  "pitch": "Instantly verify building features against local regulations using photos",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-16",
+  "title": "LeakVision Pro",
+  "pitch": "Instantly detect water leaks in commercial buildings via smartphone camera",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-16",
+  "title": "Thermal Mapper",
+  "pitch": "Create precise heat loss maps of buildings using smartphone imagery",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 9
+ },
+ {
+  "lens": "dom-16",
+  "title": "Compliance Copilot",
+  "pitch": "Auto-generate safety inspection reports for facility maintenance teams",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-glimmer",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-16",
+  "title": "Energy SuggestBot",
+  "pitch": "Personalized energy-saving tips for small business owners with ROI calculations",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-16",
+  "title": "HVAC Anomaly Detector",
+  "pitch": "Pinpoint energy waste patterns in buildings before utility bills arrive",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-16",
+  "title": "RoofVision",
+  "pitch": "AI-powered roof damage assessment from ground-level photos",
+  "theme": "world",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-16",
+  "title": "Energy Audit AI",
+  "pitch": "Automate energy consumption analysis for multi-unit properties",
+  "theme": "frontier",
+  "domain": "energy & building maintenance",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ }
+]

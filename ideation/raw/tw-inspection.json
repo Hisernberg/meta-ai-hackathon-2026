@@ -1,0 +1,418 @@
+[
+ {
+  "lens": "tw-inspection",
+  "title": "SafetyLens Pro",
+  "pitch": "Real-time hazard detection for construction sites with photo evidence",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "FoodGuard Audit",
+  "pitch": "Automated kitchen safety inspections with visual compliance scoring",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "EquipmentGuard",
+  "pitch": "Industrial machinery safety checklist with automated wear detection",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "PlaySafe Inspector",
+  "pitch": "Playground equipment safety audits with automated defect detection",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "FireWatch AI",
+  "pitch": "Fire safety compliance checker with visual evidence documentation",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "PoolGuard Inspector",
+  "pitch": "Swimming pool safety compliance with automated visual verification",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "LabSafe Audit",
+  "pitch": "Laboratory safety protocol verification with visual compliance scoring",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "RoofCheck AI",
+  "pitch": "Roofing safety inspection with automated hazard detection from photos",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "EcoGuard Inspector",
+  "pitch": "Environmental compliance audits with visual evidence trails",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "MineSafe Vision",
+  "pitch": "Mining equipment safety inspections with automated defect detection",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "ShipDeck Inspector",
+  "pitch": "Marine vessel safety compliance with visual verification system",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "FarmSafe Audit",
+  "pitch": "Agricultural equipment safety inspections with automated wear detection",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "ScaffoldGuard",
+  "pitch": "Construction scaffold safety checks with automated visual analysis",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "WeldSafe Vision",
+  "pitch": "Welding safety compliance verification with visual documentation",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "CraneGuard Inspector",
+  "pitch": "Crane operation safety audits with automated visual compliance",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "ChemSafe Audit",
+  "pitch": "Chemical storage safety compliance with visual verification system",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "TrenchSafe Vision",
+  "pitch": "Trenching safety inspections with automated hazard detection",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "ElectroGuard Inspector",
+  "pitch": "Electrical safety compliance with automated visual analysis",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "GasSafe Audit",
+  "pitch": "Gas line safety inspections with automated leak detection from images",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "ConfinedSpace Inspector",
+  "pitch": "Confined space safety compliance with visual verification system",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "PPEGuard Vision",
+  "pitch": "Personal protective equipment compliance checker with visual detection",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "HazardSpot AI",
+  "pitch": "Real-time workplace hazard detection with photo evidence documentation",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "SafetyChain Vision",
+  "pitch": "Blockchain-verified safety inspections with tamper-proof visual trails",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "ComplyVision AI",
+  "pitch": "Automated regulatory compliance checking with visual evidence analysis",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "RiskLens Inspector",
+  "pitch": "Predictive safety risk assessment with visual documentation",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "SafetyNet Vision",
+  "pitch": "Cross-industry safety standard checker with automated visual verification",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "AuditFlow AI",
+  "pitch": "End-to-end safety inspection workflow with automated photo analysis",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "SafetyMatrix Vision",
+  "pitch": "Multi-parameter safety compliance scoring with visual evidence",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "ComplyChain Inspector",
+  "pitch": "Supply chain safety compliance with automated visual verification",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "SafetyScore AI",
+  "pitch": "Quantitative safety performance metrics with visual documentation",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "RiskTrail Vision",
+  "pitch": "Safety incident investigation with automated visual evidence analysis",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "tw-inspection",
+  "title": "SafetyVault Inspector",
+  "pitch": "Secure safety documentation with automated visual compliance verification",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ }
+]

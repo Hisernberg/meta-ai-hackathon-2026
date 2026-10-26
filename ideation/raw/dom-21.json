@@ -1,0 +1,393 @@
+[
+ {
+  "lens": "dom-21",
+  "title": "Pricetag Pro",
+  "pitch": "Generate custom pricetags with QR codes for flea market vendors",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-21",
+  "title": "Booth Blueprint",
+  "pitch": "Design optimal flea market booth layouts based on inventory",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-21",
+  "title": "Customer Capture",
+  "pitch": "Create instant customer profiles from casual conversations",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "dom-21",
+  "title": "Inventory Oracle",
+  "pitch": "Predict what sells best at your market stall each week",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-21",
+  "title": "Haggle Helper",
+  "pitch": "AI negotiation coach for flea market pricing battles",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-21",
+  "title": "Display Designer",
+  "pitch": "Generate eye-catching booth arrangements for maximum foot traffic",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-21",
+  "title": "Vendor's Voice",
+  "pitch": "Turn spoken sales pitches into written marketing copy",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-21",
+  "title": "Market Mapper",
+  "pitch": "Find the best local markets for your specific products",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-21",
+  "title": "Price Pointer",
+  "pitch": "Analyze competitor pricing in real-time at flea markets",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-21",
+  "title": "Crowd Counter",
+  "pitch": "Estimate daily visitor numbers for market stall planning",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "sam-3.1"
+  ],
+  "wow": 5,
+  "feas": 7
+ },
+ {
+  "lens": "dom-21",
+  "title": "Item Identifier",
+  "pitch": "Classify and price unknown flea market finds instantly",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "dom-21",
+  "title": "Sales Scribe",
+  "pitch": "Automatically document all transactions and customer info",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-21",
+  "title": "Weather Witness",
+  "pitch": "Predict how weather affects market foot traffic and sales",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-21",
+  "title": "Trend Tracker",
+  "pitch": "Identify emerging local market trends before they peak",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-21",
+  "title": "Booth Bot",
+  "pitch": "Create animated signage for attracting market visitors",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-21",
+  "title": "Customer Coach",
+  "pitch": "AI training for better vendor-customer interactions",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-21",
+  "title": "Space Saver",
+  "pitch": "Optimize inventory storage for market stall transport",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-21",
+  "title": "Merchandise Matcher",
+  "pitch": "Suggest complementary products to display together",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-21",
+  "title": "Time Tracker",
+  "pitch": "Log how long customers spend at different booth sections",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-21",
+  "title": "Pitch Perfect",
+  "pitch": "Generate personalized sales pitches for different customer types",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-21",
+  "title": "Competitive Compass",
+  "pitch": "Analyze other vendors' pricing strategies in real-time",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-21",
+  "title": "Inventory Illustrator",
+  "pitch": "Create visual catalogs of market stall offerings",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-21",
+  "title": "Customer Classifier",
+  "pitch": "Segment market visitors by likely purchasing behavior",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-21",
+  "title": "Promo Pro",
+  "pitch": "Generate limited-time offers for slow-moving inventory",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-21",
+  "title": "Layout Legend",
+  "pitch": "Design booth arrangements that maximize impulse buys",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-21",
+  "title": "Price Prophet",
+  "pitch": "Forecast optimal pricing points for market items",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-21",
+  "title": "Sign Sage",
+  "pitch": "Create compelling signage that converts window shoppers",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-21",
+  "title": "Traffic Analyzer",
+  "pitch": "Map customer flow through market stalls to optimize placement",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "sam-3.1"
+  ],
+  "wow": 5,
+  "feas": 7
+ },
+ {
+  "lens": "dom-21",
+  "title": "Item Imager",
+  "pitch": "Generate realistic mockups of products not yet photographed",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-21",
+  "title": "Vendor's Vocab",
+  "pitch": "Translate product descriptions for diverse market customers",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-21",
+  "title": "Sales Simulator",
+  "pitch": "Practice difficult customer negotiations with AI",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-21",
+  "title": "Market Maven",
+  "pitch": "Identify the best days/times to sell specific items",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ }
+]

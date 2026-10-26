@@ -1,0 +1,418 @@
+[
+ {
+  "lens": "wld-unsexy",
+  "title": "Automated Parking Lot Auditing",
+  "pitch": "Scan parking lots to find violations for property managers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Restaurant Health Grader",
+  "pitch": "Automatically grade restaurant cleanliness from customer photos",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 6
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Equipment Maintenance Logger",
+  "pitch": "Track tool usage and maintenance for rental companies",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Construction Site Safety Monitor",
+  "pitch": "Detect safety violations in construction photos",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Parking Meter Validator",
+  "pitch": "Verify parking payments from street photos",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Graffiti Tracker",
+  "pitch": "Document and track vandalism for city maintenance",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Dumpster Level Monitor",
+  "pitch": "Track dumpster fill levels for waste management",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Fence Condition Reporter",
+  "pitch": "Document fence damage for property managers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 4
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Pool Safety Inspector",
+  "pitch": "Check pool compliance codes from photos",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Street Light Auditor",
+  "pitch": "Identify broken street lights from city images",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Roof Damage Detector",
+  "pitch": "Identify roof issues for insurance adjusters",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Weed Mapper",
+  "pitch": "Track invasive plant species for land managers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Sidewalk Obstacle Logger",
+  "pitch": "Document sidewalk hazards for municipal workers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 4
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Fire Hydrant Checker",
+  "pitch": "Verify fire hydrant accessibility from photos",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Sign Legibility Analyzer",
+  "pitch": "Check road sign visibility for DOT workers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Bridge Crack Detector",
+  "pitch": "Identify structural issues in bridge photos",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Pipeline Leak Spotter",
+  "pitch": "Detect pipeline corrosion from aerial images",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Crop Disease Identifier",
+  "pitch": "Detect plant diseases for farmers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Soil Erosion Mapper",
+  "pitch": "Track land degradation for conservationists",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Water Quality Visualizer",
+  "pitch": "Detect pollution in water bodies from images",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Asphalt Crack Analyzer",
+  "pitch": "Measure road deterioration for DOT",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Tree Inventory Logger",
+  "pitch": "Catalog urban trees for municipal planners",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Beach Erosion Tracker",
+  "pitch": "Monitor coastline changes for coastal managers",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Floodplain Mapper",
+  "pitch": "Identify flood risk from aerial imagery",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Land Use Classifier",
+  "pitch": "Automatically categorize land from satellite images",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Wildlife Counter",
+  "pitch": "Track animal populations from trail camera images",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Power Line Inspector",
+  "pitch": "Detect vegetation near power lines",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Wind Turbine Analyzer",
+  "pitch": "Inspect wind turbine blades from photos",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Solar Panel Inspector",
+  "pitch": "Detect panel issues from drone images",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Rail Track Monitor",
+  "pitch": "Identify rail issues from inspection photos",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Mine Safety Scanner",
+  "pitch": "Detect hazards in mining operations",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "wld-unsexy",
+  "title": "Dam Structure Checker",
+  "pitch": "Monitor dam integrity from images",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ }
+]

@@ -1,0 +1,392 @@
+[
+ {
+  "lens": "dom-43",
+  "title": "GrantFlow",
+  "pitch": "AI grant writer for small nonprofits that turns mission statements fundable",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-43",
+  "title": "EventSync",
+  "pitch": "Automated scheduling assistant for community event volunteers with conflict resolution",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-43",
+  "title": "VolunteerMatch Pro",
+  "pitch": "AI that matches volunteers to roles based on skills and availability preferences",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-43",
+  "title": "ComplyCraft",
+  "pitch": "Automated compliance checker for municipal grant requirements and reporting",
+  "theme": "frontier",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-43",
+  "title": "FundFlow",
+  "pitch": "Predictive cash flow dashboard for community organizations with donation forecasting",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-43",
+  "title": "MemberMind",
+  "pitch": "AI member engagement analyzer that predicts retention risks and suggests interventions",
+  "theme": "frontier",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-43",
+  "title": "PermitBot",
+  "pitch": "Automated permit application generator for community events with municipal regulation lookup",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-43",
+  "title": "BudgetBuddy",
+  "pitch": "AI budget planner that optimizes spending across community programs based on impact",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-43",
+  "title": "VenueViz",
+  "pitch": "AI space optimization tool for community centers that maximizes utility and minimizes conflicts",
+  "theme": "frontier",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-43",
+  "title": "DonorDNA",
+  "pitch": "AI donor segmentation system that personalizes outreach and increases giving frequency",
+  "theme": "frontier",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-43",
+  "title": "CommsCraft",
+  "pitch": "AI communications coordinator that generates tailored messages for different stakeholder groups",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-43",
+  "title": "VolunteerViz",
+  "pitch": "AI volunteer management dashboard with skill mapping and gap identification",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-43",
+  "title": "ImpactTracker",
+  "pitch": "Automated impact measurement tool that quantifies community program outcomes",
+  "theme": "frontier",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-43",
+  "title": "GrantGuru",
+  "pitch": "AI that identifies and prioritizes grant opportunities based on organizational fit and success probability",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-43",
+  "title": "MemberMagnet",
+  "pitch": "AI recruitment system that identifies and engages potential members based on community needs",
+  "theme": "frontier",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-43",
+  "title": "EventEase",
+  "pitch": "AI event coordinator that handles logistics, vendor management, and volunteer scheduling",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-43",
+  "title": "Risk Radar",
+  "pitch": "AI compliance monitor that tracks regulatory changes and flags required policy updates",
+  "theme": "frontier",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-43",
+  "title": "DonorFlow",
+  "pitch": "Automated donor stewardship system that personalizes recognition and re-engagement",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-43",
+  "title": "SkillSync",
+  "pitch": "AI volunteer skill development platform that creates personalized growth paths",
+  "theme": "frontier",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-43",
+  "title": "ComplyCraft Lite",
+  "pitch": "Simplified compliance checker for small community groups with automated report generation",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-43",
+  "title": "CommunityPulse",
+  "pitch": "AI sentiment analyzer that measures community feedback and identifies emerging needs",
+  "theme": "frontier",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-43",
+  "title": "VolunteerVet",
+  "pitch": "AI volunteer screening system that matches skills with roles and flags potential risks",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-43",
+  "title": "FundForge",
+  "pitch": "AI fundraising strategy generator that optimizes campaign approaches based on donor data",
+  "theme": "frontier",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-43",
+  "title": "MemberMilestones",
+  "pitch": "Automated member recognition system that tracks contributions and celebrates achievements",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-43",
+  "title": "PermitPredict",
+  "pitch": "AI that predicts approval likelihood for event permits based on historical data and current regulations",
+  "theme": "frontier",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "dom-43",
+  "title": "VolunteerVision",
+  "pitch": "AI volunteer scheduling tool that optimizes coverage while respecting availability preferences",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-43",
+  "title": "ComplyCraft Pro",
+  "pitch": "Advanced compliance management system for medium-sized nonprofits with audit preparation",
+  "theme": "frontier",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "dom-43",
+  "title": "DonorDNA Plus",
+  "pitch": "AI donor intelligence platform that identifies major gift prospects and cultivation strategies",
+  "theme": "frontier",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "dom-43",
+  "title": "CommunityCanvas",
+  "pitch": "AI community needs assessment tool that identifies gaps and opportunities",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-43",
+  "title": "EventEcho",
+  "pitch": "AI post-event analyzer that generates impact reports and identifies improvement areas",
+  "theme": "frontier",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-43",
+  "title": "VolunteerVault",
+  "pitch": "AI volunteer database with skill verification and achievement tracking",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-43",
+  "title": "GrantGuardian",
+  "pitch": "AI grant management system that tracks deadlines, requirements, and reporting obligations",
+  "theme": "world",
+  "domain": "city/civic & community groups",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ }
+]

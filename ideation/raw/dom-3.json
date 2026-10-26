@@ -1,0 +1,454 @@
+[
+ {
+  "lens": "dom-3",
+  "title": "Menu Magic Maker",
+  "pitch": "AI generates seasonal menus with ingredient substitutions for dietary needs, saving chefs 5 hours weekly",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "dom-3",
+  "title": "Plate Photo Critic",
+  "pitch": "Analyzes food photos against menu descriptions, identifying presentation inconsistencies before service",
+  "theme": "frontier",
+  "domain": "restaurant",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-3",
+  "title": "Kitchen Workflow Optimizer",
+  "pitch": "Maps kitchen movements to reduce steps between prep stations during peak hours",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-3",
+  "title": "Staff Shift Harmony",
+  "pitch": "Creates balanced staff schedules considering skill levels and peak demand patterns",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-3",
+  "title": "Recipe Cost Calculator",
+  "pitch": "Automates ingredient costing with fluctuating market prices for daily profit tracking",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-3",
+  "title": "Customer Complaint Translator",
+  "pitch": "Analyzes negative reviews to identify specific operational issues needing improvement",
+  "theme": "frontier",
+  "domain": "restaurant",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-3",
+  "title": "Inventory Insight",
+  "pitch": "Predicts ingredient usage patterns to reduce waste by 30% through smart ordering",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "dom-3",
+  "title": "Menu Engineering Assistant",
+  "pitch": "Identifies most profitable dishes and suggests menu placement for maximum visibility",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "dom-3",
+  "title": "Supplier Negotiator",
+  "pitch": "Analyzes supplier quotes and market trends to suggest negotiation strategies",
+  "theme": "frontier",
+  "domain": "restaurant",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-3",
+  "title": "Dietary Detail Mapper",
+  "pitch": "Creates visual maps of menu items with complete allergen and dietary information",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-3",
+  "title": "Staff Training Simulator",
+  "pitch": "Generates realistic customer scenarios for staff training on difficult interactions",
+  "theme": "frontier",
+  "domain": "restaurant",
+  "models": [
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-3",
+  "title": "Plate Composition Coach",
+  "pitch": "Analyzes food photos to suggest plating improvements for visual appeal",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-3",
+  "title": "Kitchen Noise Monitor",
+  "pitch": "Identifies excessive noise areas during service to suggest workflow adjustments",
+  "theme": "frontier",
+  "domain": "restaurant",
+  "models": [
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 5,
+  "feas": 4
+ },
+ {
+  "lens": "dom-3",
+  "title": "Local Sourcing Scout",
+  "pitch": "Finds local suppliers based on menu needs and delivery logistics",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-3",
+  "title": "Recipe Scaling Calculator",
+  "pitch": "Automatically adjusts ingredient quantities for different batch sizes",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 4,
+  "feas": 10
+ },
+ {
+  "lens": "dom-3",
+  "title": "Table Turn Optimizer",
+  "pitch": "Analyzes service patterns to suggest optimal seating arrangements",
+  "theme": "frontier",
+  "domain": "restaurant",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-3",
+  "title": "Menu Language Translator",
+  "pitch": "Creates multilingual menus with culturally appropriate food descriptions",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-3",
+  "title": "Food Waste Tracker",
+  "pitch": "Identifies patterns in food waste across menu items and preparation methods",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-3",
+  "title": "Staff Feedback Analyzer",
+  "pitch": "Processes anonymous staff feedback to identify recurring operational issues",
+  "theme": "frontier",
+  "domain": "restaurant",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-3",
+  "title": "Seasonal Menu Planner",
+  "pitch": "Generates seasonal menus based on local produce availability and customer preferences",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-3",
+  "title": "Kitchen Layout Optimizer",
+  "pitch": "Analyzes kitchen movements to suggest equipment rearrangement for efficiency",
+  "theme": "frontier",
+  "domain": "restaurant",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-3",
+  "title": "Customer Visit Predictor",
+  "pitch": "Forecasts customer traffic patterns to optimize staffing levels",
+  "theme": "frontier",
+  "domain": "restaurant",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-3",
+  "title": "Recipe Documentation Tool",
+  "pitch": "Creates standardized recipe cards with photos and step-by-step instructions",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-3",
+  "title": "Staff Tip Analyzer",
+  "pitch": "Identifies factors affecting tip amounts to improve service quality",
+  "theme": "frontier",
+  "domain": "restaurant",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-3",
+  "title": "Menu Photo Generator",
+  "pitch": "Creates realistic food photos for menus and social media from recipe descriptions",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-3",
+  "title": "Kitchen Safety Monitor",
+  "pitch": "Analyzes workflow for potential safety hazards and suggests improvements",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-3",
+  "title": "Customer Preference Mapper",
+  "pitch": "Tracks customer ordering patterns to personalize recommendations",
+  "theme": "frontier",
+  "domain": "restaurant",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-3",
+  "title": "Recipe Cost Analyzer",
+  "pitch": "Breaks down recipe costs to identify most expensive ingredients for substitution",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-3",
+  "title": "Staff Performance Dashboard",
+  "pitch": "Tracks key metrics to identify training needs and recognition opportunities",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-3",
+  "title": "Menu Consistency Checker",
+  "pitch": "Ensures menu descriptions match actual dishes through photo analysis",
+  "theme": "frontier",
+  "domain": "restaurant",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-3",
+  "title": "Local Event Planner",
+  "pitch": "Schedules special events based on local calendar and restaurant capacity",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-3",
+  "title": "Food Presentation Coach",
+  "pitch": "Analyzes food photos to suggest plating improvements for social media",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-3",
+  "title": "Kitchen Workflow Visualizer",
+  "pitch": "Creates heat maps of kitchen movement during peak hours to optimize layout",
+  "theme": "frontier",
+  "domain": "restaurant",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 4
+ },
+ {
+  "lens": "dom-3",
+  "title": "Supplier Performance Tracker",
+  "pitch": "Monitors delivery reliability and quality to identify best suppliers",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-3",
+  "title": "Menu Item Profitability",
+  "pitch": "Calculates actual profitability of each menu item including all costs",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-3",
+  "title": "Staff Scheduling Assistant",
+  "pitch": "Creates optimal staff schedules considering availability, skills, and labor costs",
+  "theme": "world",
+  "domain": "restaurant",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-3",
+  "title": "Customer Feedback Summarizer",
+  "pitch": "Analyzes reviews to identify specific praise and improvement areas",
+  "theme": "frontier",
+  "domain": "restaurant",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ }
+]

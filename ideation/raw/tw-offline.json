@@ -1,0 +1,430 @@
+[
+ {
+  "lens": "tw-offline",
+  "title": "Field Notes Sync",
+  "pitch": "Agricultural researchers sync field observations despite poor connectivity",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Recipe Assistant",
+  "pitch": "Home cooks access recipes with images in areas with spotty internet",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Remote Diagnostics Aid",
+  "pitch": "Field technicians diagnose equipment issues with limited connectivity",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Language Tutor",
+  "pitch": "Language learners practice with AI in low-connectivity regions",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Emergency Response Guide",
+  "pitch": "First responders access procedures during network outages",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Story Creator",
+  "pitch": "Children in remote areas generate illustrated stories without internet",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Medical Assistant",
+  "pitch": "Community health workers access medical guidance with limited connectivity",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Museum Guide",
+  "pitch": "Tourists explore exhibits with AI descriptions in remote locations",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Learning Hub",
+  "pitch": "Students access educational content in connectivity-poor areas",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 7
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Legal Aid",
+  "pitch": "Rural communities access legal information with limited connectivity",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Wildlife Tracker",
+  "pitch": "Conservationists document species in remote areas with intermittent connectivity",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 9
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Art Generator",
+  "pitch": "Artists create visuals in isolated locations without internet",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Music Composer",
+  "pitch": "Musicians compose music in low-connectivity environments",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Journalist Kit",
+  "pitch": "Reporters file stories from areas with poor connectivity",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-voice-transcribe-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 8
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Recipe Translator",
+  "pitch": "Home cooks translate recipes with images despite poor connectivity",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Construction Guide",
+  "pitch": "Workers access building instructions in remote sites",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Disaster Relief",
+  "pitch": "First responders coordinate with limited connectivity",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 9,
+  "feas": 9
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Cultural Archive",
+  "pitch": "Preserve stories in remote communities with intermittent connectivity",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-voice-transcribe-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Medical Training",
+  "pitch": "Health workers practice diagnostics with limited connectivity",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Heritage Explorer",
+  "pitch": "Tourists discover local history in remote areas",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Skill Builder",
+  "pitch": "Learn trades in areas with poor connectivity",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Wildlife ID",
+  "pitch": "Identify animals in remote locations with limited connectivity",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Storyteller",
+  "pitch": "Create interactive stories in isolated communities",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-open",
+   "muse-image-1.0",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 6,
+  "feas": 6
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Field Botanist",
+  "pitch": "Identify plants in remote areas with poor connectivity",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Disaster Reporter",
+  "pitch": "Citizen journalists document emergencies with limited connectivity",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Language Preserver",
+  "pitch": "Document endangered languages in remote communities",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Recipe Analyzer",
+  "pitch": "Analyze ingredients in areas with poor connectivity",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Heritage Recorder",
+  "pitch": "Document cultural artifacts in remote locations",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Medical Reference",
+  "pitch": "Health workers access medical guidance in remote areas",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Craft Guide",
+  "pitch": "Artisans learn techniques in connectivity-poor areas",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Disaster Mapper",
+  "pitch": "Map affected areas during emergencies with limited connectivity",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 9
+ },
+ {
+  "lens": "tw-offline",
+  "title": "Offline Heritage Translator",
+  "pitch": "Translate historical documents in isolated communities",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 7
+ }
+]

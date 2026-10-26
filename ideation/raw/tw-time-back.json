@@ -1,0 +1,418 @@
+[
+ {
+  "lens": "tw-time-back",
+  "title": "AI-Powered Contract Negotiator",
+  "pitch": "Automate contract review and negotiation for small businesses",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Medical Research Paper Analyzer",
+  "pitch": "Summarize and extract insights from complex medical studies",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Legal Document Classifier",
+  "pitch": "Instantly categorize and tag legal documents for law firms",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Scientific Literature Reviewer",
+  "pitch": "Analyze and synthesize decades of research papers in minutes",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 10,
+  "feas": 9
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Financial Report Auditor",
+  "pitch": "Automatically detect anomalies in financial statements",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Clinical Trial Matcher",
+  "pitch": "Match patients to relevant clinical trials in seconds",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Patent Prior Art Searcher",
+  "pitch": "Comprehensive patent search with infringement analysis",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Compliance Document Generator",
+  "pitch": "Create compliance documents for various regulations instantly",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Drug Discovery Accelerator",
+  "pitch": "Analyze molecular interactions for drug candidates",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 10,
+  "feas": 9
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Real Estate Due Diligence Tool",
+  "pitch": "Comprehensive property analysis in minutes",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Clinical Diagnosis Assistant",
+  "pitch": "Analyze symptoms against medical literature for insights",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Supply Chain Optimizer",
+  "pitch": "Identify bottlenecks and optimize logistics routes",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Insurance Claim Processor",
+  "pitch": "Automatically assess and process insurance claims",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Materials Science Simulator",
+  "pitch": "Predict material properties for new compounds",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 10,
+  "feas": 9
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "HR Policy Generator",
+  "pitch": "Create customized HR policies for companies",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Clinical Trial Designer",
+  "pitch": "Design robust clinical trials in minutes",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Economic Impact Analyzer",
+  "pitch": "Assess economic effects of policy changes instantly",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Biomedical Research Summarizer",
+  "pitch": "Condense complex biomedical research into key insights",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 10,
+  "feas": 9
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Regulatory Compliance Checker",
+  "pitch": "Verify compliance with complex regulations automatically",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Drug Interaction Predictor",
+  "pitch": "Identify potential drug interactions instantly",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Market Research Analyzer",
+  "pitch": "Analyze market trends and consumer behavior in minutes",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Clinical Documentation Assistant",
+  "pitch": "Automate medical documentation for doctors",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Energy Grid Optimizer",
+  "pitch": "Optimize energy distribution in real-time",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 10,
+  "feas": 9
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Legal Research Assistant",
+  "pitch": "Find relevant case law and precedents instantly",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Genomic Variant Analyzer",
+  "pitch": "Analyze genetic variants for clinical significance",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 10,
+  "feas": 9
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Investment Portfolio Optimizer",
+  "pitch": "Analyze and optimize investment portfolios instantly",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Clinical Pathway Designer",
+  "pitch": "Create evidence-based clinical pathways in minutes",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Supply Chain Risk Analyzer",
+  "pitch": "Identify and mitigate supply chain risks instantly",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Medical Coding Assistant",
+  "pitch": "Automate medical coding for billing accuracy",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Climate Impact Simulator",
+  "pitch": "Model environmental impacts of business decisions",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 10,
+  "feas": 9
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Clinical Trial Monitor",
+  "pitch": "Monitor trial progress and identify issues in real-time",
+  "theme": "world",
+  "domain": "cross-domain",
+  "models": [
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7
+ },
+ {
+  "lens": "tw-time-back",
+  "title": "Manufacturing Process Optimizer",
+  "pitch": "Analyze and optimize manufacturing workflows",
+  "theme": "frontier",
+  "domain": "cross-domain",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8
+ }
+]

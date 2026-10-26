@@ -1,0 +1,411 @@
+[
+ {
+  "lens": "dom-22",
+  "title": "Price Prophet",
+  "pitch": "Predict optimal prices for flea market items based on demand and history",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-22",
+  "title": "Vendor Vitals",
+  "pitch": "Track inventory and sales with voice notes and auto-generated reports",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-22",
+  "title": "Market Mapper",
+  "pitch": "AI-generated booth layouts that maximize foot traffic and impulse buys",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-22",
+  "title": "Customer Catcher",
+  "pitch": "Create personalized offers based on browsing behavior and past purchases",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6
+ },
+ {
+  "lens": "dom-22",
+  "title": "Deal Detector",
+  "pitch": "Scan competitor prices and suggest strategic adjustments in real-time",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-22",
+  "title": "Stall Scout",
+  "pitch": "Identify optimal market locations using historical foot traffic data",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 7
+ },
+ {
+  "lens": "dom-22",
+  "title": "Tax Tracker",
+  "pitch": "Automate expense categorization and receipt scanning for tax season",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 4
+ },
+ {
+  "lens": "dom-22",
+  "title": "Display Designer",
+  "pitch": "Generate eye-catching booth layouts and signage prompts for printing",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-22",
+  "title": "Crowd Counter",
+  "pitch": "Estimate daily visitor counts and peak hours using surveillance video",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 9
+ },
+ {
+  "lens": "dom-22",
+  "title": "Inventory Oracle",
+  "pitch": "Predict stock needs based on weather, events, and historical sales",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8
+ },
+ {
+  "lens": "dom-22",
+  "title": "Social Spark",
+  "pitch": "Generate market-specific social media posts and promotional ideas",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-22",
+  "title": "Vendor Vibe",
+  "pitch": "Analyze customer sentiment from reviews to improve stall experience",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 5,
+  "feas": 7
+ },
+ {
+  "lens": "dom-22",
+  "title": "Price Prophet Pro",
+  "pitch": "Dynamic pricing system that adjusts based on competitor movements",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 4,
+  "feas": 9
+ },
+ {
+  "lens": "dom-22",
+  "title": "Market Mood",
+  "pitch": "Track customer emotions during interactions to improve sales approach",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 3,
+  "feas": 8
+ },
+ {
+  "lens": "dom-22",
+  "title": "Stall Scout AI",
+  "pitch": "Augmented reality overlay showing optimal booth placement at new markets",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 3,
+  "feas": 9
+ },
+ {
+  "lens": "dom-22",
+  "title": "Cash Flow Coach",
+  "pitch": "Predict cash flow gaps and suggest micro-inventory adjustments",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-22",
+  "title": "Display Dynamo",
+  "pitch": "Generate 3D booth mockups with customer flow visualization",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 4,
+  "feas": 8
+ },
+ {
+  "lens": "dom-22",
+  "title": "Customer Catcher Plus",
+  "pitch": "Facial recognition for regulars with personalized offer generation",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 2,
+  "feas": 9
+ },
+ {
+  "lens": "dom-22",
+  "title": "Deal Detector Pro",
+  "pitch": "Real-time competitor price monitoring with strategic suggestions",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 3,
+  "feas": 9
+ },
+ {
+  "lens": "dom-22",
+  "title": "Tax Tracker Turbo",
+  "pitch": "Complete tax filing assistant with categorized expense reports",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 4
+ },
+ {
+  "lens": "dom-22",
+  "title": "Social Spark Pro",
+  "pitch": "Multi-platform content calendar tailored to local market demographics",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-22",
+  "title": "Vendor Vibe Analyzer",
+  "pitch": "Voice analysis of customer interactions to identify improvement areas",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 4,
+  "feas": 7
+ },
+ {
+  "lens": "dom-22",
+  "title": "Inventory Oracle Plus",
+  "pitch": "AI-powered restocking with supplier integration and delivery scheduling",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-22",
+  "title": "Market Mapper 3D",
+  "pitch": "Augmented reality booth planning with customer movement simulation",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 3,
+  "feas": 8
+ },
+ {
+  "lens": "dom-22",
+  "title": "Crowd Counter Pro",
+  "pitch": "AI-powered attendance prediction with staffing recommendations",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 4,
+  "feas": 8
+ },
+ {
+  "lens": "dom-22",
+  "title": "Price Prophet Plus",
+  "pitch": "Dynamic pricing with competitor tracking and demand forecasting",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 4,
+  "feas": 9
+ },
+ {
+  "lens": "dom-22",
+  "title": "Stall Scout Elite",
+  "pitch": "Market location scoring system with demographic overlay",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 5,
+  "feas": 8
+ },
+ {
+  "lens": "dom-22",
+  "title": "Cash Flow Command",
+  "pitch": "Financial advisor for market vendors with predictive analytics",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-22",
+  "title": "Display Dynamo Pro",
+  "pitch": "Automated signage generation with QR codes for inventory tracking",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 6
+ },
+ {
+  "lens": "dom-22",
+  "title": "Customer Catcher AI",
+  "pitch": "Personalized marketing automation based on purchase history",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 5,
+  "feas": 7
+ },
+ {
+  "lens": "dom-22",
+  "title": "Tax Tracker Supreme",
+  "pitch": "Complete tax filing with deduction maximization for market vendors",
+  "theme": "world",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 4
+ },
+ {
+  "lens": "dom-22",
+  "title": "Social Spark Ultra",
+  "pitch": "AI-generated viral marketing campaigns specific to local markets",
+  "theme": "frontier",
+  "domain": "local retail & flea markets",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 4,
+  "feas": 8
+ }
+]

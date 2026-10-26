@@ -1,0 +1,413 @@
+[
+ {
+  "lens": "dom-20",
+  "title": "Package Whisperer",
+  "pitch": "Transcribes delivery notes from drivers' voice memos",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 3
+ },
+ {
+  "lens": "dom-20",
+  "title": "Damage Detective",
+  "pitch": "Analyzes package photos to identify transit damage patterns",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 4
+ },
+ {
+  "lens": "dom-20",
+  "title": "Route Replay",
+  "pitch": "Reconstructs delivery routes from dashcam footage analysis",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-20",
+  "title": "Drop Zone Mapper",
+  "pitch": "Identifies optimal package drop points using customer behavior video",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 6
+ },
+ {
+  "lens": "dom-20",
+  "title": "Proof of Presence",
+  "pitch": "Verifies delivery locations by analyzing background features in photos",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 3
+ },
+ {
+  "lens": "dom-20",
+  "title": "Weather Witness",
+  "pitch": "Correlates weather data with package damage from driver photos",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 4
+ },
+ {
+  "lens": "dom-20",
+  "title": "Time Thief Tracker",
+  "pitch": "Identifies delivery delays through timestamp analysis of scan logs",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-20",
+  "title": "Vehicle Vigil",
+  "pitch": "Monitors driver behavior through dashcam audio pattern detection",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-20",
+  "title": "Package Portrait",
+  "pitch": "Creates visual fingerprints of packages for damage tracking over time",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 4
+ },
+ {
+  "lens": "dom-20",
+  "title": "Customer Capture",
+  "pitch": "Analyzes customer reactions to delivery timing from doorbell cam footage",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 6
+ },
+ {
+  "lens": "dom-20",
+  "title": "Scan Story",
+  "pitch": "Transforms package scan logs into delivery journey narratives",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 3
+ },
+ {
+  "lens": "dom-20",
+  "title": "Traffic Translator",
+  "pitch": "Deciphers traffic conditions from driver's background audio during deliveries",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 5
+ },
+ {
+  "lens": "dom-20",
+  "title": "Signature Simulator",
+  "pitch": "Verifies delivery signatures by comparing with ID photos from drivers",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 4
+ },
+ {
+  "lens": "dom-20",
+  "title": "Pain Point Painter",
+  "pitch": "Maps delivery problem locations using customer complaint photos",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 5
+ },
+ {
+  "lens": "dom-20",
+  "title": "Delivery Diarist",
+  "pitch": "Automatically logs delivery events from driver's spoken notes",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 3
+ },
+ {
+  "lens": "dom-20",
+  "title": "Neighbor Navigator",
+  "pitch": "Identifies package handoff patterns from doorbell cam footage",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 6
+ },
+ {
+  "lens": "dom-20",
+  "title": "Package Path",
+  "pitch": "Tracks package movement through warehouse scan logs visualization",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-spark-1.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 4
+ },
+ {
+  "lens": "dom-20",
+  "title": "Delay Detector",
+  "pitch": "Pinpoints delivery bottlenecks through timestamp analysis of scan logs",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 5
+ },
+ {
+  "lens": "dom-20",
+  "title": "Condition Chronicle",
+  "pitch": "Documents package condition changes throughout delivery journey",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 6
+ },
+ {
+  "lens": "dom-20",
+  "title": "Delivery Dialogue",
+  "pitch": "Analyzes customer-driver interactions from doorbell audio recordings",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 4
+ },
+ {
+  "lens": "dom-20",
+  "title": "Drop Zone Designer",
+  "pitch": "Optimizes package drop locations using customer behavior patterns",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 7
+ },
+ {
+  "lens": "dom-20",
+  "title": "Proof of Performance",
+  "pitch": "Meets delivery promises by analyzing actual vs. promised timestamps",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-20",
+  "title": "Traffic Time Traveler",
+  "pitch": "Predicts delivery times based on historical traffic audio patterns",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 6
+ },
+ {
+  "lens": "dom-20",
+  "title": "Package Passport",
+  "pitch": "Creates digital travel logs for packages using scan data and photos",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 9,
+  "feas": 4
+ },
+ {
+  "lens": "dom-20",
+  "title": "Neighbor Notes",
+  "pitch": "Extracts package handoff details from customer-driver conversations",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 7,
+  "feas": 3
+ },
+ {
+  "lens": "dom-20",
+  "title": "Damage Detective Pro",
+  "pitch": "Classifies package damage types from driver's photos with timestamps",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-20",
+  "title": "Delivery Drama Detector",
+  "pitch": "Identifies problematic delivery moments through audio analysis",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ },
+ {
+  "lens": "dom-20",
+  "title": "Package Puzzle",
+  "pitch": "Reassembles fragmented delivery data from multiple sources into coherent stories",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 6
+ },
+ {
+  "lens": "dom-20",
+  "title": "Condition Chronicle",
+  "pitch": "Documents package condition changes throughout delivery journey",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 4
+ },
+ {
+  "lens": "dom-20",
+  "title": "Delivery Dialogue Analyzer",
+  "pitch": "Extracts insights from customer-driver interactions during deliveries",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.1"
+  ],
+  "wow": 8,
+  "feas": 5
+ },
+ {
+  "lens": "dom-20",
+  "title": "Proof of Place",
+  "pitch": "Verifies delivery locations by analyzing environmental features in photos",
+  "theme": "world",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 4
+ },
+ {
+  "lens": "dom-20",
+  "title": "Drop Zone Designer",
+  "pitch": "Optimizes package drop locations using customer behavior patterns",
+  "theme": "frontier",
+  "domain": "logistics & last-mile delivery",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 7
+ }
+]

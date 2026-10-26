@@ -1,0 +1,563 @@
+[
+ {
+  "lens": "llm-samphysical",
+  "title": "Produce Quality Inspector",
+  "pitch": "Automatically grade fruits/vegetables from photos for market standards",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Construction Material Counter",
+  "pitch": "Count bricks, beams, and fixtures from site photos for inventory",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Defect Detection Engine",
+  "pitch": "Identify manufacturing flaws in products from assembly line images",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Vintage Clothing Authenticator",
+  "pitch": "Verify authenticity of vintage garments by analyzing fabric details",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Warehouse Stock Auditor",
+  "pitch": "Automatically tally inventory from warehouse photos for cycle counts",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 5,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Agricultural Disease Mapper",
+  "pitch": "Identify plant diseases from field images for targeted treatment",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Construction Progress Tracker",
+  "pitch": "Measure completed work from site photos against project plans",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Fashion Designer's Assistant",
+  "pitch": "Extract garment patterns from photos for reproduction",
+  "theme": "frontier",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 9,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Automotive Damage Assessor",
+  "pitch": "Quantify vehicle damage from photos for insurance claims",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Wildlife Population Counter",
+  "pitch": "Count animals in habitat photos for conservation efforts",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Architectural Element Identifier",
+  "pitch": "Recognize building features in photos for renovation planning",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Soil Composition Analyzer",
+  "pitch": "Identify soil types and contents from agricultural images",
+  "theme": "frontier",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 9,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Furniture Assembly Verifier",
+  "pitch": "Confirm IKEA furniture is correctly assembled from user photos",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Historical Artifact Recorder",
+  "pitch": "Document and catalog museum artifacts with precise measurements",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Construction Safety Auditor",
+  "pitch": "Identify safety hazards from job site photos",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Precision Agriculture Scout",
+  "pitch": "Count crop plants per square foot from field images",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Textile Quality Inspector",
+  "pitch": "Identify fabric defects and inconsistencies from close-up images",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Urban Green Space Mapper",
+  "pitch": "Measure and analyze tree canopy coverage from city photos",
+  "theme": "frontier",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Fishing Catch Analyzer",
+  "pitch": "Identify and count fish species from catch photos",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Roof Damage Assessor",
+  "pitch": "Identify roof damage types from aerial or ground photos",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Coral Reef Health Monitor",
+  "pitch": "Quantify coral bleaching from underwater photos",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 9,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Construction Material Optimizer",
+  "pitch": "Calculate optimal material usage from architectural plans",
+  "theme": "frontier",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 8,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Wine Grape Harvester",
+  "pitch": "Assess grape ripeness and count clusters from vineyard images",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Infrastructure Inspector",
+  "pitch": "Identify bridge and road damage from inspection photos",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Solar Farm Analyst",
+  "pitch": "Count solar panels and detect damage from aerial images",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Precision Forestry Scout",
+  "pitch": "Count trees and assess health from forest images",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Beach Erosion Mapper",
+  "pitch": "Measure shoreline changes from time-series beach photos",
+  "theme": "frontier",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Construction Waste Tracker",
+  "pitch": "Identify and count materials from demolition site photos",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Livestock Health Monitor",
+  "pitch": "Identify sick animals from aerial farm photos",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Infrastructure Age Estimator",
+  "pitch": "Assess infrastructure age from visual features in photos",
+  "theme": "frontier",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 9,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Construction Site Safety Monitor",
+  "pitch": "Detect PPE compliance from job site photos",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Precision Agronomist",
+  "pitch": "Analyze crop health and nutrient levels from leaf images",
+  "theme": "frontier",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "wow": 6,
+  "feas": 9,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-samphysical",
+  "title": "Historical Building Recorder",
+  "pitch": "Document architectural details of historic structures",
+  "theme": "world",
+  "domain": "samphysical",
+  "models": [
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ }
+]

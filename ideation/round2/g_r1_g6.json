@@ -1,0 +1,117 @@
+{
+ "survivors": [
+  {
+   "lens": "llm-samphysical",
+   "title": "Produce Quality Inspector",
+   "pitch": "Automatically grade fruits/vegetables from photos for market standards",
+   "theme": "world",
+   "domain": "samphysical",
+   "models": [
+    "sam-3.1",
+    "muse-image-1.0"
+   ],
+   "wow": 8,
+   "feas": 7,
+   "days": 5,
+   "round": 2,
+   "work_real": 9,
+   "rarity": 8.5,
+   "scores": {
+    "creativity": 7.7,
+    "ambition": 6,
+    "works": 9.5,
+    "wow": 8.4,
+    "work_real": 9,
+    "meta": 6.2,
+    "fit": 8.6,
+    "days": 5,
+    "total": 83.9,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     8,
+     8,
+     8,
+     7
+    ],
+    "total": 39
+   }
+  },
+  {
+   "title": "Clevis Stack",
+   "pitch": "For bookshops, shoebox bookkeeping. Spoken intakes open and route cases: returns and stock ready in minutes, auto-makes a 30-second recap the owner will repost.",
+   "theme": "world",
+   "domain": "bookstore and stationer",
+   "models": [
+    "muse-voice-transcribe-1.0",
+    "muse-spark-1.3",
+    "muse-image-1.0"
+   ],
+   "wow": 9,
+   "feas": 7.9,
+   "round": 2,
+   "lens": "bulk-intake_triage+recap",
+   "mech": "intake_triage",
+   "twist_id": "recap",
+   "days": 4,
+   "work_real": 8.5,
+   "rarity": 7.84,
+   "scores": {
+    "creativity": 7.7,
+    "ambition": 6.3,
+    "works": 10,
+    "wow": 9.4,
+    "work_real": 8.5,
+    "meta": 7.8,
+    "fit": 8.6,
+    "days": 4,
+    "total": 83.7,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     9,
+     9,
+     8,
+     9,
+     8
+    ],
+    "total": 43
+   }
+  }
+ ],
+ "verdicts": [
+  {
+   "i": 0,
+   "attack": "Doesn't clearly solve a unique problem not addressed by existing POS systems.",
+   "why": "Strong voice-to-action workflow for small retailers with concrete time savings."
+  },
+  {
+   "i": 1,
+   "attack": "Too similar to idea 0 with different industry, lacks differentiation.",
+   "why": "Clear value for moving companies but redundant with bookkeeping concept."
+  },
+  {
+   "i": 2,
+   "attack": "Web scraping is a solved problem with many existing tools.",
+   "why": "Addresses real pain point of government data extraction with novel approach."
+  },
+  {
+   "i": 3,
+   "attack": "Produce grading standards vary too much for reliable automation.",
+   "why": "Clear, defensible value proposition with concrete artifact and measurable quality assessment."
+  },
+  {
+   "i": 4,
+   "attack": "Sports coaching documentation is already well-served by video analysis tools.",
+   "why": "Interesting application but lacks concrete time/money savings metric."
+  },
+  {
+   "i": 5,
+   "attack": "Law offices already have specialized case management systems.",
+   "why": "Strong workflow for legal documentation but may not integrate with existing systems."
+  }
+ ]
+}

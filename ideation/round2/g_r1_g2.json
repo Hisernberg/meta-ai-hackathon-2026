@@ -1,0 +1,121 @@
+{
+ "survivors": [
+  {
+   "title": "Marlinspike Pulse",
+   "pitch": "Filmed tasks become step-by-step SOPs with checkpoints for container yards — interrupting status calls solved: yard photos and logs in minutes and prints paper backups, because reality.",
+   "theme": "frontier",
+   "domain": "container yard office",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "sam-3.1",
+    "muse-image-1.0"
+   ],
+   "wow": 9,
+   "feas": 5.8,
+   "round": 2,
+   "lens": "bulk-film_sop+paper_backup",
+   "mech": "film_sop",
+   "twist_id": "paper_backup",
+   "days": 6,
+   "work_real": 8.5,
+   "rarity": 5,
+   "scores": {
+    "creativity": 6.8,
+    "ambition": 9,
+    "works": 8.4,
+    "wow": 9.4,
+    "work_real": 8.5,
+    "meta": 10,
+    "fit": 8.2,
+    "days": 6,
+    "total": 85,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     9,
+     7,
+     8,
+     8
+    ],
+    "total": 40
+   }
+  },
+  {
+   "title": "Lintel for maintenance teams",
+   "pitch": "Work orders without the paperwork: the machine plate unlocks the exact manual page built for maintenance teams, ends in printed QR cards for the wall.",
+   "theme": "frontier",
+   "domain": "building maintenance team",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "muse-image-1.0"
+   ],
+   "wow": 10,
+   "feas": 6.8,
+   "round": 2,
+   "lens": "bulk-manual_oracle+qr_cards",
+   "mech": "manual_oracle",
+   "twist_id": "qr_cards",
+   "days": 5,
+   "work_real": 8.5,
+   "rarity": 7.84,
+   "scores": {
+    "creativity": 8.1,
+    "ambition": 6.4,
+    "works": 9.5,
+    "wow": 10,
+    "work_real": 8.5,
+    "meta": 7.8,
+    "fit": 8.2,
+    "days": 5,
+    "total": 84.4,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     9,
+     9,
+     8,
+     9,
+     8
+    ],
+    "total": 43
+   }
+  }
+ ],
+ "verdicts": [
+  {
+   "i": 0,
+   "attack": "QR codes are a solved tech, not ambitious",
+   "why": "solid practical solution with clear ROI"
+  },
+  {
+   "i": 1,
+   "attack": "Why not just a shared doc? No technical ambition",
+   "why": "valid problem but solution is just transcription + templating"
+  },
+  {
+   "i": 2,
+   "attack": "Container yards niche? Needs clear ROI calc",
+   "why": "visually compelling, uses multiple frontier techs uniquely"
+  },
+  {
+   "i": 3,
+   "attack": "Interview transcription exists; timeline generation is trivial",
+   "why": "too generic, lacks concrete artifact/work use case"
+  },
+  {
+   "i": 4,
+   "attack": "HVAC diagnosis already exists; adding images isn't novel",
+   "why": "real problem but solution is just classification + retrieval"
+  },
+  {
+   "i": 5,
+   "attack": "Chain of custody is well-established; voice-to-records isn't novel",
+   "why": "problem is valid but solution lacks technical ambition"
+  }
+ ]
+}

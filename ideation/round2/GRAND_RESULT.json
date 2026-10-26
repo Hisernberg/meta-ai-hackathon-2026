@@ -1,0 +1,123 @@
+{
+ "grand_champion": {
+  "title": "Cleat for stall chains",
+  "pitch": "Trainees breaking real things plagues stall chains. The fix: filmed tasks become step-by-step SOPs with checkpoints, output supply counts, the expert approves and the system does the rest.",
+  "theme": "frontier",
+  "domain": "street food stall chain",
+  "models": [
+   "muse-spark-1.3",
+   "muse-voice-transcribe-1.0",
+   "sam-3.1",
+   "muse-image-1.0"
+  ],
+  "lens": "bulk-film_sop+expert_loop",
+  "round": 2,
+  "seed_champion": false,
+  "councilPts": 22,
+  "votes": 5,
+  "attacks": [
+   "A-creativity-hawk: The training angle for stall chains is fresh and addresses a real pain point with SOP automation.",
+   "B-feasibility-hawk: Over-scoped: video analysis, supply counts, and approval system too complex for 8 days",
+   "C-platform-native: Limited validation on real-world implementation beyond basic image recognition",
+   "D-demo-hunter: Visual SOP generation from filmed tasks with expert approval creates instant payoff",
+   "E-work-realist: Vague SOP creation; no proof of expert approval workflow"
+  ]
+ },
+ "arena_champion": "Bellows Bench",
+ "runner_up": "Lintel for maintenance teams",
+ "board": [
+  {
+   "title": "Cleat for stall chains",
+   "pitch": "Trainees breaking real things plagues stall chains. The fix: filmed tasks become step-by-step SOPs with checkpoints, output supply counts, the expert approves and the system does the rest.",
+   "theme": "frontier",
+   "domain": "street food stall chain",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "sam-3.1",
+    "muse-image-1.0"
+   ],
+   "lens": "bulk-film_sop+expert_loop",
+   "round": 2,
+   "seed_champion": false,
+   "councilPts": 22,
+   "votes": 5,
+   "attacks": [
+    "A-creativity-hawk: The training angle for stall chains is fresh and addresses a real pain point with SOP automation.",
+    "B-feasibility-hawk: Over-scoped: video analysis, supply counts, and approval system too complex for 8 days",
+    "C-platform-native: Limited validation on real-world implementation beyond basic image recognition",
+    "D-demo-hunter: Visual SOP generation from filmed tasks with expert approval creates instant payoff",
+    "E-work-realist: Vague SOP creation; no proof of expert approval workflow"
+   ]
+  },
+  {
+   "title": "Bellows Bench",
+   "pitch": "The phone becomes the tool \u2014 the machine plate unlocks the exact manual page for jewelry workshops: piece tracking minutes after the work happens, auto-makes a 30-second recap the owner will repost.",
+   "theme": "frontier",
+   "domain": "jewelry workshop",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "muse-image-1.0"
+   ],
+   "lens": "bulk-manual_oracle+recap",
+   "round": 2,
+   "seed_champion": false,
+   "councilPts": 16,
+   "votes": 5,
+   "attacks": [
+    "A-creativity-hawk: Creative use of manual pages for jewelry workshops with auto-recap is unique but less ambitious.",
+    "B-feasibility-hawk: Voice-to-text for jewelry workshops is thin but feasible with real business value",
+    "C-platform-native: Niche application with limited scalability beyond jewelry workshops",
+    "D-demo-hunter: Jewelry piece tracking with auto-generated recap shows immediate value",
+    "E-work-realist: Manual page tracking unclear; no artifact specified"
+   ]
+  },
+  {
+   "title": "Lintel for maintenance teams",
+   "pitch": "Work orders without the paperwork: the machine plate unlocks the exact manual page built for maintenance teams, ends in printed QR cards for the wall.",
+   "theme": "frontier",
+   "domain": "building maintenance team",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "muse-image-1.0"
+   ],
+   "lens": "bulk-manual_oracle+qr_cards",
+   "round": 2,
+   "seed_champion": false,
+   "councilPts": 12,
+   "votes": 5,
+   "attacks": [
+    "A-creativity-hawk: QR cards for maintenance teams is practical but feels like a slight variation on the theme.",
+    "B-feasibility-hawk: Similar to Bellows but less clear value proposition for maintenance teams",
+    "C-platform-native: Similar concept to Bellows Bench but with less creative application",
+    "D-demo-hunter: QR cards for maintenance manuals provide tangible demo moment",
+    "E-work-realist: 'Work orders without paperwork' lacks quantifiable time savings"
+   ]
+  },
+  {
+   "title": "Produce Quality Inspector",
+   "pitch": "Automatically grade fruits/vegetables from photos for market standards",
+   "theme": "world",
+   "domain": "samphysical",
+   "models": [
+    "sam-3.1",
+    "muse-image-1.0"
+   ],
+   "lens": "llm-samphysical",
+   "round": 2,
+   "seed_champion": false,
+   "councilPts": 0,
+   "votes": 0,
+   "attacks": [
+    "A-creativity-hawk: Produce grading is a solved problem with no creative twist on the concept.",
+    "B-feasibility-hawk: Image grading for produce is well-trodden territory with no clear differentiator",
+    "C-platform-native: Underutilizes Meta models, only basic image segmentation without advanced features",
+    "D-demo-hunter: Fruit grading lacks visual excitement and demo potential",
+    "E-work-realist: Common application; no named worker or defensible savings"
+   ]
+  }
+ ],
+ "pool": 7868
+}

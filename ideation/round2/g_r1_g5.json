@@ -1,0 +1,117 @@
+{
+ "survivors": [
+  {
+   "title": "Sheer for farm co-ops",
+   "pitch": "Give farm co-ops counter cameras read the rush pattern: harvest ledgers in minutes instead of days, the owner gets a 30-second voice digest.",
+   "theme": "frontier",
+   "domain": "crop farm co-op",
+   "models": [
+    "sam-3.1",
+    "muse-glimmer",
+    "muse-voice-transcribe-1.0"
+   ],
+   "wow": 9,
+   "feas": 6.8,
+   "round": 2,
+   "lens": "bulk-queue_sense+owner_pulse",
+   "mech": "queue_sense",
+   "twist_id": "owner_pulse",
+   "days": 5,
+   "work_real": 8.5,
+   "rarity": 8.36,
+   "scores": {
+    "creativity": 8.3,
+    "ambition": 8.8,
+    "works": 9.5,
+    "wow": 9.4,
+    "work_real": 8.5,
+    "meta": 9.2,
+    "fit": 8.2,
+    "days": 5,
+    "total": 88.9,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     9,
+     8,
+     8,
+     9
+    ],
+    "total": 42
+   }
+  },
+  {
+   "lens": "llm-frontline",
+   "title": "SiteVerify",
+   "pitch": "AI-powered construction site verification with photo evidence",
+   "theme": "world",
+   "domain": "frontline",
+   "models": [
+    "muse-image-1.0",
+    "sam-3.1"
+   ],
+   "wow": 8,
+   "feas": 7,
+   "days": 5,
+   "round": 2,
+   "work_real": 9,
+   "rarity": 8.5,
+   "scores": {
+    "creativity": 7.7,
+    "ambition": 6,
+    "works": 9.5,
+    "wow": 8.4,
+    "work_real": 9,
+    "meta": 6.2,
+    "fit": 8.6,
+    "days": 5,
+    "total": 83.9,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     8,
+     7,
+     8,
+     6
+    ],
+    "total": 37
+   }
+  }
+ ],
+ "verdicts": [
+  {
+   "i": 0,
+   "attack": "Generic video documentation repackaged as 'audit binder'",
+   "why": "Just a fancier version of existing video documentation tools"
+  },
+  {
+   "i": 1,
+   "attack": "Farm co-op adoption might be limited beyond early adopters",
+   "why": "Novel computer vision application for a niche but underserved market with clear ROI"
+  },
+  {
+   "i": 2,
+   "attack": "Vintage authentication market too small and specialized",
+   "why": "Too narrow audience for a hackathon project with limited time"
+  },
+  {
+   "i": 3,
+   "attack": "Museum documentation is already well-established workflow",
+   "why": "Incremental improvement over existing museum cataloging systems"
+  },
+  {
+   "i": 4,
+   "attack": "Construction verification requires more than just photo evidence",
+   "why": "Strong visual AI application with clear compliance documentation pain point"
+  },
+  {
+   "i": 5,
+   "attack": "Law offices already have sophisticated document management systems",
+   "why": "Reinventing wheel for established legal documentation workflows"
+  }
+ ]
+}

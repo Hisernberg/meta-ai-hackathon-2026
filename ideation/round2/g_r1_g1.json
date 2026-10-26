@@ -1,0 +1,121 @@
+{
+ "survivors": [
+  {
+   "title": "Spokeshave Pilot",
+   "pitch": "Solar crews's busiest person stops making commissioning reports by hand — filmed tasks become step-by-step SOPs with checkpoints does it, every face and voice opt-in with deletion built in.",
+   "theme": "frontier",
+   "domain": "solar installer crew",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "sam-3.1",
+    "muse-image-1.0"
+   ],
+   "wow": 9,
+   "feas": 5.8,
+   "round": 2,
+   "lens": "bulk-film_sop+consent",
+   "mech": "film_sop",
+   "twist_id": "consent",
+   "days": 6,
+   "work_real": 8.5,
+   "rarity": 5,
+   "scores": {
+    "creativity": 6.8,
+    "ambition": 9,
+    "works": 8,
+    "wow": 9.4,
+    "work_real": 8.5,
+    "meta": 10,
+    "fit": 8.2,
+    "days": 6,
+    "total": 84.2,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     9,
+     7,
+     9,
+     8
+    ],
+    "total": 41
+   }
+  },
+  {
+   "title": "Bevel for sample couriers",
+   "pitch": "While the work happens, walkaround videos become check logs quietly builds chain-of-custody records for sample couriers, works with zero signal and syncs later.",
+   "theme": "world",
+   "domain": "diagnostic sample pickup",
+   "models": [
+    "muse-voice-transcribe-1.0",
+    "muse-spark-1.3",
+    "muse-glimmer"
+   ],
+   "wow": 9,
+   "feas": 6.8,
+   "round": 2,
+   "lens": "bulk-fleet_whisper+offline",
+   "mech": "fleet_whisper",
+   "twist_id": "offline",
+   "days": 5,
+   "work_real": 8.5,
+   "rarity": 7.8,
+   "scores": {
+    "creativity": 7.6,
+    "ambition": 7.3,
+    "works": 9.5,
+    "wow": 9.4,
+    "work_real": 8.5,
+    "meta": 7.9,
+    "fit": 8.6,
+    "days": 5,
+    "total": 84.3,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     8,
+     7,
+     8,
+     7
+    ],
+    "total": 38
+   }
+  }
+ ],
+ "verdicts": [
+  {
+   "i": 0,
+   "attack": "Too similar to existing SOP creation tools",
+   "why": "Generic product pitch with no unique technical hook"
+  },
+  {
+   "i": 1,
+   "attack": "Just a field notes app with image tagging - no real problem solved",
+   "why": "Underwhelming technical ambition for the 'frontier' theme"
+  },
+  {
+   "i": 2,
+   "attack": "Opt-in system may be too complex for field workers",
+   "why": "Strongest work case with concrete time/money savings for solar industry"
+  },
+  {
+   "i": 3,
+   "attack": "Driving school market too small for such a focused solution",
+   "why": "Niche application with limited scalability potential"
+  },
+  {
+   "i": 4,
+   "attack": "Chain-of-custody concept is solid but execution unclear offline",
+   "why": "Excellent real-world problem with concrete artifact creation"
+  },
+  {
+   "i": 5,
+   "attack": "Dictated notes to forms is a solved problem",
+   "why": "Minimal technical innovation for a dairy-specific workflow"
+  }
+ ]
+}

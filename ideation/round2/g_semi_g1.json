@@ -1,0 +1,58 @@
+{
+ "survivors": [
+  {
+   "title": "Lintel for maintenance teams",
+   "pitch": "Work orders without the paperwork: the machine plate unlocks the exact manual page built for maintenance teams, ends in printed QR cards for the wall.",
+   "theme": "frontier",
+   "domain": "building maintenance team",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "muse-image-1.0"
+   ],
+   "wow": 10,
+   "feas": 6.8,
+   "round": 2,
+   "lens": "bulk-manual_oracle+qr_cards",
+   "mech": "manual_oracle",
+   "twist_id": "qr_cards",
+   "days": 5,
+   "work_real": 8.5,
+   "rarity": 7.84,
+   "scores": {
+    "creativity": 8.1,
+    "ambition": 6.4,
+    "works": 9.5,
+    "wow": 10,
+    "work_real": 8.5,
+    "meta": 7.8,
+    "fit": 8.2,
+    "days": 5,
+    "total": 84.4,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     9,
+     9,
+     8,
+     9,
+     8
+    ],
+    "total": 43
+   }
+  }
+ ],
+ "verdicts": [
+  {
+   "i": 0,
+   "attack": "Voice transcription might be overkill for work orders",
+   "why": "Solves a real pain point with a concrete workflow and tangible artifact"
+  },
+  {
+   "i": 1,
+   "attack": "Market is flooded with produce grading solutions",
+   "why": "Too generic, fails on newness rule with many existing competitors"
+  }
+ ]
+}

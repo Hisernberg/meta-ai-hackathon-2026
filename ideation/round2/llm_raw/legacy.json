@@ -1,0 +1,558 @@
+[
+ {
+  "lens": "llm-legacy",
+  "title": "Legacy Portal Bridge",
+  "pitch": "Automates data entry from 20-year-old gov portals to modern systems",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Fax-to-Digital Clerk",
+  "pitch": "Converts faxed documents into structured digital records",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Desktop ERP Agent",
+  "pitch": "Automates data extraction from legacy ERP systems via screen interaction",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 10,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Paper Form Processor",
+  "pitch": "Digitizes handwritten forms from government offices",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Legacy System Automator",
+  "pitch": "Performs routine tasks in 20-year-old software using computer control",
+  "theme": "frontier",
+  "domain": "legacy",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 9,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Government Data Bridge",
+  "pitch": "Connects incompatible government databases through automated screen scraping",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 10,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Legacy Report Generator",
+  "pitch": "Creates modern reports from 20-year-old system outputs",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 7,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Fax Integration Bot",
+  "pitch": "Automates fax receipt and routing to appropriate digital systems",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Desktop Workflow Automator",
+  "pitch": "Automates multi-step processes in legacy desktop applications",
+  "theme": "frontier",
+  "domain": "legacy",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Government Form Assistant",
+  "pitch": "Automates form completion based on legacy system data",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Legacy System Visualizer",
+  "pitch": "Creates UI mockups from legacy desktop applications",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Paperless Office Agent",
+  "pitch": "Converts all paper documents to digital format with metadata",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Legacy System Tester",
+  "pitch": "Automated testing for 20-year-old desktop applications",
+  "theme": "frontier",
+  "domain": "legacy",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 10,
+  "feas": 9,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Government Data Extractor",
+  "pitch": "Pulls data from government websites with no APIs",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 8,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Legacy System Upgrader",
+  "pitch": "Automates data migration between legacy software versions",
+  "theme": "frontier",
+  "domain": "legacy",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 10,
+  "feas": 9,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Fax Document Classifier",
+  "pitch": "Automatically categorizes incoming faxed documents",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Legacy System Trainer",
+  "pitch": "Creates training materials for outdated software interfaces",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Government Compliance Checker",
+  "pitch": "Automates compliance reporting from legacy systems",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Legacy System Monitor",
+  "pitch": "Automated health monitoring for 20-year-old desktop applications",
+  "theme": "frontier",
+  "domain": "legacy",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 10,
+  "feas": 9,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Paper Audit Processor",
+  "pitch": "Digitizes and indexes paper audit trails",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Legacy System Documenter",
+  "pitch": "Automatically generates documentation for legacy software",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Government Form Validator",
+  "pitch": "Automated validation of submitted paper forms",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Legacy System Integrator",
+  "pitch": "Connects incompatible legacy systems through screen automation",
+  "theme": "frontier",
+  "domain": "legacy",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 10,
+  "feas": 9,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Fax Response Generator",
+  "pitch": "Creates digital responses to incoming faxed inquiries",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Legacy System Security Auditor",
+  "pitch": "Automated security checks for outdated desktop applications",
+  "theme": "frontier",
+  "domain": "legacy",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Government Data Cleaner",
+  "pitch": "Standardizes inconsistent data from legacy government systems",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Legacy System Backup Automator",
+  "pitch": "Automated backup processes for systems without modern APIs",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Paper Workflow Digitizer",
+  "pitch": "Converts paper-based approval workflows to digital processes",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Legacy System Performance Optimizer",
+  "pitch": "Automatically identifies and documents performance bottlenecks",
+  "theme": "frontier",
+  "domain": "legacy",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 10,
+  "feas": 9,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Government Data Mapper",
+  "pitch": "Creates data mappings between incompatible government databases",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Legacy System UI Modernizer",
+  "pitch": "Generates mockups of modern interfaces for legacy applications",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Fax Invoice Processor",
+  "pitch": "Automates invoice processing from faxed documents",
+  "theme": "world",
+  "domain": "legacy",
+  "models": [
+   "muse-image-1.0",
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-legacy",
+  "title": "Legacy System Retirement Planner",
+  "pitch": "Automates planning for decommissioning outdated systems",
+  "theme": "frontier",
+  "domain": "legacy",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 10,
+  "feas": 9,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ }
+]

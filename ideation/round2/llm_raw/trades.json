@@ -1,0 +1,572 @@
+[
+ {
+  "lens": "llm-trades",
+  "title": "JobCard AI",
+  "pitch": "Auto-generate detailed electrical job cards from voice notes",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "QuoteCraft Pro",
+  "pitch": "Instant material quotes with price updates from supplier APIs",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "Callback Genius",
+  "pitch": "Prioritize callbacks based on job value and customer urgency",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 3,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "MaterialSync",
+  "pitch": "Real-time material inventory sync across job sites",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-spark-open",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "Apprentice AI",
+  "pitch": "AR overlay for apprentice training on complex installations",
+  "theme": "frontier",
+  "domain": "trades",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 9,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "WeldVision",
+  "pitch": "AI-powered weld quality assessment from smartphone video",
+  "theme": "frontier",
+  "domain": "trades",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 5,
+  "feas": 10,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "SolarScope",
+  "pitch": "Analyze roof conditions for optimal solar panel placement",
+  "theme": "frontier",
+  "domain": "trades",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "AC Diagnostix",
+  "pitch": "HVAC system analysis from customer complaints and unit images",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "PipeSketch",
+  "pitch": "Convert rough plumbing sketches into technical diagrams",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "SparkList",
+  "pitch": "Generate material lists from job photos and voice descriptions",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-image-1.0",
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 6,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "CodeCompanion",
+  "pitch": "Electrical code reference with visual annotations",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 3,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "SafetyScan",
+  "pitch": "Identify potential safety hazards in job site photos",
+  "theme": "frontier",
+  "domain": "trades",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "TimeTrack AI",
+  "pitch": "Automatically track time spent on different tasks via audio",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "BidBuilder",
+  "pitch": "Create competitive bids based on historical job data",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "WireVision",
+  "pitch": "Trace electrical circuits through walls using thermal imaging",
+  "theme": "frontier",
+  "domain": "trades",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 5,
+  "feas": 10,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "FlowFinder",
+  "pitch": "Detect plumbing leaks from sound patterns and pressure readings",
+  "theme": "frontier",
+  "domain": "trades",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 6,
+  "feas": 9,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "TorchMaster",
+  "pitch": "Welding technique analysis and optimization from video",
+  "theme": "frontier",
+  "domain": "trades",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 10,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "CoolCheck",
+  "pitch": "HVAC efficiency analysis from unit performance data",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "SolarSight",
+  "pitch": "Shadow analysis for optimal solar panel placement",
+  "theme": "frontier",
+  "domain": "trades",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-wonder-1.0"
+  ],
+  "wow": 6,
+  "feas": 9,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "Journeyman Journal",
+  "pitch": "Automated work log with skill progression tracking",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 3,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "MasterMind",
+  "pitch": "Expert system for complex troubleshooting scenarios",
+  "theme": "frontier",
+  "domain": "trades",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 5,
+  "feas": 10,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "VoltVision",
+  "pitch": "Electrical load calculation from blueprints and photos",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "PipeDream",
+  "pitch": "Plumbing system design from customer requirements",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "ArcAI",
+  "pitch": "Welding parameter recommendations based on material and joint type",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "FlowChart",
+  "pitch": "HVAC system optimization based on usage patterns",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "SunCraft",
+  "pitch": "Solar installation design with ROI calculations",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "CodeCheck",
+  "pitch": "Real-time electrical code compliance verification",
+  "theme": "frontier",
+  "domain": "trades",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 6,
+  "feas": 9,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "apprenticeAI",
+  "pitch": "Step-by-step guidance for apprentices with AR overlays",
+  "theme": "frontier",
+  "domain": "trades",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 10,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "BidBuddy",
+  "pitch": "Competitive bid analysis based on local market data",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "VoltSage",
+  "pitch": "Electrical failure prediction based on historical data",
+  "theme": "frontier",
+  "domain": "trades",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 6,
+  "feas": 9,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "PipePro",
+  "pitch": "Plumbing system diagnostics from customer complaints",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-voice-transcribe-1.0"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "WeldWizard",
+  "pitch": "Welding technique correction from video analysis",
+  "theme": "frontier",
+  "domain": "trades",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1",
+   "muse-spark-1.3"
+  ],
+  "wow": 5,
+  "feas": 10,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-trades",
+  "title": "CoolCalc",
+  "pitch": "HVAC energy savings calculator from usage data",
+  "theme": "world",
+  "domain": "trades",
+  "models": [
+   "muse-spark-1.3",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 3,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ }
+]

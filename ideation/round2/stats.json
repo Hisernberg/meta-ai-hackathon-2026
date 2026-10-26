@@ -1,0 +1,15 @@
+{
+ "round1": 2449,
+ "round2": 5180,
+ "bulk": 5150,
+ "elite": 30,
+ "grand_total": 7868,
+ "theme_mix": {
+  "world": 3264,
+  "frontier": 1916
+ },
+ "r2_mean": 72.79,
+ "r1_mean": 63.36,
+ "llm": 261,
+ "round2_final": 5419
+}

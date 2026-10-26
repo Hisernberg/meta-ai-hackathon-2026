@@ -1,0 +1,563 @@
+[
+ {
+  "lens": "llm-frontline",
+  "title": "ShiftSync",
+  "pitch": "Real-time handoff notes for frontline crews with voice capture",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "CountFlow",
+  "pitch": "AI-powered inventory counting assistant for warehouse pickers",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 5,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "ProofPilot",
+  "pitch": "Automated work verification system for field service crews",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "MorningBrief",
+  "pitch": "AI-generated supervisor briefing for frontline operations",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "TaskLens",
+  "pitch": "Visual task tracker with AI completion verification for factory workers",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "HandoffHub",
+  "pitch": "Structured shift交接 notes with priority flags for couriers",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "VerifyFlow",
+  "pitch": "AI-powered quality check system for construction crews",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 6,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "StockSight",
+  "pitch": "Real-time inventory monitoring for warehouse supervisors",
+  "theme": "frontier",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "ShiftMark",
+  "pitch": "Digital shift marking system with AI verification for hotel staff",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 5,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "RouteProof",
+  "pitch": "GPS-verified task completion system for delivery drivers",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-open"
+  ],
+  "wow": 7,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "LineVision",
+  "pitch": "Production line anomaly detection for factory supervisors",
+  "theme": "frontier",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 9,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "CheckPoint",
+  "pitch": "AI-powered inspection verification for construction sites",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "Pulse",
+  "pitch": "Real-time crew status dashboard for shift supervisors",
+  "theme": "frontier",
+  "domain": "frontline",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "CountMate",
+  "pitch": "Smart counting assistant with visual verification for warehouse staff",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "ShiftLog",
+  "pitch": "Automated shift report generation for frontline supervisors",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "SiteScan",
+  "pitch": "AI-powered site progress tracking for construction managers",
+  "theme": "frontier",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 9,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "TaskMark",
+  "pitch": "Visual task verification system for hotel housekeeping staff",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "RouteTrack",
+  "pitch": "Automated delivery verification with photo evidence",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "FlowSight",
+  "pitch": "Production bottleneck detection for factory supervisors",
+  "theme": "frontier",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "VerifyNow",
+  "pitch": "Instant work verification system for field service teams",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 9,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "CrewSync",
+  "pitch": "Real-time crew coordination tool for frontline supervisors",
+  "theme": "frontier",
+  "domain": "frontline",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "StockCheck",
+  "pitch": "AI-assisted inventory counting for warehouse staff",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 6,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "ShiftBrief",
+  "pitch": "Automated shift briefing generation for construction crews",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 5,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "SiteVerify",
+  "pitch": "AI-powered construction site verification with photo evidence",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "TaskFlow",
+  "pitch": "Visual workflow tracking for hotel housekeeping supervisors",
+  "theme": "frontier",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "ProofPoint",
+  "pitch": "Automated work verification for delivery drivers",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 6,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "CrewPulse",
+  "pitch": "Real-time crew status monitoring for shift supervisors",
+  "theme": "frontier",
+  "domain": "frontline",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "CountVerify",
+  "pitch": "AI-powered inventory verification for warehouse staff",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "ShiftMark",
+  "pitch": "Digital shift marking system with AI verification for factory workers",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "RouteVerify",
+  "pitch": "GPS-verified task completion with photo proof for couriers",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "LineCheck",
+  "pitch": "Production line quality monitoring for factory supervisors",
+  "theme": "frontier",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "VerifyFlow",
+  "pitch": "AI-powered workflow verification for hotel housekeeping",
+  "theme": "world",
+  "domain": "frontline",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 6,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-frontline",
+  "title": "CrewTrack",
+  "pitch": "Real-time crew location and status for shift supervisors",
+  "theme": "frontier",
+  "domain": "frontline",
+  "models": [
+   "muse-spark-1.3",
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ }
+]

@@ -1,0 +1,187 @@
+{
+ "pool": [
+  {
+   "title": "Bellows Bench",
+   "pitch": "The phone becomes the tool — the machine plate unlocks the exact manual page for jewelry workshops: piece tracking minutes after the work happens, auto-makes a 30-second recap the owner will repost.",
+   "theme": "frontier",
+   "domain": "jewelry workshop",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "muse-image-1.0"
+   ],
+   "lens": "bulk-manual_oracle+recap",
+   "round": 2,
+   "seed_champion": false
+  },
+  {
+   "title": "Lintel for maintenance teams",
+   "pitch": "Work orders without the paperwork: the machine plate unlocks the exact manual page built for maintenance teams, ends in printed QR cards for the wall.",
+   "theme": "frontier",
+   "domain": "building maintenance team",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "muse-image-1.0"
+   ],
+   "lens": "bulk-manual_oracle+qr_cards",
+   "round": 2,
+   "seed_champion": false
+  },
+  {
+   "title": "Cleat for stall chains",
+   "pitch": "Trainees breaking real things plagues stall chains. The fix: filmed tasks become step-by-step SOPs with checkpoints, output supply counts, the expert approves and the system does the rest.",
+   "theme": "frontier",
+   "domain": "street food stall chain",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "sam-3.1",
+    "muse-image-1.0"
+   ],
+   "lens": "bulk-film_sop+expert_loop",
+   "round": 2,
+   "seed_champion": false
+  },
+  {
+   "title": "Produce Quality Inspector",
+   "pitch": "Automatically grade fruits/vegetables from photos for market standards",
+   "theme": "world",
+   "domain": "samphysical",
+   "models": [
+    "sam-3.1",
+    "muse-image-1.0"
+   ],
+   "lens": "llm-samphysical",
+   "round": 2,
+   "seed_champion": false
+  }
+ ],
+ "results": [
+  {
+   "judge": "A-creativity-hawk",
+   "ranking": [
+    {
+     "i": 2,
+     "pts": "champion",
+     "attack": "The training angle for stall chains is fresh and addresses a real pain point with SOP automation."
+    },
+    {
+     "i": 0,
+     "pts": "finalist",
+     "attack": "Creative use of manual pages for jewelry workshops with auto-recap is unique but less ambitious."
+    },
+    {
+     "i": 1,
+     "pts": "finalist",
+     "attack": "QR cards for maintenance teams is practical but feels like a slight variation on the theme."
+    },
+    {
+     "i": 3,
+     "pts": "bench",
+     "attack": "Produce grading is a solved problem with no creative twist on the concept."
+    }
+   ]
+  },
+  {
+   "judge": "B-feasibility-hawk",
+   "ranking": [
+    {
+     "i": 0,
+     "pts": "champion",
+     "attack": "Voice-to-text for jewelry workshops is thin but feasible with real business value"
+    },
+    {
+     "i": 1,
+     "pts": "finalist",
+     "attack": "Similar to Bellows but less clear value proposition for maintenance teams"
+    },
+    {
+     "i": 2,
+     "pts": "finalist",
+     "attack": "Over-scoped: video analysis, supply counts, and approval system too complex for 8 days"
+    },
+    {
+     "i": 3,
+     "pts": "bench",
+     "attack": "Image grading for produce is well-trodden territory with no clear differentiator"
+    }
+   ]
+  },
+  {
+   "judge": "C-platform-native",
+   "ranking": [
+    {
+     "i": 2,
+     "pts": "champion",
+     "attack": "Limited validation on real-world implementation beyond basic image recognition"
+    },
+    {
+     "i": 0,
+     "pts": "finalist",
+     "attack": "Niche application with limited scalability beyond jewelry workshops"
+    },
+    {
+     "i": 1,
+     "pts": "finalist",
+     "attack": "Similar concept to Bellows Bench but with less creative application"
+    },
+    {
+     "i": 3,
+     "pts": "bench",
+     "attack": "Underutilizes Meta models, only basic image segmentation without advanced features"
+    }
+   ]
+  },
+  {
+   "judge": "D-demo-hunter",
+   "ranking": [
+    {
+     "i": 2,
+     "pts": "champion",
+     "attack": "Visual SOP generation from filmed tasks with expert approval creates instant payoff"
+    },
+    {
+     "i": 0,
+     "pts": "finalist",
+     "attack": "Jewelry piece tracking with auto-generated recap shows immediate value"
+    },
+    {
+     "i": 1,
+     "pts": "finalist",
+     "attack": "QR cards for maintenance manuals provide tangible demo moment"
+    },
+    {
+     "i": 3,
+     "pts": "bench",
+     "attack": "Fruit grading lacks visual excitement and demo potential"
+    }
+   ]
+  },
+  {
+   "judge": "E-work-realist",
+   "ranking": [
+    {
+     "i": 2,
+     "pts": "champion",
+     "attack": "Vague SOP creation; no proof of expert approval workflow"
+    },
+    {
+     "i": 1,
+     "pts": "finalist",
+     "attack": "'Work orders without paperwork' lacks quantifiable time savings"
+    },
+    {
+     "i": 0,
+     "pts": "finalist",
+     "attack": "Manual page tracking unclear; no artifact specified"
+    },
+    {
+     "i": 3,
+     "pts": "bench",
+     "attack": "Common application; no named worker or defensible savings"
+    }
+   ]
+  }
+ ]
+}

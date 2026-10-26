@@ -1,0 +1,118 @@
+{
+ "survivors": [
+  {
+   "lens": "llm-memory",
+   "title": "Field Fixer",
+   "pitch": "Document field technician's repair shortcuts as augmented reality guidance",
+   "theme": "frontier",
+   "domain": "memory",
+   "models": [
+    "muse-wonder-1.0",
+    "muse-image-1.0",
+    "sam-3.1"
+   ],
+   "wow": 8,
+   "feas": 9,
+   "days": 6,
+   "round": 2,
+   "work_real": 9,
+   "rarity": 8.5,
+   "scores": {
+    "creativity": 8.4,
+    "ambition": 9.1,
+    "works": 6.9,
+    "wow": 8.4,
+    "work_real": 9,
+    "meta": 9.9,
+    "fit": 8.2,
+    "days": 6,
+    "total": 88.4,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     7,
+     8,
+     6,
+     8,
+     7
+    ],
+    "total": 36
+   }
+  },
+  {
+   "title": "Davit Kit",
+   "pitch": "Turns candidate screening notes from a Friday chore into a 3-minute habit for recruiters: spoken intakes open and route cases, auto-makes a 30-second recap the owner will repost.",
+   "theme": "world",
+   "domain": "recruitment agency",
+   "models": [
+    "muse-voice-transcribe-1.0",
+    "muse-spark-1.3",
+    "muse-image-1.0"
+   ],
+   "wow": 9,
+   "feas": 7.9,
+   "round": 2,
+   "lens": "bulk-intake_triage+recap",
+   "mech": "intake_triage",
+   "twist_id": "recap",
+   "days": 4,
+   "work_real": 8.5,
+   "rarity": 7.84,
+   "scores": {
+    "creativity": 7.7,
+    "ambition": 6.3,
+    "works": 10,
+    "wow": 9.4,
+    "work_real": 8.5,
+    "meta": 7.8,
+    "fit": 8.6,
+    "days": 4,
+    "total": 83.7,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     9,
+     9,
+     8,
+     9,
+     8
+    ],
+    "total": 43
+   }
+  }
+ ],
+ "verdicts": [
+  {
+   "i": 0,
+   "attack": "Different from Davit Kit only in name, same product pitch.",
+   "why": "Strong value proposition for recruiters but not distinct enough"
+  },
+  {
+   "i": 1,
+   "attack": "Identical to idea 0, just rebranded.",
+   "why": "Duplicate pitch with no differentiation"
+  },
+  {
+   "i": 2,
+   "attack": "Screen scraping is decades-old tech, not ambitious.",
+   "why": "Useful but lacks creativity and technical ambition"
+  },
+  {
+   "i": 3,
+   "attack": "Government data integration is notoriously complex and brittle.",
+   "why": "Technically challenging but may not be demoable in 90 seconds"
+  },
+  {
+   "i": 4,
+   "attack": "AR guidance requires complex hardware integration.",
+   "why": "Highly creative with clear real-world impact for field workers"
+  },
+  {
+   "i": 5,
+   "attack": "Construction inspection is crowded market with established players.",
+   "why": "Practical but not sufficiently differentiated from existing solutions"
+  }
+ ]
+}

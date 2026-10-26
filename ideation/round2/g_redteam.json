@@ -1,0 +1,37 @@
+{
+ "kill_risks": [
+  {
+   "risk": "Requires consistent filming of tasks which is labor-intensive and may not be adopted by busy stall workers",
+   "severity": "high",
+   "mitigation": "Use phone mounts and auto-recording with voice activation"
+  },
+  {
+   "risk": "Expert approval bottleneck could stall entire operations if approver is unavailable",
+   "severity": "high",
+   "mitigation": "Implement tiered approval with junior staff handling routine tasks"
+  },
+  {
+   "risk": "SAM-3.1 may not accurately identify all food preparation steps in chaotic stall environments",
+   "severity": "med",
+   "mitigation": "Hybrid approach with AI suggestions + manual corrections"
+  },
+  {
+   "risk": "Voice transcription errors in noisy kitchen environments could create incorrect SOPs",
+   "severity": "med",
+   "mitigation": "Multiple microphones + noise cancellation preprocessing"
+  },
+  {
+   "risk": "System complexity may exceed technical capacity of street food stall workers",
+   "severity": "high",
+   "mitigation": "Ultra-simple interface with voice commands and visual guides"
+  }
+ ],
+ "demo_script_beats": [
+  "0:00-0:10 Show chaotic street food stall with trainee struggling with complex task",
+  "0:10-0:30 Demonstrate filming process with phone mount, highlighting automatic segmentation of steps",
+  "0:30-0:50 Display generated SOP with checkpoints, expert approval interface, and supply tracking",
+  "0:50-1:10 Show execution of approved SOP with real-time guidance and supply updates",
+  "1:10-1:30 Final dashboard showing consistency metrics across multiple stalls and waste reduction"
+ ],
+ "scope_cut": "Remove real-time expert approval; replace with AI-generated suggestions with optional human review"
+}

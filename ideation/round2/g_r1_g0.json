@@ -1,0 +1,121 @@
+{
+ "survivors": [
+  {
+   "title": "Cleat for stall chains",
+   "pitch": "Trainees breaking real things plagues stall chains. The fix: filmed tasks become step-by-step SOPs with checkpoints, output supply counts, the expert approves and the system does the rest.",
+   "theme": "frontier",
+   "domain": "street food stall chain",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "sam-3.1",
+    "muse-image-1.0"
+   ],
+   "wow": 10,
+   "feas": 5.8,
+   "round": 2,
+   "lens": "bulk-film_sop+expert_loop",
+   "mech": "film_sop",
+   "twist_id": "expert_loop",
+   "days": 6,
+   "work_real": 8.5,
+   "rarity": 5,
+   "scores": {
+    "creativity": 6.8,
+    "ambition": 9,
+    "works": 8,
+    "wow": 10,
+    "work_real": 8.5,
+    "meta": 10,
+    "fit": 8.2,
+    "days": 6,
+    "total": 85.1,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     9,
+     9,
+     7,
+     8,
+     8
+    ],
+    "total": 41
+   }
+  },
+  {
+   "title": "Hasp Crew",
+   "pitch": "No more guessed job costs: walkaround videos become check logs hands sample couriers finished chain-of-custody records, works with zero signal and syncs later.",
+   "theme": "world",
+   "domain": "diagnostic sample pickup",
+   "models": [
+    "muse-voice-transcribe-1.0",
+    "muse-spark-1.3",
+    "muse-glimmer"
+   ],
+   "wow": 9,
+   "feas": 6.8,
+   "round": 2,
+   "lens": "bulk-fleet_whisper+offline",
+   "mech": "fleet_whisper",
+   "twist_id": "offline",
+   "days": 5,
+   "work_real": 8.5,
+   "rarity": 7.8,
+   "scores": {
+    "creativity": 7.6,
+    "ambition": 7.3,
+    "works": 9.5,
+    "wow": 9.4,
+    "work_real": 8.5,
+    "meta": 7.9,
+    "fit": 8.6,
+    "days": 5,
+    "total": 84.3,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     8,
+     7,
+     8,
+     7
+    ],
+    "total": 38
+   }
+  }
+ ],
+ "verdicts": [
+  {
+   "i": 0,
+   "attack": "Endangered language documentation requires deep cultural context that transcription alone can't capture",
+   "why": "Too vague on actual preservation methodology"
+  },
+  {
+   "i": 1,
+   "attack": "Implementation complexity may overwhelm small stall chains",
+   "why": "Clear workflow with tangible time savings for specific training pain point"
+  },
+  {
+   "i": 2,
+   "attack": "Real estate agents already have efficient digital tools for property listings",
+   "why": "Solves a problem that's already well-solved with existing solutions"
+  },
+  {
+   "i": 3,
+   "attack": "Auto-generated chapters risk losing the nuanced storytelling of oral histories",
+   "why": "Lacks concrete artifact or measurable time savings for documentarians"
+  },
+  {
+   "i": 4,
+   "attack": "Zero-signal requirement may limit feature reliability in critical situations",
+   "why": "Strong concrete use case with clear time/money saved through chain-of-custody records"
+  },
+  {
+   "i": 5,
+   "attack": "Vehicle inspection processes are already highly regulated with standardized forms",
+   "why": "Similar to existing fleet management systems with incremental improvement"
+  }
+ ]
+}

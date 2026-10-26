@@ -1,0 +1,120 @@
+{
+ "survivors": [
+  {
+   "title": "Swage for jewelry workshops",
+   "pitch": "For jewelry workshops, unsearchable job cards. The machine plate unlocks the exact manual page: piece tracking ready in minutes, prints compliance badges on the spot.",
+   "theme": "frontier",
+   "domain": "jewelry workshop",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "muse-image-1.0"
+   ],
+   "wow": 10,
+   "feas": 6.8,
+   "round": 2,
+   "lens": "bulk-manual_oracle+badge",
+   "mech": "manual_oracle",
+   "twist_id": "badge",
+   "days": 5,
+   "work_real": 8.5,
+   "rarity": 7.84,
+   "scores": {
+    "creativity": 8.1,
+    "ambition": 6.4,
+    "works": 9.5,
+    "wow": 10,
+    "work_real": 8.5,
+    "meta": 7.8,
+    "fit": 8.2,
+    "days": 5,
+    "total": 84.4,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     9,
+     9,
+     8,
+     9,
+     8
+    ],
+    "total": 43
+   }
+  },
+  {
+   "title": "Pintle Bench",
+   "pitch": "Point a phone, get commissioning reports: site photos become daily logs with warnings for solar crews, prints compliance badges on the spot.",
+   "theme": "world",
+   "domain": "solar installer crew",
+   "models": [
+    "muse-spark-1.3",
+    "sam-3.1",
+    "muse-image-1.0"
+   ],
+   "wow": 9,
+   "feas": 6.8,
+   "round": 2,
+   "lens": "bulk-site_diary+badge",
+   "mech": "site_diary",
+   "twist_id": "badge",
+   "days": 5,
+   "work_real": 8.5,
+   "rarity": 7.8,
+   "scores": {
+    "creativity": 7.6,
+    "ambition": 6.9,
+    "works": 9.5,
+    "wow": 9.4,
+    "work_real": 8.5,
+    "meta": 8.3,
+    "fit": 8.6,
+    "days": 5,
+    "total": 84.1,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     9,
+     8,
+     8,
+     7
+    ],
+    "total": 40
+   }
+  }
+ ],
+ "verdicts": [
+  {
+   "i": 0,
+   "attack": "Job cards in jewelry are already digitized; this solves a non-existent problem",
+   "why": "Unique solution to a niche, underserved problem with clear workflow integration"
+  },
+  {
+   "i": 1,
+   "attack": "Tour agencies already have inventory systems; this is a solution looking for a problem",
+   "why": "Doesn't solve a real pain point beyond existing inventory management"
+  },
+  {
+   "i": 2,
+   "attack": "Solar compliance is highly regulated; automated reports may not meet certification requirements",
+   "why": "Strong visual recognition workflow with clear time/money savings for a specific industry"
+  },
+  {
+   "i": 3,
+   "attack": "Visual task verification is already done by quality control systems; redundant solution",
+   "why": "Generic concept with no unique value proposition beyond existing factory systems"
+  },
+  {
+   "i": 4,
+   "attack": "Container yards already have digital logs; adding voice doesn't solve core problems",
+   "why": "Doesn't address fundamental inefficiencies in container yard operations"
+  },
+  {
+   "i": 5,
+   "attack": "HVAC maintenance logs are already digitized; voice input doesn't solve the core problem",
+   "why": "Doesn't address why crews don't log maintenance promptly, just changes input method"
+  }
+ ]
+}

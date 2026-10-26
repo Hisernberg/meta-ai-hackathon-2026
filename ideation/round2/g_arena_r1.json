@@ -1,0 +1,671 @@
+{
+ "survivors": [
+  {
+   "title": "Cleat for stall chains",
+   "pitch": "Trainees breaking real things plagues stall chains. The fix: filmed tasks become step-by-step SOPs with checkpoints, output supply counts, the expert approves and the system does the rest.",
+   "theme": "frontier",
+   "domain": "street food stall chain",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "sam-3.1",
+    "muse-image-1.0"
+   ],
+   "wow": 10,
+   "feas": 5.8,
+   "round": 2,
+   "lens": "bulk-film_sop+expert_loop",
+   "mech": "film_sop",
+   "twist_id": "expert_loop",
+   "days": 6,
+   "work_real": 8.5,
+   "rarity": 5,
+   "scores": {
+    "creativity": 6.8,
+    "ambition": 9,
+    "works": 8,
+    "wow": 10,
+    "work_real": 8.5,
+    "meta": 10,
+    "fit": 8.2,
+    "days": 6,
+    "total": 85.1,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     9,
+     9,
+     7,
+     8,
+     8
+    ],
+    "total": 41
+   }
+  },
+  {
+   "title": "Hasp Crew",
+   "pitch": "No more guessed job costs: walkaround videos become check logs hands sample couriers finished chain-of-custody records, works with zero signal and syncs later.",
+   "theme": "world",
+   "domain": "diagnostic sample pickup",
+   "models": [
+    "muse-voice-transcribe-1.0",
+    "muse-spark-1.3",
+    "muse-glimmer"
+   ],
+   "wow": 9,
+   "feas": 6.8,
+   "round": 2,
+   "lens": "bulk-fleet_whisper+offline",
+   "mech": "fleet_whisper",
+   "twist_id": "offline",
+   "days": 5,
+   "work_real": 8.5,
+   "rarity": 7.8,
+   "scores": {
+    "creativity": 7.6,
+    "ambition": 7.3,
+    "works": 9.5,
+    "wow": 9.4,
+    "work_real": 8.5,
+    "meta": 7.9,
+    "fit": 8.6,
+    "days": 5,
+    "total": 84.3,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     8,
+     7,
+     8,
+     7
+    ],
+    "total": 38
+   }
+  },
+  {
+   "title": "Spokeshave Pilot",
+   "pitch": "Solar crews's busiest person stops making commissioning reports by hand — filmed tasks become step-by-step SOPs with checkpoints does it, every face and voice opt-in with deletion built in.",
+   "theme": "frontier",
+   "domain": "solar installer crew",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "sam-3.1",
+    "muse-image-1.0"
+   ],
+   "wow": 9,
+   "feas": 5.8,
+   "round": 2,
+   "lens": "bulk-film_sop+consent",
+   "mech": "film_sop",
+   "twist_id": "consent",
+   "days": 6,
+   "work_real": 8.5,
+   "rarity": 5,
+   "scores": {
+    "creativity": 6.8,
+    "ambition": 9,
+    "works": 8,
+    "wow": 9.4,
+    "work_real": 8.5,
+    "meta": 10,
+    "fit": 8.2,
+    "days": 6,
+    "total": 84.2,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     9,
+     7,
+     9,
+     8
+    ],
+    "total": 41
+   }
+  },
+  {
+   "title": "Bevel for sample couriers",
+   "pitch": "While the work happens, walkaround videos become check logs quietly builds chain-of-custody records for sample couriers, works with zero signal and syncs later.",
+   "theme": "world",
+   "domain": "diagnostic sample pickup",
+   "models": [
+    "muse-voice-transcribe-1.0",
+    "muse-spark-1.3",
+    "muse-glimmer"
+   ],
+   "wow": 9,
+   "feas": 6.8,
+   "round": 2,
+   "lens": "bulk-fleet_whisper+offline",
+   "mech": "fleet_whisper",
+   "twist_id": "offline",
+   "days": 5,
+   "work_real": 8.5,
+   "rarity": 7.8,
+   "scores": {
+    "creativity": 7.6,
+    "ambition": 7.3,
+    "works": 9.5,
+    "wow": 9.4,
+    "work_real": 8.5,
+    "meta": 7.9,
+    "fit": 8.6,
+    "days": 5,
+    "total": 84.3,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     8,
+     7,
+     8,
+     7
+    ],
+    "total": 38
+   }
+  },
+  {
+   "title": "Marlinspike Pulse",
+   "pitch": "Filmed tasks become step-by-step SOPs with checkpoints for container yards — interrupting status calls solved: yard photos and logs in minutes and prints paper backups, because reality.",
+   "theme": "frontier",
+   "domain": "container yard office",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "sam-3.1",
+    "muse-image-1.0"
+   ],
+   "wow": 9,
+   "feas": 5.8,
+   "round": 2,
+   "lens": "bulk-film_sop+paper_backup",
+   "mech": "film_sop",
+   "twist_id": "paper_backup",
+   "days": 6,
+   "work_real": 8.5,
+   "rarity": 5,
+   "scores": {
+    "creativity": 6.8,
+    "ambition": 9,
+    "works": 8.4,
+    "wow": 9.4,
+    "work_real": 8.5,
+    "meta": 10,
+    "fit": 8.2,
+    "days": 6,
+    "total": 85,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     9,
+     7,
+     8,
+     8
+    ],
+    "total": 40
+   }
+  },
+  {
+   "title": "Lintel for maintenance teams",
+   "pitch": "Work orders without the paperwork: the machine plate unlocks the exact manual page built for maintenance teams, ends in printed QR cards for the wall.",
+   "theme": "frontier",
+   "domain": "building maintenance team",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "muse-image-1.0"
+   ],
+   "wow": 10,
+   "feas": 6.8,
+   "round": 2,
+   "lens": "bulk-manual_oracle+qr_cards",
+   "mech": "manual_oracle",
+   "twist_id": "qr_cards",
+   "days": 5,
+   "work_real": 8.5,
+   "rarity": 7.84,
+   "scores": {
+    "creativity": 8.1,
+    "ambition": 6.4,
+    "works": 9.5,
+    "wow": 10,
+    "work_real": 8.5,
+    "meta": 7.8,
+    "fit": 8.2,
+    "days": 5,
+    "total": 84.4,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     9,
+     9,
+     8,
+     9,
+     8
+    ],
+    "total": 43
+   }
+  },
+  {
+   "title": "Swage for jewelry workshops",
+   "pitch": "For jewelry workshops, unsearchable job cards. The machine plate unlocks the exact manual page: piece tracking ready in minutes, prints compliance badges on the spot.",
+   "theme": "frontier",
+   "domain": "jewelry workshop",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "muse-image-1.0"
+   ],
+   "wow": 10,
+   "feas": 6.8,
+   "round": 2,
+   "lens": "bulk-manual_oracle+badge",
+   "mech": "manual_oracle",
+   "twist_id": "badge",
+   "days": 5,
+   "work_real": 8.5,
+   "rarity": 7.84,
+   "scores": {
+    "creativity": 8.1,
+    "ambition": 6.4,
+    "works": 9.5,
+    "wow": 10,
+    "work_real": 8.5,
+    "meta": 7.8,
+    "fit": 8.2,
+    "days": 5,
+    "total": 84.4,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     9,
+     9,
+     8,
+     9,
+     8
+    ],
+    "total": 43
+   }
+  },
+  {
+   "title": "Pintle Bench",
+   "pitch": "Point a phone, get commissioning reports: site photos become daily logs with warnings for solar crews, prints compliance badges on the spot.",
+   "theme": "world",
+   "domain": "solar installer crew",
+   "models": [
+    "muse-spark-1.3",
+    "sam-3.1",
+    "muse-image-1.0"
+   ],
+   "wow": 9,
+   "feas": 6.8,
+   "round": 2,
+   "lens": "bulk-site_diary+badge",
+   "mech": "site_diary",
+   "twist_id": "badge",
+   "days": 5,
+   "work_real": 8.5,
+   "rarity": 7.8,
+   "scores": {
+    "creativity": 7.6,
+    "ambition": 6.9,
+    "works": 9.5,
+    "wow": 9.4,
+    "work_real": 8.5,
+    "meta": 8.3,
+    "fit": 8.6,
+    "days": 5,
+    "total": 84.1,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     9,
+     8,
+     8,
+     7
+    ],
+    "total": 40
+   }
+  },
+  {
+   "title": "Bellows Bench",
+   "pitch": "The phone becomes the tool — the machine plate unlocks the exact manual page for jewelry workshops: piece tracking minutes after the work happens, auto-makes a 30-second recap the owner will repost.",
+   "theme": "frontier",
+   "domain": "jewelry workshop",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "muse-image-1.0"
+   ],
+   "wow": 10,
+   "feas": 6.8,
+   "round": 2,
+   "lens": "bulk-manual_oracle+recap",
+   "mech": "manual_oracle",
+   "twist_id": "recap",
+   "days": 5,
+   "work_real": 8.5,
+   "rarity": 7.84,
+   "scores": {
+    "creativity": 8.1,
+    "ambition": 6.4,
+    "works": 9.5,
+    "wow": 10,
+    "work_real": 8.5,
+    "meta": 7.8,
+    "fit": 8.2,
+    "days": 5,
+    "total": 84.4,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     9,
+     9,
+     8,
+     9,
+     8
+    ],
+    "total": 43
+   }
+  },
+  {
+   "title": "Bushing for plumbing crews",
+   "pitch": "Give plumbing crews site photos become daily logs with warnings: job photos and invoices in minutes instead of days, ends in printed QR cards for the wall.",
+   "theme": "world",
+   "domain": "plumbing crew",
+   "models": [
+    "muse-spark-1.3",
+    "sam-3.1",
+    "muse-image-1.0"
+   ],
+   "wow": 9,
+   "feas": 6.8,
+   "round": 2,
+   "lens": "bulk-site_diary+qr_cards",
+   "mech": "site_diary",
+   "twist_id": "qr_cards",
+   "days": 5,
+   "work_real": 8.5,
+   "rarity": 7.8,
+   "scores": {
+    "creativity": 7.6,
+    "ambition": 6.9,
+    "works": 9.5,
+    "wow": 9.4,
+    "work_real": 8.5,
+    "meta": 8.3,
+    "fit": 8.6,
+    "days": 5,
+    "total": 84.1,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     9,
+     8,
+     8,
+     7
+    ],
+    "total": 40
+   }
+  },
+  {
+   "title": "Sheer for farm co-ops",
+   "pitch": "Give farm co-ops counter cameras read the rush pattern: harvest ledgers in minutes instead of days, the owner gets a 30-second voice digest.",
+   "theme": "frontier",
+   "domain": "crop farm co-op",
+   "models": [
+    "sam-3.1",
+    "muse-glimmer",
+    "muse-voice-transcribe-1.0"
+   ],
+   "wow": 9,
+   "feas": 6.8,
+   "round": 2,
+   "lens": "bulk-queue_sense+owner_pulse",
+   "mech": "queue_sense",
+   "twist_id": "owner_pulse",
+   "days": 5,
+   "work_real": 8.5,
+   "rarity": 8.36,
+   "scores": {
+    "creativity": 8.3,
+    "ambition": 8.8,
+    "works": 9.5,
+    "wow": 9.4,
+    "work_real": 8.5,
+    "meta": 9.2,
+    "fit": 8.2,
+    "days": 5,
+    "total": 88.9,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     9,
+     8,
+     8,
+     9
+    ],
+    "total": 42
+   }
+  },
+  {
+   "lens": "llm-frontline",
+   "title": "SiteVerify",
+   "pitch": "AI-powered construction site verification with photo evidence",
+   "theme": "world",
+   "domain": "frontline",
+   "models": [
+    "muse-image-1.0",
+    "sam-3.1"
+   ],
+   "wow": 8,
+   "feas": 7,
+   "days": 5,
+   "round": 2,
+   "work_real": 9,
+   "rarity": 8.5,
+   "scores": {
+    "creativity": 7.7,
+    "ambition": 6,
+    "works": 9.5,
+    "wow": 8.4,
+    "work_real": 9,
+    "meta": 6.2,
+    "fit": 8.6,
+    "days": 5,
+    "total": 83.9,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     8,
+     7,
+     8,
+     6
+    ],
+    "total": 37
+   }
+  },
+  {
+   "lens": "llm-samphysical",
+   "title": "Produce Quality Inspector",
+   "pitch": "Automatically grade fruits/vegetables from photos for market standards",
+   "theme": "world",
+   "domain": "samphysical",
+   "models": [
+    "sam-3.1",
+    "muse-image-1.0"
+   ],
+   "wow": 8,
+   "feas": 7,
+   "days": 5,
+   "round": 2,
+   "work_real": 9,
+   "rarity": 8.5,
+   "scores": {
+    "creativity": 7.7,
+    "ambition": 6,
+    "works": 9.5,
+    "wow": 8.4,
+    "work_real": 9,
+    "meta": 6.2,
+    "fit": 8.6,
+    "days": 5,
+    "total": 83.9,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     8,
+     8,
+     8,
+     7
+    ],
+    "total": 39
+   }
+  },
+  {
+   "title": "Clevis Stack",
+   "pitch": "For bookshops, shoebox bookkeeping. Spoken intakes open and route cases: returns and stock ready in minutes, auto-makes a 30-second recap the owner will repost.",
+   "theme": "world",
+   "domain": "bookstore and stationer",
+   "models": [
+    "muse-voice-transcribe-1.0",
+    "muse-spark-1.3",
+    "muse-image-1.0"
+   ],
+   "wow": 9,
+   "feas": 7.9,
+   "round": 2,
+   "lens": "bulk-intake_triage+recap",
+   "mech": "intake_triage",
+   "twist_id": "recap",
+   "days": 4,
+   "work_real": 8.5,
+   "rarity": 7.84,
+   "scores": {
+    "creativity": 7.7,
+    "ambition": 6.3,
+    "works": 10,
+    "wow": 9.4,
+    "work_real": 8.5,
+    "meta": 7.8,
+    "fit": 8.6,
+    "days": 4,
+    "total": 83.7,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     9,
+     9,
+     8,
+     9,
+     8
+    ],
+    "total": 43
+   }
+  },
+  {
+   "lens": "llm-memory",
+   "title": "Field Fixer",
+   "pitch": "Document field technician's repair shortcuts as augmented reality guidance",
+   "theme": "frontier",
+   "domain": "memory",
+   "models": [
+    "muse-wonder-1.0",
+    "muse-image-1.0",
+    "sam-3.1"
+   ],
+   "wow": 8,
+   "feas": 9,
+   "days": 6,
+   "round": 2,
+   "work_real": 9,
+   "rarity": 8.5,
+   "scores": {
+    "creativity": 8.4,
+    "ambition": 9.1,
+    "works": 6.9,
+    "wow": 8.4,
+    "work_real": 9,
+    "meta": 9.9,
+    "fit": 8.2,
+    "days": 6,
+    "total": 88.4,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     7,
+     8,
+     6,
+     8,
+     7
+    ],
+    "total": 36
+   }
+  },
+  {
+   "title": "Davit Kit",
+   "pitch": "Turns candidate screening notes from a Friday chore into a 3-minute habit for recruiters: spoken intakes open and route cases, auto-makes a 30-second recap the owner will repost.",
+   "theme": "world",
+   "domain": "recruitment agency",
+   "models": [
+    "muse-voice-transcribe-1.0",
+    "muse-spark-1.3",
+    "muse-image-1.0"
+   ],
+   "wow": 9,
+   "feas": 7.9,
+   "round": 2,
+   "lens": "bulk-intake_triage+recap",
+   "mech": "intake_triage",
+   "twist_id": "recap",
+   "days": 4,
+   "work_real": 8.5,
+   "rarity": 7.84,
+   "scores": {
+    "creativity": 7.7,
+    "ambition": 6.3,
+    "works": 10,
+    "wow": 9.4,
+    "work_real": 8.5,
+    "meta": 7.8,
+    "fit": 8.6,
+    "days": 4,
+    "total": 83.7,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     9,
+     9,
+     8,
+     9,
+     8
+    ],
+    "total": 43
+   }
+  }
+ ]
+}

@@ -1,0 +1,555 @@
+[
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Ledger Clerk",
+  "pitch": "Bengali voice-first bookkeeper for co-op transactions",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Shift Command Center",
+  "pitch": "Voice dispatch system for factory shift managers",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-open"
+  ],
+  "wow": 9,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Intake Desk Dictator",
+  "pitch": "Voice-first patient intake for busy clinics",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Field Notes Commander",
+  "pitch": "Voice logger for construction site supervisors",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Warehouse Voice Clerk",
+  "pitch": "Hands-free inventory management for warehouse staff",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Farm Voice Ledger",
+  "pitch": "Voice-first crop tracking for agricultural co-ops",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice First Mate",
+  "pitch": "Ship log keeper for maritime workers",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Kitchen Voice Logger",
+  "pitch": "Recipe tracker for head chefs",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Mine Voice Clerk",
+  "pitch": "Safety log keeper for underground miners",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Transport Manager",
+  "pitch": "Hands-free delivery dispatch for truckers",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice First Responder",
+  "pitch": "Incident logger for emergency dispatchers",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Foreman",
+  "pitch": "Construction site voice command logger",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Field Nurse",
+  "pitch": "Patient notes for mobile health workers",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Line Cook",
+  "pitch": "Order logger for fast-paced kitchens",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Surveyor",
+  "pitch": "Field notes for land surveyors",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-open"
+  ],
+  "wow": 8,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Mechanic",
+  "pitch": "Parts logger for auto repair shops",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Inspector",
+  "pitch": "Quality control logger for manufacturing",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Agronomist",
+  "pitch": "Crop yield logger for field workers",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Dispatcher",
+  "pitch": "Emergency call logging for dispatch centers",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 9,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Janitor",
+  "pitch": "Maintenance log for facility staff",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 7,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Lineman",
+  "pitch": "Equipment logger for utility workers",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "sam-3.1"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Bartender",
+  "pitch": "Inventory logger for bar managers",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-open"
+  ],
+  "wow": 7,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice First Responder",
+  "pitch": "Incident report logger for EMTs",
+  "theme": "world",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 8,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Librarian",
+  "pitch": "Cataloging assistant for archivists",
+  "theme": "frontier",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 9,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Curator",
+  "pitch": "Exhibit notes for museum staff",
+  "theme": "frontier",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-image-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Archeologist",
+  "pitch": "Field notes logger with image tagging",
+  "theme": "frontier",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-image-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 9,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Ethnographer",
+  "pitch": "Cultural field notes with voice analysis",
+  "theme": "frontier",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-wonder-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 8,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Historian",
+  "pitch": "Oral history transcription with context",
+  "theme": "frontier",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-wonder-1.0",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 7,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Documentarian",
+  "pitch": "Field interviews with auto-generated chapters",
+  "theme": "frontier",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-open",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Journalist",
+  "pitch": "Interview transcription with fact-checking",
+  "theme": "frontier",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-wonder-1.0",
+   "muse-image-1.0"
+  ],
+  "wow": 8,
+  "feas": 9,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Researcher",
+  "pitch": "Literature review voice assistant",
+  "theme": "frontier",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3",
+   "sam-3.1"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-voiceops",
+  "title": "Voice Biographer",
+  "pitch": "Subject interview with timeline generation",
+  "theme": "frontier",
+  "domain": "voiceops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-wonder-1.0",
+   "muse-glimmer"
+  ],
+  "wow": 9,
+  "feas": 9,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ }
+]

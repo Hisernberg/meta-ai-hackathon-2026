@@ -1,0 +1,519 @@
+[
+ {
+  "lens": "llm-ownerops",
+  "title": "Paperwork Pilot",
+  "pitch": "Automate quotes/invoices for small business owners",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Ledger Lens",
+  "pitch": "AI bookkeeper that categorizes expenses from receipts",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-spark-1.3",
+   "muse-image-1.0"
+  ],
+  "wow": 9,
+  "feas": 6,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Warranty Watchdog",
+  "pitch": "Track product warranties and auto-renewal alerts",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Vendor Voice",
+  "pitch": "Transcribe and analyze vendor calls for action items",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-voice-transcribe-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Quote QuickDraw",
+  "pitch": "Generate instant quotes from customer descriptions",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Inventory Oracle",
+  "pitch": "Predict stock needs based on past sales trends",
+  "theme": "frontier",
+  "domain": "ownerops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Contract Copilot",
+  "pitch": "Review contracts for unfavorable terms",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 6,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Schedule Sage",
+  "pitch": "Optimize staff schedules based on demand forecasts",
+  "theme": "frontier",
+  "domain": "ownerops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Receipt Reader",
+  "pitch": "Extract data from crumpled receipts with OCR",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Bid Builder",
+  "pitch": "Create competitive business proposals from templates",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Expense Enforcer",
+  "pitch": "Flag unusual spending patterns in real-time",
+  "theme": "frontier",
+  "domain": "ownerops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Compliance Compass",
+  "pitch": "Guide businesses through regulatory requirements",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 6,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Supply Chain Seer",
+  "pitch": "Predict delivery delays before they happen",
+  "theme": "frontier",
+  "domain": "ownerops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Client Chronicle",
+  "pitch": "Automate follow-ups based on interaction history",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Tax Tracker",
+  "pitch": "Organize expenses by tax categories automatically",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Price Prophet",
+  "pitch": "Dynamic pricing based on local market conditions",
+  "theme": "frontier",
+  "domain": "ownerops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Policy Pilot",
+  "pitch": "Create employee handbooks from industry best practices",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Quality Quill",
+  "pitch": "Generate customer satisfaction surveys with smart questions",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Debt Detector",
+  "pitch": "Identify cash flow problems before they become critical",
+  "theme": "frontier",
+  "domain": "ownerops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Hire Helper",
+  "pitch": "Screen resumes and match to job requirements",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Invoice Inspector",
+  "pitch": "Verify vendor invoices against purchase orders",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-image-1.0",
+   "muse-spark-1.3"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Market Maven",
+  "pitch": "Analyze local competition and suggest differentiation",
+  "theme": "frontier",
+  "domain": "ownerops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Safety Sentinel",
+  "pitch": "Generate workplace safety checklists",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Crisis Coach",
+  "pitch": "Prepare for common business emergencies with playbooks",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 9,
+  "feas": 6,
+  "days": 7,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Growth Guru",
+  "pitch": "Identify expansion opportunities based on local data",
+  "theme": "frontier",
+  "domain": "ownerops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Feedback Forge",
+  "pitch": "Turn customer reviews into actionable improvements",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Order Oracle",
+  "pitch": "Predict customer orders before they're placed",
+  "theme": "frontier",
+  "domain": "ownerops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Training Tutor",
+  "pitch": "Create custom training materials for employees",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 6,
+  "feas": 9,
+  "days": 4,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Risk Radar",
+  "pitch": "Identify potential business risks with mitigation strategies",
+  "theme": "frontier",
+  "domain": "ownerops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Service Scout",
+  "pitch": "Find and vet reliable local service providers",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Review Robot",
+  "pitch": "Analyze online reviews for reputation management",
+  "theme": "world",
+  "domain": "ownerops",
+  "models": [
+   "muse-spark-1.3"
+  ],
+  "wow": 7,
+  "feas": 8,
+  "days": 5,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ },
+ {
+  "lens": "llm-ownerops",
+  "title": "Budget Builder",
+  "pitch": "Create realistic budgets based on historical data",
+  "theme": "frontier",
+  "domain": "ownerops",
+  "models": [
+   "muse-wonder-1.0"
+  ],
+  "wow": 8,
+  "feas": 7,
+  "days": 6,
+  "round": 2,
+  "work_real": 9,
+  "rarity": 8.5
+ }
+]

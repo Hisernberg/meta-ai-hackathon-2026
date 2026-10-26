@@ -1,0 +1,108 @@
+{
+ "survivors": [
+  {
+   "title": "Marlinspike Pulse",
+   "pitch": "Filmed tasks become step-by-step SOPs with checkpoints for container yards — interrupting status calls solved: yard photos and logs in minutes and prints paper backups, because reality.",
+   "theme": "frontier",
+   "domain": "container yard office",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "sam-3.1",
+    "muse-image-1.0"
+   ],
+   "wow": 9,
+   "feas": 5.8,
+   "round": 2,
+   "lens": "bulk-film_sop+paper_backup",
+   "mech": "film_sop",
+   "twist_id": "paper_backup",
+   "days": 6,
+   "work_real": 8.5,
+   "rarity": 5,
+   "scores": {
+    "creativity": 6.8,
+    "ambition": 9,
+    "works": 8.4,
+    "wow": 9.4,
+    "work_real": 8.5,
+    "meta": 10,
+    "fit": 8.2,
+    "days": 6,
+    "total": 85,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     9,
+     7,
+     8,
+     8
+    ],
+    "total": 40
+   }
+  },
+  {
+   "lens": "llm-samphysical",
+   "title": "Produce Quality Inspector",
+   "pitch": "Automatically grade fruits/vegetables from photos for market standards",
+   "theme": "world",
+   "domain": "samphysical",
+   "models": [
+    "sam-3.1",
+    "muse-image-1.0"
+   ],
+   "wow": 8,
+   "feas": 7,
+   "days": 5,
+   "round": 2,
+   "work_real": 9,
+   "rarity": 8.5,
+   "scores": {
+    "creativity": 7.7,
+    "ambition": 6,
+    "works": 9.5,
+    "wow": 8.4,
+    "work_real": 9,
+    "meta": 6.2,
+    "fit": 8.6,
+    "days": 5,
+    "total": 83.9,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     8,
+     8,
+     8,
+     8,
+     7
+    ],
+    "total": 39
+   }
+  }
+ ],
+ "verdicts": [
+  {
+   "i": 0,
+   "attack": "Chain-of-custody is solved by existing tracking systems.",
+   "why": "Too niche with unclear value add over current solutions."
+  },
+  {
+   "i": 1,
+   "attack": "Container yards have high turnover and variable processes.",
+   "why": "Strong visual SOP generation with tangible time savings on status calls."
+  },
+  {
+   "i": 2,
+   "attack": "Construction verification already has established inspection protocols.",
+   "why": "Generic solution without clear differentiation from existing inspection apps."
+  },
+  {
+   "i": 3,
+   "attack": "Produce grading varies too much by market and season.",
+   "why": "Clear visual task with immediate commercial value and impressive technical demo."
+  }
+ ]
+}

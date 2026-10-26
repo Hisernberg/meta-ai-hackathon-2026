@@ -1,0 +1,111 @@
+{
+ "survivors": [
+  {
+   "title": "Bellows Bench",
+   "pitch": "The phone becomes the tool — the machine plate unlocks the exact manual page for jewelry workshops: piece tracking minutes after the work happens, auto-makes a 30-second recap the owner will repost.",
+   "theme": "frontier",
+   "domain": "jewelry workshop",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "muse-image-1.0"
+   ],
+   "wow": 10,
+   "feas": 6.8,
+   "round": 2,
+   "lens": "bulk-manual_oracle+recap",
+   "mech": "manual_oracle",
+   "twist_id": "recap",
+   "days": 5,
+   "work_real": 8.5,
+   "rarity": 7.84,
+   "scores": {
+    "creativity": 8.1,
+    "ambition": 6.4,
+    "works": 9.5,
+    "wow": 10,
+    "work_real": 8.5,
+    "meta": 7.8,
+    "fit": 8.2,
+    "days": 5,
+    "total": 84.4,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     9,
+     9,
+     8,
+     9,
+     8
+    ],
+    "total": 43
+   }
+  },
+  {
+   "title": "Cleat for stall chains",
+   "pitch": "Trainees breaking real things plagues stall chains. The fix: filmed tasks become step-by-step SOPs with checkpoints, output supply counts, the expert approves and the system does the rest.",
+   "theme": "frontier",
+   "domain": "street food stall chain",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "sam-3.1",
+    "muse-image-1.0"
+   ],
+   "wow": 10,
+   "feas": 5.8,
+   "round": 2,
+   "lens": "bulk-film_sop+expert_loop",
+   "mech": "film_sop",
+   "twist_id": "expert_loop",
+   "days": 6,
+   "work_real": 8.5,
+   "rarity": 5,
+   "scores": {
+    "creativity": 6.8,
+    "ambition": 9,
+    "works": 8,
+    "wow": 10,
+    "work_real": 8.5,
+    "meta": 10,
+    "fit": 8.2,
+    "days": 6,
+    "total": 85.1,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     9,
+     9,
+     7,
+     8,
+     8
+    ],
+    "total": 41
+   }
+  }
+ ],
+ "verdicts": [
+  {
+   "i": 0,
+   "attack": "Over-scoped: phone+voice+image+tracking+recap+owner repost in 8 days?",
+   "why": "Novel use case but too complex for one person in 8 days"
+  },
+  {
+   "i": 1,
+   "attack": "Over-scoped: filming+transcribing+SOPs+supply counts+approval+automation in 8 days?",
+   "why": "Good problem but workflow too complex for solo dev in timeframe"
+  },
+  {
+   "i": 2,
+   "attack": "AR guidance requires complex computer vision and UI that's too much for one person",
+   "why": "Interesting concept but AR development exceeds 8-day scope"
+  },
+  {
+   "i": 3,
+   "attack": "Duplicate of Bellows Bench with minor variation, not truly new",
+   "why": "Too similar to idea 0, lacks originality"
+  }
+ ]
+}

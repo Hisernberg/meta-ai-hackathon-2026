@@ -1,0 +1,108 @@
+{
+ "survivors": [
+  {
+   "lens": "llm-memory",
+   "title": "Field Fixer",
+   "pitch": "Document field technician's repair shortcuts as augmented reality guidance",
+   "theme": "frontier",
+   "domain": "memory",
+   "models": [
+    "muse-wonder-1.0",
+    "muse-image-1.0",
+    "sam-3.1"
+   ],
+   "wow": 8,
+   "feas": 9,
+   "days": 6,
+   "round": 2,
+   "work_real": 9,
+   "rarity": 8.5,
+   "scores": {
+    "creativity": 8.4,
+    "ambition": 9.1,
+    "works": 6.9,
+    "wow": 8.4,
+    "work_real": 9,
+    "meta": 9.9,
+    "fit": 8.2,
+    "days": 6,
+    "total": 88.4,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     7,
+     8,
+     6,
+     8,
+     7
+    ],
+    "total": 36
+   }
+  },
+  {
+   "title": "Swage for jewelry workshops",
+   "pitch": "For jewelry workshops, unsearchable job cards. The machine plate unlocks the exact manual page: piece tracking ready in minutes, prints compliance badges on the spot.",
+   "theme": "frontier",
+   "domain": "jewelry workshop",
+   "models": [
+    "muse-spark-1.3",
+    "muse-voice-transcribe-1.0",
+    "muse-image-1.0"
+   ],
+   "wow": 10,
+   "feas": 6.8,
+   "round": 2,
+   "lens": "bulk-manual_oracle+badge",
+   "mech": "manual_oracle",
+   "twist_id": "badge",
+   "days": 5,
+   "work_real": 8.5,
+   "rarity": 7.84,
+   "scores": {
+    "creativity": 8.1,
+    "ambition": 6.4,
+    "works": 9.5,
+    "wow": 10,
+    "work_real": 8.5,
+    "meta": 7.8,
+    "fit": 8.2,
+    "days": 5,
+    "total": 84.4,
+    "flag": ""
+   },
+   "_j": {
+    "s": [
+     9,
+     9,
+     8,
+     9,
+     8
+    ],
+    "total": 43
+   }
+  }
+ ],
+ "verdicts": [
+  {
+   "i": 0,
+   "attack": "Walkaround videos becoming check logs requires too much manual validation to be truly 'zero signal'",
+   "why": "Generic field documentation solution with unclear differentiation"
+  },
+  {
+   "i": 1,
+   "attack": "Jewelry workshops may not need compliance badges as urgently as claimed",
+   "why": "Specific, clever use of computer vision for niche manufacturing workflow"
+  },
+  {
+   "i": 2,
+   "attack": "Plumbing job photos to logs is a well-trodden field with many competitors",
+   "why": "Too similar to existing construction documentation apps"
+  },
+  {
+   "i": 3,
+   "attack": "AR guidance requires precise device calibration and may not work reliably in field conditions",
+   "why": "Ambitious but potentially transformative for technical knowledge transfer"
+  }
+ ]
+}

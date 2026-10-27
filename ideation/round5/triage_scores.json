@@ -1,0 +1,965 @@
+{
+ "scores": {
+  "R4-10684": {
+   "s": 8.5,
+   "why": "PhD tool + red-team expert"
+  },
+  "R4-08237": {
+   "s": 7,
+   "why": "Geometry drift monitor"
+  },
+  "R4-13212": {
+   "s": 7.5,
+   "why": "Hyperbolic segmentation"
+  },
+  "R4-08753": {
+   "s": 8,
+   "why": "Judge-worker split"
+  },
+  "R4-14873": {
+   "s": 8,
+   "why": "Freelancer upgrade"
+  },
+  "R4-15762": {
+   "s": 6.5,
+   "why": "Narrow domain LoRA"
+  },
+  "R4-18341": {
+   "s": 6,
+   "why": "Benchmark hygiene"
+  },
+  "R4-19677": {
+   "s": 8,
+   "why": "Sports analysis bench"
+  },
+  "R4-01930": {
+   "s": 8.5,
+   "why": "SAM metrics as data"
+  },
+  "R4-07390": {
+   "s": 7.5,
+   "why": "Newbie proxy"
+  },
+  "R4-11279": {
+   "s": 7,
+   "why": "Judge-worker split"
+  },
+  "R4-13239": {
+   "s": 8,
+   "why": "Highlight reel generator"
+  },
+  "R4-15211": {
+   "s": 7.5,
+   "why": "Eval harness"
+  },
+  "R4-05807": {
+   "s": 7,
+   "why": "Food inspection gate"
+  },
+  "R4-07599": {
+   "s": 9,
+   "why": "Photo packing optimizer"
+  },
+  "R4-14441": {
+   "s": 7,
+   "why": "Object measurement"
+  },
+  "R4-18767": {
+   "s": 8,
+   "why": "Model eval leaderboard"
+  },
+  "R4-19096": {
+   "s": 7.5,
+   "why": "Wildlife analysis gate"
+  },
+  "R4-04868": {
+   "s": 8.5,
+   "why": "Skill path planner"
+  },
+  "R4-07919": {
+   "s": 7,
+   "why": "Drift detection"
+  },
+  "R4-13109": {
+   "s": 8.5,
+   "why": "Practical geometry-aware packing optimizer"
+  },
+  "R4-01889": {
+   "s": 7,
+   "why": "Novel skill manifold but abstract demo"
+  },
+  "R4-06470": {
+   "s": 9,
+   "why": "Role-expert bench solves real routing problem"
+  },
+  "R4-06544": {
+   "s": 8,
+   "why": "Topology stability as concrete metric"
+  },
+  "R4-08895": {
+   "s": 9.5,
+   "why": "Standing red-team forces evidence-based plans"
+  },
+  "R4-10993": {
+   "s": 7.5,
+   "why": "Weighted consensus for statistical answers"
+  },
+  "R4-18271": {
+   "s": 8,
+   "why": "Cross-examination for causal DAGs"
+  },
+  "R4-06322": {
+   "s": 6,
+   "why": "Duplicate of #3 with unclear call-center use"
+  },
+  "R4-10763": {
+   "s": 8,
+   "why": "Cost-aware router with scale consistency"
+  },
+  "R4-11790": {
+   "s": 7.5,
+   "why": "Adversarial pre-review with apprentice loop"
+  },
+  "R4-12097": {
+   "s": 7,
+   "why": "Hyperbolic embeddings for camera-trap triage"
+  },
+  "R4-13369": {
+   "s": 8.5,
+   "why": "Judge-worker split for lab protocols"
+  },
+  "R4-15021": {
+   "s": 7,
+   "why": "Reproduction sandbox with weighted consensus"
+  },
+  "R4-15070": {
+   "s": 6.5,
+   "why": "Image editing with vague committee use case"
+  },
+  "R4-03536": {
+   "s": 9,
+   "why": "SAM masks as numeric evidence"
+  },
+  "R4-11854": {
+   "s": 7,
+   "why": "Hyperbolic ladder for drift detection"
+  },
+  "R4-13373": {
+   "s": 6,
+   "why": "Duplicate concept with unclear dev community use"
+  },
+  "R4-13413": {
+   "s": 8.5,
+   "why": "Gatekeeper chain for benchmark hygiene"
+  },
+  "R4-14603": {
+   "s": 7,
+   "why": "Camera-trap with weighted consensus"
+  },
+  "R4-15598": {
+   "s": 7.5,
+   "why": "Cross-examination for talk feedback"
+  },
+  "R4-08251": {
+   "s": 8.5,
+   "why": "Novel weighting system, clear audit trail"
+  },
+  "R4-08373": {
+   "s": 7,
+   "why": "Good early warning, but abstract metrics"
+  },
+  "R4-09098": {
+   "s": 8,
+   "why": "Concrete red team, tangible risk receipts"
+  },
+  "R4-12055": {
+   "s": 7.5,
+   "why": "SAM integration practical, judge-worker split"
+  },
+  "R4-16026": {
+   "s": 9,
+   "why": "Unique domain, metrics from geometry wow"
+  },
+  "R4-18111": {
+   "s": 6.5,
+   "why": "Useful but narrow, limited demo potential"
+  },
+  "R4-19661": {
+   "s": 7,
+   "why": "Structured fine-tuning, gate chain novel"
+  },
+  "R4-00100": {
+   "s": 8,
+   "why": "Geodesic training plan, real skill mapping"
+  },
+  "R4-02529": {
+   "s": 6,
+   "why": "Duplicate of #0, less concrete use case"
+  },
+  "R4-03076": {
+   "s": 8.5,
+   "why": "Genius proxy testing, visible documentation gaps"
+  },
+  "R4-03839": {
+   "s": 7.5,
+   "why": "Interesting tension, but transcript abstract"
+  },
+  "R4-04039": {
+   "s": 6.5,
+   "why": "Similar to #1, less specific application"
+  },
+  "R4-07625": {
+   "s": 7,
+   "why": "Topological checks clever, but stability vague"
+  },
+  "R4-09066": {
+   "s": 5.5,
+   "why": "Duplicate concept of #10, less developed"
+  },
+  "R4-10992": {
+   "s": 7.5,
+   "why": "Clear reproducibility need, drift monitor"
+  },
+  "R4-11062": {
+   "s": 8,
+   "why": "Massive scale, audit trail impressive"
+  },
+  "R4-11490": {
+   "s": 8.5,
+   "why": "Hyperbolic search unique, field guide integration"
+  },
+  "R4-13877": {
+   "s": 9,
+   "why": "Chart digitization high value, SAM+Spark wow"
+  },
+  "R4-14317": {
+   "s": 7,
+   "why": "Multi-gate process practical but standard"
+  },
+  "R4-17092": {
+   "s": 6,
+   "why": "Similar to #0, less innovative application"
+  },
+  "R4-17957": {
+   "s": 8.5,
+   "why": "Novel topology stability check"
+  },
+  "R4-19403": {
+   "s": 7,
+   "why": "SaaS drift detection is practical"
+  },
+  "R4-02742": {
+   "s": 9,
+   "why": "Plan red-teaming with evidence requirement"
+  },
+  "R4-04764": {
+   "s": 8,
+   "why": "Embedding drift as early warning system"
+  },
+  "R4-06880": {
+   "s": 8,
+   "why": "Attention rationing via model disagreement"
+  },
+  "R4-09205": {
+   "s": 8.5,
+   "why": "Role-expert bench for structured review"
+  },
+  "R4-10090": {
+   "s": 7.5,
+   "why": "Expert bench for SaaS quality control"
+  },
+  "R4-12902": {
+   "s": 9,
+   "why": "SAM masks as quantifiable metrics"
+  },
+  "R4-13805": {
+   "s": 8,
+   "why": "Hyperbolic embeddings for measurement"
+  },
+  "R4-14150": {
+   "s": 8.5,
+   "why": "Anomaly narration from mask geometry"
+  },
+  "R4-14151": {
+   "s": 7.5,
+   "why": "Embedding drift for photo restoration"
+  },
+  "R4-03113": {
+   "s": 8,
+   "why": "Structured gatekeeper chain"
+  },
+  "R4-03252": {
+   "s": 8.5,
+   "why": "Topology stability for medical imaging"
+  },
+  "R4-03625": {
+   "s": 7.5,
+   "why": "Judge-worker split for extension offices"
+  },
+  "R4-05449": {
+   "s": 8,
+   "why": "Multi-scale segmentation consistency"
+  },
+  "R4-06914": {
+   "s": 7.5,
+   "why": "Four-gate system for workflow control"
+  },
+  "R4-11057": {
+   "s": 7,
+   "why": "Amateur sports highlight generation"
+  },
+  "R4-12584": {
+   "s": 7,
+   "why": "Context distillation with gatekeeping"
+  },
+  "R4-13558": {
+   "s": 8,
+   "why": "Geodesic distance for chart extraction"
+  },
+  "R4-14218": {
+   "s": 7,
+   "why": "Scoreboard replacing chat logs"
+  },
+  "R4-16646": {
+   "s": 8.5,
+   "why": "Novel topology trust metric"
+  },
+  "R4-16995": {
+   "s": 7,
+   "why": "Red team as service, but SaaS vague"
+  },
+  "R4-17059": {
+   "s": 6,
+   "why": "Niche archival use case"
+  },
+  "R4-18985": {
+   "s": 8,
+   "why": "Hyperbolic embeddings for hierarchies"
+  },
+  "R4-19429": {
+   "s": 9,
+   "why": "Scale-ladder for reproducibility"
+  },
+  "R4-03379": {
+   "s": 8.5,
+   "why": "Cross-examine docs with opposing AI"
+  },
+  "R4-10673": {
+   "s": 7.5,
+   "why": "Health clause hunter, but niche"
+  },
+  "R4-10897": {
+   "s": 7,
+   "why": "Backtest report card, generic"
+  },
+  "R4-14437": {
+   "s": 8,
+   "why": "Embedding drift for lectures"
+  },
+  "R4-18503": {
+   "s": 7.5,
+   "why": "Negative results clearinghouse"
+  },
+  "R4-19039": {
+   "s": 8.5,
+   "why": "Recipe graph from video"
+  },
+  "R4-00509": {
+   "s": 9,
+   "why": "Agent shift-work for clinics"
+  },
+  "R4-01249": {
+   "s": 8,
+   "why": "Built-in red team for boards"
+  },
+  "R4-05291": {
+   "s": 7.5,
+   "why": "Dental red team, specific"
+  },
+  "R4-06158": {
+   "s": 9.5,
+   "why": "SAM packing optimizer wow"
+  },
+  "R4-07027": {
+   "s": 8,
+   "why": "Rubric-gated QC for art"
+  },
+  "R4-08451": {
+   "s": 7,
+   "why": "Gaming club oracle niche"
+  },
+  "R4-08541": {
+   "s": 8,
+   "why": "Microfinance red team"
+  },
+  "R4-10910": {
+   "s": 7.5,
+   "why": "Photo packing PhDs"
+  },
+  "R4-14774": {
+   "s": 8,
+   "why": "Walkability expert bench"
+  },
+  "R4-15292": {
+   "s": 8.5,
+   "why": "Novel drift monitor with concrete artifacts"
+  },
+  "R4-15985": {
+   "s": 8,
+   "why": "Topology stability for film is unique"
+  },
+  "R4-16136": {
+   "s": 7.5,
+   "why": "Newbie proxy reveals doc flaws well"
+  },
+  "R4-16853": {
+   "s": 8,
+   "why": "Expert bench for claims is innovative"
+  },
+  "R4-17355": {
+   "s": 7.5,
+   "why": "Judge-worker split for attention is clever"
+  },
+  "R4-00688": {
+   "s": 9,
+   "why": "Drift before failure is killer insight"
+  },
+  "R4-01194": {
+   "s": 9.5,
+   "why": "Red-team as permanent expert is bold"
+  },
+  "R4-02172": {
+   "s": 8,
+   "why": "Hyperbolic trees for housekeeping is novel"
+  },
+  "R4-02462": {
+   "s": 8,
+   "why": "Topology stability for visas is fresh"
+  },
+  "R4-03626": {
+   "s": 8,
+   "why": "Hyperbolic for sign language is unique"
+  },
+  "R4-03731": {
+   "s": 8,
+   "why": "Role-expert bench for dental is solid"
+  },
+  "R4-05304": {
+   "s": 8.5,
+   "why": "Shape tracking for art studios is innovative"
+  },
+  "R4-06074": {
+   "s": 7,
+   "why": "Apprentice learning is less novel"
+  },
+  "R4-06141": {
+   "s": 9,
+   "why": "Red-team for sign language is compelling"
+  },
+  "R4-06943": {
+   "s": 8.5,
+   "why": "Scale-ladder for scouts is technically deep"
+  },
+  "R4-06980": {
+   "s": 8,
+   "why": "Newbie proxy for compliance is strong"
+  },
+  "R4-07271": {
+   "s": 7.5,
+   "why": "Distance-weighted votes is clever but simple"
+  },
+  "R4-09625": {
+   "s": 8,
+   "why": "Hyperbolic org chart is well-conceived"
+  },
+  "R4-09950": {
+   "s": 9,
+   "why": "Photo packing optimizer has high demo wow"
+  },
+  "R4-12533": {
+   "s": 8.5,
+   "why": "Geodesic skill trees is technically ambitious"
+  },
+  "R4-13362": {
+   "s": 8.5,
+   "why": "Self-improving loop with judge-worker split"
+  },
+  "R4-16496": {
+   "s": 8,
+   "why": "Cost-aware router with geodesic skills"
+  },
+  "R4-17035": {
+   "s": 7,
+   "why": "Newbie proxy for broken docs detection"
+  },
+  "R4-17735": {
+   "s": 7.5,
+   "why": "Judge-worker split for A/B testing decisions"
+  },
+  "R4-18387": {
+   "s": 6,
+   "why": "Anomaly narrator for health research"
+  },
+  "R4-00544": {
+   "s": 7,
+   "why": "Role-expert bench with section routing"
+  },
+  "R4-01894": {
+   "s": 8,
+   "why": "Apprentice that learns from corrections"
+  },
+  "R4-04995": {
+   "s": 7.5,
+   "why": "Hyperbolic embedding for deep hierarchies"
+  },
+  "R4-05242": {
+   "s": 8,
+   "why": "Scale-ladder segmentation with consistency"
+  },
+  "R4-05595": {
+   "s": 7,
+   "why": "Gatekeeper chain for call centers"
+  },
+  "R4-06309": {
+   "s": 7,
+   "why": "Role-expert bench for exam boards"
+  },
+  "R4-06490": {
+   "s": 8.5,
+   "why": "Geodesic skill-distance for training plans"
+  },
+  "R4-07166": {
+   "s": 7.5,
+   "why": "Embedding-distance-weighted consensus"
+  },
+  "R4-07717": {
+   "s": 7,
+   "why": "Shift roster with handoff notes"
+  },
+  "R4-09431": {
+   "s": 7.5,
+   "why": "Newbie proxy for analyst views"
+  },
+  "R4-09777": {
+   "s": 8,
+   "why": "Topology stability for video evidence"
+  },
+  "R4-10112": {
+   "s": 7.5,
+   "why": "SAM-based defect heatmap"
+  },
+  "R4-11677": {
+   "s": 6.5,
+   "why": "Scale ladders for campus labs"
+  },
+  "R4-14438": {
+   "s": 6,
+   "why": "Photo restoration with geometry"
+  },
+  "R4-15042": {
+   "s": 7,
+   "why": "Standing red team for defect detection"
+  },
+  "R4-15649": {
+   "s": 7.5,
+   "why": "Expert bench audit trail"
+  },
+  "R4-16429": {
+   "s": 8,
+   "why": "Specimen segmentation stability"
+  },
+  "R4-19537": {
+   "s": 7,
+   "why": "Hyperbolic knowledge retrieval"
+  },
+  "R4-00785": {
+   "s": 8.5,
+   "why": "Gatekeeper chain for care homes"
+  },
+  "R4-06064": {
+   "s": 7,
+   "why": "SAM mask metrics quantified"
+  },
+  "R4-10584": {
+   "s": 8,
+   "why": "Standing red team for agri-plans"
+  },
+  "R4-14674": {
+   "s": 7.5,
+   "why": "Cost-aware model router"
+  },
+  "R4-15180": {
+   "s": 7,
+   "why": "Geodesic skill distance"
+  },
+  "R4-15453": {
+   "s": 6.5,
+   "why": "Shift roster A/B testing"
+  },
+  "R4-18364": {
+   "s": 7,
+   "why": "Gatekeeper for stats clinics"
+  },
+  "R4-18823": {
+   "s": 8,
+   "why": "Embedding drift monitor"
+  },
+  "R4-19060": {
+   "s": 6.5,
+   "why": "Apprentice correction loop"
+  },
+  "R4-00914": {
+   "s": 7.5,
+   "why": "Geometry-weighted consensus"
+  },
+  "R4-03785": {
+   "s": 7,
+   "why": "SAM mask metrics for scouts"
+  },
+  "R4-04180": {
+   "s": 8.5,
+   "why": "Newbie-proxy documentation test"
+  },
+  "R4-08164": {
+   "s": 7.5,
+   "why": "Expert bench for clinics"
+  },
+  "R4-09412": {
+   "s": 7.5,
+   "why": "Distance-weighted speech votes"
+  },
+  "R4-11819": {
+   "s": 8,
+   "why": "Geodesic camera trap triage"
+  },
+  "R4-12270": {
+   "s": 6.5,
+   "why": "Hyperbolic video protocol"
+  },
+  "R4-13080": {
+   "s": 6.5,
+   "why": "Hyperbolic startup knowledge"
+  },
+  "R4-14239": {
+   "s": 8,
+   "why": "SLO guardrails novel but vague"
+  },
+  "R4-14501": {
+   "s": 7.5,
+   "why": "Photo packing concrete demo potential"
+  },
+  "R4-15946": {
+   "s": 6.5,
+   "why": "Drift monitoring solid but abstract"
+  },
+  "R4-18274": {
+   "s": 9,
+   "why": "Hyperbolic stats answers unique"
+  },
+  "R4-01773": {
+   "s": 8.5,
+   "why": "Gatekeeper chain structured workflow"
+  },
+  "R4-05209": {
+   "s": 7,
+   "why": "Safety boards hyperbolic fits niche"
+  },
+  "R4-07451": {
+   "s": 8,
+   "why": "Expert bench verifiable process"
+  },
+  "R4-07512": {
+   "s": 9.5,
+   "why": "SAM metrics quantifiable evidence"
+  },
+  "R4-09413": {
+   "s": 7,
+   "why": "Hyperbolic retrieval derivative"
+  },
+  "R4-09910": {
+   "s": 8.5,
+   "why": "Geodesic skills literal training"
+  },
+  "R4-11523": {
+   "s": 7,
+   "why": "Adversarial pre-review credible"
+  },
+  "R4-12404": {
+   "s": 8,
+   "why": "SAM tracking visual demo"
+  },
+  "R4-12765": {
+   "s": 7.5,
+   "why": "Scale ladder experiment design"
+  },
+  "R4-13623": {
+   "s": 6,
+   "why": "Benchmark hygiene limited scope"
+  },
+  "R4-14361": {
+   "s": 8.5,
+   "why": "Shadow diff SaaS builder tool"
+  },
+  "R4-18383": {
+   "s": 7.5,
+   "why": "Sports coaching visual analysis"
+  },
+  "R4-19077": {
+   "s": 7,
+   "why": "Catalog sheet automation generic"
+  },
+  "R4-19520": {
+   "s": 7,
+   "why": "Survey coding audit trail useful"
+  },
+  "R4-01501": {
+   "s": 8,
+   "why": "Care homes drift monitoring"
+  },
+  "R4-01603": {
+   "s": 7.5,
+   "why": "Scale ladder physio checks"
+  },
+  "R4-02194": {
+   "s": 8.5,
+   "why": "Novel topology trust metric"
+  },
+  "R4-02328": {
+   "s": 7,
+   "why": "Clear gatekeeper workflow"
+  },
+  "R4-03058": {
+   "s": 8,
+   "why": "Geometry-weighted consensus"
+  },
+  "R4-07004": {
+   "s": 9,
+   "why": "Multi-scale consistency check"
+  },
+  "R4-09210": {
+   "s": 8.5,
+   "why": "Mask metrics quantifies change"
+  },
+  "R4-10317": {
+   "s": 8,
+   "why": "DAG sketch with drift detection"
+  },
+  "R4-12183": {
+   "s": 6,
+   "why": "LoRA fine-tuning is standard"
+  },
+  "R4-13054": {
+   "s": 7,
+   "why": "Space optimization demoable"
+  },
+  "R4-13495": {
+   "s": 7.5,
+   "why": "Recipe graph from video"
+  },
+  "R4-15018": {
+   "s": 6.5,
+   "why": "Health research is sensitive"
+  },
+  "R4-15040": {
+   "s": 8.5,
+   "why": "Prompt regression testing"
+  },
+  "R4-16355": {
+   "s": 7.5,
+   "why": "Model leaderboard with metrics"
+  },
+  "R4-16498": {
+   "s": 8,
+   "why": "Structured negative results"
+  },
+  "R4-16984": {
+   "s": 8,
+   "why": "Defect detection with geodesics"
+  },
+  "R4-19180": {
+   "s": 7,
+   "why": "Bootcamp eval with packing"
+  },
+  "R4-01803": {
+   "s": 8,
+   "why": "City help desk multi-scale"
+  },
+  "R4-02760": {
+   "s": 9,
+   "why": "Newbie proxy finds training gaps"
+  },
+  "R4-04055": {
+   "s": 7.5,
+   "why": "Clinic mask metrics"
+  },
+  "R4-08160": {
+   "s": 8,
+   "why": "Apprentice learning loop"
+  },
+  "R4-11949": {
+   "s": 6.5,
+   "why": "Similar to #7, less novel"
+  },
+  "R4-12502": {
+   "s": 8.5,
+   "why": "Novel skill-distance clustering"
+  },
+  "R4-13556": {
+   "s": 7,
+   "why": "SAM metrics as concrete evidence"
+  },
+  "R4-16692": {
+   "s": 7.5,
+   "why": "Elo tournament for prompt selection"
+  },
+  "R4-18014": {
+   "s": 8,
+   "why": "Geometry-aware packing optimizer"
+  },
+  "R4-19877": {
+   "s": 8.5,
+   "why": "Curvature-aware survey coding"
+  },
+  "R4-00183": {
+   "s": 9,
+   "why": "Embedding-weighted consensus"
+  },
+  "R4-00480": {
+   "s": 8,
+   "why": "Opposing-interest cross-examination"
+  },
+  "R4-01090": {
+   "s": 7.5,
+   "why": "SAM metrics as numeric columns"
+  },
+  "R4-01689": {
+   "s": 8.5,
+   "why": "Photo-based Tetris packing"
+  },
+  "R4-02098": {
+   "s": 7,
+   "why": "Shadow-world with reality scoring"
+  },
+  "R4-04521": {
+   "s": 7.5,
+   "why": "Section-routed expert bench"
+  },
+  "R4-05114": {
+   "s": 8,
+   "why": "Geodesic skill training map"
+  },
+  "R4-09848": {
+   "s": 8,
+   "why": "Geodesic skill training path"
+  },
+  "R4-16845": {
+   "s": 7,
+   "why": "Cross-examined failure clustering"
+  },
+  "R4-04516": {
+   "s": 7.5,
+   "why": "SAM metrics for care homes"
+  },
+  "R4-13133": {
+   "s": 9,
+   "why": "Self-improving agent loop"
+  },
+  "R4-18035": {
+   "s": 7,
+   "why": "Curvature-based photo restoration"
+  },
+  "R4-00599": {
+   "s": 8.5,
+   "why": "Multi-scale segmentation ladder"
+  },
+  "R4-06603": {
+   "s": 7,
+   "why": "Shift-handoff expert roster"
+  },
+  "R4-07874": {
+   "s": 8,
+   "why": "Apprentice learning with report card"
+  },
+  "R4-11515": {
+   "s": 8.5,
+   "why": "Novel paired negotiation architecture"
+  },
+  "R4-12701": {
+   "s": 6,
+   "why": "Shift handoff concept promising but vague"
+  },
+  "R4-15204": {
+   "s": 9,
+   "why": "Self-improving cross-examination system"
+  },
+  "R4-01754": {
+   "s": 7,
+   "why": "Newbie proxy reveals documentation gaps"
+  },
+  "R4-08143": {
+   "s": 9.5,
+   "why": "Multi-scale segmentation with consistency checks"
+  },
+  "R4-10066": {
+   "s": 7.5,
+   "why": "Apprentice learning with statistical rigor"
+  },
+  "R4-17661": {
+   "s": 7,
+   "why": "Visual defect detection with human feedback"
+  },
+  "R4-19431": {
+   "s": 7,
+   "why": "Similar to #0 but less specific domain"
+  },
+  "R4-00840": {
+   "s": 7.5,
+   "why": "Contract review with opposing perspectives"
+  },
+  "R4-04846": {
+   "s": 8,
+   "why": "SAM masks to quantitative metrics"
+  },
+  "R4-09607": {
+   "s": 7,
+   "why": "Similar to #8 with different domain"
+  },
+  "R4-10796": {
+   "s": 8,
+   "why": "Camera trap triage with failure drills"
+  },
+  "R4-12900": {
+   "s": 9,
+   "why": "Counterfactual twin for causal analysis"
+  },
+  "R4-13216": {
+   "s": 7,
+   "why": "Similar to #6 with museum domain"
+  },
+  "R4-16913": {
+   "s": 6.5,
+   "why": "Lab protocol extraction from video"
+  },
+  "R4-02471": {
+   "s": 7,
+   "why": "Similar to #8 with museum domain"
+  },
+  "R4-04982": {
+   "s": 7.5,
+   "why": "Parent community documentation testing"
+  },
+  "R4-06830": {
+   "s": 7,
+   "why": "Similar to #8 with fisheries domain"
+  },
+  "R4-13698": {
+   "s": 8,
+   "why": "Rigorous eval harness for documents"
+  },
+  "R4-17215": {
+   "s": 8.5,
+   "why": "Multi-scale chart extraction with uncertainty"
+  }
+ },
+ "fallback": []
+}

@@ -1,0 +1,112 @@
+[
+ {
+  "persona": "a skeptical Meta research scientist who has seen 10,000 demos fail",
+  "votes": [
+   {
+    "i": 0,
+    "pts": 5
+   },
+   {
+    "i": 2,
+    "pts": 3
+   },
+   {
+    "i": 3,
+    "pts": 2
+   },
+   {
+    "i": 1,
+    "pts": 1
+   }
+  ],
+  "line": "Paper-to-recipe wins for concrete artifact, scale-ladders for technical depth"
+ },
+ {
+  "persona": "a hackathon judge optimizing for the Demo 25% rubric slot",
+  "votes": [
+   {
+    "i": 0,
+    "pts": 5
+   },
+   {
+    "i": 2,
+    "pts": 3
+   },
+   {
+    "i": 1,
+    "pts": 2
+   },
+   {
+    "i": 3,
+    "pts": 1
+   }
+  ],
+  "line": "Paper-to-recipe with figure reconciliation delivers the most defensible demo wow"
+ },
+ {
+  "persona": "an infrastructure engineer at Modal who costs out GPU-minutes",
+  "votes": [
+   {
+    "i": 0,
+    "pts": 5
+   },
+   {
+    "i": 2,
+    "pts": 3
+   },
+   {
+    "i": 1,
+    "pts": 2
+   },
+   {
+    "i": 3,
+    "pts": 1
+   }
+  ],
+  "line": "Paper-to-recipe wins with concrete artifacts and verifiable reproduction."
+ },
+ {
+  "persona": "the target user (a busy practitioner in the idea's domain)",
+  "votes": [
+   {
+    "i": 0,
+    "pts": 5
+   },
+   {
+    "i": 3,
+    "pts": 3
+   },
+   {
+    "i": 2,
+    "pts": 2
+   },
+   {
+    "i": 1,
+    "pts": 1
+   }
+  ],
+  "line": "Nuskha automates research reproduction, solving reproducibility crisis with concrete artifacts."
+ },
+ {
+  "persona": "a VC who funds AI tools and hates toys",
+  "votes": [
+   {
+    "i": 0,
+    "pts": 5
+   },
+   {
+    "i": 2,
+    "pts": 3
+   },
+   {
+    "i": 3,
+    "pts": 2
+   },
+   {
+    "i": 1,
+    "pts": 1
+   }
+  ],
+  "line": "Nuskha wins for making research reproducible with real artifacts; scale-ladders follows for visual cross-consistency."
+ }
+]

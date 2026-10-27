@@ -1,0 +1,98 @@
+{
+ "head": {
+  "nuskha": {
+   "impact": 9,
+   "meta": 10,
+   "tech": 10,
+   "demo": 9,
+   "total": 38
+  },
+  "thikana": {
+   "impact": 8,
+   "meta": 9,
+   "tech": 9,
+   "demo": 10,
+   "total": 36
+  },
+  "winner": "nuskha",
+  "margin": "Reproducibility crisis has higher academic impact than solar O&M",
+  "why": "Nuskha solves a universal, high-stakes research problem with novel multi-agent verification and 1M-context understanding; Thikana is physically impressive but niche.",
+  "virality_pick": "Nuskha - visual reproduction receipts and 'irreproducible' verdicts resonate with every researcher's pain",
+  "risk_note": "Nuskha's dry-run fallback ensures demo cannot die; Thikana's physical dependency riskier"
+ },
+ "council": [
+  {
+   "persona": "a Meta research scientist who values technical depth and honest scope",
+   "verdict": {
+    "scores": {
+     "nuskha": {
+      "impact": 8,
+      "meta": 9,
+      "tech": 10,
+      "demo": 9,
+      "total": 36
+     },
+     "thikana": {
+      "impact": 9,
+      "meta": 8,
+      "tech": 9,
+      "demo": 9,
+      "total": 35
+     }
+    },
+    "winner": "nuskha",
+    "one_line": "Nuskha solves reproducibility crisis with verifiable research receipts; Thikana is impressive but narrower in scope."
+   }
+  },
+  {
+   "persona": "a hackathon judge who has watched 500 demo videos die live",
+   "verdict": {
+    "scores": {
+     "nuskha": {
+      "impact": 9,
+      "meta": 9,
+      "tech": 9,
+      "demo": 10,
+      "total": 37
+     },
+     "thikana": {
+      "impact": 8,
+      "meta": 8,
+      "tech": 8,
+      "demo": 9,
+      "total": 33
+     }
+    },
+    "winner": "nuskha",
+    "one_line": "Nuskha solves reproducibility crisis with verifiable research receipts; Thikana is impressive but narrower in impact."
+   }
+  },
+  {
+   "persona": "the Meta API product manager who wants capabilities that surprise even the model team",
+   "verdict": {
+    "scores": {
+     "nuskha": {
+      "impact": 8,
+      "meta": 9,
+      "tech": 9,
+      "demo": 10,
+      "total": 36
+     },
+     "thikana": {
+      "impact": 9,
+      "meta": 7,
+      "tech": 8,
+      "demo": 9,
+      "total": 33
+     }
+    },
+    "winner": "nuskha",
+    "one_line": "Nuskha's deterministic reproducibility pipeline sets new scientific transparency standards."
+   }
+  }
+ ],
+ "tally": {
+  "nuskha": 4,
+  "thikana": 0
+ }
+}

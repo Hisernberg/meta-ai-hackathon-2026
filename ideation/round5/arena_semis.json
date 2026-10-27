@@ -1,0 +1,255 @@
+[
+ {
+  "tag": "semi_0",
+  "verdict": {
+   "ranking": [
+    {
+     "i": 1,
+     "score": 8.2,
+     "kill": "Weak real-work credibility for microfinance"
+    },
+    {
+     "i": 0,
+     "score": 7.5,
+     "kill": "Overambitious for 7-day solo build"
+    }
+   ],
+   "top": 1,
+   "why_final": "Pixel precision measurement offers concrete numeric evidence that's visually compelling and demo-friendly"
+  },
+  "order": [
+   {
+    "cand": {
+     "lane": "W",
+     "lens": "W-W02-geo-mask-metrics",
+     "mech": "geo-mask-metrics",
+     "mech_fam": "GEO",
+     "mech_tier": "S",
+     "title": "Microfinance groups changes, measured in pixels with decimals",
+     "pitch": "SAM-mask geometry as numeric evidence: Segmentation masks stop being pictures: area, perimeter, count and shape-change become the numeric columns of the report, so 'did it change?' has a decimal answer. Winner-DNA insight — real-time multimodal feedback on a human performance feels like magic and demos in 60s. Applied to microfinance groups, where weekly ledgers become decisions, not paperwork. Stack: SAM 3.1 + Muse Glimmer + Muse Spark. Novel architecture",
+     "domain": "microfinance groups",
+     "models": "sam-3.1+muse-glimmer+muse-spark-1.3",
+     "twist": "with a consent-first camera policy",
+     "round": 4,
+     "score_total": 78.5,
+     "creativity": 5.5,
+     "ambition": 8.3,
+     "works": 7.9,
+     "work_real": 7.4,
+     "meta": 8.7,
+     "fit": 7.9,
+     "wow": 9.408002766842717,
+     "feas": 8.2,
+     "days": 3,
+     "idx": 1930,
+     "id": "R4-01930",
+     "deep": {
+      "it": {
+       "lane": "W",
+       "lens": "W-W02-geo-mask-metrics",
+       "mech": "geo-mask-metrics",
+       "mech_fam": "GEO",
+       "mech_tier": "S",
+       "title": "Microfinance groups changes, measured in pixels with decimals",
+       "pitch": "SAM-mask geometry as numeric evidence: Segmentation masks stop being pictures: area, perimeter, count and shape-change become the numeric columns of the report, so 'did it change?' has a decimal answer. Winner-DNA insight — real-time multimodal feedback on a human performance feels like magic and demos in 60s. Applied to microfinance groups, where weekly ledgers become decisions, not paperwork. Stack: SAM 3.1 + Muse Glimmer + Muse Spark. Novel architecture",
+       "domain": "microfinance groups",
+       "models": "sam-3.1+muse-glimmer+muse-spark-1.3",
+       "twist": "with a consent-first camera policy",
+       "round": 4,
+       "score_total": 78.5,
+       "creativity": 5.5,
+       "ambition": 8.3,
+       "works": 7.9,
+       "work_real": 7.4,
+       "meta": 8.7,
+       "fit": 7.9,
+       "wow": 9.408002766842717,
+       "feas": 8.2,
+       "days": 3,
+       "idx": 1930,
+       "id": "R4-01930"
+      },
+      "nov": 9,
+      "real": 8,
+      "wow": 8,
+      "build": 7,
+      "meta": 7,
+      "total": 8.02,
+      "note": "SAM mask metrics innovative"
+     },
+     "orig": "none"
+    },
+    "score": 8.2,
+    "kill": "Weak real-work credibility for microfinance"
+   },
+   {
+    "cand": {
+     "id": "R3-CHAMP",
+     "lane": "INCUMBENT",
+     "mech": "fuse:recipe-exec",
+     "title": "Nuskha — paper methods -> runnable recipe, executed in Modal sandboxes",
+     "pitch": "Turn any research paper's methods section into a numbered recipe a grad student can actually run: parameter extraction, missing-steps audit (what the paper omits), environment provisioning in Modal sandboxes, execution with logged artifacts, figure reconciliation (does the remade figure match the published one), and a signed Reproduction Receipt. Stack: Wonder (1M ctx) reads the paper, Spark plans, Glimmer drafts sandbox code, Modal executes, Spark Open on Baseten grades similarity. Push the Frontier. Defending champion from round 3 (beat 10,568 ideas).",
+     "orig": "related",
+     "deep": {
+      "total": 8.5
+     }
+    },
+    "score": 7.5,
+    "kill": "Overambitious for 7-day solo build"
+   }
+  ]
+ },
+ {
+  "tag": "semi_1",
+  "verdict": {
+   "ranking": [
+    {
+     "i": 0,
+     "score": 8.2,
+     "kill": "Requires perfect multimodal alignment across scales"
+    },
+    {
+     "i": 1,
+     "score": 7.5,
+     "kill": "Manifold learning may not generalize to real skills"
+    }
+   ],
+   "top": 0,
+   "why_final": "Visual artifact with cross-scale verification offers clearer demo wow"
+  },
+  "order": [
+   {
+    "cand": {
+     "lane": "W",
+     "lens": "W-W06-geo-scale-ladder",
+     "base": "W06",
+     "mech": "geo-scale-ladder",
+     "mech_fam": "GEO",
+     "mech_tier": "A",
+     "title": "The 400-page claims desks report, distilled to a model you can rotate — scale ladders",
+     "pitch": "Scale-ladder segmentation with cross-scale consistency: The same scene is segmented at cm, meter and site scale; verdicts require the three ladders to agree, which kills the false positives any single scale produces. Winner-DNA insight — long context + multimodal extraction judged 'best API use'; the artifact must be visual. Applied to insurance claims desks, where claim files and photos become decisions, not paperwork. Stack: SAM 3.1 + Muse Spark + Muse W",
+     "domain": "insurance claims desks",
+     "models": "sam-3.1+muse-spark-1.3+muse-wonder-1.0",
+     "twist": "with a consent-first camera policy",
+     "round": 4,
+     "score_total": 76,
+     "creativity": 5.4,
+     "ambition": 6.6,
+     "works": 8,
+     "work_real": 7.4,
+     "meta": 8.7,
+     "fit": 7.2,
+     "wow": 9.506457976667283,
+     "feas": 8.1,
+     "days": 3,
+     "idx": 8143,
+     "id": "R4-08143",
+     "deep": {
+      "it": {
+       "lane": "W",
+       "lens": "W-W06-geo-scale-ladder",
+       "base": "W06",
+       "mech": "geo-scale-ladder",
+       "mech_fam": "GEO",
+       "mech_tier": "A",
+       "title": "The 400-page claims desks report, distilled to a model you can rotate — scale ladders",
+       "pitch": "Scale-ladder segmentation with cross-scale consistency: The same scene is segmented at cm, meter and site scale; verdicts require the three ladders to agree, which kills the false positives any single scale produces. Winner-DNA insight — long context + multimodal extraction judged 'best API use'; the artifact must be visual. Applied to insurance claims desks, where claim files and photos become decisions, not paperwork. Stack: SAM 3.1 + Muse Spark + Muse W",
+       "domain": "insurance claims desks",
+       "models": "sam-3.1+muse-spark-1.3+muse-wonder-1.0",
+       "twist": "with a consent-first camera policy",
+       "round": 4,
+       "score_total": 76,
+       "creativity": 5.4,
+       "ambition": 6.6,
+       "works": 8,
+       "work_real": 7.4,
+       "meta": 8.7,
+       "fit": 7.2,
+       "wow": 9.506457976667283,
+       "feas": 8.1,
+       "days": 3,
+       "idx": 8143,
+       "id": "R4-08143"
+      },
+      "nov": 9,
+      "real": 7,
+      "wow": 8,
+      "build": 5,
+      "meta": 9,
+      "total": 7.8,
+      "note": "Multi-scale segmentation ladder"
+     },
+     "orig": "none"
+    },
+    "score": 8.2,
+    "kill": "Requires perfect multimodal alignment across scales"
+   },
+   {
+    "cand": {
+     "lane": "U",
+     "lens": "U-U6-paper-proof-geo-geodesic-skill",
+     "base": "U6-paper-proof",
+     "mech": "geo-geodesic-skill",
+     "mech_fam": "GEO",
+     "mech_tier": "S",
+     "title": "Compete teams skill trees with actual distances — geodesic skills",
+     "pitch": "Paper + repo -> automated reproduction in a Modal sandbox; figures checked against claimed numbers. Built on Geodesic skill-distance on a learned manifold — Skills embed as points on a learned manifold; the shortest geodesic from a worker's current point to the target role becomes the literal training plan, re-estimated weekly. For ML competition teams — grounded in data contamination. Stack: Muse Wonder + Muse Voice + Muse Spark. Novel architecture, not a",
+     "domain": "ML competition teams",
+     "models": "muse-wonder-1.0+muse-voice-transcribe-1.0+muse-spark-1.3",
+     "twist": "runs offline on self-hosted open weights",
+     "round": 4,
+     "score_total": 77,
+     "creativity": 5.8,
+     "ambition": 8.6,
+     "works": 7.3,
+     "work_real": 7,
+     "meta": 8.1,
+     "fit": 8.2,
+     "wow": 9.260321875043672,
+     "feas": 7.8,
+     "days": 3,
+     "idx": 12533,
+     "id": "R4-12533",
+     "deep": {
+      "it": {
+       "lane": "U",
+       "lens": "U-U6-paper-proof-geo-geodesic-skill",
+       "base": "U6-paper-proof",
+       "mech": "geo-geodesic-skill",
+       "mech_fam": "GEO",
+       "mech_tier": "S",
+       "title": "Compete teams skill trees with actual distances — geodesic skills",
+       "pitch": "Paper + repo -> automated reproduction in a Modal sandbox; figures checked against claimed numbers. Built on Geodesic skill-distance on a learned manifold — Skills embed as points on a learned manifold; the shortest geodesic from a worker's current point to the target role becomes the literal training plan, re-estimated weekly. For ML competition teams — grounded in data contamination. Stack: Muse Wonder + Muse Voice + Muse Spark. Novel architecture, not a",
+       "domain": "ML competition teams",
+       "models": "muse-wonder-1.0+muse-voice-transcribe-1.0+muse-spark-1.3",
+       "twist": "runs offline on self-hosted open weights",
+       "round": 4,
+       "score_total": 77,
+       "creativity": 5.8,
+       "ambition": 8.6,
+       "works": 7.3,
+       "work_real": 7,
+       "meta": 8.1,
+       "fit": 8.2,
+       "wow": 9.260321875043672,
+       "feas": 7.8,
+       "days": 3,
+       "idx": 12533,
+       "id": "R4-12533"
+      },
+      "nov": 8,
+      "real": 8,
+      "wow": 8,
+      "build": 6,
+      "meta": 9,
+      "total": 7.9,
+      "note": "Skill manifold visualization"
+     },
+     "orig": "none"
+    },
+    "score": 7.5,
+    "kill": "Manifold learning may not generalize to real skills"
+   }
+  ]
+ }
+]

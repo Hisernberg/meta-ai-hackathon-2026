@@ -1,0 +1,857 @@
+[
+ {
+  "id": "R4-04180",
+  "title": "Ship a fresh call centers agent monthly; watch it stumble",
+  "mech": "morbe-newbie",
+  "lane": "W",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "ship fresh call",
+    "github": [
+     {
+      "full": "henchmarketing-rgb/sub-zero-skill",
+      "desc": "A Claude Code command that refuses to call anything shipped until a separate fresh-context",
+      "stars": 5
+     },
+     {
+      "full": "XavierZhao1989/epistemics-mcp",
+      "desc": "MCP server that verifies capability/version/freshness claims before AI agents ship them. I",
+      "stars": 0
+     },
+     {
+      "full": "andrewbolaji/reckon",
+      "desc": "Production BI data platform. Python and dbt pipelines land call and payment data in a ware",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "ship fresh agent",
+    "github": [
+     {
+      "full": "stone16/harness-engineering-skills",
+      "desc": "Run AI coding agents unattended for hours and ship PRs worth merging. Cybernetics-based mu",
+      "stars": 31
+     },
+     {
+      "full": "EternallLight/tgc-skills",
+      "desc": "Shipping-pipeline skills plugin for Claude Code: plan orchestration with fresh-context age",
+      "stars": 11
+     },
+     {
+      "full": "ArtRichards/ship-milestone",
+      "desc": "Claude Code skill: autonomous milestone conductor \u2014 spawns fresh Opus sub-agents per step ",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-02760",
+  "title": "Ship a fresh amateur leagues agent monthly; watch it stumble",
+  "mech": "morbe-newbie",
+  "lane": "W",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "ship fresh amateur",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "ship fresh agent",
+    "github": [
+     {
+      "full": "stone16/harness-engineering-skills",
+      "desc": "Run AI coding agents unattended for hours and ship PRs worth merging. Cybernetics-based mu",
+      "stars": 31
+     },
+     {
+      "full": "EternallLight/tgc-skills",
+      "desc": "Shipping-pipeline skills plugin for Claude Code: plan orchestration with fresh-context age",
+      "stars": 11
+     },
+     {
+      "full": "ArtRichards/ship-milestone",
+      "desc": "Claude Code skill: autonomous milestone conductor \u2014 spawns fresh Opus sub-agents per step ",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-03076",
+  "title": "The lost tourist test for parent communities",
+  "mech": "morbe-newbie",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "lost tourist test",
+    "github": [
+     {
+      "full": "rajjaiswal/rajjaiswal",
+      "desc": "Australia defeated Sri Lanka in the Boxing Day Test by an innings and 201 runs to claim th",
+      "stars": 1
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "lost tourist agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-10763",
+  "title": "The indie ML engineers Model Router \u2014 scale ladders",
+  "mech": "geo-scale-ladder",
+  "lane": "U",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "indie engineers model",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "indie engineers vision",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-14437",
+  "title": "Self-serve Lecture Index for food creators \u2014 drift monitor",
+  "mech": "geo-embed-audit",
+  "lane": "U",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "self serve lecture",
+    "github": [
+     {
+      "full": "Ameen-hp/MyReactLectures",
+      "desc": "This repository contains notes, code, and resources from my daily lectures. It serves as a",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "self serve vision",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-19877",
+  "title": "The seller analytics Survey Coder \u2014 curvature clusters",
+  "mech": "geo-curvature",
+  "lane": "U",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "seller analytics survey",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "seller analytics vision",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-18271",
+  "title": "DAG Sketcher: NGO data teams upgrade \u2014 cross-examination",
+  "mech": "morbe-cross-examine",
+  "lane": "U",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "dag sketcher ngo",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "dag sketcher agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-11062",
+  "title": "The seller analytics Survey Coder \u2014 judge-worker split",
+  "mech": "morbe-judge-worker",
+  "lane": "U",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "seller analytics survey",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "seller analytics agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-11515",
+  "title": "Platform teams terms stress-tested by a hired opponent \u2014 paired negotiators",
+  "mech": "morbe-negotiator",
+  "lane": "U",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "platform teams terms",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "platform teams agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-01249",
+  "title": "Safety boards with a built-in devil's advocate",
+  "mech": "morbe-redteam",
+  "lane": "W",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "safety boards devil",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "safety boards agent",
+    "github": [
+     {
+      "full": "xquantize/swellsense",
+      "desc": "A surf assistant for New Zealand surfers: boards, swell, spots and safety, answered from c",
+      "stars": 0
+     },
+     {
+      "full": "Mohithmcu/BI_agent",
+      "desc": "A conversational BI Agent built with Streamlit & Gemini that queries Monday.com boards (Wo",
+      "stars": 0
+     },
+     {
+      "full": "Dipali023/Armor-AI-Multiagent",
+      "desc": "\ud83c\udd98 Armor AI | Agents for Good | Emergency Response Dashboard \u2014 shelter mapping, safety chec",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-01930",
+  "title": "Microfinance groups changes, measured in pixels with decimals",
+  "mech": "geo-mask-metrics",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "microfinance groups changes",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "microfinance groups vision",
+    "github": [
+     {
+      "full": "api-evangelist/opay",
+      "desc": "OPay \u2014 independent third-party profile of a public API surface, by API Evangelist. OPay is",
+      "stars": 3
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-13362",
+  "title": "Self Improve Loop, built for indie ML engineers \u2014 judge-worker split",
+  "mech": "morbe-judge-worker",
+  "lane": "U",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "self improve loop",
+    "github": [
+     {
+      "full": "BetterForAll/self-improving-agents",
+      "desc": "Self-Improving Agents -- A Progression Four levels of self-improving code agents, from the",
+      "stars": 159
+     },
+     {
+      "full": "crimeacs/auto-improve",
+      "desc": "GAN-style self-improvement loop for any text artifact: mutate, grade with a SEPARATE model",
+      "stars": 138
+     },
+     {
+      "full": "ArchishmanSengupta/autovoiceevals",
+      "desc": "A self-improving loop for voice AI agents. Uses karpathy's autoresearch as foundation.",
+      "stars": 156
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "self improve agent",
+    "github": [
+     {
+      "full": "agno-agi/agno",
+      "desc": "The self-improving agent platform",
+      "stars": 42921
+     },
+     {
+      "full": "PrimeIntellect-ai/prime-agent",
+      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "stars": 22391
+     },
+     {
+      "full": "Human-Agent-Society/reef",
+      "desc": "Infrastructure for continually self\u2011improving agents",
+      "stars": 7751
+     }
+    ],
+    "hf_models": [
+     {
+      "id": "RGV/repro-self-improvements-in-modern-agentic-systems",
+      "likes": 1,
+      "desc": ""
+     }
+    ],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-00785",
+  "title": "Gate-kept care homes, no silent skips",
+  "mech": "morbe-gate",
+  "lane": "W",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "gate kept care",
+    "github": [
+     {
+      "full": "danderfer/Comp_Sci_Sem_2",
+      "desc": "According to all known laws of aviation, there is no way that a bee should be able to fly.",
+      "stars": 218
+     },
+     {
+      "full": "MarkipTheMudkip/in-class-project-2",
+      "desc": "According to all known laws of aviation,     there is no way a bee should be able to fly. ",
+      "stars": 96
+     },
+     {
+      "full": "landonasato/Function",
+      "desc": "According to all known laws of aviation, there is no way a bee should be able to fly. Its ",
+      "stars": 38
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "gate kept agent",
+    "github": [
+     {
+      "full": "SolrLabs/ai-context-gate",
+      "desc": "A gate for the context your coding agents read: decision logs, docs and agent definitions,",
+      "stars": 1
+     },
+     {
+      "full": "afts1987/ai-governance-matrix-flow",
+      "desc": "AI governance risk matrix kept alive by CrewAI agents with human gates",
+      "stars": 0
+     },
+     {
+      "full": "MarkCodering/AlphaLoop",
+      "desc": "A 24/7 autonomous deep agent \u2014 powered by local Ollama models, secured by a hard-gated san",
+      "stars": 2
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-03113",
+  "title": "Gate-kept research labs, no silent skips",
+  "mech": "morbe-gate",
+  "lane": "W",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "gate kept research",
+    "github": [
+     {
+      "full": "cuijinkuo/quant-research-platform",
+      "desc": "Showcase of a private China A-share quant research platform -- architecture docs, factor-g",
+      "stars": 1
+     },
+     {
+      "full": "api-evangelist/community-labs",
+      "desc": "Community Labs \u2014 independent third-party profile of a public API surface, by API Evangelis",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "gate kept agent",
+    "github": [
+     {
+      "full": "SolrLabs/ai-context-gate",
+      "desc": "A gate for the context your coding agents read: decision logs, docs and agent definitions,",
+      "stars": 1
+     },
+     {
+      "full": "afts1987/ai-governance-matrix-flow",
+      "desc": "AI governance risk matrix kept alive by CrewAI agents with human gates",
+      "stars": 0
+     },
+     {
+      "full": "MarkCodering/AlphaLoop",
+      "desc": "A 24/7 autonomous deep agent \u2014 powered by local Ollama models, secured by a hard-gated san",
+      "stars": 2
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-13369",
+  "title": "The coaching centers Lab Protocol \u2014 judge-worker split",
+  "mech": "morbe-judge-worker",
+  "lane": "U",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "coaching centers lab",
+    "github": [
+     {
+      "full": "linjiw/climb-lab",
+      "desc": "Claude skill: analyze climbing videos (center of mass, forces, balance, technique) into a ",
+      "stars": 0
+     },
+     {
+      "full": "aiwithsunnyuk/scrum-master-delivery-lab",
+      "desc": "Evidence-driven Agile Delivery Leadership portfolio demonstrating Scrum, delivery governan",
+      "stars": 1
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "coaching centers agent",
+    "github": [
+     {
+      "full": "raj884042/Agent",
+      "desc": "Agent for my coaching center",
+      "stars": 0
+     },
+     {
+      "full": "dinakarbl/voiceops-ai",
+      "desc": "VoiceOps AI \u2014 Enterprise Contact Center Intelligence & Agent Coaching Platform.",
+      "stars": 0
+     },
+     {
+      "full": "CaoYuhaoCarl/learnmate-personalized-english",
+      "desc": "Agents for personalized English learning, centered on an English coach that turns writing ",
+      "stars": 2
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-08753",
+  "title": "Claims desks with a scoreboard instead of a chat log \u2014 judge-worker split",
+  "mech": "morbe-judge-worker",
+  "lane": "W",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "claims desks scoreboard",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "claims desks agent",
+    "github": [
+     {
+      "full": "pooyahrtn/git-desks",
+      "desc": "Run several coding agents on one repo at once without collisions \u2014 isolated git-worktree \"",
+      "stars": 3
+     },
+     {
+      "full": "tvcuong1802/agentic-star-lost-property-claim-intake-completeness-agent",
+      "desc": "AI agent for preparing passenger lost-property claims for a desk worker, built with Agenti",
+      "stars": 0
+     },
+     {
+      "full": "gogoborker-ship-it/northbridge-property-ivr",
+      "desc": "Tuesday hail demo: live property phone flow, claims owner desk, and three Cursor SDK agent",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-13413",
+  "title": "Contamination Check, built for teaching labs \u2014 gate chain",
+  "mech": "morbe-gate",
+  "lane": "U",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "contamination check teaching",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "contamination check agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-12533",
+  "title": "Compete teams skill trees with actual distances \u2014 geodesic skills",
+  "mech": "geo-geodesic-skill",
+  "lane": "U",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "compete teams skill",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "compete teams vision",
+    "github": [
+     {
+      "full": "rbouadjenek/deakin-ai-challenge2021",
+      "desc": "The Deakin Simpsons challenge 2021 is a computer vision competition for which the goal is ",
+      "stars": 14
+     },
+     {
+      "full": "rbouadjenek/deakin-ai-challenge2023",
+      "desc": "The Deakin Simpsons challenge 2023 is a computer vision competition that is designed to pr",
+      "stars": 3
+     },
+     {
+      "full": "rbouadjenek/deakin-ai-challenge2022",
+      "desc": "The Deakin Simpsons challenge 2022 is a computer vision competition that is designed to pr",
+      "stars": 3
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-06470",
+  "title": "The NGO survey teams panel that never meets",
+  "mech": "morbe-bench",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "ngo survey teams",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "ngo survey agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-03379",
+  "title": "Stress-test safety boards documents against their reader",
+  "mech": "morbe-cross-examine",
+  "lane": "W",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "stress test safety",
+    "github": [
+     {
+      "full": "AI45Lab/OpenART",
+      "desc": "OpenART is an open-source framework designed to evaluate the safety and robustness of auto",
+      "stars": 256
+     },
+     {
+      "full": "portyu9/k6-performance-testing-framework",
+      "desc": "Production-grade k6 performance testing framework for smoke, load, stress, and soak tests ",
+      "stars": 153
+     },
+     {
+      "full": "superU-ai/voice-agent-QA",
+      "desc": "A unified benchmarking framework for evaluating Voice AI agents across conversational qual",
+      "stars": 7
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "stress test agent",
+    "github": [
+     {
+      "full": "eval-sys/mcpmark",
+      "desc": "MCPMark is a comprehensive, stress-testing MCP benchmark designed to evaluate model and ag",
+      "stars": 469
+     },
+     {
+      "full": "CristianQiu/Unity-Pathfinding-Jobs-StressTest",
+      "desc": "Unity project showcasing A* pathfinding, fully jobified & burst compiled. It also contains",
+      "stars": 51
+     },
+     {
+      "full": "fabraix/playground",
+      "desc": "A live environment to stress-test AI agent defenses through adversarial play \ud83e\udde0",
+      "stars": 76
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": [
+     {
+      "id": "xemorph49/agent_stress_test_env-0.2.3",
+      "likes": 0,
+      "desc": ""
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "R4-09098",
+  "title": "Red-teamed NGO survey teams, risk receipt attached \u2014 standing red team",
+  "mech": "morbe-redteam",
+  "lane": "W",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "red teamed ngo",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "red teamed agent",
+    "github": [
+     {
+      "full": "BitterSecurity/Decepticon",
+      "desc": "Autonomous Hacking Agent for Red Team",
+      "stars": 6458
+     },
+     {
+      "full": "elder-plinius/T3MP3ST",
+      "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "stars": 6624
+     },
+     {
+      "full": "FunnyWolf/Viper",
+      "desc": "Adversary simulation and Red teaming platform with AI",
+      "stars": 5336
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-00509",
+  "title": "Around-the-clock physio clinics, agent shift-work",
+  "mech": "morbe-swarm-roster",
+  "lane": "W",
+  "verdict": "close",
+  "evidence": [
+   {
+    "q": "around clock physio",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "around clock agent",
+    "github": [
+     {
+      "full": "willdady/platypus",
+      "desc": "Self-hosted AI Agents for your whole team \u2014 on your infrastructure, your models, around th",
+      "stars": 124
+     },
+     {
+      "full": "damianvtran/local-operator",
+      "desc": "An open-source AI agent hub for your own machine: build organizations of collaborating age",
+      "stars": 222
+     },
+     {
+      "full": "catowndog/codclaw",
+      "desc": "AI Agent for project assembly by working around the clock",
+      "stars": 5
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-17957",
+  "title": "Contamination Check, built for research freelancers \u2014 shape trust",
+  "mech": "geo-stability",
+  "lane": "U",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "contamination check research",
+    "github": [
+     {
+      "full": "FredHutch/viroblast",
+      "desc": "ViroBLAST is the web tool to provide sequence comparison and contamination checking on vir",
+      "stars": 0
+     },
+     {
+      "full": "biru-codeastromer/EvalLedger",
+      "desc": "Open registry for AI benchmark provenance, where researchers can version, cite, and verify",
+      "stars": 0
+     },
+     {
+      "full": "sandyrobot/-HARRTS-Mini-Robotic-Hair-Transplant-Machine",
+      "desc": "\" HARRTS-mini is the smaller and more compact robotic hair transplant alternative to the f",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "contamination check vision",
+    "github": [
+     {
+      "full": "Zion-support/zion-food-safety-inspector",
+      "desc": "AI food safety inspection \u2014 vision-based contamination and labeling checks for processing ",
+      "stars": 0
+     },
+     {
+      "full": "karthika9882/WATER_QUALITY_CHICKING_APP",
+      "desc": "Water Quality Checking Application is a Python-based web application that analyzes water s",
+      "stars": 1
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R4-08143",
+  "title": "The 400-page claims desks report, distilled to a model you can rotate \u2014 scale ladders",
+  "mech": "geo-scale-ladder",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "page claims desks",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "page claims vision",
+    "github": [
+     {
+      "full": "auraofintelligence/the-great-unveiling",
+      "desc": "Multi-page Aura narrative concept presenting a vision, journey, technologies and initiativ",
+      "stars": 0
+     },
+     {
+      "full": "Sajjad01-chaus/Claim-Processing-Pipeline",
+      "desc": "Processes medical claim PDFs using LangGraph + Groq vision. Segregates pages by document t",
+      "stars": 0
+     },
+     {
+      "full": "Mrwanawad/Documentation-Companion-Agent-using-FastAPI-React-Gemini",
+      "desc": "AI agent that interviews a PO/PM about one app page and writes a reviewable Markdown user ",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ }
+]

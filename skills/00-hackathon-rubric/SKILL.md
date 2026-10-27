@@ -106,3 +106,37 @@ platform fluency.
 - Day 7–8: harden, degrade-gracefully paths, polish UI with taste pass.
 - Final 48h: demo video, README, architecture diagram, arena-style adversarial review,
   submit at least 12h before the deadline (portal congestion is real).
+
+---
+
+## ⚠️ RULES UPDATE (Oct 27, 2026 — official Participant Guide supersedes sections above)
+
+**Judging (Stage 1 pass/fail):** project must reasonably fit a theme AND reasonably use
+Meta Model API and/or Meta open-weight models. Stage 2 rubric (0–10 per axis):
+
+| Category | Weight | What judges ask |
+|---|---|---|
+| Impact | 30% | Real-world potential; who benefits; could people actually use it; theme fit |
+| Use of Meta AI Tooling | 25% | Creative, beyond-basic integration; surprising capability surfacing |
+| Technical Depth & Execution | 20% | Sound, refined engineering; real craft |
+| Demo | 25% | Working, impressive live; the 3-min video is a PRIMARY judging artifact |
+
+**Hard rules:** repositories MUST be public · team ≤4 · demo only shows what was built
+during the event · new work only · banned: legal/ethical/platform violations.
+
+**Sample anti-projects (auto-disqualify territory):** AI medical/mental-health advice ·
+basic RAG · simple image analyzers · AI-for-education chatbots · AI job application
+screener · AI nutrition coach · personality analyzers · sports analyzers/coaches ·
+anything political or war-related.
+
+**Schedule:** building Oct 27–Nov 4 · submissions due Nov 4 9:00 PM ET (Nov 5 8:00 AM
+Dhaka) · judging Nov 5–8 · finals Nov 9 · community vote winner Nov 16.
+
+**Partner notes:** Baseten model id for the hackathon is
+`meta-models/muse-spark-open-1026` (NOT muse-spark-open) · Modal $100 credits for
+first 1,000 · Fireworks $25 select teams · claim Meta credits by Nov 4 9PM ET.
+
+**Bonus prizes:** Most Viral $20K (X engagement until Nov 8 EOD) · Best Build on Meta
+Open-Weight Models $10K (Muse Glimmer / Muse Spark Open, own hardware or partner
+inference) · Community Vote $10K (public gallery) · Best Agentic Use-Case $5K ·
+Best Creative Build $5K (Muse Image / Muse Wonder).

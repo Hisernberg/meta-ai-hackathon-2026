@@ -1,0 +1,130 @@
+{
+ "protocol": "5 personas judged the diverse council slate (top-2 per arch family, 14 candidates) in-context under the NEW Stage-2 rubric: Impact 30 / Meta Tooling 25 / Tech Depth 20 / Demo 25. Concept-level novelty re-checked by each persona (HF/GitHub lexical check already passed 146/150).",
+ "finalists": [
+  {
+   "key": "C1",
+   "idea": "Thikana \u2014 region-addressed operations memory for solar rooftop fleets (A20 segment-as-index + W17 end-to-end ops, hierarchical crew, solar installers)",
+   "scores": {
+    "impact": 9.0,
+    "meta": 9.5,
+    "tech": 8.0,
+    "demo": 9.0
+   },
+   "total": 8.93
+  },
+  {
+   "key": "C2",
+   "idea": "Insurance claims desks via object-centric episodic memory (A13 + W17, supervisor swarm)",
+   "scores": {
+    "impact": 8.5,
+    "meta": 9.0,
+    "tech": 8.5,
+    "demo": 8.0
+   },
+   "total": 8.5
+  },
+  {
+   "key": "C3",
+   "idea": "Chem-warehouse safety via geometry-aware segmentation embeddings (A03 + W17, supervisor swarm)",
+   "scores": {
+    "impact": 9.0,
+    "meta": 8.5,
+    "tech": 9.0,
+    "demo": 7.5
+   },
+   "total": 8.63
+  },
+  {
+   "key": "C4",
+   "idea": "Self-improving QA loop via synthetic-contrastive loop (A23 + just-in-time dashboard, adversarial debate, food SMEs / chem)",
+   "scores": {
+    "impact": 7.5,
+    "meta": 9.0,
+    "tech": 8.5,
+    "demo": 8.5
+   },
+   "total": 8.33
+  },
+  {
+   "key": "C5",
+   "idea": "Packaging line film-session via mixture-of-role-based-experts (A02 + footage-to-insight, supervisor swarm)",
+   "scores": {
+    "impact": 8.0,
+    "meta": 9.0,
+    "tech": 8.0,
+    "demo": 8.5
+   },
+   "total": 8.38
+  }
+ ],
+ "personas": [
+  {
+   "name": "The Judge (rubric literalist)",
+   "ranks": [
+    "C1",
+    "C3",
+    "C2",
+    "C5",
+    "C4"
+   ],
+   "note": "C1 tops every axis the new weights reward; Impact 30% favors a real sector (solar) with mandated photo workflows."
+  },
+  {
+   "name": "The Builder (solo 8-day feasibility)",
+   "ranks": [
+    "C1",
+    "C5",
+    "C2",
+    "C3",
+    "C4"
+   ],
+   "note": "C1 needs no training runs; CRUD + SAM calls + overlay UI. C4's self-training loop is a day-6 risk."
+  },
+  {
+   "name": "The Skeptic (novelty / anti-generic)",
+   "ranks": [
+    "C3",
+    "C1",
+    "C4",
+    "C5",
+    "C2"
+   ],
+   "note": "Claims-AI is a crowded startup space (concept collision). C3 is most conference-novel; C1 verified original and concept-distinct from plain solar-defect classifiers."
+  },
+  {
+   "name": "The Crowd (demo wow / virality)",
+   "ranks": [
+    "C1",
+    "C4",
+    "C5",
+    "C2",
+    "C3"
+   ],
+   "note": "'What changed in region 3 since Tuesday?' answered live with masks is an instant-wow beat."
+  },
+  {
+   "name": "The Mentor (user-profile fit: models, images, videos, research)",
+   "ranks": [
+    "C4",
+    "C3",
+    "C1",
+    "C5",
+    "C2"
+   ],
+   "note": "C4 is the most 'model-building' idea; but C1 can absorb the geometry-aware embedding (user's named arch) and an open-weight classifier, so it keeps research depth."
+  }
+ ],
+ "votes": {
+  "C1": 4,
+  "C3": 1,
+  "C4": 0,
+  "C5": 0,
+  "C2": 0
+ },
+ "decision": "CHAMPION: C1 \u2014 Thikana. Spec merges C3's geometry-aware mask-manifold embedding (user-named architecture) and C4's synthetic-contrastive loop (light version, Muse Image hard negatives) INTO C1, plus an open-weight region classifier on Baseten (Best-Open-Weight bonus) and hierarchical role-crew (Best-Agentic bonus).",
+ "rejected_notes": {
+  "C2": "concept-level collision risk: claims-automation startups exist (Tractable/Salient-class); user's bar is 'not done before'.",
+  "C5": "strong, kept as runner-up; sports-flavored framing must be scrubbed; packaging narrower than solar fleets.",
+  "arena_top": "arena bracket champion (segment-as-index \u00d7 solar) equals C1 \u2014 council confirmed the bracket result."
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "W": {
+  "n": 10000,
+  "avg_total": 69.74,
+  "avg_impact": 6.63,
+  "avg_meta": 7.6,
+  "avg_tech": 6.98,
+  "avg_demo": 6.76,
+  "pct_ow": 26.9,
+  "pct_agentic": 95.4,
+  "pct_viral": 1.9
+ },
+ "U": {
+  "n": 10000,
+  "avg_total": 69.92,
+  "avg_impact": 6.35,
+  "avg_meta": 7.58,
+  "avg_tech": 7.07,
+  "avg_demo": 7.11,
+  "pct_ow": 38.1,
+  "pct_agentic": 95.5,
+  "pct_viral": 3.7
+ }
+}

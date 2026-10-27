@@ -1,0 +1,898 @@
+{
+ "champion": {
+  "round": 4,
+  "lane": "W",
+  "lens": "W17",
+  "pattern": "end-to-end-ops",
+  "arch": "segment-as-index",
+  "arch_id": "A20",
+  "harness": "hierarchical-crew",
+  "harness_id": "H05",
+  "title": "segment as index plays solar installers",
+  "pitch": "a manual business process -> an agent that completes it end to end. For solar rooftop installers: Every visual region is a queryable address; ask 'what changed in region 3 since Tuesday' and the segmentation index answers with receipts. Orchestration: hierarchical crew \u2014 team leads own subgoals; workers own steps; escalation is explicit. Stack: Muse Spark + Muse Glimmer + Muse Wonder + Muse Voice.",
+  "theme": "world",
+  "domain": "solar rooftop installers",
+  "models": "muse-spark-1.3+muse-glimmer+muse-wonder-1.0+muse-voice-transcribe-1.0",
+  "users": "operators; team leads",
+  "impact": 7.7,
+  "meta_tooling": 10,
+  "tech": 7.6,
+  "demo": 8.7,
+  "total": 85.1,
+  "days": 7,
+  "open_weight": false,
+  "agentic": true,
+  "creative": false,
+  "viral": true,
+  "nov": {
+   "verdict": "original",
+   "penalty": 2.0,
+   "best": 0.0,
+   "near": 0,
+   "hits": []
+  },
+  "final": 87.1
+ },
+ "final2": [
+  {
+   "round": 4,
+   "lane": "W",
+   "lens": "W17",
+   "pattern": "end-to-end-ops",
+   "arch": "segment-as-index",
+   "arch_id": "A20",
+   "harness": "hierarchical-crew",
+   "harness_id": "H05",
+   "title": "segment as index plays solar installers",
+   "pitch": "a manual business process -> an agent that completes it end to end. For solar rooftop installers: Every visual region is a queryable address; ask 'what changed in region 3 since Tuesday' and the segmentation index answers with receipts. Orchestration: hierarchical crew \u2014 team leads own subgoals; workers own steps; escalation is explicit. Stack: Muse Spark + Muse Glimmer + Muse Wonder + Muse Voice.",
+   "theme": "world",
+   "domain": "solar rooftop installers",
+   "models": "muse-spark-1.3+muse-glimmer+muse-wonder-1.0+muse-voice-transcribe-1.0",
+   "users": "operators; team leads",
+   "impact": 7.7,
+   "meta_tooling": 10,
+   "tech": 7.6,
+   "demo": 8.7,
+   "total": 85.1,
+   "days": 7,
+   "open_weight": false,
+   "agentic": true,
+   "creative": false,
+   "viral": true,
+   "nov": {
+    "verdict": "original",
+    "penalty": 2.0,
+    "best": 0.0,
+    "near": 0,
+    "hits": []
+   },
+   "final": 87.1
+  },
+  {
+   "round": 4,
+   "lane": "W",
+   "lens": "W17",
+   "pattern": "end-to-end-ops",
+   "arch": "synthetic-contrastive-loop",
+   "arch_id": "A23",
+   "harness": "hierarchical-crew",
+   "harness_id": "H05",
+   "title": "chem safety, synthetic contrastive loop edition",
+   "pitch": "a manual business process -> an agent that completes it end to end. For chemical warehouse safety boards: SAM segments real cases, Muse Image synthesizes hard negatives targeted at the current confusion pair, and the classifier must beat both before shipping. Orchestration: hierarchical crew \u2014 team leads own subgoals; workers own steps; escalation is explicit. Stack: Muse Spark + Muse Glimmer + Muse Wonder + SAM 3.1.",
+   "theme": "world",
+   "domain": "chemical warehouse safety boards",
+   "models": "muse-spark-1.3+muse-glimmer+muse-wonder-1.0+sam-3.1",
+   "users": "operators; team leads",
+   "impact": 7.4,
+   "meta_tooling": 10,
+   "tech": 8.1,
+   "demo": 8.5,
+   "total": 84.7,
+   "days": 7,
+   "open_weight": false,
+   "agentic": true,
+   "creative": false,
+   "viral": false,
+   "nov": {
+    "verdict": "original",
+    "penalty": 2.0,
+    "best": 0.0,
+    "near": 0,
+    "hits": []
+   },
+   "final": 86.7
+  }
+ ],
+ "semifinalists": [
+  {
+   "round": 4,
+   "lane": "W",
+   "lens": "W17",
+   "pattern": "end-to-end-ops",
+   "arch": "segment-as-index",
+   "arch_id": "A20",
+   "harness": "hierarchical-crew",
+   "harness_id": "H05",
+   "title": "segment as index plays solar installers",
+   "pitch": "a manual business process -> an agent that completes it end to end. For solar rooftop installers: Every visual region is a queryable address; ask 'what changed in region 3 since Tuesday' and the segmentation index answers with receipts. Orchestration: hierarchical crew \u2014 team leads own subgoals; workers own steps; escalation is explicit. Stack: Muse Spark + Muse Glimmer + Muse Wonder + Muse Voice.",
+   "theme": "world",
+   "domain": "solar rooftop installers",
+   "models": "muse-spark-1.3+muse-glimmer+muse-wonder-1.0+muse-voice-transcribe-1.0",
+   "users": "operators; team leads",
+   "impact": 7.7,
+   "meta_tooling": 10,
+   "tech": 7.6,
+   "demo": 8.7,
+   "total": 85.1,
+   "days": 7,
+   "open_weight": false,
+   "agentic": true,
+   "creative": false,
+   "viral": true,
+   "nov": {
+    "verdict": "original",
+    "penalty": 2.0,
+    "best": 0.0,
+    "near": 0,
+    "hits": []
+   },
+   "final": 87.1
+  },
+  {
+   "round": 4,
+   "lane": "W",
+   "lens": "W17",
+   "pattern": "end-to-end-ops",
+   "arch": "synthetic-contrastive-loop",
+   "arch_id": "A23",
+   "harness": "hierarchical-crew",
+   "harness_id": "H05",
+   "title": "chem safety, synthetic contrastive loop edition",
+   "pitch": "a manual business process -> an agent that completes it end to end. For chemical warehouse safety boards: SAM segments real cases, Muse Image synthesizes hard negatives targeted at the current confusion pair, and the classifier must beat both before shipping. Orchestration: hierarchical crew \u2014 team leads own subgoals; workers own steps; escalation is explicit. Stack: Muse Spark + Muse Glimmer + Muse Wonder + SAM 3.1.",
+   "theme": "world",
+   "domain": "chemical warehouse safety boards",
+   "models": "muse-spark-1.3+muse-glimmer+muse-wonder-1.0+sam-3.1",
+   "users": "operators; team leads",
+   "impact": 7.4,
+   "meta_tooling": 10,
+   "tech": 8.1,
+   "demo": 8.5,
+   "total": 84.7,
+   "days": 7,
+   "open_weight": false,
+   "agentic": true,
+   "creative": false,
+   "viral": false,
+   "nov": {
+    "verdict": "original",
+    "penalty": 2.0,
+    "best": 0.0,
+    "near": 0,
+    "hits": []
+   },
+   "final": 86.7
+  },
+  {
+   "round": 4,
+   "lane": "W",
+   "lens": "D15",
+   "pattern": "live-telemetry-guide",
+   "arch": "object-centric-episodic-memory",
+   "arch_id": "A13",
+   "harness": "supervisor-swarm",
+   "harness_id": "H04",
+   "title": "chem safety, object centric episodic memory edition",
+   "pitch": "a real-time signal (machine audio, power draw, camera) becomes mid-flight structured guidance for skilled physical work. For chemical warehouse safety boards: SAM 3.1 tracks become first-class memory addresses: events are indexed by which objects appeared, moved or changed, not by text alone. Orchestration: supervisor swarm \u2014 one supervisor fans work out to a parallel swarm and merges results. Stack: Muse Wonder + Muse Voice + Muse Spark + Muse Spark Open (open weights).",
+   "theme": "frontier",
+   "domain": "chemical warehouse safety boards",
+   "models": "muse-wonder-1.0+muse-voice-transcribe-1.0+muse-spark-1.3+muse-spark-open-1026",
+   "users": "technicians; trade apprentices",
+   "impact": 7.6,
+   "meta_tooling": 10,
+   "tech": 8.4,
+   "demo": 8.0,
+   "total": 84.5,
+   "days": 8,
+   "open_weight": true,
+   "agentic": true,
+   "creative": false,
+   "viral": false,
+   "nov": {
+    "verdict": "original",
+    "penalty": 2.0,
+    "best": 0.0,
+    "near": 0,
+    "hits": []
+   },
+   "final": 86.5
+  },
+  {
+   "round": 4,
+   "lane": "W",
+   "lens": "W20",
+   "pattern": "adaptive-interface",
+   "arch": "segment-as-index",
+   "arch_id": "A20",
+   "harness": "supervisor-swarm",
+   "harness_id": "H04",
+   "title": "segment as index for textile mills",
+   "pitch": "one assistant that reshapes itself to whichever app/context the user is in. For jute and textile mills: Every visual region is a queryable address; ask 'what changed in region 3 since Tuesday' and the segmentation index answers with receipts. Orchestration: supervisor swarm \u2014 one supervisor fans work out to a parallel swarm and merges results. Stack: Muse Wonder + Muse Spark + Muse Glimmer + Muse Image.",
+   "theme": "world",
+   "domain": "jute and textile mills",
+   "models": "muse-wonder-1.0+muse-spark-1.3+muse-glimmer+muse-image-1.0",
+   "users": "operators; team leads",
+   "impact": 7.1,
+   "meta_tooling": 10,
+   "tech": 8.2,
+   "demo": 8.7,
+   "total": 84.5,
+   "days": 7,
+   "open_weight": false,
+   "agentic": true,
+   "creative": true,
+   "viral": true,
+   "nov": {
+    "verdict": "original",
+    "penalty": 2.0,
+    "best": 0.0,
+    "near": 0,
+    "hits": []
+   },
+   "final": 86.5
+  }
+ ],
+ "finalists8": [
+  {
+   "round": 4,
+   "lane": "W",
+   "lens": "W17",
+   "pattern": "end-to-end-ops",
+   "arch": "segment-as-index",
+   "arch_id": "A20",
+   "harness": "hierarchical-crew",
+   "harness_id": "H05",
+   "title": "segment as index plays solar installers",
+   "pitch": "a manual business process -> an agent that completes it end to end. For solar rooftop installers: Every visual region is a queryable address; ask 'what changed in region 3 since Tuesday' and the segmentation index answers with receipts. Orchestration: hierarchical crew \u2014 team leads own subgoals; workers own steps; escalation is explicit. Stack: Muse Spark + Muse Glimmer + Muse Wonder + Muse Voice.",
+   "theme": "world",
+   "domain": "solar rooftop installers",
+   "models": "muse-spark-1.3+muse-glimmer+muse-wonder-1.0+muse-voice-transcribe-1.0",
+   "users": "operators; team leads",
+   "impact": 7.7,
+   "meta_tooling": 10,
+   "tech": 7.6,
+   "demo": 8.7,
+   "total": 85.1,
+   "days": 7,
+   "open_weight": false,
+   "agentic": true,
+   "creative": false,
+   "viral": true,
+   "nov": {
+    "verdict": "original",
+    "penalty": 2.0,
+    "best": 0.0,
+    "near": 0,
+    "hits": []
+   },
+   "final": 87.1
+  },
+  {
+   "round": 4,
+   "lane": "W",
+   "lens": "W17",
+   "pattern": "end-to-end-ops",
+   "arch": "synthetic-contrastive-loop",
+   "arch_id": "A23",
+   "harness": "hierarchical-crew",
+   "harness_id": "H05",
+   "title": "chem safety, synthetic contrastive loop edition",
+   "pitch": "a manual business process -> an agent that completes it end to end. For chemical warehouse safety boards: SAM segments real cases, Muse Image synthesizes hard negatives targeted at the current confusion pair, and the classifier must beat both before shipping. Orchestration: hierarchical crew \u2014 team leads own subgoals; workers own steps; escalation is explicit. Stack: Muse Spark + Muse Glimmer + Muse Wonder + SAM 3.1.",
+   "theme": "world",
+   "domain": "chemical warehouse safety boards",
+   "models": "muse-spark-1.3+muse-glimmer+muse-wonder-1.0+sam-3.1",
+   "users": "operators; team leads",
+   "impact": 7.4,
+   "meta_tooling": 10,
+   "tech": 8.1,
+   "demo": 8.5,
+   "total": 84.7,
+   "days": 7,
+   "open_weight": false,
+   "agentic": true,
+   "creative": false,
+   "viral": false,
+   "nov": {
+    "verdict": "original",
+    "penalty": 2.0,
+    "best": 0.0,
+    "near": 0,
+    "hits": []
+   },
+   "final": 86.7
+  },
+  {
+   "round": 4,
+   "lane": "W",
+   "lens": "D15",
+   "pattern": "live-telemetry-guide",
+   "arch": "object-centric-episodic-memory",
+   "arch_id": "A13",
+   "harness": "supervisor-swarm",
+   "harness_id": "H04",
+   "title": "chem safety, object centric episodic memory edition",
+   "pitch": "a real-time signal (machine audio, power draw, camera) becomes mid-flight structured guidance for skilled physical work. For chemical warehouse safety boards: SAM 3.1 tracks become first-class memory addresses: events are indexed by which objects appeared, moved or changed, not by text alone. Orchestration: supervisor swarm \u2014 one supervisor fans work out to a parallel swarm and merges results. Stack: Muse Wonder + Muse Voice + Muse Spark + Muse Spark Open (open weights).",
+   "theme": "frontier",
+   "domain": "chemical warehouse safety boards",
+   "models": "muse-wonder-1.0+muse-voice-transcribe-1.0+muse-spark-1.3+muse-spark-open-1026",
+   "users": "technicians; trade apprentices",
+   "impact": 7.6,
+   "meta_tooling": 10,
+   "tech": 8.4,
+   "demo": 8.0,
+   "total": 84.5,
+   "days": 8,
+   "open_weight": true,
+   "agentic": true,
+   "creative": false,
+   "viral": false,
+   "nov": {
+    "verdict": "original",
+    "penalty": 2.0,
+    "best": 0.0,
+    "near": 0,
+    "hits": []
+   },
+   "final": 86.5
+  },
+  {
+   "round": 4,
+   "lane": "W",
+   "lens": "W20",
+   "pattern": "adaptive-interface",
+   "arch": "segment-as-index",
+   "arch_id": "A20",
+   "harness": "supervisor-swarm",
+   "harness_id": "H04",
+   "title": "segment as index for textile mills",
+   "pitch": "one assistant that reshapes itself to whichever app/context the user is in. For jute and textile mills: Every visual region is a queryable address; ask 'what changed in region 3 since Tuesday' and the segmentation index answers with receipts. Orchestration: supervisor swarm \u2014 one supervisor fans work out to a parallel swarm and merges results. Stack: Muse Wonder + Muse Spark + Muse Glimmer + Muse Image.",
+   "theme": "world",
+   "domain": "jute and textile mills",
+   "models": "muse-wonder-1.0+muse-spark-1.3+muse-glimmer+muse-image-1.0",
+   "users": "operators; team leads",
+   "impact": 7.1,
+   "meta_tooling": 10,
+   "tech": 8.2,
+   "demo": 8.7,
+   "total": 84.5,
+   "days": 7,
+   "open_weight": false,
+   "agentic": true,
+   "creative": true,
+   "viral": true,
+   "nov": {
+    "verdict": "original",
+    "penalty": 2.0,
+    "best": 0.0,
+    "near": 0,
+    "hits": []
+   },
+   "final": 86.5
+  },
+  {
+   "round": 4,
+   "lane": "U",
+   "lens": "U6-methods-recipe",
+   "pattern": "methods-recipe",
+   "arch": "mixture-of-world-agents",
+   "arch_id": "A01",
+   "harness": "speculative-race",
+   "harness_id": "H11",
+   "title": "construction QA, mixture of world agents edition",
+   "pitch": "methods section -> runnable recipe (env, seeds, compute) with missing steps flagged. Built for construction QA crews \u2014 fixes: reproducing a paper costs weeks and usually fails quietly. Several world-model agents each simulate a different version of how the environment will respond; a gating router picks the rollout that best matches live evidence before any action is taken. Orchestration: speculative race (parallel attempts with early exit on consensus). Stack: Muse Wonder + Muse Spark + SAM 3.1",
+   "theme": "frontier",
+   "domain": "construction QA crews",
+   "models": "muse-wonder-1.0+muse-spark-1.3+sam-3.1+muse-glimmer",
+   "users": "grad students; independent researchers",
+   "impact": 7.7,
+   "meta_tooling": 9.3,
+   "tech": 8.0,
+   "demo": 8.8,
+   "total": 84.2,
+   "days": 7,
+   "open_weight": false,
+   "agentic": true,
+   "creative": false,
+   "viral": true,
+   "nov": {
+    "verdict": "original",
+    "penalty": 2.0,
+    "best": 0.0,
+    "near": 0,
+    "hits": []
+   },
+   "final": 86.2
+  },
+  {
+   "round": 4,
+   "lane": "W",
+   "lens": "D02",
+   "pattern": "physical-loop-closer",
+   "arch": "segment-as-index",
+   "arch_id": "A20",
+   "harness": "tool-forge-loop",
+   "harness_id": "H06",
+   "title": "segment as index take on vocational institutes",
+   "pitch": "sense-verify-fix-reverify loops on physical work: the agent watches the fix happen and signs it off. For vocational training institutes: Every visual region is a queryable address; ask 'what changed in region 3 since Tuesday' and the segmentation index answers with receipts. Orchestration: tool forge loop \u2014 the agent extends its own toolset mid-task when gaps appear. Stack: Muse Wonder + SAM 3.1 + Muse Spark + Muse Spark Open (open weights).",
+   "theme": "frontier",
+   "domain": "vocational training institutes",
+   "models": "muse-wonder-1.0+sam-3.1+muse-spark-1.3+muse-spark-open-1026",
+   "users": "maintenance crews; QA leads",
+   "impact": 6.9,
+   "meta_tooling": 9.9,
+   "tech": 8.6,
+   "demo": 8.6,
+   "total": 83.9,
+   "days": 8,
+   "open_weight": true,
+   "agentic": true,
+   "creative": false,
+   "viral": false,
+   "nov": {
+    "verdict": "original",
+    "penalty": 2.0,
+    "best": 0.0,
+    "near": 0,
+    "hits": []
+   },
+   "final": 85.9
+  },
+  {
+   "round": 4,
+   "lane": "U",
+   "lens": "U9-frame-budget-optimizer",
+   "pattern": "frame-budget-optimizer",
+   "arch": "segment-as-index",
+   "arch_id": "A20",
+   "harness": "tool-forge-loop",
+   "harness_id": "H06",
+   "title": "research freelancers via segment as index",
+   "pitch": "pick the minimal frame set that preserves label quality \u2014 10\u00d7 cheaper annotation with a quality guarantee. Built for research-engineering freelancers \u2014 fixes: nobody can release a video dataset without a license audit. Every visual region is a queryable address; ask 'what changed in region 3 since Tuesday' and the segmentation index answers with receipts. Orchestration: tool forge loop (the agent extends its own toolset mid-task when gaps appear). Stack: SAM 3.1 + Muse Spark Open (open weights) ",
+   "theme": "frontier",
+   "domain": "research-engineering freelancers",
+   "models": "sam-3.1+muse-spark-open-1026+muse-image-1.0+muse-glimmer",
+   "users": "CV dataset teams; robotics hobbyists",
+   "impact": 6.9,
+   "meta_tooling": 10.0,
+   "tech": 8.1,
+   "demo": 8.7,
+   "total": 83.9,
+   "days": 7,
+   "open_weight": true,
+   "agentic": true,
+   "creative": true,
+   "viral": true,
+   "nov": {
+    "verdict": "original",
+    "penalty": 2.0,
+    "best": 0.0,
+    "near": 0,
+    "hits": []
+   },
+   "final": 85.9
+  },
+  {
+   "round": 4,
+   "lane": "W",
+   "lens": "W03",
+   "pattern": "footage-to-insight",
+   "arch": "mixture-of-role-based-experts",
+   "arch_id": "A02",
+   "harness": "supervisor-swarm",
+   "harness_id": "H04",
+   "title": "The tape session every packaging lines never had \u00b7 mixture of role based experts",
+   "pitch": "amateur game/practice footage -> a pro-grade structured insight report. For packaging line supervisors: A standing cast of role experts \u2014 planner, skeptic, executor, auditor, historian \u2014 with a gate that routes each decision to the cheapest expert who can answer with attached evidence. Orchestration: supervisor swarm \u2014 one supervisor fans work out to a parallel swarm and merges results. Stack: SAM 3.1 + Muse Wonder + Muse Spark + Muse Spark Open (open weights).",
+   "theme": "world",
+   "domain": "packaging line supervisors",
+   "models": "sam-3.1+muse-wonder-1.0+muse-spark-1.3+muse-spark-open-1026",
+   "users": "operators; team leads",
+   "impact": 7.8,
+   "meta_tooling": 9.2,
+   "tech": 8.0,
+   "demo": 8.5,
+   "total": 83.8,
+   "days": 7,
+   "open_weight": true,
+   "agentic": true,
+   "creative": false,
+   "viral": false,
+   "nov": {
+    "verdict": "original",
+    "penalty": 2.0,
+    "best": 0.0,
+    "near": 0,
+    "hits": []
+   },
+   "final": 85.8
+  }
+ ],
+ "matches": [
+  {
+   "round": "R64",
+   "a": "segment as index plays solar installers[W|87.1]",
+   "b": "trace indexed retrieval take on construction QA[U|81.4]",
+   "winner": "segment as index plays solar installers[W]"
+  },
+  {
+   "round": "R64",
+   "a": "chem safety, synthetic contrastive loop edition[W|86.7]",
+   "b": "trace indexed retrieval plays craft archives[U|81.5]",
+   "winner": "chem safety, synthetic contrastive loop edition[W]"
+  },
+  {
+   "round": "R64",
+   "a": "chem safety, object centric episodic memory edition[W|86.5]",
+   "b": "trace indexed retrieval plays dataset teams[U|81.5]",
+   "winner": "chem safety, object centric episodic memory edition[W]"
+  },
+  {
+   "round": "R64",
+   "a": "segment as index for textile mills[W|86.5]",
+   "b": "conformal autonomy gates plays utility crews[W|81.5]",
+   "winner": "segment as index for textile mills[W]"
+  },
+  {
+   "round": "R64",
+   "a": "construction QA, mixture of world agents edition[U|86.2]",
+   "b": "The evidence engine for solar installers \u00b7 supervisor swarm [W|81.5]",
+   "winner": "construction QA, mixture of world agents edition[U]"
+  },
+  {
+   "round": "R64",
+   "a": "segment as index take on vocational institutes[W|85.9]",
+   "b": "Chem safety, coached by the machine's own signals \u00b7 hypergra[W|81.7]",
+   "winner": "segment as index take on vocational institutes[W]"
+  },
+  {
+   "round": "R64",
+   "a": "research freelancers via segment as index[U|85.9]",
+   "b": "cross modal lattice take on model clubs[U|81.8]",
+   "winner": "research freelancers via segment as index[U]"
+  },
+  {
+   "round": "R64",
+   "a": "The tape session every packaging lines never had \u00b7 mixture o[W|85.8]",
+   "b": "From phone clip of packaging lines to a scouting card \u00b7 proc[W|81.8]",
+   "winner": "The tape session every packaging lines never had \u00b7 mixture o[W]"
+  },
+  {
+   "round": "R64",
+   "a": "Hard negative weaver for remote sensing \u00b7 segment as index[U|85.8]",
+   "b": "cross modal lattice for produce traders[U|81.9]",
+   "winner": "Hard negative weaver for remote sensing \u00b7 segment as index[U]"
+  },
+  {
+   "round": "R64",
+   "a": "The unattended chem safety clerk \u00b7 geometry aware segmentati[W|85.6]",
+   "b": "Capture, label, release: cold-chain desks edition \u00b7 test tim[W|81.9]",
+   "winner": "The unattended chem safety clerk \u00b7 geometry aware segmentati[W]"
+  },
+  {
+   "round": "R64",
+   "a": "claims desks via object centric episodic memory[W|85.5]",
+   "b": "PhD students via trace indexed retrieval[U|82.0]",
+   "winner": "claims desks via object centric episodic memory[W]"
+  },
+  {
+   "round": "R64",
+   "a": "packaging lines, mixture of world agents edition[W|85.4]",
+   "b": "The 400-page construction qa report, distilled to a model yo[W|82.0]",
+   "winner": "packaging lines, mixture of world agents edition[W]"
+  },
+  {
+   "round": "R64",
+   "a": "A construction qa agent that teaches itself new tricks \u00b7 seg[W|85.4]",
+   "b": "geometry aware segmentation embedding take on film crews[U|82.2]",
+   "winner": "A construction qa agent that teaches itself new tricks \u00b7 seg[W]"
+  },
+  {
+   "round": "R64",
+   "a": "synthetic contrastive loop plays food SMEs[W|85.4]",
+   "b": "The food smes dashboard that builds itself mid-crisis \u00b7 tool[W|82.2]",
+   "winner": "synthetic contrastive loop plays food SMEs[W]"
+  },
+  {
+   "round": "R64",
+   "a": "The closed loop for city help desks rework \u00b7 synthetic contr[W|85.3]",
+   "b": "Compliance cells, but the ai is your rival \u00b7 market negotiat[W|82.3]",
+   "winner": "The closed loop for city help desks rework \u00b7 synthetic contr[W]"
+  },
+  {
+   "round": "R64",
+   "a": "object centric episodic memory plays cold storages[W|85.1]",
+   "b": "specimen clubs via mixture of role based experts[U|82.4]",
+   "winner": "object centric episodic memory plays cold storages[W]"
+  },
+  {
+   "round": "R64",
+   "a": "construction QA, mixture of role based experts edition[W|85.1]",
+   "b": "mixture of role based experts take on food SMEs[W|82.4]",
+   "winner": "construction QA, mixture of role based experts edition[W]"
+  },
+  {
+   "round": "R64",
+   "a": "food SMEs via mixture of world agents[W|85.0]",
+   "b": "The shapeshifting cold storages assistant \u00b7 market negotiati[W|82.5]",
+   "winner": "food SMEs via mixture of world agents[W]"
+  },
+  {
+   "round": "R64",
+   "a": "cold-chain desks, mixture of role based experts edition[W|84.9]",
+   "b": "geometry aware segmentation embedding plays textile mills[W|82.6]",
+   "winner": "cold-chain desks, mixture of role based experts edition[W]"
+  },
+  {
+   "round": "R64",
+   "a": "mixture of role based experts for construction QA[U|84.8]",
+   "b": "water crews, cross modal lattice edition[W|82.6]",
+   "winner": "mixture of role based experts for construction QA[U]"
+  },
+  {
+   "round": "R64",
+   "a": "cold storages via synthetic contrastive loop[W|84.6]",
+   "b": "trace indexed retrieval for cold-chain desks[W|82.6]",
+   "winner": "cold storages via synthetic contrastive loop[W]"
+  },
+  {
+   "round": "R64",
+   "a": "Cold storages failures, heard before they happen \u00b7 synthetic[W|84.6]",
+   "b": "From food inspectors paperwork to a working schematic \u00b7 spec[W|82.7]",
+   "winner": "Cold storages failures, heard before they happen \u00b7 synthetic[W]"
+  },
+  {
+   "round": "R64",
+   "a": "loading docks, synthetic contrastive loop edition[W|84.5]",
+   "b": "cross modal lattice for food creators[U|82.9]",
+   "winner": "loading docks, synthetic contrastive loop edition[W]"
+  },
+  {
+   "round": "R64",
+   "a": "object centric episodic memory for research freelancers[U|84.2]",
+   "b": "Food smes orchestration that re-plans in seconds \u00b7 geometry [W|82.9]",
+   "winner": "object centric episodic memory for research freelancers[U]"
+  },
+  {
+   "round": "R64",
+   "a": "object centric episodic memory take on service firms[W|83.8]",
+   "b": "causal probe suite plays utility crews[W|82.9]",
+   "winner": "object centric episodic memory take on service firms[W]"
+  },
+  {
+   "round": "R64",
+   "a": "trace indexed retrieval take on compliance cells[W|83.8]",
+   "b": "The water crews agent that writes its own manual \u00b7 mixture o[W|83.3]",
+   "winner": "trace indexed retrieval take on compliance cells[W]"
+  },
+  {
+   "round": "R64",
+   "a": "Watch speech clubs coordinate itself \u00b7 speculative ensemble [W|83.7]",
+   "b": "cold storages, uncertainty cascade router edition[W|83.3]",
+   "winner": "Watch speech clubs coordinate itself \u00b7 speculative ensemble [W]"
+  },
+  {
+   "round": "R64",
+   "a": "Compliance cells context-aware autopilot layer \u00b7 object cent[W|83.7]",
+   "b": "mixture of world agents take on remote sensing[U|83.4]",
+   "winner": "Compliance cells context-aware autopilot layer \u00b7 object cent[W]"
+  },
+  {
+   "round": "R64",
+   "a": "fire auditors via cross modal lattice[W|83.7]",
+   "b": "speculative ensemble early exit for solar installers[W|83.4]",
+   "winner": "fire auditors via cross modal lattice[W]"
+  },
+  {
+   "round": "R64",
+   "a": "speculative ensemble early exit plays seller-ops bots[U|83.7]",
+   "b": "food SMEs, speculative ensemble early exit edition[W|83.4]",
+   "winner": "speculative ensemble early exit plays seller-ops bots[U]"
+  },
+  {
+   "round": "R64",
+   "a": "cross modal lattice plays safety boards[W|83.5]",
+   "b": "geometry aware segmentation embedding plays construction QA[U|83.5]",
+   "winner": "cross modal lattice plays safety boards[W]"
+  },
+  {
+   "round": "R64",
+   "a": "geometry aware segmentation embedding take on food SMEs[W|83.5]",
+   "b": "Frame budget optimizer for produce traders \u00b7 speculative ens[U|83.5]",
+   "winner": "Frame budget optimizer for produce traders \u00b7 speculative ens[U]"
+  },
+  {
+   "round": "R32",
+   "a": "segment as index plays solar installers[W|87.1]",
+   "b": "Frame budget optimizer for produce traders \u00b7 speculative ens[U|83.5]",
+   "winner": "segment as index plays solar installers[W]"
+  },
+  {
+   "round": "R32",
+   "a": "chem safety, synthetic contrastive loop edition[W|86.7]",
+   "b": "cross modal lattice plays safety boards[W|83.5]",
+   "winner": "chem safety, synthetic contrastive loop edition[W]"
+  },
+  {
+   "round": "R32",
+   "a": "chem safety, object centric episodic memory edition[W|86.5]",
+   "b": "speculative ensemble early exit plays seller-ops bots[U|83.7]",
+   "winner": "chem safety, object centric episodic memory edition[W]"
+  },
+  {
+   "round": "R32",
+   "a": "segment as index for textile mills[W|86.5]",
+   "b": "fire auditors via cross modal lattice[W|83.7]",
+   "winner": "segment as index for textile mills[W]"
+  },
+  {
+   "round": "R32",
+   "a": "construction QA, mixture of world agents edition[U|86.2]",
+   "b": "Compliance cells context-aware autopilot layer \u00b7 object cent[W|83.7]",
+   "winner": "construction QA, mixture of world agents edition[U]"
+  },
+  {
+   "round": "R32",
+   "a": "segment as index take on vocational institutes[W|85.9]",
+   "b": "Watch speech clubs coordinate itself \u00b7 speculative ensemble [W|83.7]",
+   "winner": "segment as index take on vocational institutes[W]"
+  },
+  {
+   "round": "R32",
+   "a": "research freelancers via segment as index[U|85.9]",
+   "b": "trace indexed retrieval take on compliance cells[W|83.8]",
+   "winner": "research freelancers via segment as index[U]"
+  },
+  {
+   "round": "R32",
+   "a": "The tape session every packaging lines never had \u00b7 mixture o[W|85.8]",
+   "b": "object centric episodic memory take on service firms[W|83.8]",
+   "winner": "The tape session every packaging lines never had \u00b7 mixture o[W]"
+  },
+  {
+   "round": "R32",
+   "a": "Hard negative weaver for remote sensing \u00b7 segment as index[U|85.8]",
+   "b": "object centric episodic memory for research freelancers[U|84.2]",
+   "winner": "Hard negative weaver for remote sensing \u00b7 segment as index[U]"
+  },
+  {
+   "round": "R32",
+   "a": "The unattended chem safety clerk \u00b7 geometry aware segmentati[W|85.6]",
+   "b": "loading docks, synthetic contrastive loop edition[W|84.5]",
+   "winner": "The unattended chem safety clerk \u00b7 geometry aware segmentati[W]"
+  },
+  {
+   "round": "R32",
+   "a": "claims desks via object centric episodic memory[W|85.5]",
+   "b": "Cold storages failures, heard before they happen \u00b7 synthetic[W|84.6]",
+   "winner": "claims desks via object centric episodic memory[W]"
+  },
+  {
+   "round": "R32",
+   "a": "packaging lines, mixture of world agents edition[W|85.4]",
+   "b": "cold storages via synthetic contrastive loop[W|84.6]",
+   "winner": "packaging lines, mixture of world agents edition[W]"
+  },
+  {
+   "round": "R32",
+   "a": "A construction qa agent that teaches itself new tricks \u00b7 seg[W|85.4]",
+   "b": "mixture of role based experts for construction QA[U|84.8]",
+   "winner": "A construction qa agent that teaches itself new tricks \u00b7 seg[W]"
+  },
+  {
+   "round": "R32",
+   "a": "synthetic contrastive loop plays food SMEs[W|85.4]",
+   "b": "cold-chain desks, mixture of role based experts edition[W|84.9]",
+   "winner": "synthetic contrastive loop plays food SMEs[W]"
+  },
+  {
+   "round": "R32",
+   "a": "The closed loop for city help desks rework \u00b7 synthetic contr[W|85.3]",
+   "b": "food SMEs via mixture of world agents[W|85.0]",
+   "winner": "The closed loop for city help desks rework \u00b7 synthetic contr[W]"
+  },
+  {
+   "round": "R32",
+   "a": "object centric episodic memory plays cold storages[W|85.1]",
+   "b": "construction QA, mixture of role based experts edition[W|85.1]",
+   "winner": "construction QA, mixture of role based experts edition[W]"
+  },
+  {
+   "round": "R16",
+   "a": "segment as index plays solar installers[W|87.1]",
+   "b": "construction QA, mixture of role based experts edition[W|85.1]",
+   "winner": "segment as index plays solar installers[W]"
+  },
+  {
+   "round": "R16",
+   "a": "chem safety, synthetic contrastive loop edition[W|86.7]",
+   "b": "The closed loop for city help desks rework \u00b7 synthetic contr[W|85.3]",
+   "winner": "chem safety, synthetic contrastive loop edition[W]"
+  },
+  {
+   "round": "R16",
+   "a": "chem safety, object centric episodic memory edition[W|86.5]",
+   "b": "synthetic contrastive loop plays food SMEs[W|85.4]",
+   "winner": "chem safety, object centric episodic memory edition[W]"
+  },
+  {
+   "round": "R16",
+   "a": "segment as index for textile mills[W|86.5]",
+   "b": "A construction qa agent that teaches itself new tricks \u00b7 seg[W|85.4]",
+   "winner": "segment as index for textile mills[W]"
+  },
+  {
+   "round": "R16",
+   "a": "construction QA, mixture of world agents edition[U|86.2]",
+   "b": "packaging lines, mixture of world agents edition[W|85.4]",
+   "winner": "construction QA, mixture of world agents edition[U]"
+  },
+  {
+   "round": "R16",
+   "a": "segment as index take on vocational institutes[W|85.9]",
+   "b": "claims desks via object centric episodic memory[W|85.5]",
+   "winner": "segment as index take on vocational institutes[W]"
+  },
+  {
+   "round": "R16",
+   "a": "research freelancers via segment as index[U|85.9]",
+   "b": "The unattended chem safety clerk \u00b7 geometry aware segmentati[W|85.6]",
+   "winner": "research freelancers via segment as index[U]"
+  },
+  {
+   "round": "R16",
+   "a": "The tape session every packaging lines never had \u00b7 mixture o[W|85.8]",
+   "b": "Hard negative weaver for remote sensing \u00b7 segment as index[U|85.8]",
+   "winner": "The tape session every packaging lines never had \u00b7 mixture o[W]"
+  },
+  {
+   "round": "QF",
+   "a": "segment as index plays solar installers[W|87.1]",
+   "b": "The tape session every packaging lines never had \u00b7 mixture o[W|85.8]",
+   "winner": "segment as index plays solar installers[W]"
+  },
+  {
+   "round": "QF",
+   "a": "chem safety, synthetic contrastive loop edition[W|86.7]",
+   "b": "research freelancers via segment as index[U|85.9]",
+   "winner": "chem safety, synthetic contrastive loop edition[W]"
+  },
+  {
+   "round": "QF",
+   "a": "chem safety, object centric episodic memory edition[W|86.5]",
+   "b": "segment as index take on vocational institutes[W|85.9]",
+   "winner": "chem safety, object centric episodic memory edition[W]"
+  },
+  {
+   "round": "QF",
+   "a": "segment as index for textile mills[W|86.5]",
+   "b": "construction QA, mixture of world agents edition[U|86.2]",
+   "winner": "segment as index for textile mills[W]"
+  },
+  {
+   "round": "SF",
+   "a": "segment as index plays solar installers[W|87.1]",
+   "b": "segment as index for textile mills[W|86.5]",
+   "winner": "segment as index plays solar installers[W]"
+  },
+  {
+   "round": "SF",
+   "a": "chem safety, synthetic contrastive loop edition[W|86.7]",
+   "b": "chem safety, object centric episodic memory edition[W|86.5]",
+   "winner": "chem safety, synthetic contrastive loop edition[W]"
+  },
+  {
+   "round": "FINAL",
+   "a": "segment as index plays solar installers[W|87.1]",
+   "b": "chem safety, synthetic contrastive loop edition[W|86.7]",
+   "winner": "segment as index plays solar installers[W]"
+  }
+ ]
+}

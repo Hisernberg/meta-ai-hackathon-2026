@@ -1,0 +1,32 @@
+[
+ {
+  "sid": "S030",
+  "s": 7,
+  "why": "Fun gamification but unclear real-world utility"
+ },
+ {
+  "sid": "S031",
+  "s": 8,
+  "why": "Clear academic use case with practical frontier application"
+ },
+ {
+  "sid": "S032",
+  "s": 9,
+  "why": "High-value niche with strong technical ambition"
+ },
+ {
+  "sid": "S033",
+  "s": 6,
+  "why": "Narrow use case but solves real problem for specific group"
+ },
+ {
+  "sid": "S034",
+  "s": 7,
+  "why": "Similar to S033 but broader market appeal"
+ },
+ {
+  "sid": "S035",
+  "s": 8,
+  "why": "Transforms existing system into valuable new tool"
+ }
+]

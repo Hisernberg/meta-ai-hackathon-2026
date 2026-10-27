@@ -1,0 +1,32 @@
+[
+ {
+  "sid": "S060",
+  "s": 8,
+  "why": "High impact, technical challenge"
+ },
+ {
+  "sid": "S061",
+  "s": 6,
+  "why": "Creative but vague implementation"
+ },
+ {
+  "sid": "S062",
+  "s": 7,
+  "why": "Clear use case, demoable"
+ },
+ {
+  "sid": "S063",
+  "s": 5,
+  "why": "Niche, limited scalability"
+ },
+ {
+  "sid": "S064",
+  "s": 7,
+  "why": "Good training simulation potential"
+ },
+ {
+  "sid": "S065",
+  "s": 9,
+  "why": "Tangible workflow transformation"
+ }
+]

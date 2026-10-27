@@ -1,0 +1,32 @@
+[
+ {
+  "sid": "S084",
+  "s": 6,
+  "why": "Creative but vague judging criteria"
+ },
+ {
+  "sid": "S085",
+  "s": 7,
+  "why": "Good dev tool but unclear implementation"
+ },
+ {
+  "sid": "S086",
+  "s": 8,
+  "why": "Clear problem with visual solution potential"
+ },
+ {
+  "sid": "S087",
+  "s": 5,
+  "why": "Unclear how to judge 'outwitting' machines"
+ },
+ {
+  "sid": "S088",
+  "s": 9,
+  "why": "Concrete enterprise pain with measurable metrics"
+ },
+ {
+  "sid": "S089",
+  "s": 7,
+  "why": "Interesting but complex routing challenge"
+ }
+]

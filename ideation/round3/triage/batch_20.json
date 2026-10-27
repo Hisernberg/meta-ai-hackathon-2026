@@ -1,0 +1,32 @@
+[
+ {
+  "sid": "S120",
+  "s": 6,
+  "why": "Vague closing mechanism, unclear ROI"
+ },
+ {
+  "sid": "S121",
+  "s": 8,
+  "why": "Engaging learning tool, clear demo potential"
+ },
+ {
+  "sid": "S122",
+  "s": 4,
+  "why": "Too broad, lacks concrete implementation"
+ },
+ {
+  "sid": "S123",
+  "s": 7,
+  "why": "Niche but valuable, accessibility focus"
+ },
+ {
+  "sid": "S124",
+  "s": 5,
+  "why": "Overambitious for solo build, regulatory concerns"
+ },
+ {
+  "sid": "S125",
+  "s": 9,
+  "why": "Self-improving agent, clear value, demoable"
+ }
+]

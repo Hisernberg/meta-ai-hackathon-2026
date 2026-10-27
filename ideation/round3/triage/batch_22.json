@@ -1,0 +1,32 @@
+[
+ {
+  "sid": "S132",
+  "s": 6,
+  "why": "Vague, hard to demo solo"
+ },
+ {
+  "sid": "S133",
+  "s": 7,
+  "why": "Clear use, buildable artifact"
+ },
+ {
+  "sid": "S134",
+  "s": 8,
+  "why": "Concrete workflow, wow potential"
+ },
+ {
+  "sid": "S135",
+  "s": 5,
+  "why": "Overly ambitious, hidden labor"
+ },
+ {
+  "sid": "S136",
+  "s": 4,
+  "why": "Unclear scope, compliance gray"
+ },
+ {
+  "sid": "S137",
+  "s": 9,
+  "why": "Unique, time-saving, demoable"
+ }
+]

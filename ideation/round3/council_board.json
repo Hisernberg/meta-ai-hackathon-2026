@@ -1,0 +1,48 @@
+{
+ "personas": [
+  "pragmatist",
+  "meta-maximalist",
+  "showman",
+  "auditor",
+  "user-standin"
+ ],
+ "votes": {
+  "pragmatist": [
+   "S139",
+   "S021",
+   "S017",
+   "S032"
+  ],
+  "meta-maximalist": [
+   "S021",
+   "S032",
+   "S139",
+   "S017"
+  ],
+  "showman": [
+   "S139",
+   "S021",
+   "S032",
+   "S017"
+  ],
+  "auditor": [
+   "S021",
+   "S017",
+   "S032",
+   "S139"
+  ],
+  "user-standin": [
+   "S021",
+   "S032",
+   "S139",
+   "S017"
+  ]
+ },
+ "points": {
+  "S021": 18,
+  "S139": 13,
+  "S032": 11,
+  "S017": 8
+ },
+ "note": "4-3-2-1 per persona; in-context fallback (API 429), documented"
+}

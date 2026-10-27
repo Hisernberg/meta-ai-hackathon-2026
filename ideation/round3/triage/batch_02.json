@@ -1,0 +1,32 @@
+[
+ {
+  "sid": "S012",
+  "s": 7,
+  "why": "Creative but vague implementation"
+ },
+ {
+  "sid": "S013",
+  "s": 6,
+  "why": "Useful but niche market"
+ },
+ {
+  "sid": "S014",
+  "s": 8,
+  "why": "Concrete problem, clear solution"
+ },
+ {
+  "sid": "S015",
+  "s": 5,
+  "why": "Ambitious but likely too complex"
+ },
+ {
+  "sid": "S016",
+  "s": 7,
+  "why": "Good impact but UI challenge"
+ },
+ {
+  "sid": "S017",
+  "s": 9,
+  "why": "Perfect fit for SAM, clear value"
+ }
+]

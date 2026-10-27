@@ -1,0 +1,642 @@
+[
+ {
+  "sid": "S004",
+  "s": 9,
+  "why": "High impact, concrete farming solution",
+  "r": {
+   "sid": "S004",
+   "lens": "bulk-queue_sense+owner_pulse",
+   "title": "Sheer for farm co-ops",
+   "pitch": "Give farm co-ops counter cameras read the rush pattern: harvest ledgers in minutes instead of days, the owner gets a 30-second voice digest.",
+   "theme": "frontier",
+   "domain": "crop farm co-op",
+   "models": "sam-3.1+muse-glimmer+muse-voice-transcribe-1.0",
+   "score_total": "88.9",
+   "round": "2"
+  }
+ },
+ {
+  "sid": "S017",
+  "s": 9,
+  "why": "Perfect fit for SAM, clear value",
+  "r": {
+   "sid": "S017",
+   "lens": "U-U2-sam-measure",
+   "title": "Self-serve SAM 3.1 Measure for walkability groups",
+   "pitch": "Measure objects from a photo using a reference object and SAM 3.1 masks. For city walkability volunteers — grounded in reference-based measurement. Stack: SAM 3.1 + Muse Spark.",
+   "theme": "world",
+   "domain": "city walkability volunteers",
+   "models": "sam-3.1+muse-spark-1.3+muse-image-1.0+muse-spark-open",
+   "score_total": "83.8",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S021",
+  "s": 9,
+  "why": "High impact, concrete use case",
+  "r": {
+   "sid": "S021",
+   "lens": "U-U6-methods-recipe",
+   "title": "Methods Recipe: research freelancers upgrade",
+   "pitch": "Methods section -> runnable recipe (env, seeds, compute) with missing steps flagged. For research-engineering freelancers — grounded in reproducibility crisis. Stack: Muse Wonder (1M ctx, computer use) + Muse Voice.",
+   "theme": "frontier",
+   "domain": "research-engineering freelancers",
+   "models": "muse-wonder-1.0+muse-voice-transcribe-1.0+muse-spark-1.3+muse-glimmer",
+   "score_total": "83.6",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S028",
+  "s": 9,
+  "why": "World problem with concrete AI solution",
+  "r": {
+   "sid": "S028",
+   "lens": "W-W02",
+   "title": "The instant replay brain for dental clinics",
+   "pitch": "real-time multimodal feedback on a human performance feels like magic and demos in 60s. Applied to dental clinics (assistive): charting notes become decisions, not paperwork — SAM 3.1 + Muse Spark behind it",
+   "theme": "world",
+   "domain": "dental clinics (assistive)",
+   "models": "sam-3.1+muse-spark-1.3",
+   "score_total": "83.4",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S032",
+  "s": 9,
+  "why": "High-value niche with strong technical ambition",
+  "r": {
+   "sid": "S032",
+   "lens": "U-U6-seminar-twin",
+   "title": "Seminar Twin for research freelancers",
+   "pitch": "Conference ingest: all talks + papers of one track -> personalized briefing and question bank. For research-engineering freelancers — grounded in reproducibility crisis. Stack: Muse Wonder (1M ctx, computer use) + Muse Spark Open (open weights).",
+   "theme": "frontier",
+   "domain": "research-engineering freelancers",
+   "models": "muse-wonder-1.0+muse-spark-open+muse-image-1.0",
+   "score_total": "83.3",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S039",
+  "s": 9,
+  "why": "High impact, concrete use case",
+  "r": {
+   "sid": "S039",
+   "lens": "U-U2-catalog-flip",
+   "title": "Catalog Flip, built for produce traders",
+   "pitch": "Flat-lay photo -> segmented, background-removed catalog sheet via SAM 3.1 + Muse Image. For fruit and vegetable wholesalers — grounded in open-vocabulary segmentation. Stack: SAM 3.1 + Muse Spark.",
+   "theme": "world",
+   "domain": "fruit and vegetable wholesalers",
+   "models": "sam-3.1+muse-spark-1.3+muse-image-1.0",
+   "score_total": "83.1",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S051",
+  "s": 9,
+  "why": "High visual impact, clear value",
+  "r": {
+   "sid": "S051",
+   "lens": "U-U2-catalog-flip",
+   "title": "Catalog Flip for museums",
+   "pitch": "Flat-lay photo -> segmented, background-removed catalog sheet via SAM 3.1 + Muse Image. For museums — grounded in synthetic augmentation. Stack: SAM 3.1 + Muse Image.",
+   "theme": "world",
+   "domain": "museums",
+   "models": "sam-3.1+muse-image-1.0+muse-spark-open",
+   "score_total": "82.7",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S058",
+  "s": 9,
+  "why": "Perfect demo potential",
+  "r": {
+   "sid": "S058",
+   "lens": "W-W02",
+   "title": "The instant replay brain for speech clubs",
+   "pitch": "real-time multimodal feedback on a human performance feels like magic and demos in 60s. Applied to speech and debate clubs: rehearsal recordings and rubric scores become decisions, not paperwork — Muse Voice + Muse Spark behind it",
+   "theme": "world",
+   "domain": "speech and debate clubs",
+   "models": "muse-voice-transcribe-1.0+muse-spark-1.3+muse-wonder-1.0",
+   "score_total": "82.5",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S065",
+  "s": 9,
+  "why": "Tangible workflow transformation",
+  "r": {
+   "sid": "S065",
+   "lens": "W-W06",
+   "title": "From extension offices paperwork to a working schematic",
+   "pitch": "long context + multimodal extraction judged 'best API use'; the artifact must be visual. Applied to agriculture extension offices: field visit reports become decisions, not paperwork — Muse Wonder (1M ctx, computer use) + Muse Spark behind it",
+   "theme": "world",
+   "domain": "agriculture extension offices",
+   "models": "muse-wonder-1.0+muse-spark-1.3+muse-image-1.0",
+   "score_total": "82.3",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S069",
+  "s": 9,
+  "why": "Clear value, AI judge is innovative",
+  "r": {
+   "sid": "S069",
+   "lens": "W-W02",
+   "title": "Everyday call centers rehearsal, judged by a machine",
+   "pitch": "real-time multimodal feedback on a human performance feels like magic and demos in 60s. Applied to call centers: call transcripts and QA sheets become decisions, not paperwork — Muse Voice + Muse Spark behind it",
+   "theme": "world",
+   "domain": "call centers",
+   "models": "muse-voice-transcribe-1.0+muse-spark-1.3+muse-spark-open",
+   "score_total": "82.2",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S077",
+  "s": 9,
+  "why": "Innovative, concrete, wow factor",
+  "r": {
+   "sid": "S077",
+   "lens": "W-W20",
+   "title": "One helper that morphs for every museums screen",
+   "pitch": "grand-prize pattern: universal adapter with computer-use; ambitious but demoable. Applied to museums and archives: catalog cards and object photos become decisions, not paperwork — Muse Wonder (1M ctx, computer use) + Muse Glimmer behind it",
+   "theme": "world",
+   "domain": "museums and archives",
+   "models": "muse-wonder-1.0+muse-glimmer+muse-image-1.0",
+   "score_total": "82.0",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S081",
+  "s": 9,
+  "why": "Meaningful preservation, emotional tech",
+  "r": {
+   "sid": "S081",
+   "lens": "W-W05",
+   "title": "Sign-language circles knowledge that outlives its keeper",
+   "pitch": "the #1 LlamaCon winner: aggregate boring artifacts, return a person-shaped answer. Applied to sign-language learning circles: practice clips become decisions, not paperwork — Muse Spark Open (open weights) + Muse Spark behind it",
+   "theme": "world",
+   "domain": "sign-language learning circles",
+   "models": "muse-spark-open+muse-spark-1.3+muse-wonder-1.0",
+   "score_total": "81.9",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S088",
+  "s": 9,
+  "why": "Concrete enterprise pain with measurable metrics",
+  "r": {
+   "sid": "S088",
+   "lens": "U-U4-slo-for-llm",
+   "title": "SLO For LLM: AI consultancies upgrade",
+   "pitch": "SLOs for LLM features: quality floors, latency budgets, automatic fallbacks to open weights. For AI consultancies — grounded in LLM-as-judge reliability. Stack: Muse Glimmer + Muse Spark.",
+   "theme": "frontier",
+   "domain": "AI consultancies",
+   "models": "muse-glimmer+muse-spark-1.3+muse-spark-open",
+   "score_total": "81.8",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S094",
+  "s": 9,
+  "why": "Unique, concrete, high impact",
+  "r": {
+   "sid": "S094",
+   "lens": "W-W03",
+   "title": "The tape session every tutoring centers never had",
+   "pitch": "video analysis for a domain that never had any; WOW = seeing yourself annotated. Applied to tutoring centers: lesson plans and mock scores become decisions, not paperwork — Muse Spark + Muse Wonder (1M ctx, computer use) behind it",
+   "theme": "world",
+   "domain": "tutoring centers",
+   "models": "muse-spark-1.3+muse-wonder-1.0+muse-voice-transcribe-1.0",
+   "score_total": "81.7",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S099",
+  "s": 9,
+  "why": "High-value automation with named users",
+  "r": {
+   "sid": "S099",
+   "lens": "W-W08",
+   "title": "While you sleep, your claims desks errands get done",
+   "pitch": "not insights, finished work; demo = watch an errand complete itself. Applied to insurance claims desks: claim files and photos become decisions, not paperwork — Muse Wonder (1M ctx, computer use) + Muse Voice behind it",
+   "theme": "world",
+   "domain": "insurance claims desks",
+   "models": "muse-wonder-1.0+muse-voice-transcribe-1.0+muse-spark-1.3",
+   "score_total": "81.6",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S106",
+  "s": 9,
+  "why": "Perfect fit, concrete workflow solution",
+  "r": {
+   "sid": "S106",
+   "lens": "W-W17",
+   "title": "Dental clinics workflow that closes itself",
+   "pitch": "'automates the work end to end' — judges favor finished outcomes over copilots. Applied to dental clinics (assistive): charting notes become decisions, not paperwork — Muse Spark + Muse Glimmer behind it",
+   "theme": "world",
+   "domain": "dental clinics (assistive)",
+   "models": "muse-spark-1.3+muse-glimmer+muse-wonder-1.0",
+   "score_total": "81.4",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S113",
+  "s": 9,
+  "why": "Practical, wow factor, achievable",
+  "r": {
+   "sid": "S113",
+   "lens": "W-W17",
+   "title": "Libraries, handled from message to done",
+   "pitch": "'automates the work end to end' — judges favor finished outcomes over copilots. Applied to public libraries: catalogs and community programs become decisions, not paperwork — Muse Wonder (1M ctx, computer use) + Muse Voice behind it",
+   "theme": "world",
+   "domain": "public libraries",
+   "models": "muse-wonder-1.0+muse-voice-transcribe-1.0+muse-spark-1.3",
+   "score_total": "81.3",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S119",
+  "s": 9,
+  "why": "Teaching agent wow factor high",
+  "r": {
+   "sid": "S119",
+   "lens": "W-W18",
+   "title": "A claims desks agent that teaches itself new tricks",
+   "pitch": "frontier-flavored: self-extending agent; strong Push-the-Frontier material. Applied to insurance claims desks: claim files and photos become decisions, not paperwork — Muse Wonder (1M ctx, computer use) + Muse Spark Open (open weights) behind it",
+   "theme": "world",
+   "domain": "insurance claims desks",
+   "models": "muse-wonder-1.0+muse-spark-open+muse-spark-1.3",
+   "score_total": "81.3",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S125",
+  "s": 9,
+  "why": "Self-improving agent, clear value, demoable",
+  "r": {
+   "sid": "S125",
+   "lens": "W-W18",
+   "title": "A call centers agent that teaches itself new tricks",
+   "pitch": "frontier-flavored: self-extending agent; strong Push-the-Frontier material. Applied to call centers: call transcripts and QA sheets become decisions, not paperwork — Muse Wonder (1M ctx, computer use) + Muse Spark Open (open weights) behind it",
+   "theme": "world",
+   "domain": "call centers",
+   "models": "muse-wonder-1.0+muse-spark-open+muse-image-1.0",
+   "score_total": "81.1",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S128",
+  "s": 9,
+  "why": "High impact, specific use case",
+  "r": {
+   "sid": "S128",
+   "lens": "W-W07",
+   "title": "Talk your way through visa desks forms",
+   "pitch": "everyone has suffered a form; judges are victims too; accuracy + accessibility story. Applied to immigration paperwork desks: checklist packs become decisions, not paperwork — Muse Spark + Muse Voice behind it",
+   "theme": "world",
+   "domain": "immigration paperwork desks",
+   "models": "muse-spark-1.3+muse-voice-transcribe-1.0+muse-wonder-1.0",
+   "score_total": "81.0",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S137",
+  "s": 9,
+  "why": "Unique, time-saving, demoable",
+  "r": {
+   "sid": "S137",
+   "lens": "W-W05",
+   "title": "Interview the speech clubs archive before it walks out",
+   "pitch": "the #1 LlamaCon winner: aggregate boring artifacts, return a person-shaped answer. Applied to speech and debate clubs: rehearsal recordings and rubric scores become decisions, not paperwork — Muse Wonder (1M ctx, computer use) + Muse Spark behind it",
+   "theme": "world",
+   "domain": "speech and debate clubs",
+   "models": "muse-wonder-1.0+muse-spark-1.3",
+   "score_total": "80.9",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S139",
+  "s": 9,
+  "why": "Clear value, demoable, solves real pain",
+  "r": {
+   "sid": "S139",
+   "lens": "champion-r2",
+   "title": "Ustad — film a job once, get a living SOP",
+   "pitch": "Street-food stall chains film one job on a phone; it becomes an illustrated SOP with checkpoints, a trainee quiz from generated wrong-step scenes, and an expert-approval loop. Muse Spark video + Voice + SAM 3.1 + Muse Image.",
+   "theme": "world",
+   "domain": "street food stall chains",
+   "models": "muse-spark-1.3+muse-voice-transcribe-1.0+sam-3.1+muse-image-1.0",
+   "score_total": "84.0",
+   "round": "2"
+  }
+ },
+ {
+  "sid": "S001",
+  "s": 8,
+  "why": "Clear use case with named workers",
+  "r": {
+   "sid": "S001",
+   "lens": "llm-voiceops",
+   "title": "Voice Journalist",
+   "pitch": "Interview transcription with fact-checking",
+   "theme": "frontier",
+   "domain": "voiceops",
+   "models": "muse-voice-transcribe-1.0+muse-wonder-1.0+muse-image-1.0",
+   "score_total": "89.8",
+   "round": "2"
+  }
+ },
+ {
+  "sid": "S010",
+  "s": 8,
+  "why": "Clear voice AI use, concrete artifact potential",
+  "r": {
+   "sid": "S010",
+   "lens": "llm-voiceops",
+   "title": "Voice Archeologist",
+   "pitch": "Field notes logger with image tagging",
+   "theme": "frontier",
+   "domain": "voiceops",
+   "models": "muse-voice-transcribe-1.0+muse-image-1.0+muse-glimmer",
+   "score_total": "88.5",
+   "round": "2"
+  }
+ },
+ {
+  "sid": "S014",
+  "s": 8,
+  "why": "Concrete problem, clear solution",
+  "r": {
+   "sid": "S014",
+   "lens": "U-U2-sam-count",
+   "title": "SAM 3.1 Count, built for produce traders",
+   "pitch": "Count and grade physical things from one phone photo via SAM 3.1 instance masks. For fruit and vegetable wholesalers — grounded in zero-shot anomaly spotting. Stack: SAM 3.1 + Muse Spark.",
+   "theme": "world",
+   "domain": "fruit and vegetable wholesalers",
+   "models": "sam-3.1+muse-spark-1.3+muse-image-1.0+muse-glimmer",
+   "score_total": "84.0",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S019",
+  "s": 8,
+  "why": "Clear problem, defensible solution",
+  "r": {
+   "sid": "S019",
+   "lens": "U-U2-defect-heatmap",
+   "title": "Defect Heatmap for boutiques",
+   "pitch": "SAM 3.1 highlights anomalies on fabric, welds, produce; Spark writes the defect ticket. For tailors and boutiques — grounded in open-vocabulary segmentation. Stack: SAM 3.1 + Muse Spark.",
+   "theme": "world",
+   "domain": "tailors and boutiques",
+   "models": "sam-3.1+muse-spark-1.3+muse-image-1.0",
+   "score_total": "83.7",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S022",
+  "s": 8,
+  "why": "Strong research workflow value",
+  "r": {
+   "sid": "S022",
+   "lens": "U-U3-lecture-index",
+   "title": "Lecture Index for research labs",
+   "pitch": "Lecture video -> timestamped, searchable, multilingual notes with formulas and board crops. For research labs — grounded in video question answering. Stack: Muse Spark + Muse Voice.",
+   "theme": "world",
+   "domain": "research labs",
+   "models": "muse-spark-1.3+muse-voice-transcribe-1.0+sam-3.1+muse-wonder-1.0",
+   "score_total": "83.6",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S026",
+  "s": 8,
+  "why": "Clear pain point with verifiable solution",
+  "r": {
+   "sid": "S026",
+   "lens": "U-U6-claim-verify",
+   "title": "Claim Verify for research freelancers",
+   "pitch": "Claim graph of a paper where each claim links to its evidence figure, auto-checked. For research-engineering freelancers — grounded in claim verification. Stack: Muse Wonder (1M ctx, computer use) + Muse Spark.",
+   "theme": "frontier",
+   "domain": "research-engineering freelancers",
+   "models": "muse-wonder-1.0+muse-spark-1.3+sam-3.1+muse-glimmer",
+   "score_total": "83.5",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S029",
+  "s": 8,
+  "why": "Ambitious teaching tool with real impact",
+  "r": {
+   "sid": "S029",
+   "lens": "U-U6-seminar-twin",
+   "title": "The teaching labs Seminar Twin",
+   "pitch": "Conference ingest: all talks + papers of one track -> personalized briefing and question bank. For university teaching labs — grounded in data contamination. Stack: Muse Wonder (1M ctx, computer use) + Muse Spark.",
+   "theme": "frontier",
+   "domain": "university teaching labs",
+   "models": "muse-wonder-1.0+muse-spark-1.3+sam-3.1+muse-image-1.0",
+   "score_total": "83.4",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S031",
+  "s": 8,
+  "why": "Clear academic use case with practical frontier application",
+  "r": {
+   "sid": "S031",
+   "lens": "U-U6-related-work-diff",
+   "title": "Related Work Diff, built for teaching labs",
+   "pitch": "What is actually NEW in this paper vs your library — a paragraph-level diff. For university teaching labs — grounded in data contamination. Stack: Muse Wonder (1M ctx, computer use) + Muse Spark.",
+   "theme": "frontier",
+   "domain": "university teaching labs",
+   "models": "muse-wonder-1.0+muse-spark-1.3+sam-3.1+muse-glimmer",
+   "score_total": "83.3",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S035",
+  "s": 8,
+  "why": "Transforms existing system into valuable new tool",
+  "r": {
+   "sid": "S035",
+   "lens": "W-W06",
+   "title": "Extension offices binder becomes a buildable artifact",
+   "pitch": "long context + multimodal extraction judged 'best API use'; the artifact must be visual. Applied to agriculture extension offices: field visit reports become decisions, not paperwork — Muse Wonder (1M ctx, computer use) + Muse Spark behind it",
+   "theme": "world",
+   "domain": "agriculture extension offices",
+   "models": "muse-wonder-1.0+muse-spark-1.3+muse-image-1.0+muse-voice-transcribe-1.0",
+   "score_total": "83.2",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S037",
+  "s": 8,
+  "why": "Novel use, real pain point",
+  "r": {
+   "sid": "S037",
+   "lens": "U-U6-negative-results",
+   "title": "Negative Results: research freelancers upgrade",
+   "pitch": "A structured clearing house for negative results so others can find and cite them. For research-engineering freelancers — grounded in claim verification. Stack: Muse Wonder (1M ctx, computer use) + Muse Spark.",
+   "theme": "frontier",
+   "domain": "research-engineering freelancers",
+   "models": "muse-wonder-1.0+muse-spark-1.3+sam-3.1+muse-glimmer",
+   "score_total": "83.2",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S041",
+  "s": 8,
+  "why": "Protocol automation, wow potential",
+  "r": {
+   "sid": "S041",
+   "lens": "U-U3-lab-protocol",
+   "title": "Food creators run on Lab Protocol",
+   "pitch": "Lab experiment video -> numbered protocol with timings extracted for reproducibility. For home cooks and food creators — grounded in video grounding. Stack: Muse Wonder (1M ctx, computer use) + Muse Voice.",
+   "theme": "world",
+   "domain": "home cooks and food creators",
+   "models": "muse-wonder-1.0+muse-voice-transcribe-1.0+muse-spark-1.3+muse-spark-open",
+   "score_total": "83.0",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S043",
+  "s": 8,
+  "why": "Specific workflow for academic researchers",
+  "r": {
+   "sid": "S043",
+   "lens": "U-U3-technique-breakdown",
+   "title": "PhD candidates run on Technique Breakdown",
+   "pitch": "Amateur sports clip -> SAM 3.1 tracks the ball and bodies; Spark writes the coaching note. For PhD candidates — grounded in dense video captioning. Stack: Muse Wonder (1M ctx, computer use) + Muse Voice.",
+   "theme": "world",
+   "domain": "PhD candidates",
+   "models": "muse-wonder-1.0+muse-voice-transcribe-1.0+muse-spark-1.3+muse-image-1.0",
+   "score_total": "83.0",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S045",
+  "s": 8,
+  "why": "Clear value for niche academic audience",
+  "r": {
+   "sid": "S045",
+   "lens": "U-U3-lecture-index",
+   "title": "Self-serve Lecture Index for PhD candidates",
+   "pitch": "Lecture video -> timestamped, searchable, multilingual notes with formulas and board crops. For PhD candidates — grounded in video question answering. Stack: Muse Wonder (1M ctx, computer use) + Muse Voice.",
+   "theme": "world",
+   "domain": "PhD candidates",
+   "models": "muse-wonder-1.0+muse-voice-transcribe-1.0+muse-spark-1.3+muse-image-1.0",
+   "score_total": "82.9",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S049",
+  "s": 8,
+  "why": "Clear use case, demoable",
+  "r": {
+   "sid": "S049",
+   "lens": "W-W03",
+   "title": "Safety boards footage, annotated like the pros",
+   "pitch": "video analysis for a domain that never had any; WOW = seeing yourself annotated. Applied to factory safety boards: incident photos and checklists become decisions, not paperwork — SAM 3.1 + Muse Wonder (1M ctx, computer use) behind it",
+   "theme": "world",
+   "domain": "factory safety boards",
+   "models": "sam-3.1+muse-wonder-1.0+muse-spark-1.3+muse-glimmer",
+   "score_total": "82.7",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S052",
+  "s": 8,
+  "why": "Strong workflow solution",
+  "r": {
+   "sid": "S052",
+   "lens": "U-U3-dailies-logger",
+   "title": "Dailies Logger for research labs",
+   "pitch": "Film dailies -> auto-logged takes with best-moment markers and continuity flags. For research labs — grounded in dense video captioning. Stack: Muse Wonder (1M ctx, computer use) + Muse Voice.",
+   "theme": "world",
+   "domain": "research labs",
+   "models": "muse-wonder-1.0+muse-voice-transcribe-1.0+muse-spark-1.3+muse-glimmer",
+   "score_total": "82.7",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S057",
+  "s": 8,
+  "why": "Clear wow factor",
+  "r": {
+   "sid": "S057",
+   "lens": "W-W13",
+   "title": "The physio clinics duel where you beat the model",
+   "pitch": "'most creative' winner turned vision failure into a party game; virality built in. Applied to physiotherapy clinics (assistive): exercise videos and rep counts become decisions, not paperwork — SAM 3.1 + Muse Spark behind it",
+   "theme": "world",
+   "domain": "physiotherapy clinics (assistive)",
+   "models": "sam-3.1+muse-spark-1.3+muse-glimmer",
+   "score_total": "82.5",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S060",
+  "s": 8,
+  "why": "High impact, technical challenge",
+  "r": {
+   "sid": "S060",
+   "lens": "W-W02",
+   "title": "The instant replay brain for food inspectors",
+   "pitch": "real-time multimodal feedback on a human performance feels like magic and demos in 60s. Applied to food-safety inspectors: inspection photos and forms become decisions, not paperwork — Muse Spark + Muse Voice behind it",
+   "theme": "world",
+   "domain": "food-safety inspectors",
+   "models": "muse-spark-1.3+muse-voice-transcribe-1.0+sam-3.1",
+   "score_total": "82.5",
+   "round": "3"
+  }
+ },
+ {
+  "sid": "S068",
+  "s": 8,
+  "why": "Strong vocational training application",
+  "r": {
+   "sid": "S068",
+   "lens": "W-W13",
+   "title": "Outwit the machine at vocational institutes",
+   "pitch": "'most creative' winner turned vision failure into a party game; virality built in. Applied to vocational training institutes: skill demos and assessments become decisions, not paperwork — SAM 3.1 + Muse Spark behind it",
+   "theme": "world",
+   "domain": "vocational training institutes",
+   "models": "sam-3.1+muse-spark-1.3+muse-wonder-1.0",
+   "score_total": "82.2",
+   "round": "3"
+  }
+ }
+]

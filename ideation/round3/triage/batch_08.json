@@ -1,0 +1,32 @@
+[
+ {
+  "sid": "S048",
+  "s": 7,
+  "why": "Creative, but vague data story"
+ },
+ {
+  "sid": "S049",
+  "s": 8,
+  "why": "Clear use case, demoable"
+ },
+ {
+  "sid": "S050",
+  "s": 6,
+  "why": "Good idea, but narrow market"
+ },
+ {
+  "sid": "S051",
+  "s": 9,
+  "why": "High visual impact, clear value"
+ },
+ {
+  "sid": "S052",
+  "s": 8,
+  "why": "Strong workflow solution"
+ },
+ {
+  "sid": "S053",
+  "s": 7,
+  "why": "Practical, but complex to build"
+ }
+]

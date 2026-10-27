@@ -1,0 +1,32 @@
+[
+ {
+  "sid": "S078",
+  "s": 6,
+  "why": "Vague admin, unclear automation"
+ },
+ {
+  "sid": "S079",
+  "s": 8,
+  "why": "Clear platform monitoring, solid tech"
+ },
+ {
+  "sid": "S080",
+  "s": 4,
+  "why": "Niche, complex regulations, demo risk"
+ },
+ {
+  "sid": "S081",
+  "s": 9,
+  "why": "Meaningful preservation, emotional tech"
+ },
+ {
+  "sid": "S082",
+  "s": 7,
+  "why": "Good timing insight, practical value"
+ },
+ {
+  "sid": "S083",
+  "s": 5,
+  "why": "Labor-intensive annotation, unclear ROI"
+ }
+]

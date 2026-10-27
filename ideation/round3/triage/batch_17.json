@@ -1,0 +1,32 @@
+[
+ {
+  "sid": "S102",
+  "s": 6,
+  "why": "Good niche, but complex implementation"
+ },
+ {
+  "sid": "S103",
+  "s": 7,
+  "why": "High value in crisis, demoable potential"
+ },
+ {
+  "sid": "S104",
+  "s": 8,
+  "why": "Clear pain, technically ambitious"
+ },
+ {
+  "sid": "S105",
+  "s": 5,
+  "why": "Vague data story, hard to demo"
+ },
+ {
+  "sid": "S106",
+  "s": 9,
+  "why": "Perfect fit, concrete workflow solution"
+ },
+ {
+  "sid": "S107",
+  "s": 4,
+  "why": "Creative but unclear real work use"
+ }
+]

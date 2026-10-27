@@ -1,0 +1,32 @@
+[
+ {
+  "sid": "S090",
+  "s": 7,
+  "why": "Creative but crisis dependency risky"
+ },
+ {
+  "sid": "S091",
+  "s": 6,
+  "why": "Novel but vague implementation"
+ },
+ {
+  "sid": "S092",
+  "s": 8,
+  "why": "Clear value, demoable quickly"
+ },
+ {
+  "sid": "S093",
+  "s": 5,
+  "why": "Ambitious for solo build"
+ },
+ {
+  "sid": "S094",
+  "s": 9,
+  "why": "Unique, concrete, high impact"
+ },
+ {
+  "sid": "S095",
+  "s": 4,
+  "why": "Too abstract, hard to demo"
+ }
+]

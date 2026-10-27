@@ -1,0 +1,32 @@
+[
+ {
+  "sid": "S042",
+  "s": 7,
+  "why": "Creative use of SAM for cultural artifacts"
+ },
+ {
+  "sid": "S043",
+  "s": 8,
+  "why": "Specific workflow for academic researchers"
+ },
+ {
+  "sid": "S044",
+  "s": 6,
+  "why": "Practical but limited scope"
+ },
+ {
+  "sid": "S045",
+  "s": 8,
+  "why": "Clear value for niche academic audience"
+ },
+ {
+  "sid": "S046",
+  "s": 5,
+  "why": "Ambitious but complex for solo dev"
+ },
+ {
+  "sid": "S047",
+  "s": 4,
+  "why": "Finance + AI creates trust challenges"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "sid": "S000",
+  "s": 7,
+  "why": "Creative but vague implementation"
+ },
+ {
+  "sid": "S001",
+  "s": 8,
+  "why": "Clear use case with named workers"
+ },
+ {
+  "sid": "S002",
+  "s": 6,
+  "why": "Ambitious but may need human oversight"
+ },
+ {
+  "sid": "S003",
+  "s": 7,
+  "why": "Good concept but narrow audience"
+ },
+ {
+  "sid": "S004",
+  "s": 9,
+  "why": "High impact, concrete farming solution"
+ },
+ {
+  "sid": "S005",
+  "s": 5,
+  "why": "Unclear purpose, hard to demo"
+ }
+]

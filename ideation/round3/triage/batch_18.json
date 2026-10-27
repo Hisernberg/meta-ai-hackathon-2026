@@ -1,0 +1,32 @@
+[
+ {
+  "sid": "S108",
+  "s": 7,
+  "why": "Clear use case, demoable, narrow scope"
+ },
+ {
+  "sid": "S109",
+  "s": 5,
+  "why": "Ambitious for solo, unclear tech path"
+ },
+ {
+  "sid": "S110",
+  "s": 8,
+  "why": "Perfect for Kagglers, clear value"
+ },
+ {
+  "sid": "S111",
+  "s": 6,
+  "why": "Creative, but eval systems complex"
+ },
+ {
+  "sid": "S112",
+  "s": 4,
+  "why": "Useful but not groundbreaking, vague demo"
+ },
+ {
+  "sid": "S113",
+  "s": 9,
+  "why": "Practical, wow factor, achievable"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "sid": "S126",
+  "s": 7,
+  "why": "Technical but vague implementation"
+ },
+ {
+  "sid": "S127",
+  "s": 8,
+  "why": "Clear pain, fast demo potential"
+ },
+ {
+  "sid": "S128",
+  "s": 9,
+  "why": "High impact, specific use case"
+ },
+ {
+  "sid": "S129",
+  "s": 6,
+  "why": "Creative but complex to build"
+ },
+ {
+  "sid": "S130",
+  "s": 5,
+  "why": "Ambitious, unclear scope"
+ },
+ {
+  "sid": "S131",
+  "s": 8,
+  "why": "Strong community need, practical"
+ }
+]

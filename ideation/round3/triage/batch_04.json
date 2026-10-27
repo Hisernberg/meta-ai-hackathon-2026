@@ -1,0 +1,32 @@
+[
+ {
+  "sid": "S024",
+  "s": 7,
+  "why": "Good use case but verification tech unclear"
+ },
+ {
+  "sid": "S025",
+  "s": 6,
+  "why": "Practical but AI value proposition weak"
+ },
+ {
+  "sid": "S026",
+  "s": 8,
+  "why": "Clear pain point with verifiable solution"
+ },
+ {
+  "sid": "S027",
+  "s": 7,
+  "why": "Creative but execution complexity high"
+ },
+ {
+  "sid": "S028",
+  "s": 9,
+  "why": "World problem with concrete AI solution"
+ },
+ {
+  "sid": "S029",
+  "s": 8,
+  "why": "Ambitious teaching tool with real impact"
+ }
+]

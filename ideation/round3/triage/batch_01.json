@@ -1,0 +1,32 @@
+[
+ {
+  "sid": "S006",
+  "s": 3,
+  "why": "Vague tourism AI, unclear real work use"
+ },
+ {
+  "sid": "S007",
+  "s": 2,
+  "why": "Unclear industrial application, too generic"
+ },
+ {
+  "sid": "S008",
+  "s": 4,
+  "why": "Creative but niche, hard to demo in 90s"
+ },
+ {
+  "sid": "S009",
+  "s": 5,
+  "why": "Interesting market concept but AI unclear"
+ },
+ {
+  "sid": "S010",
+  "s": 8,
+  "why": "Clear voice AI use, concrete artifact potential"
+ },
+ {
+  "sid": "S011",
+  "s": 7,
+  "why": "Good real work use, creative AI application"
+ }
+]

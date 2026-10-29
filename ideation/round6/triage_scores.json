@@ -1,0 +1,981 @@
+{
+ "scores": {
+  "R6-00000": {
+   "s": 8.5,
+   "why": "Git-for-masks solves real versioning pain"
+  },
+  "R6-00001": {
+   "s": 7,
+   "why": "Manifold embeds novel but packaging unclear"
+  },
+  "R6-00002": {
+   "s": 7.5,
+   "why": "Geodesic search cold-chain is concrete"
+  },
+  "R6-00003": {
+   "s": 6.5,
+   "why": "Curvature scoring is good but voting vague"
+  },
+  "R6-00004": {
+   "s": 8,
+   "why": "Shape receipts for construction QA is strong"
+  },
+  "R6-00005": {
+   "s": 8,
+   "why": "Optimal transport replaces mIoU convincingly"
+  },
+  "R6-00006": {
+   "s": 7.5,
+   "why": "Gate chain adds structure to cold-chain"
+  },
+  "R6-00007": {
+   "s": 7,
+   "why": "Shape priors useful but routing unclear"
+  },
+  "R6-00008": {
+   "s": 9,
+   "why": "Standing red-team for plans is brilliant"
+  },
+  "R6-00009": {
+   "s": 8,
+   "why": "Shape receipts for sugar mills is concrete"
+  },
+  "R6-00010": {
+   "s": 7.5,
+   "why": "Shape priors with judge-worker is solid"
+  },
+  "R6-00012": {
+   "s": 7,
+   "why": "Mask metrics useful but not wow"
+  },
+  "R6-00013": {
+   "s": 6.5,
+   "why": "Similar to #3 with less clarity"
+  },
+  "R6-00014": {
+   "s": 6,
+   "why": "Newbie proxy is interesting but cold-storage vague"
+  },
+  "R6-00015": {
+   "s": 8,
+   "why": "Geodesic skills for tea estates is novel"
+  },
+  "R6-00016": {
+   "s": 8,
+   "why": "Git-for-masks with solar installers is strong"
+  },
+  "R6-00017": {
+   "s": 7.5,
+   "why": "Topology checker for food SMEs is practical"
+  },
+  "R6-00018": {
+   "s": 7,
+   "why": "Manifold embeds with red-team is okay"
+  },
+  "R6-00019": {
+   "s": 8,
+   "why": "Git-for-masks with geodesic routing is solid"
+  },
+  "R6-00021": {
+   "s": 8.5,
+   "why": "Chem safety measurements with camera is concrete"
+  },
+  "R6-00023": {
+   "s": 7,
+   "why": "Mentorship pipeline is good but vague"
+  },
+  "R6-00024": {
+   "s": 7.5,
+   "why": "Hyperbolic ladder for QA is novel"
+  },
+  "R6-00025": {
+   "s": 8,
+   "why": "Apiaries checklist that argues is clever"
+  },
+  "R6-00026": {
+   "s": 8.5,
+   "why": "Topology-stability for offices is brilliant"
+  },
+  "R6-00027": {
+   "s": 7,
+   "why": "Shape trust for noodle factories is okay"
+  },
+  "R6-00028": {
+   "s": 7.5,
+   "why": "Novel geodesic routing, demoable wow"
+  },
+  "R6-00029": {
+   "s": 8,
+   "why": "Git-for-masks solves real versioning pain"
+  },
+  "R6-00030": {
+   "s": 6.5,
+   "why": "Shape registry useful but narrow scope"
+  },
+  "R6-00032": {
+   "s": 7,
+   "why": "Hyperbolic hierarchy clever, utility niche"
+  },
+  "R6-00033": {
+   "s": 9,
+   "why": "Concrete measurements with uncertainty wow"
+  },
+  "R6-00034": {
+   "s": 9.5,
+   "why": "Live voice+receipts solves two needs"
+  },
+  "R6-00035": {
+   "s": 7.5,
+   "why": "Deep hierarchy retrieval clever, demo wow"
+  },
+  "R6-00036": {
+   "s": 8.5,
+   "why": "Structured gates prevent silent failures"
+  },
+  "R6-00037": {
+   "s": 8,
+   "why": "Part-graphs enable complex queries"
+  },
+  "R6-00038": {
+   "s": 6,
+   "why": "Similar to #2, less concrete use case"
+  },
+  "R6-00040": {
+   "s": 7,
+   "why": "Mask diff useful but similar to #1"
+  },
+  "R6-00041": {
+   "s": 7,
+   "why": "Topology checker practical, demo wow"
+  },
+  "R6-00046": {
+   "s": 8,
+   "why": "Geodesic skills measurement innovative"
+  },
+  "R6-00047": {
+   "s": 8.5,
+   "why": "Shape receipts for agriculture impactful"
+  },
+  "R6-00048": {
+   "s": 8.5,
+   "why": "Photo packing solves real space problem"
+  },
+  "R6-00050": {
+   "s": 6.5,
+   "why": "Similar to #11, less specific use case"
+  },
+  "R6-00051": {
+   "s": 6,
+   "why": "Similar topology checker, less novel"
+  },
+  "R6-00052": {
+   "s": 7,
+   "why": "Hyperbolic embedding clever but niche"
+  },
+  "R6-00053": {
+   "s": 6.5,
+   "why": "Similar to #2, packaging less visual"
+  },
+  "R6-00060": {
+   "s": 8.5,
+   "why": "Expert bench solves NGO review bottleneck"
+  },
+  "R6-00061": {
+   "s": 7.5,
+   "why": "Numeric masks useful but narrow focus"
+  },
+  "R6-00062": {
+   "s": 7,
+   "why": "Hyperbolic search clever, demo wow"
+  },
+  "R6-00063": {
+   "s": 9,
+   "why": "Expert distillation enables offline use"
+  },
+  "R6-00064": {
+   "s": 8.5,
+   "why": "Gates prevent silent failures in looms"
+  },
+  "R6-00066": {
+   "s": 7,
+   "why": "Embedding drift monitor practical"
+  },
+  "R6-00067": {
+   "s": 8.5,
+   "why": "Novel topology-stability checks"
+  },
+  "R6-00068": {
+   "s": 7,
+   "why": "Judge-worker split architecture"
+  },
+  "R6-00069": {
+   "s": 8,
+   "why": "Concrete accessibility audits"
+  },
+  "R6-00075": {
+   "s": 6.5,
+   "why": "Clever canary detection"
+  },
+  "R6-00078": {
+   "s": 8.5,
+   "why": "Topological error prevention"
+  },
+  "R6-00079": {
+   "s": 8,
+   "why": "Part-graph assembly queries"
+  },
+  "R6-00081": {
+   "s": 9,
+   "why": "Newbie-proxy training insight"
+  },
+  "R6-00082": {
+   "s": 8.5,
+   "why": "Topology-stability for safety"
+  },
+  "R6-00083": {
+   "s": 7.5,
+   "why": "Geodesic expertise routing"
+  },
+  "R6-00084": {
+   "s": 7,
+   "why": "Structured expert bench"
+  },
+  "R6-00088": {
+   "s": 7.5,
+   "why": "Geodesic skill training"
+  },
+  "R6-00091": {
+   "s": 8,
+   "why": "Git-for-masks versioning"
+  },
+  "R6-00092": {
+   "s": 7,
+   "why": "Judge-worker architecture"
+  },
+  "R6-00093": {
+   "s": 8,
+   "why": "Optimal transport matching"
+  },
+  "R6-00094": {
+   "s": 8,
+   "why": "Git-for-masks versioning"
+  },
+  "R6-00106": {
+   "s": 7,
+   "why": "Structured expert bench"
+  },
+  "R6-00107": {
+   "s": 9,
+   "why": "Newbie-proxy training insight"
+  },
+  "R6-00108": {
+   "s": 7.5,
+   "why": "Gatekeeper chain architecture"
+  },
+  "R6-00116": {
+   "s": 7,
+   "why": "Geodesic image search"
+  },
+  "R6-00117": {
+   "s": 8,
+   "why": "Part-graph assembly queries"
+  },
+  "R6-00118": {
+   "s": 7.5,
+   "why": "Curvature anomaly detection"
+  },
+  "R6-00119": {
+   "s": 8,
+   "why": "Optimal transport matching"
+  },
+  "R6-00120": {
+   "s": 7,
+   "why": "Distance-weighted consensus"
+  },
+  "R6-00140": {
+   "s": 8,
+   "why": "Hyperbolic hierarchy embedding"
+  },
+  "R6-00141": {
+   "s": 6.5,
+   "why": "Mask metrics coaching"
+  },
+  "R6-00142": {
+   "s": 8,
+   "why": "Novel geodesic skill mapping"
+  },
+  "R6-00143": {
+   "s": 7.5,
+   "why": "Smart adversarial document review"
+  },
+  "R6-00144": {
+   "s": 8.5,
+   "why": "Expert-to-expert mentorship pipeline"
+  },
+  "R6-00145": {
+   "s": 7,
+   "why": "Section-based expert routing system"
+  },
+  "R6-00146": {
+   "s": 8,
+   "why": "Photo-to-geometry packing optimizer"
+  },
+  "R6-00147": {
+   "s": 7.5,
+   "why": "Distance-weighted expert consensus"
+  },
+  "R6-00148": {
+   "s": 7.5,
+   "why": "Similar to #1, different industry"
+  },
+  "R6-00149": {
+   "s": 8,
+   "why": "Geodesic skill mapping for trades"
+  },
+  "R6-00150": {
+   "s": 7.5,
+   "why": "Similar to #1, different industry"
+  },
+  "R6-00151": {
+   "s": 8,
+   "why": "Manufacturing skill gap visualization"
+  },
+  "R6-00159": {
+   "s": 8.5,
+   "why": "PDF chart-to-data extraction"
+  },
+  "R6-00160": {
+   "s": 7,
+   "why": "Curvature-based defect detection"
+  },
+  "R6-00162": {
+   "s": 7.5,
+   "why": "Optimal transport mask matching"
+  },
+  "R6-00163": {
+   "s": 8,
+   "why": "Mask versioning system"
+  },
+  "R6-00179": {
+   "s": 7.5,
+   "why": "Embedding drift monitoring"
+  },
+  "R6-00180": {
+   "s": 7.5,
+   "why": "Topology stability video analysis"
+  },
+  "R6-00181": {
+   "s": 7.5,
+   "why": "Hyperbolic hierarchy embedding"
+  },
+  "R6-00182": {
+   "s": 8.5,
+   "why": "Judge-worker escalation system"
+  },
+  "R6-00183": {
+   "s": 7,
+   "why": "SAM mask metrics"
+  },
+  "R6-00184": {
+   "s": 8,
+   "why": "Standing red-team risk assessment"
+  },
+  "R6-00185": {
+   "s": 8,
+   "why": "Photo packing optimizer"
+  },
+  "R6-00186": {
+   "s": 8,
+   "why": "Standing red-team for agriculture"
+  },
+  "R6-00190": {
+   "s": 7.5,
+   "why": "Mask embedding on manifold"
+  },
+  "R6-00191": {
+   "s": 7.5,
+   "why": "Part graph from segmentation"
+  },
+  "R6-00192": {
+   "s": 7,
+   "why": "Mask versioning for clothing"
+  },
+  "R6-00193": {
+   "s": 8,
+   "why": "Novel curvature defect detection"
+  },
+  "R6-00194": {
+   "s": 7.5,
+   "why": "Claim verification with visual evidence"
+  },
+  "R6-00195": {
+   "s": 8.5,
+   "why": "Git-like versioning for masks"
+  },
+  "R6-00197": {
+   "s": 8,
+   "why": "Topology validation for manufacturing"
+  },
+  "R6-00219": {
+   "s": 9,
+   "why": "Attestation for auditability"
+  },
+  "R6-00220": {
+   "s": 7,
+   "why": "Expert routing but generic domain"
+  },
+  "R6-00221": {
+   "s": 8.5,
+   "why": "Built-in red team for plans"
+  },
+  "R6-00222": {
+   "s": 9,
+   "why": "Quorum decision-making system"
+  },
+  "R6-00223": {
+   "s": 8.5,
+   "why": "Geodesic routing on manifold"
+  },
+  "R6-00225": {
+   "s": 8,
+   "why": "Hyperbolic knowledge retrieval"
+  },
+  "R6-00226": {
+   "s": 7.5,
+   "why": "Similar to #8 with different use"
+  },
+  "R6-00237": {
+   "s": 8,
+   "why": "Part-graphs for spatial reasoning"
+  },
+  "R6-00238": {
+   "s": 7.5,
+   "why": "Mask embedding for consensus"
+  },
+  "R6-00242": {
+   "s": 7,
+   "why": "Optimal transport for matching"
+  },
+  "R6-00272": {
+   "s": 8.5,
+   "why": "Geometry quorum for validation"
+  },
+  "R6-00273": {
+   "s": 8,
+   "why": "Judge-worker split for efficiency"
+  },
+  "R6-00275": {
+   "s": 8,
+   "why": "Gatekeeper chain for safety"
+  },
+  "R6-00278": {
+   "s": 7.5,
+   "why": "Similar gatekeeper concept"
+  },
+  "R6-00279": {
+   "s": 7,
+   "why": "Red team concept duplication"
+  },
+  "R6-00281": {
+   "s": 9,
+   "why": "Counterfactual twin for auditing"
+  },
+  "R6-00283": {
+   "s": 8.5,
+   "why": "Rendered counterfactual masks"
+  },
+  "R6-00292": {
+   "s": 7,
+   "why": "Judge-worker for content"
+  },
+  "R6-00293": {
+   "s": 7.5,
+   "why": "Cross-examination for novelty"
+  },
+  "R6-00295": {
+   "s": 6.5,
+   "why": "Misapplied cross-examination"
+  },
+  "R6-00337": {
+   "s": 8,
+   "why": "Cross-examination for audit"
+  },
+  "R6-00342": {
+   "s": 8.5,
+   "why": "Counterfactual rendering with SAM masks"
+  },
+  "R6-00351": {
+   "s": 9,
+   "why": "Judge-worker split for cutting floors"
+  },
+  "R6-00368": {
+   "s": 8,
+   "why": "Git-for-masks versioning system"
+  },
+  "R6-00369": {
+   "s": 8.5,
+   "why": "Part-graph constructor from masks"
+  },
+  "R6-00374": {
+   "s": 8,
+   "why": "Auto-logged film dailies for hatcheries"
+  },
+  "R6-00400": {
+   "s": 8,
+   "why": "Paired negotiators for longliners"
+  },
+  "R6-00401": {
+   "s": 9,
+   "why": "Expert mentorship pipeline"
+  },
+  "R6-00411": {
+   "s": 8.5,
+   "why": "Geometry quorum for dive operators"
+  },
+  "R6-00421": {
+   "s": 8,
+   "why": "Cross-examination of contracts"
+  },
+  "R6-00442": {
+   "s": 7,
+   "why": "Contamination check for festival trucks"
+  },
+  "R6-00444": {
+   "s": 7.5,
+   "why": "Adversarial pre-review for couriers"
+  },
+  "R6-00450": {
+   "s": 8,
+   "why": "Mask diff versioning for feed mills"
+  },
+  "R6-00451": {
+   "s": 7.5,
+   "why": "Methods recipe for rice mills"
+  },
+  "R6-00452": {
+   "s": 8.5,
+   "why": "Mask manifold embedder for rubber plots"
+  },
+  "R6-00478": {
+   "s": 8,
+   "why": "Reef tours counterfactual twin"
+  },
+  "R6-00479": {
+   "s": 8,
+   "why": "Buildable artifact for bike couriers"
+  },
+  "R6-00484": {
+   "s": 8,
+   "why": "Maquilas document cross-examination"
+  },
+  "R6-00488": {
+   "s": 9,
+   "why": "WhatsApp-native agent swarm"
+  },
+  "R6-00489": {
+   "s": 8,
+   "why": "Date packers rehearsal with weighted seats"
+  },
+  "R6-00507": {
+   "s": 8.5,
+   "why": "Self-hosted judge-worker distillation"
+  },
+  "R6-00583": {
+   "s": 8,
+   "why": "Apiaries drill generator"
+  },
+  "R6-00586": {
+   "s": 8,
+   "why": "Shoe workshops role parliament"
+  },
+  "R6-00596": {
+   "s": 8,
+   "why": "Shawarma chains outcome counter"
+  },
+  "R6-00601": {
+   "s": 9,
+   "why": "Self-improvement with human gates"
+  },
+  "R6-00607": {
+   "s": 8.5,
+   "why": "Newbie proxy for container yards"
+  },
+  "R6-00614": {
+   "s": 8.5,
+   "why": "WhatsApp-native swarm = instant adoption"
+  },
+  "R6-00644": {
+   "s": 7,
+   "why": "Curvature scoring = novel defect detection"
+  },
+  "R6-00645": {
+   "s": 6.5,
+   "why": "Hyperbolic mask embedding = clever hierarchy"
+  },
+  "R6-00658": {
+   "s": 5,
+   "why": "PDF-to-pitch = useful but basic"
+  },
+  "R6-00733": {
+   "s": 8,
+   "why": "Evidence-gated debate = truth filter"
+  },
+  "R6-00735": {
+   "s": 9,
+   "why": "Scope fence + approval queue = brilliant guardrails"
+  },
+  "R6-00736": {
+   "s": 7,
+   "why": "Similar to #4 but festival-specific"
+  },
+  "R6-00741": {
+   "s": 8.5,
+   "why": "Mentor pipeline with blind cases = robust training"
+  },
+  "R6-00747": {
+   "s": 8,
+   "why": "Counterfactual twin = automated auditing"
+  },
+  "R6-00752": {
+   "s": 7,
+   "why": "Shadow agents + scoring = measurable foresight"
+  },
+  "R6-00755": {
+   "s": 6.5,
+   "why": "Similar to #9 but batik-specific"
+  },
+  "R6-00758": {
+   "s": 9,
+   "why": "Newbie proxy = genius documentation tester"
+  },
+  "R6-00791": {
+   "s": 7.5,
+   "why": "Part-graphs = useful assembly queries"
+  },
+  "R6-00872": {
+   "s": 8,
+   "why": "Hyperbolic routing = geometry-aware dispatch"
+  },
+  "R6-00881": {
+   "s": 8.5,
+   "why": "Shadow apprenticeship = measured trust building"
+  },
+  "R6-00883": {
+   "s": 7.5,
+   "why": "Evidence debate = claim verification"
+  },
+  "R6-00885": {
+   "s": 7,
+   "why": "Evidence debate = farm results"
+  },
+  "R6-00890": {
+   "s": 8,
+   "why": "Quorum rollout = safety before action"
+  },
+  "R6-00893": {
+   "s": 7,
+   "why": "Similar to #9 but water kiosks"
+  },
+  "R6-00903": {
+   "s": 9,
+   "why": "Rendered ideal = visual overlay wow"
+  },
+  "R6-00908": {
+   "s": 7.5,
+   "why": "Mentor pipeline = container yards"
+  },
+  "R6-00920": {
+   "s": 7.5,
+   "why": "Quorum rollout = dairy centers"
+  },
+  "R6-00923": {
+   "s": 7,
+   "why": "World rollouts = gem workshops"
+  },
+  "R6-00926": {
+   "s": 7.5,
+   "why": "Failure curriculum = tannery training"
+  },
+  "R6-01083": {
+   "s": 8,
+   "why": "Signed self-improvement = controlled growth"
+  },
+  "R6-01088": {
+   "s": 7.5,
+   "why": "Novel two-chamber architecture"
+  },
+  "R6-01102": {
+   "s": 8,
+   "why": "Concrete geometry-based verification"
+  },
+  "R6-01111": {
+   "s": 6.5,
+   "why": "Interesting market mechanism"
+  },
+  "R6-01117": {
+   "s": 8.5,
+   "why": "Clear audit trail for co-ops"
+  },
+  "R6-01118": {
+   "s": 7,
+   "why": "Practical what-if simulation"
+  },
+  "R6-01126": {
+   "s": 9,
+   "why": "Fast twin creation with clear use"
+  },
+  "R6-01298": {
+   "s": 7,
+   "why": "Similar to #4, landscaping focus"
+  },
+  "R6-01303": {
+   "s": 8,
+   "why": "Three-layer stress-test system"
+  },
+  "R6-01304": {
+   "s": 7.5,
+   "why": "Scoring system for predictions"
+  },
+  "R6-01307": {
+   "s": 8,
+   "why": "Strong for brick kiln safety"
+  },
+  "R6-01312": {
+   "s": 8.5,
+   "why": "Geometry-aware routing"
+  },
+  "R6-01313": {
+   "s": 7,
+   "why": "Model distillation practical"
+  },
+  "R6-01315": {
+   "s": 8.5,
+   "why": "Similar to #5, gypsum focus"
+  },
+  "R6-01316": {
+   "s": 8,
+   "why": "Food chain quality control"
+  },
+  "R6-01317": {
+   "s": 7.5,
+   "why": "Good for agricultural planning"
+  },
+  "R6-01407": {
+   "s": 9,
+   "why": "Self-improvement with human gate"
+  },
+  "R6-01777": {
+   "s": 7,
+   "why": "Optimal transport application"
+  },
+  "R6-02195": {
+   "s": 7.5,
+   "why": "Two-chamber for date packing"
+  },
+  "R6-02205": {
+   "s": 8,
+   "why": "Geometry quorum reduces risk"
+  },
+  "R6-02349": {
+   "s": 9,
+   "why": "Live part-graph for assembly"
+  },
+  "R6-02554": {
+   "s": 7,
+   "why": "Shape prior for manufacturing"
+  },
+  "R6-02603": {
+   "s": 8,
+   "why": "WhatsApp anomaly detection"
+  },
+  "R6-02676": {
+   "s": 7,
+   "why": "Shape prior for phone repair"
+  },
+  "R6-02849": {
+   "s": 7.5,
+   "why": "Safety-focused geometry match"
+  },
+  "R6-03373": {
+   "s": 7,
+   "why": "Training simulation for joinery"
+  },
+  "R6-03607": {
+   "s": 8.5,
+   "why": "Novel shape prior registry with concrete use"
+  },
+  "R6-03701": {
+   "s": 7.5,
+   "why": "Hyperbolic embedding for part-whole hierarchy"
+  },
+  "R6-03846": {
+   "s": 7,
+   "why": "Geodesic search with workshop integration"
+  },
+  "R6-04003": {
+   "s": 8,
+   "why": "Optimal transport replaces mIoU convincingly"
+  },
+  "R6-04119": {
+   "s": 6.5,
+   "why": "Poster to pitch is nice but narrow scope"
+  },
+  "R6-04203": {
+   "s": 8,
+   "why": "Shape priors with failure curriculum strength"
+  },
+  "R6-04325": {
+   "s": 9,
+   "why": "Counterfactual twin for paperwork to schematic wow"
+  },
+  "R6-04350": {
+   "s": 7,
+   "why": "Curvature anomaly detection is solid but basic"
+  },
+  "R6-04370": {
+   "s": 8.5,
+   "why": "Topology checker prevents shipping impossible outputs"
+  },
+  "R6-04383": {
+   "s": 8,
+   "why": "Part graph enables assembly queries nicely"
+  },
+  "R6-04386": {
+   "s": 7.5,
+   "why": "Hyperbolic dispatch for port operations"
+  },
+  "R6-04390": {
+   "s": 7,
+   "why": "Paper reproduction is useful but narrow"
+  },
+  "R6-04394": {
+   "s": 7.5,
+   "why": "Two-chamber topology check is clean approach"
+  },
+  "R6-04429": {
+   "s": 9.5,
+   "why": "WhatsApp-native agent swarm has massive wow"
+  },
+  "R6-04436": {
+   "s": 8,
+   "why": "Two-chamber receipts in chat is practical"
+  },
+  "R6-04447": {
+   "s": 7.5,
+   "why": "Topology checker for ranger programs is solid"
+  },
+  "R6-04510": {
+   "s": 8,
+   "why": "Git-for-masks with merge conflicts is clever"
+  },
+  "R6-04524": {
+   "s": 7,
+   "why": "Hard negative generation is useful but narrow"
+  },
+  "R6-04527": {
+   "s": 7.5,
+   "why": "Shape priors with world rollout is strong"
+  },
+  "R6-04529": {
+   "s": 7,
+   "why": "SAM count is good but not novel enough"
+  },
+  "R6-04533": {
+   "s": 7.5,
+   "why": "Shape priors with evidence ledger is solid"
+  },
+  "R6-04564": {
+   "s": 7,
+   "why": "Seminar twin is nice but narrow scope"
+  },
+  "R6-04576": {
+   "s": 8,
+   "why": "Geodesic search with voice coaching is practical"
+  },
+  "R6-04578": {
+   "s": 7.5,
+   "why": "Specimen assist with counterfactual twin is clean"
+  },
+  "R6-04585": {
+   "s": 7,
+   "why": "Optimal transport with quorum is solid but narrow"
+  },
+  "R6-04632": {
+   "s": 7.5,
+   "why": "Drills failure prep, concrete value"
+  },
+  "R6-04649": {
+   "s": 8,
+   "why": "Restores photos with AI layers"
+  },
+  "R6-04655": {
+   "s": 9,
+   "why": "Part graphs for real assemblies"
+  },
+  "R6-04672": {
+   "s": 6.5,
+   "why": "Sugar mill briefing, niche use"
+  },
+  "R6-04683": {
+   "s": 8.5,
+   "why": "Quorum catalog, high risk"
+  },
+  "R6-04741": {
+   "s": 9,
+   "why": "Topology check, prevents errors"
+  },
+  "R6-04742": {
+   "s": 8,
+   "why": "Voice-cook methods, hands-free"
+  },
+  "R6-04748": {
+   "s": 9.5,
+   "why": "10x cheaper annotation wow"
+  },
+  "R6-04755": {
+   "s": 7,
+   "why": "Hostel labels, market cool"
+  },
+  "R6-04802": {
+   "s": 8.5,
+   "why": "Paper proof, academic value"
+  },
+  "R6-04812": {
+   "s": 7.5,
+   "why": "Tile part graphs, repeat idea"
+  },
+  "R6-04828": {
+   "s": 8,
+   "why": "WhatsApp drills, accessible"
+  },
+  "R6-04829": {
+   "s": 9,
+   "why": "Self-improve with human gate"
+  },
+  "R6-04863": {
+   "s": 7,
+   "why": "Boat yard labels, evidence tree"
+  },
+  "R6-04884": {
+   "s": 8.5,
+   "why": "Geodesic search, novel"
+  },
+  "R6-04952": {
+   "s": 7,
+   "why": "Cacao labels, repeat idea"
+  },
+  "R6-04972": {
+   "s": 8,
+   "why": "Souk search, hyperbolic"
+  },
+  "R6-04986": {
+   "s": 9.5,
+   "why": "WhatsApp swarm, wow factor"
+  },
+  "R6-04995": {
+   "s": 8,
+   "why": "Camp mess, no silent fails"
+  }
+ },
+ "fallback": []
+}

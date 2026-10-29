@@ -1,0 +1,300 @@
+[
+ {
+  "tag": "semi_0",
+  "verdict": {
+   "ranking": [
+    {
+     "i": 0,
+     "score": 8.2,
+     "kill": "Limited to single packing task, narrow real-world impact"
+    },
+    {
+     "i": 1,
+     "score": 9.5,
+     "kill": "Human-in-the-loop may slow down improvement cycle"
+    }
+   ],
+   "top": 1,
+   "why_final": "Self-improving fleet with human oversight demonstrates deeper technical depth and broader impact potential"
+  },
+  "order": [
+   {
+    "cand": {
+     "lane": "W",
+     "base": "W02",
+     "mech": "geo-packing",
+     "mech_fam": "GEO",
+     "mech_tier": "S",
+     "title": "Gulf ports coach that interrupts at the right second — photo packing",
+     "pitch": "Geometry-aware packing optimizer from photos: Photograph the space, SAM 3.1 gives the geometry, an optimizer returns the arrangement that fits with clearances verified by mask math — no CAD, just a phone. Winner-DNA insight - real-time multimodal feedback on a human performance feels like magic and demos in 60s. Applied to fishing ports along the Gulf, where catch landing sheets become decisions, not paperwork. Stack: SAM 3.1 + Muse Spark + Muse Image. Nov",
+     "domain": "fishing ports along the Gulf",
+     "domain_short": "gulf ports",
+     "region": "ME",
+     "artifact": "catch landing sheets",
+     "models": "SAM+S+I",
+     "twist": "output exportable to the tools people already use",
+     "score_total": 83.4,
+     "creativity": 5.3,
+     "ambition": 6.7,
+     "works": 8.9,
+     "work_real": 10,
+     "meta": 8.4,
+     "fit": 7.8,
+     "wow": 9.6,
+     "idx": 146,
+     "id": "R6-00146",
+     "deep": {
+      "it": {
+       "lane": "W",
+       "base": "W02",
+       "mech": "geo-packing",
+       "mech_fam": "GEO",
+       "mech_tier": "S",
+       "title": "Gulf ports coach that interrupts at the right second — photo packing",
+       "pitch": "Geometry-aware packing optimizer from photos: Photograph the space, SAM 3.1 gives the geometry, an optimizer returns the arrangement that fits with clearances verified by mask math — no CAD, just a phone. Winner-DNA insight - real-time multimodal feedback on a human performance feels like magic and demos in 60s. Applied to fishing ports along the Gulf, where catch landing sheets become decisions, not paperwork. Stack: SAM 3.1 + Muse Spark + Muse Image. Nov",
+       "domain": "fishing ports along the Gulf",
+       "domain_short": "gulf ports",
+       "region": "ME",
+       "artifact": "catch landing sheets",
+       "models": "SAM+S+I",
+       "twist": "output exportable to the tools people already use",
+       "score_total": 83.4,
+       "creativity": 5.3,
+       "ambition": 6.7,
+       "works": 8.9,
+       "work_real": 10,
+       "meta": 8.4,
+       "fit": 7.8,
+       "wow": 9.6,
+       "idx": 146,
+       "id": "R6-00146"
+      },
+      "nov": 8,
+      "real": 9,
+      "wow": 9,
+      "build": 7,
+      "meta": 7,
+      "total": 8.2,
+      "note": "Photo packing demo wow"
+     },
+     "orig": "none"
+    },
+    "score": 8.2,
+    "kill": "Limited to single packing task, narrow real-world impact"
+   },
+   {
+    "cand": {
+     "lane": "W",
+     "base": "W13",
+     "mech": "fuse-selfimprove-gate",
+     "mech_fam": "FUSION",
+     "mech_tier": "S",
+     "title": "Matatu fleets skills that patch themselves - with a signature — signed self-improvement",
+     "pitch": "Self-improvement with human-signed gates: The system drafts its own skill patches from failures, but nothing ships until a human signs the gate; every patch carries a rollback and a blast-radius estimate. Winner-DNA insight - 'most creative' winner turned vision failure into a party game; virality built in. Applied to minibus and matatu fleet operations, where vehicle defect cards become decisions, not paperwork. Stack: SAM 3.1 + Muse Spark + Muse Image. N",
+     "domain": "minibus and matatu fleet operations",
+     "domain_short": "matatu fleets",
+     "region": "AF",
+     "artifact": "vehicle defect cards",
+     "models": "SAM+S+I",
+     "twist": "output exportable to the tools people already use",
+     "score_total": 82.2,
+     "creativity": 5.7,
+     "ambition": 6.2,
+     "works": 9,
+     "work_real": 9.2,
+     "meta": 8.7,
+     "fit": 8.2,
+     "wow": 9.3,
+     "idx": 1407,
+     "id": "R6-01407",
+     "deep": {
+      "it": {
+       "lane": "W",
+       "base": "W13",
+       "mech": "fuse-selfimprove-gate",
+       "mech_fam": "FUSION",
+       "mech_tier": "S",
+       "title": "Matatu fleets skills that patch themselves - with a signature — signed self-improvement",
+       "pitch": "Self-improvement with human-signed gates: The system drafts its own skill patches from failures, but nothing ships until a human signs the gate; every patch carries a rollback and a blast-radius estimate. Winner-DNA insight - 'most creative' winner turned vision failure into a party game; virality built in. Applied to minibus and matatu fleet operations, where vehicle defect cards become decisions, not paperwork. Stack: SAM 3.1 + Muse Spark + Muse Image. N",
+       "domain": "minibus and matatu fleet operations",
+       "domain_short": "matatu fleets",
+       "region": "AF",
+       "artifact": "vehicle defect cards",
+       "models": "SAM+S+I",
+       "twist": "output exportable to the tools people already use",
+       "score_total": 82.2,
+       "creativity": 5.7,
+       "ambition": 6.2,
+       "works": 9,
+       "work_real": 9.2,
+       "meta": 8.7,
+       "fit": 8.2,
+       "wow": 9.3,
+       "idx": 1407,
+       "id": "R6-01407"
+      },
+      "nov": 8,
+      "real": 8,
+      "wow": 9,
+      "build": 6,
+      "meta": 8,
+      "total": 7.96,
+      "note": "Fleet self-improvement strong"
+     },
+     "orig": "none"
+    },
+    "score": 9.5,
+    "kill": "Human-in-the-loop may slow down improvement cycle"
+   }
+  ]
+ },
+ {
+  "tag": "semi_1",
+  "verdict": {
+   "ranking": [
+    {
+     "i": 0,
+     "score": 8.2,
+     "kill": "Limited real-work use case beyond verification theater"
+    },
+    {
+     "i": 1,
+     "score": 7.8,
+     "kill": "Self-improvement loops may introduce unexpected failures"
+    }
+   ],
+   "top": 0,
+   "why_final": "Attestation architecture provides concrete artifact with verifiable audit trail, stronger impact metric"
+  },
+  "order": [
+   {
+    "cand": {
+     "lane": "W",
+     "base": "R01",
+     "mech": "harness-attest",
+     "mech_fam": "HARNESS",
+     "mech_tier": "S",
+     "title": "Cacao yards results you can weigh, not screenshot — run attestation",
+     "pitch": "Run attestation receipts: Every agent run is attested: signed hashes of model, prompt, tools and environment travel with the output - audit any verdict months later. Winner-DNA insight - TreeHacks grand-prize DNA: Project Lend ran an autonomous food bank that distributed 50+ lbs of real food DURING the hackathon. Applied to cacao fermentation and drying yards, where fermentation turn logs become decisions, not paperwork. Stack: Muse Spark + Muse Spark Open",
+     "domain": "cacao fermentation and drying yards",
+     "domain_short": "cacao yards",
+     "region": "LATAM",
+     "artifact": "fermentation turn logs",
+     "models": "S+SO+SAM",
+     "twist": "works when the grid and the network are both down",
+     "score_total": 83.2,
+     "creativity": 5.5,
+     "ambition": 8.2,
+     "works": 7.1,
+     "work_real": 9.8,
+     "meta": 8.6,
+     "fit": 8.1,
+     "wow": 10,
+     "idx": 219,
+     "id": "R6-00219",
+     "deep": {
+      "it": {
+       "lane": "W",
+       "base": "R01",
+       "mech": "harness-attest",
+       "mech_fam": "HARNESS",
+       "mech_tier": "S",
+       "title": "Cacao yards results you can weigh, not screenshot — run attestation",
+       "pitch": "Run attestation receipts: Every agent run is attested: signed hashes of model, prompt, tools and environment travel with the output - audit any verdict months later. Winner-DNA insight - TreeHacks grand-prize DNA: Project Lend ran an autonomous food bank that distributed 50+ lbs of real food DURING the hackathon. Applied to cacao fermentation and drying yards, where fermentation turn logs become decisions, not paperwork. Stack: Muse Spark + Muse Spark Open",
+       "domain": "cacao fermentation and drying yards",
+       "domain_short": "cacao yards",
+       "region": "LATAM",
+       "artifact": "fermentation turn logs",
+       "models": "S+SO+SAM",
+       "twist": "works when the grid and the network are both down",
+       "score_total": 83.2,
+       "creativity": 5.5,
+       "ambition": 8.2,
+       "works": 7.1,
+       "work_real": 9.8,
+       "meta": 8.6,
+       "fit": 8.1,
+       "wow": 10,
+       "idx": 219,
+       "id": "R6-00219"
+      },
+      "nov": 9,
+      "real": 7,
+      "wow": 8,
+      "build": 6,
+      "meta": 8,
+      "total": 7.78,
+      "note": "Run attestation receipts"
+     },
+     "orig": "none"
+    },
+    "score": 8.2,
+    "kill": "Limited real-work use case beyond verification theater"
+   },
+   {
+    "cand": {
+     "lane": "W",
+     "base": "W17",
+     "mech": "fuse-selfimprove-gate",
+     "mech_fam": "FUSION",
+     "mech_tier": "S",
+     "title": "Bus workshops workflow that closes itself — signed self-improvement",
+     "pitch": "Self-improvement with human-signed gates: The system drafts its own skill patches from failures, but nothing ships until a human signs the gate; every patch carries a rollback and a blast-radius estimate. Winner-DNA insight - 'automates the work end to end' — judges favor finished outcomes over copilots. Applied to intercity bus fleet workshops, where service defect cards become decisions, not paperwork. Stack: Muse Wonder + Muse Spark Open (open weights) ",
+     "domain": "intercity bus fleet workshops",
+     "domain_short": "bus workshops",
+     "region": "LATAM",
+     "artifact": "service defect cards",
+     "models": "W+SO+S+I",
+     "twist": "output exportable to the tools people already use",
+     "score_total": 80.5,
+     "creativity": 5.6,
+     "ambition": 8.2,
+     "works": 6.1,
+     "work_real": 8.9,
+     "meta": 10,
+     "fit": 7.7,
+     "wow": 9.5,
+     "idx": 4829,
+     "id": "R6-04829",
+     "deep": {
+      "it": {
+       "lane": "W",
+       "base": "W17",
+       "mech": "fuse-selfimprove-gate",
+       "mech_fam": "FUSION",
+       "mech_tier": "S",
+       "title": "Bus workshops workflow that closes itself — signed self-improvement",
+       "pitch": "Self-improvement with human-signed gates: The system drafts its own skill patches from failures, but nothing ships until a human signs the gate; every patch carries a rollback and a blast-radius estimate. Winner-DNA insight - 'automates the work end to end' — judges favor finished outcomes over copilots. Applied to intercity bus fleet workshops, where service defect cards become decisions, not paperwork. Stack: Muse Wonder + Muse Spark Open (open weights) ",
+       "domain": "intercity bus fleet workshops",
+       "domain_short": "bus workshops",
+       "region": "LATAM",
+       "artifact": "service defect cards",
+       "models": "W+SO+S+I",
+       "twist": "output exportable to the tools people already use",
+       "score_total": 80.5,
+       "creativity": 5.6,
+       "ambition": 8.2,
+       "works": 6.1,
+       "work_real": 8.9,
+       "meta": 10,
+       "fit": 7.7,
+       "wow": 9.5,
+       "idx": 4829,
+       "id": "R6-04829"
+      },
+      "nov": 8,
+      "real": 8,
+      "wow": 8,
+      "build": 7,
+      "meta": 8,
+      "total": 7.88,
+      "note": "Self-closing workflow valuable"
+     },
+     "orig": "none"
+    },
+    "score": 7.8,
+    "kill": "Self-improvement loops may introduce unexpected failures"
+   }
+  ]
+ }
+]

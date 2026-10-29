@@ -1,0 +1,1006 @@
+[
+ {
+  "id": "R6-00614",
+  "title": "Pickle units swarm, summoned from WhatsApp \u2014 chat-triggered swarm",
+  "mech": "fuse-msg-swarm",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "pickle units swarm",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "pickle units agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-01315",
+  "title": "Gypsum crews, twinned in ten minutes \u2014 twin forge",
+  "mech": "mowa-twin-forge",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "gypsum crews twinned",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "gypsum crews agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-02349",
+  "title": "Part graph constructor, wired into assembly lines \u2014 live receipts",
+  "mech": "fuse-live-receipt",
+  "lane": "U",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "part graph constructor",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "part graph agent",
+    "github": [
+     {
+      "full": "vital-ai/kgraph-nexus",
+      "desc": "Knowledge Graph Visualization. Part of the Vital Agent Ecosystem",
+      "stars": 7
+     },
+     {
+      "full": "vital-ai/kgraphmemory",
+      "desc": "Knowledge Graph Memory, Part of the Vital A.I. Agent Ecosystem",
+      "stars": 4
+     },
+     {
+      "full": "balajimurugesan2022/graphql-parts-agent",
+      "desc": "Agent POC for graphql",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00146",
+  "title": "Gulf ports coach that interrupts at the right second \u2014 photo packing",
+  "mech": "geo-packing",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "gulf ports coach",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "gulf ports vision",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-01126",
+  "title": "Feed mills, twinned in ten minutes \u2014 twin forge",
+  "mech": "mowa-twin-forge",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "feed mills twinned",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "feed mills agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00507",
+  "title": "The rickshaw fleets outcome counter \u2014 laptop distill",
+  "mech": "fuse-apprentice-distill",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "rickshaw fleets outcome",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "rickshaw fleets agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00607",
+  "title": "Container yards that moves atoms before the deadline \u2014 newbie proxy",
+  "mech": "morbe-newbie",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "container yards moves",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "container yards agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00881",
+  "title": "Silent co-pilot to signed authority: fishing co-ops \u2014 shadow apprenticeship",
+  "mech": "harness-shadow",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "silent pilot signed",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "silent pilot vision",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00342",
+  "title": "Welding yards results you can weigh, not screenshot \u2014 rendered ideal",
+  "mech": "fuse-counterfactual-masks",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "welding yards results",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "welding yards agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00735",
+  "title": "Weaving collectives that moves atoms before the deadline \u2014 scope fence",
+  "mech": "harness-kill-switch",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "weaving collectives moves",
+    "github": [
+     {
+      "full": "MarkipTheMudkip/in-class-project-2",
+      "desc": "According to all known laws of aviation,     there is no way a bee should be able to fly. ",
+      "stars": 96
+     },
+     {
+      "full": "danderfer/Comp_Sci_Sem_2",
+      "desc": "According to all known laws of aviation, there is no way that a bee should be able to fly.",
+      "stars": 218
+     },
+     {
+      "full": "landonasato/Function",
+      "desc": "According to all known laws of aviation, there is no way a bee should be able to fly. Its ",
+      "stars": 38
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "weaving collectives vision",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-01407",
+  "title": "Matatu fleets skills that patch themselves - with a signature \u2014 signed self-improvement",
+  "mech": "fuse-selfimprove-gate",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "matatu fleets skills",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "matatu fleets agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00047",
+  "title": "Mask-geometry receipts for cassava centers \u2014 shape receipts",
+  "mech": "geo-shape-receipt",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "mask geometry receipts",
+    "github": [
+     {
+      "full": "dylanstechmann/organoid-phenotyping",
+      "desc": "Source-traceable organoid mask measurement: object-level morphology, grouped instance agre",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "mask geometry vision",
+    "github": [
+     {
+      "full": "skymanbp/autoshade",
+      "desc": "AI-assisted RAW photo developer: GPT vision advisor proposes an EditRecipe, a deterministi",
+      "stars": 1256
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00452",
+  "title": "Mask manifold embedder, wired into rubber plots \u2014 apprentice loop",
+  "mech": "morbe-apprentice",
+  "lane": "U",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "mask manifold embedder",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "mask manifold agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00005",
+  "title": "The optimal transport label matching engine behind fire auditors \u2014 drift monitor",
+  "mech": "geo-embed-audit",
+  "lane": "U",
+  "verdict": "close",
+  "evidence": [
+   {
+    "q": "optimal transport label",
+    "github": [
+     {
+      "full": "Genentech/Perturb-OT",
+      "desc": "Cross-modality matching and prediction with labeled Gromov-Wasserstein Optimal Transport.",
+      "stars": 23
+     },
+     {
+      "full": "wjm-wjm/OTLA-ReID",
+      "desc": "Official Repository for \"Optimal Transport for Label-Efficient Visible-Infrared Person Re-",
+      "stars": 29
+     },
+     {
+      "full": "ryl0427/Code-for-OT-Filter",
+      "desc": "Code for OT-Filter: An Optimal Transport Filter for Learning with Noisy Labels",
+      "stars": 8
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "optimal transport vision",
+    "github": [
+     {
+      "full": "CHENGY12/PLOT",
+      "desc": "[ICLR2023] PLOT: Prompt Learning with Optimal Transport for Vision-Language Models",
+      "stars": 179
+     },
+     {
+      "full": "ExplainableML/SOTAlign",
+      "desc": "[ICML 2026] SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via",
+      "stars": 14
+     },
+     {
+      "full": "ChongQingNoSubway/Prompt-OT",
+      "desc": "Code for paper: Prompt-OT: An Optimal Transport Regularization Paradigm for Knowledge Pres",
+      "stars": 7
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00184",
+  "title": "Red-teamed storm repair crews, risk receipt attached \u2014 standing red team",
+  "mech": "morbe-redteam",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "red teamed storm",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "red teamed agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00008",
+  "title": "Festival crews GX plans must survive the red team \u2014 standing red team",
+  "mech": "morbe-redteam",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "festival crews plans",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "festival crews agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-04884",
+  "title": "Coffee fincas run through a geodesic image search \u2014 geometry quorum",
+  "mech": "fuse-geo-quorum",
+  "lane": "U",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "coffee fincas through",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "coffee fincas agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-04829",
+  "title": "Bus workshops workflow that closes itself \u2014 signed self-improvement",
+  "mech": "fuse-selfimprove-gate",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "bus workshops workflow",
+    "github": [
+     {
+      "full": "priyarithadia/Banking-Business-Analysis-Portfolio",
+      "desc": "Business Analysis case studies focused on banking process transformation and digitalisatio",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "bus workshops agent",
+    "github": [
+     {
+      "full": "joerizal98/Dropship-Agent-Business-Management-System",
+      "desc": "Workshop 1 C++ project with MySQL",
+      "stars": 0
+     },
+     {
+      "full": "stxxvibecode/business-development-agent",
+      "desc": "A Zo Computer skill that runs a workshop sales pipeline \u2014 prospecting, qualification, outr",
+      "stars": 0
+     },
+     {
+      "full": "uditac/BusinessRuleEngine",
+      "desc": "    Imagine you\u2019re writing an order processing application for a large company. In the pas",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00048",
+  "title": "The instant replay brain for shea collectives \u2014 photo packing",
+  "mech": "geo-packing",
+  "lane": "W",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "instant replay brain",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "instant replay vision",
+    "github": [
+     {
+      "full": "alvarobg12/basket-ai",
+      "desc": "Computer vision system for automated basketball event detection and instant replay validat",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00903",
+  "title": "Coffee stations done right, rendered as overlays \u2014 rendered ideal",
+  "mech": "fuse-counterfactual-masks",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "coffee stations done",
+    "github": [
+     {
+      "full": "danderfer/Comp_Sci_Sem_2",
+      "desc": "According to all known laws of aviation, there is no way that a bee should be able to fly.",
+      "stars": 218
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "coffee stations agent",
+    "github": [
+     {
+      "full": "danderfer/Comp_Sci_Sem_2",
+      "desc": "According to all known laws of aviation, there is no way that a bee should be able to fly.",
+      "stars": 218
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00219",
+  "title": "Cacao yards results you can weigh, not screenshot \u2014 run attestation",
+  "mech": "harness-attest",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "cacao yards results",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "cacao yards vision",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00037",
+  "title": "Part graph constructor for solar installers \u2014 standing red team",
+  "mech": "morbe-redteam",
+  "lane": "U",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "part graph constructor",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "part graph agent",
+    "github": [
+     {
+      "full": "vital-ai/kgraph-nexus",
+      "desc": "Knowledge Graph Visualization. Part of the Vital Agent Ecosystem",
+      "stars": 7
+     },
+     {
+      "full": "vital-ai/kgraphmemory",
+      "desc": "Knowledge Graph Memory, Part of the Vital A.I. Agent Ecosystem",
+      "stars": 4
+     },
+     {
+      "full": "balajimurugesan2022/graphql-parts-agent",
+      "desc": "Agent POC for graphql",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00079",
+  "title": "The part graph constructor engine behind utility crews \u2014 standing red team",
+  "mech": "morbe-redteam",
+  "lane": "U",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "part graph constructor",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "part graph agent",
+    "github": [
+     {
+      "full": "vital-ai/kgraph-nexus",
+      "desc": "Knowledge Graph Visualization. Part of the Vital Agent Ecosystem",
+      "stars": 7
+     },
+     {
+      "full": "vital-ai/kgraphmemory",
+      "desc": "Knowledge Graph Memory, Part of the Vital A.I. Agent Ecosystem",
+      "stars": 4
+     },
+     {
+      "full": "balajimurugesan2022/graphql-parts-agent",
+      "desc": "Agent POC for graphql",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00081",
+  "title": "Everyday avocado packers rehearsal, judged by a machine \u2014 newbie proxy",
+  "mech": "morbe-newbie",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "everyday avocado packers",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "everyday avocado agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00107",
+  "title": "Everyday tailor schools rehearsal, judged by a machine \u2014 newbie proxy",
+  "mech": "morbe-newbie",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "everyday tailor schools",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "everyday tailor agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00351",
+  "title": "Everyday cutting floors rehearsal, judged by a machine \u2014 judge-worker split",
+  "mech": "morbe-judge-worker",
+  "lane": "W",
+  "verdict": "none",
+  "evidence": [
+   {
+    "q": "everyday cutting floors",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "everyday cutting agent",
+    "github": [],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-01117",
+  "title": "Documented tailor co-ops vs filmed tailor co-ops, diffed daily \u2014 counterfactual twin",
+  "mech": "mowa-counterfactual",
+  "lane": "W",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "documented tailor ops",
+    "github": [
+     {
+      "full": "davidsanz21/job-search-ops",
+      "desc": "Run your job search as a coordinated team of AI career experts \u2014 a Claude skill with truth",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "documented tailor agent",
+    "github": [
+     {
+      "full": "maximus-21/Dynamic-Multi-Agent-RAG-Pathway",
+      "desc": "Dynamic Multi-Agent RAG system tailored made for Long Documents in Finance and Legal domai",
+      "stars": 1
+     },
+     {
+      "full": "YOOTeam/ChatResume-mcp",
+      "desc": "ChatResume\u200b\u200b: An AI-powered resume optimization platform that generates personalized resum",
+      "stars": 8
+     },
+     {
+      "full": "NullSpace-BitCradle/ats-resume-agent",
+      "desc": "Claude Code agents that tailor ATS-friendly LaTeX resumes and cover letters to a job descr",
+      "stars": 13
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00016",
+  "title": "Mask diff versioning for solar installers \u2014 gate chain",
+  "mech": "morbe-gate",
+  "lane": "U",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "mask diff versioning",
+    "github": [
+     {
+      "full": "Phamdung2009/xxx",
+      "desc": "<!DOCTYPE html> <html lang=\"en\">   <head>     <title>Bitbucket</title>     <meta id=\"bb-bo",
+      "stars": 20
+     },
+     {
+      "full": "ephendyy/sahabatfb",
+      "desc": "// ==UserScript== // @name               facebook 2014 // @version            v.01 // @Hak",
+      "stars": 38
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "mask diff agent",
+    "github": [
+     {
+      "full": "AdametherzLab/env-diff",
+      "desc": "Compare .env files across environments, branches, and runtimes. Type-aware diffing, secret",
+      "stars": 1
+     },
+     {
+      "full": "rashedhasan090/hushdiff",
+      "desc": "Mask secret-shaped tokens in git diffs so patches are safe to paste into LLM/agent chats. ",
+      "stars": 0
+     },
+     {
+      "full": "AkibUllah/django-audit-log",
+      "desc": "Reusable Django app that records who changed what, when and from where: field-level diffs ",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00069",
+  "title": "Accessibility audit, wired into chem safety \u2014 shape receipts",
+  "mech": "geo-shape-receipt",
+  "lane": "U",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "accessibility audit wired",
+    "github": [
+     {
+      "full": "meghanaagarwal/Embedded-Testing-Tools-In-India",
+      "desc": "Testing the segments of implanted frameworks is regularly an exceptionally mind boggling p",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "accessibility audit vision",
+    "github": [
+     {
+      "full": "Mulla6518/AI-AccessibilityKit",
+      "desc": "AI-AccessibilityKit is a Swift package designed to make iOS apps more inclusive by leverag",
+      "stars": 3
+     },
+     {
+      "full": "Sri-Karthik-Avala/Computer-Vision-Accessibility-Audit-Evidence-Confirmation",
+      "desc": "Computer Vision Accessibility Audit Evidence Confirmation - machine learning challenge sol",
+      "stars": 0
+     },
+     {
+      "full": "Ameythepro/VisionGuard-AI-Autonomous-Agentic-UI-UX-WCAG-Accessibility-Auditor",
+      "desc": "",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00021",
+  "title": "Chem safety measurements the camera can testify to \u2014 shape receipts",
+  "mech": "geo-shape-receipt",
+  "lane": "W",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "chem safety measurements",
+    "github": [
+     {
+      "full": "deepusaikiaassam1-art/chemrob-dj",
+      "desc": "Multitask bioactivity and safety-liability prediction from chemical structure, with a cont",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "chem safety vision",
+    "github": [
+     {
+      "full": "Vasikaran17/chemical-lab-safety-vision",
+      "desc": "",
+      "stars": 0
+     },
+     {
+      "full": "LIGHTLABS-CO/Chemical-safety-app",
+      "desc": "A sample (not fully developed just the vision) chemical safety interface prototype that ca",
+      "stars": 1
+     },
+     {
+      "full": "Prakash-kanikella/Real-Time-Fire-Detection-for-Chemical-Plant-Safety-Using-CNN",
+      "desc": "Developed a deep learning-based vision system to detect industrial fires in real-time, enh",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00093",
+  "title": "The optimal transport label matching bench for flower farms \u2014 shape receipts",
+  "mech": "geo-shape-receipt",
+  "lane": "U",
+  "verdict": "close",
+  "evidence": [
+   {
+    "q": "optimal transport label",
+    "github": [
+     {
+      "full": "Genentech/Perturb-OT",
+      "desc": "Cross-modality matching and prediction with labeled Gromov-Wasserstein Optimal Transport.",
+      "stars": 23
+     },
+     {
+      "full": "wjm-wjm/OTLA-ReID",
+      "desc": "Official Repository for \"Optimal Transport for Label-Efficient Visible-Infrared Person Re-",
+      "stars": 29
+     },
+     {
+      "full": "ryl0427/Code-for-OT-Filter",
+      "desc": "Code for OT-Filter: An Optimal Transport Filter for Learning with Noisy Labels",
+      "stars": 8
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "optimal transport vision",
+    "github": [
+     {
+      "full": "CHENGY12/PLOT",
+      "desc": "[ICLR2023] PLOT: Prompt Learning with Optimal Transport for Vision-Language Models",
+      "stars": 179
+     },
+     {
+      "full": "ExplainableML/SOTAlign",
+      "desc": "[ICML 2026] SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via",
+      "stars": 14
+     },
+     {
+      "full": "ChongQingNoSubway/Prompt-OT",
+      "desc": "Code for paper: Prompt-OT: An Optimal Transport Regularization Paradigm for Knowledge Pres",
+      "stars": 7
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   }
+  ]
+ },
+ {
+  "id": "R6-00034",
+  "title": "Real-time textile mills, receipt by receipt \u2014 live receipts",
+  "mech": "fuse-live-receipt",
+  "lane": "W",
+  "verdict": "related",
+  "evidence": [
+   {
+    "q": "real time textile",
+    "github": [
+     {
+      "full": "SalahEddineGhamri/textile",
+      "desc": "As you read through sturdy German texts, Textile enhances your learning experience by prov",
+      "stars": 2
+     },
+     {
+      "full": "mwasifanwar/neurofabric-ai",
+      "desc": "Computer vision system that analyzes fabric patterns, detects defects in real-time manufac",
+      "stars": 5
+     },
+     {
+      "full": "narenadhitya/Automated-Real-time-Textile-Defect-Detection-System",
+      "desc": "",
+      "stars": 0
+     }
+    ],
+    "hf_models": [],
+    "hf_spaces": []
+   },
+   {
+    "q": "real time agent",
+    "github": [
+     {
+      "full": "getzep/graphiti",
+      "desc": "Build Real-Time Knowledge Graphs for AI Agents",
+      "stars": 32332
+     },
+     {
+      "full": "apache/doris",
+      "desc": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+      "stars": 16156
+     },
+     {
+      "full": "koala73/worldmonitor",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitor",
+      "stars": 89748
+     }
+    ],
+    "hf_models": [
+     {
+      "id": "Chaitanya05112006/Real_Time_News_Agent",
+      "likes": 0,
+      "desc": ""
+     },
+     {
+      "id": "sh-anurag/Grounding-Agentforce-with-Real-Time-Enterprise-Truth",
+      "likes": 0,
+      "desc": ""
+     }
+    ],
+    "hf_spaces": [
+     {
+      "id": "jaarshad/REAL_TIME_AI_AGENT",
+      "likes": 0,
+      "desc": ""
+     },
+     {
+      "id": "Agents-MCP-Hackathon/Real-time-AI-Video-Summarization-Service",
+      "likes": 1,
+      "desc": ""
+     },
+     {
+      "id": "abersbail/real-time-ai-calling-agent",
+      "likes": 0,
+      "desc": ""
+     }
+    ]
+   }
+  ]
+ }
+]

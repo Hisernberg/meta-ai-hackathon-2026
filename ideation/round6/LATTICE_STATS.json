@@ -1,0 +1,11 @@
+{
+ "lattice_W": 13559040,
+ "lattice_U": 26553120,
+ "finalists": 5000,
+ "enumerated": 10000000,
+ "expanded": 2000000,
+ "prior_pool": 30568,
+ "mech_spread": 51,
+ "pattern_spread": 72,
+ "region_spread": 10
+}
